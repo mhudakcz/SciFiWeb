@@ -1,0 +1,584 @@
+{
+ "tmdb": 326,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "1988",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Konec",
+     "original": "The End",
+     "datum": "1988-02-15",
+     "popis": "Červený trpaslík, těžařská loď, exploatující měsíce planety Saturn, je dlouhá pět mil, široká tři míle a její posádku tvoří 169 lidí. Do čtyřiadvaceti hodin bude 168 z nich po smrti...Jediný, kdo přežije ozáření, bude \"poslední z posledních\", nejbezvýznamnější člen posádky, Dave Lister, který bude v době nehody ve stavu nevědomí a jeho březí kočka, bezpečně uzavřená ve skladišti. Po probuzení za tři miliony let se tedy bude Lister nacházet pouze ve společnosti tvora, jenž se vyvinul z jeho kočky, a Arnolda Rimmera, holografické simulace jednoho mrtvého člena posádky. Pozor! Nezapomeňme na senilní palubní počítač Holly, jehož původní IQ 6000 se smrsklo na IQ 60!"
+    },
+    {
+     "c": 2,
+     "nazev": "Ozvěny budoucnosti",
+     "original": "Future Echoes",
+     "datum": "1988-02-22",
+     "popis": "Rychlost Červeného trpaslíka, kterou se řítí vesmírem, narůstá úměrně se čtvercem času. Není tedy divu, že se mu v jistém okamžiku podaří překonat světelnou bariéru. A díky tomu mají Lister a Rimmer šanci zahlédnout momentky svých budoucích osudů a zjistit například že Lister bude mít dvojčata. Ovšem kde je vezme, když nikde v dohledu není žádná žena?"
+    },
+    {
+     "c": 3,
+     "nazev": "Rovnováha sil",
+     "original": "Balance of Power",
+     "datum": "1988-02-29",
+     "popis": "Lister zazlívá Rimmerovi, že mu nechce vyvolat hologram jeho zbožňované Kochanské, navíc mu leze na nervy, jak jej Rimmer neustále sekýruje. A tak se rozhodne, že složí důstojnické zkoušky na šéfkuchaře, aby byl hodnostně nad ním a mohl mu všechno oplatit. Což se Rimmerovi pochopitelně nelíbí a dělá všechno proto, aby mu tenhle jeho geniální plán překazil..."
+    },
+    {
+     "c": 4,
+     "nazev": "Čekání na Boha",
+     "original": "Waiting for God",
+     "datum": "1988-03-07",
+     "popis": "Lister zjistí, že kočičí rod, který se na lodi vyvinul z jeho milovaného Frankensteina, jej uctíval jako Boha - a když jde po stopách Kocoura, najde dokonce i svého umírajícího velekněze. Rimmera zatím zaujalo UFO, které se Holymu podařilo chytit a uložit do karanténního prostoru a v němž tuší důkaz mimozemských civilizací..."
+    },
+    {
+     "c": 5,
+     "nazev": "Sebevědomí a Mindrák",
+     "original": "Confidence & Paranoia",
+     "datum": "1988-03-14",
+     "popis": "Nekonečné prostory Červeného trpaslíka nejsou pro naše hrdiny bez nebezpečí. A tak se jednoho dne stane, že Lister neopatrně vstoupí do zamořeného prostoru a onemocní podivnou chorobu. Jedním z jejích příznaků je, že se zhmotňují jeho představy a sny. Mimo jiné se zhmotní jeho Sebevědomí a jeho Mindrák. A Sebevědomí mu radí, kde najít disky, které před ním Rimmer schoval, aby si nemohl vyrobit hologram zbožňované Kochanské..."
+    },
+    {
+     "c": 6,
+     "nazev": "Já na druhou",
+     "original": "Me²",
+     "datum": "1988-03-21",
+     "popis": "Na Červeném trpaslíku se dějí věci: Rimmer se stěhuje ke svému druhému hologramovému já, nadšen tím, že v něm konečně získal důstojného a stejně smýšlejícího společníka. Ovšem jen do té doby, než zjistí, že jej Rimmer dvě začíná nepříjemně sekýrovat a honit. A tak zatímco Lister vychutnává klid a samotu, mezi oběma Rimmery roste napětí a rodí se nenávist. Brzy je jasné, že pro oba dva není na lodi místo..."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "1988",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Kryton",
+     "original": "Kryten",
+     "datum": "1988-09-06",
+     "popis": "Holly zachytí nouzový signál ztroskotané vesmírné lodi, na jejíž palubě zůstal robot Kryton a - podle toho, co hlásí - tři (při katastrofě lodi sice zraněné leč stabilizované) členky posádky. Perspektiva, že po třech milionech let uvidí zase ženskou, naše tři hrdiny vybudí k nebývalé aktivitě a nemohou se dočkat kýženého setkání."
+    },
+    {
+     "c": 2,
+     "nazev": "Lepší než život",
+     "original": "Better Than Life",
+     "datum": "1988-09-13",
+     "popis": "Na Červeném trpaslíku přistál poštovní modul, který jej dohonil, protože se loď otočila k návratu. Přinesl s sebou ovšem nejen dopisy z finančního úřadu, dopis od Rimmerovy matky se zprávou o smrti jeho otce a spoustu jiných zbytečností, ale i sadu skvělých videoher, z nichž ta nejlepší se jmenuje Lepší než život - a naši tři hrdinové si ji opravdu užívají."
+    },
+    {
+     "c": 3,
+     "nazev": "Díky za tu vzpomínku",
+     "original": "Thanks for the Memory",
+     "datum": "1988-09-20",
+     "popis": "Na Červeném trpaslíku se slaví výročí Rimmerovy smrti, kterážto oslava všechny velice společensky unaví. A když se z ní proberou, zjistí, že se jim kamsi ztratily čtyři dny, během nichž se muselo něco stát, protože Lister i Kocour mají zlomenou nohu, je dokončena předtím nedokončená skládačka a ztracena černá skříňka. V tuto chvíli ovšem ještě nikdo netuší, jaké další šokující objevy je čekají."
+    },
+    {
+     "c": 4,
+     "nazev": "Škvíra ve stázi",
+     "original": "Stasis Leak",
+     "datum": "1988-09-27",
+     "popis": "Posádka Červeného trpaslíka s překvapením zjistí, že kdesi na lodi existuje škvíra ve stázi, kterou se dá projít do minulosti. Tento objev je pochopitelně naplní nadšením, neboť každý si od něj slibuje zásadní změnu svého života: Lister, že se vrátí a ožení se se svou milovanou Kočanskou. Rimmer, že se mu podaří dopravit do současnosti jeho živé tělo. A Kocour, že konečně najde někoho, kdo ocení jeho dokonalost. Skutečnost je ovšem, jako vždycky, poněkud jiná..."
+    },
+    {
+     "c": 5,
+     "nazev": "Queeg",
+     "datum": "1988-10-04",
+     "popis": "Palubní počítač Holy nedokáže zabránit srážce lodi s meteoritem. A to je poslední kapka do poháru trpělivosti záložního počítače jménem Queeq, naprogramovaného tak, aby v případě hrubé nedbalosti převzal velení lodi. Queeq 500 se tedy objeví a zavede na palubě Červeného trpaslíka tvrdý dril. Takže všichni členové posádky s nostalgií vzpomínají na zlaté doby za Holyho..."
+    },
+    {
+     "c": 6,
+     "nazev": "Paralelní vesmír",
+     "original": "Parallel Universe",
+     "datum": "1988-10-11",
+     "popis": "Holy překvapí posádku sdělením, že sestrojil přístroj, s jehož pomocí se Červený trpaslík může během jediného okamžiku přemístit doslova kamkoliv. Všichni se zaradují, že se tedy konečně vrátí na Zem. Jaké je však jejich překvapení, když se místo toho ocitnou v paralelním vesmíru, kde - jak mají brzy poznat - existují úplně stejné věci, jako v tom našem, jenom jsou tak trochu obrácené...."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "1989",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Pozpátku",
+     "original": "Backwards",
+     "datum": "1989-11-14",
+     "popis": "Řady posádky Červeného trpaslíka rozmnoží robot Kryton - a hned jeho první akce je dokladem toho, že na tuhle loď patří: při procvičování kosmických dopravních předpisů se mu totiž podaří proletět časovou dírou, takže se i s instruktorem Rimmerem ocitnou na Zemi. Je to ovšem poněkud jiná Země, než jakou známe - i když se píše rok 1993. Neboť tady všechno funguje jaksi obráceně, pozpátku..."
+    },
+    {
+     "c": 2,
+     "nazev": "Trosečníci",
+     "original": "Marooned",
+     "datum": "1989-11-21",
+     "popis": "Na Červeném trpaslíku je vyhlášen poplach - počítač Holy odhalila totiž ve vesmíru řadu nebezpečných černých děr. Posádka musí okamžitě opustit loď, se kterou se Holy pokusí prokličkovat jejich minovým polem, a podaří-li se to, budou se všichni moci za dvanáct hodin vrátit. Nebyli by to ovšem naši hrdinové, aby se jim i během této relativně krátké doby nepodařilo zažít úžasné a neuvěřitelné dobrodružství. Tentokrát se jeho protagonisty stanou Rimmer a Lister..."
+    },
+    {
+     "c": 3,
+     "nazev": "Polymorf",
+     "original": "Polymorph",
+     "datum": "1989-11-28",
+     "popis": "Do Červeného trpaslíka pronikne cizí forma života - nebezpečný polymorf, který na sebe dokáže vzít jakoukoliv podobu. Je to zřejmě jakýsi nevydařený genetický experiment pozemských vědců, původně plánovaný jako univerzální válečník. Živí se negativními emocemi, které vycucává ze svých obětí. A o co že může naše hrdiny připravit? Inu Listera o strach, Kocoura o marnivost, Rimmera o vztek... A všechny dohromady chce připravit o život..."
+    },
+    {
+     "c": 4,
+     "nazev": "Výměna těl",
+     "original": "Bodyswap",
+     "datum": "1989-12-05",
+     "popis": "Na palubě Červeného trpaslíka je zase jednou vyhlášen poplach: jeden z Robíků se totiž pomátl a zpřeházel všechny dráty a Lister - pochopitelně omylem - spustil autodestrukční program, který by mohl zastavit pouze někdo z bývalého velícího sboru. Jenže Kryton ví, jak z té šlamastiky ven: existuje totiž možnost vymazat na chvíli Listerovu osobnost a vložit do jeho těla program jednoho z dávno mrtvých důstojníků. Rimmera ovšem tato záležitost inspiruje ke skvělému nápadu..."
+    },
+    {
+     "c": 5,
+     "nazev": "Fotostroj času",
+     "original": "Timeslides",
+     "datum": "1989-12-12",
+     "popis": "I na kosmické lodi může vládnout nuda. A tentokrát si zasedla na Listera. Dave má chandru, jaká nemá obdoby. Proto s takovým nadšením přijme Krytonovu zprávu, že se mu použitím nějaké zvláštní vývojky podařilo oživit staré fotky, které vyvolával. A ty fotky nejen žijou, dokonce je možno do nich vstoupit. Zkrátka a dobře, na Červeném trpaslíku najednou mají jakýsi fotostroj času, který jim zřejmě skýtá netušené možnosti. A Lister se okamžitě rozhodne, že se vrátí zpátky a změní svou minulost tak, aby nikdy v budoucnosti nemohlo dojít k tomu, že vstoupí na palubu Červeného trpaslíka a bude sžírán nudou..."
+    },
+    {
+     "c": 6,
+     "nazev": "Poslední den",
+     "original": "The Last Day",
+     "datum": "1989-12-19",
+     "popis": "Každý den přináší posádce Červeného trpaslíka nové zážitky. Ten, který je čeká teď, však má být nad jiné smutný. Neboť poštovní modul přináší zprávu, že Kryton, který se mezitím stal neodmyslitelnou součástí lodi, dosloužil a bude nahrazen jiným, výkonnějším modelem. Kryton je jako správný android se svým osudem smířen, neboť věří, že přijde do křemíkového nebe. Lister ovšem horečnatě přemýšlí, jak Krytonově autodestrukci zabránit - nebo jak mu alespoň jeho konec zpříjemnit. A rozhodne se uspořádat parádní mejdan..."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "1991",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Kamila",
+     "original": "Camille",
+     "datum": "1991-02-14",
+     "popis": "Posádka Červeného trpaslíka už zažila ledacos, ale to co je čeká tentokrát... A začalo to všechno tak nevinně: tím že se Lister snažil polidštit Krytona, aby ho zbavil závislosti na naprogramování. A jak že se polidšťuje android? Inu tak, že se naučí lhát, podvádět, urážet... prostě že získá všechny základní lidské vlastnosti. Dave ovšem netuší, jak dokonale Kryton jeho lekci zvládne a co to v budoucnu způsobí. Neboť díky Krytonově neposlušnosti se na palubě Červeného trpaslíka zase jednou objeví žena. Tedy, žena..."
+    },
+    {
+     "c": 2,
+     "nazev": "D.N.A.",
+     "datum": "1991-02-21",
+     "popis": "Dobrodružství, které čeká posádku Červeného trpaslíka tentokrát, by si nikdo z nich nevymyslel ani v nejbujnějším snu. Začalo to ovšem záležitostí v kosmu celkem banální - setkáním s UFO, respektive vesmírnou lodí, která vůbec nevypadá, jako kdyby byla vyrobena na staré dobré matičce Zemi. A na její palubě objeví naši hrdinové modifikátor DNA, tedy přístroj, který přeměnou molekulární struktury dokáže měnit jednu živou hmotu na jinou živou hmotu. A důsledky Kocourovy zvědavosti jsou tentokrát osudné..."
+    },
+    {
+     "c": 3,
+     "nazev": "Spravedlnost",
+     "original": "Justice",
+     "datum": "1991-02-28",
+     "popis": "Dějiny lidstva jsou hledáním spravedlnosti. Není tedy divu, že se tato základní lidská touha přenesla i do vesmíru. Posádka Červeného trpaslíka se o tom má přesvědčit nad jiné dramatickým způsobem. Jako vždycky to začíná úplně nevinně: naši 4 hrdinové přijmout na svou palubu záchranný modul s jednou zmrazenou bytostí - a teprve když už bylo spuštěno rozmrazování, začnou se v nich rodit pochybnosti, jestli tento nový člen posádky bude, jak se zkraje zdálo, skutečně tak zajímavým přínosem. Aby zabránili nejhoršímu, vypraví se na vesmírný vězeňský modul, a tam se to stane..."
+    },
+    {
+     "c": 4,
+     "nazev": "Bílá díra",
+     "original": "White Hole",
+     "datum": "1991-03-07",
+     "popis": "Kolikrát už posádka Červeného trpaslíka zajásala nad novou nadějí, že se jim podaří vrátit se na Zem! Vždycky ovšem dříve nebo později nastalo rozčarování. Tentokrát se ovšem zdá, že to musí vyjít. Kryton totiž objevil způsob, jak vyléčit Holy z počítačové senility. A počítač s IQ šest tisíc (což byl původní Holyin stav) je jistě dokáže navést na přímou dráhu k Zemi, nemluvě o tom, že si budou moci vybrat i dobu, v níž budou chtít žít. Jenomže, jak už to bývá, stačí maličká chybička výpočtu... Výsledkem experimentu je sice Holy s IQ 12 tisíc, ovšem - bohužel - s geometrickou řadou sníženou životností. Zbývají jí jen minuty. A to tedy začíná opravdu jít do tuhého..."
+    },
+    {
+     "c": 5,
+     "nazev": "Jiná dimenze",
+     "original": "Dimension Jump",
+     "datum": "1991-03-14",
+     "popis": "Seriál Červený trpaslík není pro pozorného diváka jen zdrojem zábavy, ale i poučení. Dnes se na příklad dozvíme základní teorii dimenzí, která zní: ke každému rozhodnutí existuje alternativní řešení v jiné realitě. Neboli - aplikováno na lidské bytosti - v nesčetném množství dimenzí žije nesčetné množství původně stejných jedinců, jejichž - do určitého okamžiku identický - život se v jisté chvíli v minulostí začal ubírat rozdílnými směry. A proto nás tentokrát čeká zcela mimořádné překvapení: Eso Rimmer, frajer, kterému se vše daří a jehož všichni obdivují. Všichni - až na jeho historického dvojníka..."
+    },
+    {
+     "c": 6,
+     "nazev": "Roztavení",
+     "original": "Meltdown",
+     "datum": "1991-03-21",
+     "popis": "A zase jednou budou naši hrdinové cestovat časem a prostorem! Tentokrát pomocí zvláštního přístroje, jehož prototyp našel Kryton na jedné z palub a který pracuje na principu digitálního přeskupování a následného přesunu molekul hmoty. Kryton ho pro větší stručnost nazval transportérem hmoty a všichni se zaradovali, když jim slíbil, že se s jeho pomocí přenesou na planetu s dýchatelnou atmosférou. Nebyl by to ovšem Červený trpaslík, kdyby všechno fungovalo tak jak má. Ovšem dobrodružství, jakým se dnes vydávají všanc, si nikdo nedovedl představit ani v nejbujnějším snu..."
+    }
+   ]
+  },
+  {
+   "cislo": 5,
+   "rok": "1992",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Hololoď",
+     "original": "Holoship",
+     "datum": "1992-02-20",
+     "popis": "Červený trpaslík už na své pouti vesmírem zažil nejrůznější setkání. Ovšem to dnešní, to je přece jen poněkud zvláštní. Neboť vesmírná loď, která mu zkřížila dráhu, má nulovou hmotnost a její posádka je tvořena ze samých hologramů. Zkrátka a dobře, je to hololoď. Hologram Rimmer je pochopitelně touto událostí nadšen a okouzlen a okamžitě zatouží vyměnit svou nudnou existenci na pochmurném Červeném trpaslíku za prozářenou a bezstarostnou společnost svých \"druhů ve zbrani\". Jenomže, jak se zdá, to nebude tak snadné..."
+    },
+    {
+     "c": 2,
+     "nazev": "Inkvizitor",
+     "original": "The Inquisitor",
+     "datum": "1992-02-27",
+     "popis": "Nemůže být nic horšího než bytost, která se rozhodne, že se stane soudcem všehomíra. A je-li touto bytostí nesmrtelný android, nadaný schopností ničit, zabíjet i tvořit, pak pámbů s námi a zlý pryč. Tedy lépe řečeno pámbů s Červeným trpaslíkem a jeho posádkou. Neboť velký Inkvizitor, odstraňující všechny ty darmožrouty, lenochody a budižkničemu, zkrátka všechny ty, kdož nežili užitečný život a nahrazující je bytostmi, stvořenými ze spermií, jimž nebyla dána šance žít, právě na své vesmírné pouti dorazil až k nim..."
+    },
+    {
+     "c": 3,
+     "nazev": "Psychoteror",
+     "original": "Terrorform",
+     "datum": "1992-03-05",
+     "popis": "Víte, co je to psychoměsíc? Vesmírný objekt se schopností přizpůsobit se duši toho, jehož noha na něj vstoupila. Všechny jedincovy představy - nejvíc pochopitelně ty negativní - na sebe berou fyzickou podobu. A na jednom takovémto psychoměsíci ztroskotal Kosmik s Rimmerem. Terén psychoměsíce, zbrázděný Rimmerovou psýchou, to není skutečně nic příjemného. Což si velice brzy uvědomí všichni tři další členové posádky Červeného trpaslíka, kteří se rozhodli jej zachránit. No kdo by se taky chtěl prodírat lesem zoufalství, propastí beznaděje či bažinou mindráků. Ale heslem hochů z Trpaslíka je \"jeden za všechny, všichni za jednoho...\" Nebo že by to říkal už někdo před nimi?"
+    },
+    {
+     "c": 4,
+     "nazev": "Karanténa",
+     "original": "Quarantine",
+     "datum": "1992-03-12",
+     "popis": "Hoši z Trpaslíka už čelili nejednomu nebezpečí, ovšem to, které na ně čeká dnes, si s těmi předchozími v ničem nezadá. Při prohlídce ztroskotaného vesmírného modulu se jim totiž podaří - sice jen na krátký okamžik, ale postačující ke všemu zlému - oživit hologram doktorky Hildegard Lanstromové, geniální objevitelky psychovirů. Ty, jak známo, jsou pozitivní (např. felicitus populi, obecně nazývaný štěstí), ale i negativní. A geniální doktorce se i v tom krátkém okamžiku, který jí byl dán, podaří jedním z těch vysoce nebezpečných negativních nakazit Rimmera. Jaké to bude mít důsledky, to si v první chvíli nikdo ani neumí představit..."
+    },
+    {
+     "c": 5,
+     "nazev": "Démoni a andělé",
+     "original": "Demons & Angels",
+     "datum": "1992-03-19",
+     "popis": "Červený trpaslík je pro nás všechny jistě nejen zdrojem zábavy, ale i poučení. Dnes na příklad poznáme triplikátor. Geniální přístroj, jehož pomocí Kryton dokáže od každého předmětu vyrobit dvě kopie. Prvotní nadšení posádky Trpaslíka ovšem poněkud zchladí zjištění, že ty dvě kopie nejsou totožné. Jedna z nich do sebe extrapoluje všechno dobré z kopírovaného předmětu, druhá všechno zlé. A tak když se - pochopitelně čirou náhodou a díky nevypočitatelné smůle - podaří vyrobit dvě kopie Červeného trpaslíka, je nám samozřejmě jasné, jaké budou mít ty nové lodi vlastnosti. Pech je, že ta původní, originální a jedinečná, přitom jaksi vzala za své..."
+    },
+    {
+     "c": 6,
+     "nazev": "Návrat do reality",
+     "original": "Back to Reality",
+     "datum": "1992-03-26",
+     "popis": "Co je hra a co je realita? Je to co naši hrdinové prožívají skutečné, nebo je to jen halucinace, vyvolaná obrovskou olíhní beznaděje, geneticky zmutovaným tvorem, vyměšujícím halucinogenní jed se sebevražednými účinky na všechny zasažené? Tyto otázky si dnes nepochybně budou klást nejen naši hrdinové, ale i diváci. Tak dokonale se nám to totiž všechno proplete. Je celá anabáze Červeného trpaslíka jen geniálně vymyšlenou, čtyři roky trvající videohrou, na kterou čekají davy zájemců ve frontě déle než dva roky, nebo je naopak halucinací to co Lister, Kocour, Rimmer i Kryton prožívají po svém \"probuzení\"?"
+    }
+   ]
+  },
+  {
+   "cislo": 6,
+   "rok": "1993",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Psirény",
+     "original": "Psirens",
+     "datum": "1993-10-07",
+     "popis": "Posádka Kosmiku je Krytonem probuzena z dvousetleté hibernace, kdy se Kosmik snažil dostihnout svou mateřskou loď Červený trpaslík. Při průletu pásem asteroidů jsou členové posádky napadeni zvláštními GELFy -psirénami, které své lidské oběti omámí a pak jim vysají mozek z hlavy."
+    },
+    {
+     "c": 2,
+     "nazev": "Legie",
+     "original": "Legion",
+     "datum": "1993-10-14",
+     "popis": "Posádka Kosmiku stále pátrá po své kosmické lodi Jupiterské důlní společnosti Červený trpaslík. Když Kosmika zachytí vlečný paprsek zdánlivě mrtvé a opuštěné výzkumné stanice, zjistí, že zde přežívá zvláštní bytost, která si nechá říkat Legie. Legie má velký zájem, aby přátelé zůstali jejími hosty - až do konce svých životů."
+    },
+    {
+     "c": 3,
+     "nazev": "Pistolníci z Apokalypsy",
+     "original": "Gunmen of the Apocalypse",
+     "datum": "1993-10-21",
+     "popis": "Kryton se pokouší odstranit virus, jímž replikanti zamořili navigační počítač (navicomp) Kosmiku. Ten se ukáže jako příliš odolný a Kryton slábne. Ostatní členové posádky se za androidem vydávají do počítačové simulace městečka Lareda na divokém západě, aby svému příteli pomohli bojovat se čtyřmi pistolníky z Apokalypsy."
+    },
+    {
+     "c": 4,
+     "nazev": "Polymorf II - Emocuc",
+     "original": "Emohawk: Polymorph II",
+     "datum": "1993-10-28",
+     "popis": "Při útěku před policejní sondou posádka Kosmiku havaruje na GELFském měsíci. Všichni členové se vydají za místním kmenem Kinitawowi, potřebují směnit kyslíkovou jednotku. Za ni ale požadují GELFové Davida Listera jako ženicha pro náčelníkovu dceru Achachach Ach Achchach. Lister během svatební noci uprchne a rozzuřený náčelník za ním posílá polymorfa, který vysává ze svých obětí emoce."
+    },
+    {
+     "c": 5,
+     "nazev": "Rimmerosvět",
+     "original": "Rimmerworld",
+     "datum": "1993-11-04",
+     "popis": "Lister se rozhodne doplnit zásoby z replikantské lodi z předminulé epizody „Pistolníci z Apokalypsy“. Je to nebezpečné, loď je nestabilní a navíc se ukáže, že na palubě jedna replikantka přežila. Rimmer se dostane do pozice, kdy může svým kamarádům pomoci, místo toho však ukáže svou charakteristickou zbabělost a prchne v únikovém modulu. Proletí červí dírou a skončí na planetě, kde během následujících 600 let (v důsledkudilatace času musí tak dlouho čekat na svou záchranu) založí civilizaci složenou výhradně z vlastních klonů."
+    },
+    {
+     "c": 6,
+     "nazev": "Mimo realitu",
+     "original": "Out of Time",
+     "datum": "1993-11-11",
+     "popis": "Posádce Kosmiku se podaří získat stroj času. Že se nevyplácí zahrávat si s časem se Lister a spol. přesvědčí poté, co se setkají se sebou samými, respektive se svými zhýralými verzemi, které pasou jen po tom nejlepším, co mohou jednotlivé éry lidstva nabídnout."
+    }
+   ]
+  },
+  {
+   "cislo": 7,
+   "rok": "1997",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Pekelně ostrý výlet",
+     "original": "Tikka to Ride",
+     "datum": "1997-01-17",
+     "popis": "Dave Lister je zdrcen, když se dozví, že na lodi došly zásoby kari, indických placek a piva. Navrhne výlet do minulosti, který však ostatní členové posádky zamítnou, je to po nedávné negativní zkušenosti se svými budoucími já (epizoda Mimo realitu) příliš riskantní. David se nevzdává, tajně nasadí Krytonovi druhou hlavu a vyjme z ní čip svědomí. Díky tomu se už Kryton nebrání cestě do minulosti a ostatní se váhavě přidají. Skupinka se zhmotní v Dallasu v momentě, kdy Lee Harvey Oswald střílí z okna na prezidenta J. F. Kennedyho."
+    },
+    {
+     "c": 2,
+     "nazev": "Nachystejte květináče",
+     "original": "Stoke Me a Clipper",
+     "datum": "1997-01-24",
+     "popis": "Eso Rimmer umírá, vrací se proto do naší dimenze, aby vycvičil Arnolda Rimmera a ten se tak stal novým Esem. Je to pravděpodobně jeden z nejtěžších úkolů jeho života, neboť Arnold Rimmer je velice zbabělý a necharismatický, přesto se mu to s vydatnou Listerovou pomocí podaří. Eso Rimmer umírá, Arnold Rimmer oblečený v jeho letecké kombinéze a s jeho parukou na hlavě přijímá novou identitu a účastní se i svého pohřbu (Kocour s Krytonem nevědí o záměně a domnívají se, že tím, kdo zemřel je Arnie). Arnold odlétá v Esově transdimenzionálním raketoplánu, aby se stal novým kosmickým superhrdinou."
+    },
+    {
+     "c": 3,
+     "nazev": "Uroboros",
+     "original": "Ouroboros",
+     "datum": "1997-01-31",
+     "popis": "Se členy Kosmiku navážou spojení jejich protějšky z jiné dimenze za pomocí interdimenzionálního tunelu. V jejich dimenzi je Lister hologram na tvrdé světlo a Kochanská přežila únik radiace ve stázi. Žádá Listera (člověka) o sperma, aby mohla mít dítě. Na tunel zaútočí Gelfové a způsobí, že Kochanská musí zůstat na palubě druhého Kosmiku. David Lister se dozví pravdu o svém početí."
+    },
+    {
+     "c": 4,
+     "nazev": "Zkouška kanálem",
+     "original": "Duct Soup",
+     "datum": "1997-02-07",
+     "popis": "V útrobách Kosmiku panuje obrovské vedro. Navíc vypadne hlavní i záložní generátor na výrobu elektrického proudu. Posádka je nucena podstoupit cestu servisním kanálem. Listera tato představa příliš neláká, trpí totiž klaustrofobií. Nakonec vyjde najevo, že viníkem nepříjemných událostí je Kryton."
+    },
+    {
+     "c": 5,
+     "nazev": "Stesk",
+     "original": "Blue",
+     "datum": "1997-02-14",
+     "popis": "Kryton žárlí na novou členku posádky Kristinu Kochanskou. Ta doufá, že se jí podaří otevřít spojnici do paralelního vesmíru, kde na ni čeká její Dave. Listerovi se stýská po Rimmerovi a tak Kryton zkonstruuje umělou realitu sestavenou z Rimmerových vzpomínek, do níž nahlédnou všichni z party."
+    },
+    {
+     "c": 6,
+     "nazev": "Žádná legrace",
+     "original": "Beyond a Joke",
+     "datum": "1997-02-21",
+     "popis": "Kryton připraví na výročí své záchrany z kosmické lodi Nova 5 humra, ale Lister, Kocour i Kochanská dají přednost umělé realitě. Krytonovi dá práci, než je přivede k prostřenému stolu. Tady jej natolik rozčílí Listerův požadavek o kečup, že mu exploduje hlava. Oprava se nedaří a posádka Kosmiku se musí vydat na vesmírný koráb Kentaur pro rezervní hlavy. V Kentaurovi se ovšem usídlil nebezpečný replikant..."
+    },
+    {
+     "c": 7,
+     "nazev": "Epidém",
+     "original": "Epideme",
+     "datum": "1997-02-28",
+     "popis": "Posádka Kosmiku odhalí v astroglaciálu - vesmírném ledovci zamrzlou kosmickou loď Leviathan. Během průzkumu na její palubě odhalí skener známky života, které vycházejí z těla Caroline Carmenové - shodou okolností ženy, kterou David Lister znal. Členové Kosmiku ji vezmou do svého plavidla. Po rozmrazení Caroline nakazí Listera virem Epidémem, jenž je smrtelný. Nepomůže ani amputace ruky. Život Davidovi zachrání duchapřítomná Kristina Kochanská."
+    },
+    {
+     "c": 8,
+     "nazev": "Nanarchie",
+     "original": "Nanarchy",
+     "datum": "1997-03-07",
+     "popis": "Poté, co Dave Lister přišel v minulém dílu („Epidém“) o ruku, nemůže se s tím stále srovnat. Kryton jej servilně obsluhuje, což se nelíbí Kochanské, která by ráda viděla Davida samostatnějšího. Dostane nápad, jak mu vrátit ruku. Postarat by se o to mohli Krytonovi mikroskopičtí roboti - nanoboti. Problém je v tom, že Kryton už je nemá, zmizeli pryč. Bude potřeba je najít."
+    }
+   ]
+  },
+  {
+   "cislo": 8,
+   "rok": "1999",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Zpátky v Červeném, 1. část",
+     "original": "Back in the Red (1)",
+     "datum": "1999-02-18",
+     "popis": "Nanoboti obnovili těžařskou loď Červený trpaslík i s celou její posádkou. Dave Lister (později i další jeho kamarádi) je obviněn ze zničení Kosmiku, pokusu o únos Kristiny Kochanské a z dalších činů. Hrozí mu vězení. Spolu s posádkou byl obnoven i Arnold Rimmer (už není hologram, je živý), jenž může Listerovi pomoci."
+    },
+    {
+     "c": 2,
+     "nazev": "Zpátky v Červeném, 2. část",
+     "original": "Back in the Red (2)",
+     "datum": "1999-02-25",
+     "popis": "Listera a jeho přátele čeká přezkoumání jejich případu. Lister nutně potřebuje pomoc Arnolda Rimmera, ten však projeví své typické nepříliš obdivuhodné vlastnosti, když sleduje pouze svůj zájem – udělat si dobré oko u kapitána. Kryton byl překlasifikován na ženu a bylo mu obnoveno tovární nastavení. Lister s Kocourem a Kristinou Kochanskou uprchne a snaží se nalézt nanoboty, aby dokázali jejich nevinu – netuší, že jsou pod vlivem psychotropních látek a útěk je jen iluzí."
+    },
+    {
+     "c": 3,
+     "nazev": "Zpátky v Červeném, 3. část",
+     "original": "Back in the Red (3)",
+     "datum": "1999-03-04",
+     "popis": "Obvinění se snaží prokázat svou nevinu pátráním po nanobotech než jim dojde, že se nachází v umělé realitě pod vlivem psychotropních látek. Rimmer se snaží zničit jakékoli zmínky o dohodě s Listerem (poskytnutí tajných materiálů posádky výměnou za pomoc s útěkem) aniž by tušil, že je taktéž pod vlivem drog a tudíž monitorován. Holly se přizná, že nanoboty stvořil on."
+    },
+    {
+     "c": 4,
+     "nazev": "Kassandra",
+     "original": "Cassandra",
+     "datum": "1999-03-11",
+     "popis": "Známí vesmírní dobrodruhové si odpykávají trest ve vězení. Lister všechny zapíše do jednotky kanárků - nejostřejší jednotky na lodi, která plní nejnebezpečnější mise. Během mise na potopené lodi Silverberg narazí na počítač se jménem Kassandra, který předpovídá budoucnost údajně na 100 procent."
+    },
+    {
+     "c": 5,
+     "nazev": "Televize Kryton",
+     "original": "Krytie TV",
+     "datum": "1999-03-18",
+     "popis": "Kryton je nucen podstupovat hygienu společně s ženami, jelikož je kvůli prevenci pohlavních nejasností klasifikován jako žena. Když se o tom zmíní během mise kanárků, Smrťák, Kocour a víceméně i Lister požadují, aby dámy ve sprchách natočil na kameru. Kryton odmítne, nicméně je posléze přepaden a přeprogramován na bezohledného podnikatele. Jeho placený pořad s názvem Televize Kryton má velkou sledovanost."
+    },
+    {
+     "c": 6,
+     "nazev": "Pete, 1. část",
+     "original": "Pete (1)",
+     "datum": "1999-03-25",
+     "popis": "Dave Lister a Arnold Rimmer provádí ve vězení lumpárny, až kapitánu Hollisterovi dojde trpělivost a nechá je zavřít do díry. Kristina Kochanská, Kocour a Kryton se účastní kanárkovské mise na kosmickou loď Manny Celeste, kde odhalí Časomet, zařízení schopné digitalizovat čas a uvolňovat jej v různých sekvencích. Kochanskou napadne, že by toho šlo využít ke zkrácení trestu."
+    },
+    {
+     "c": 7,
+     "nazev": "Pete, 2. část",
+     "original": "Pete (2)",
+     "datum": "1999-04-01",
+     "popis": "Teropod Pete, kterého časomet stvořil z vrabce se dobývá do hangáru, kde se zabarikádovala parta z Červeného trpaslíka. Čas na lodi je obnoven a jednotky se pokoušejí ještěra zpacifikovat - neúspěšně. Kapitán Hollister předává časomet Listerovi s Rimmerem, aby jej správně použili. Těm se to příliš nedaří a Hollister ztrácí nervy."
+    },
+    {
+     "c": 8,
+     "nazev": "Jenom sympaťáci...",
+     "original": "Only the Good...",
+     "datum": "1999-04-05",
+     "popis": "Původní parta kosmických dobrodruhů (Lister, Rimmer, Kocour, Kochanská, Kryton) si odpykává trest, musí plnit různé úkoly. Poté, co Rimmer a Lister vypijí Baxterovu pálenku, hrozí jim od něj nebezpečí pomsty. Červeného trpaslíka napadl chameleónský korozivní virus, který loď postupně rozežírá.[1] Protilátka se nachází v zrcadlovém vesmíru, kam se přátelé chtějí společně vydat, nakonec se to podaří pouze Rimmerovi."
+    }
+   ]
+  },
+  {
+   "cislo": 9,
+   "rok": "2009",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Zpátky na Zemi, 1. část",
+     "original": "Back to Earth (1)",
+     "datum": "2009-04-10",
+     "popis": "První část začíná devět let po událostech v epizodě Jenom sympaťáci.... Kocoura cosi napadne u nádrže na vodu a všichni se to vydají prozkoumat. Jde o obří oliheň a poté, co přežijí její útok, se objeví holografická důstojnice Katerina Bartikovská. Ta má plán, jak s pomocí Listera obnovit lidskou rasu..."
+    },
+    {
+     "c": 2,
+     "nazev": "Zpátky na Zemi, 2. část",
+     "original": "Back to Earth (2)",
+     "datum": "2009-04-11",
+     "popis": "Bartikovská otevře bránu do jiné dimenze, ale podle počítače ona ani posádka Trpaslíka neexistují. Dostanou se tedy do nejbližší platné reality, která je zavede na planetu Zemi v roce 2009. Zde zjistí, že jsou pouze vymyšlenými postavami ze seriálu „Červený trpaslík“ a tak se vydají za člověkem, který si je vymyslel, Stvořitelem. Ten jim má prozradit jejich další osud."
+    },
+    {
+     "c": 3,
+     "nazev": "Zpátky na Zemi, 3. část",
+     "original": "Back to Earth (3)",
+     "datum": "2009-04-12",
+     "popis": "Poté, co ho posádka Trpaslíka najde, jim Stvořitel prozradí, že je všechny nechá zabít, protože už ho nudí. Místo toho Lister zabije jeho, ale oni nezemřou. Ukáže se, že všichni čtyři měli společnou halucinaci, které souvisí s olihní."
+    }
+   ]
+  },
+  {
+   "cislo": 10,
+   "rok": "2012",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Trojan",
+     "datum": "2012-10-04",
+     "popis": "Posádka Červeného trpaslíka narazí na nedotčenou a prázdnou kosmickou loď Trojan a použije ji k záchraně Rimmerova bratra Howarda, který se ocitl v tísni. Arnold Rimmer opět selhal v důstojnické zkoušce a tak předstírá, že je kapitánem výkonné lodi Trojan a velí posádce. Howard je stejně jako jeho bratr hologram a nemůže pochopit, jak se Arnold mohl stát velitelem jedné z nejlepších lodí Vesmírného sboru."
+    },
+    {
+     "c": 2,
+     "nazev": "Otcové a synové",
+     "original": "Fathers & Suns",
+     "datum": "2012-10-11",
+     "popis": "Dave Lister si každým rokem posílá přání ke Dni otců a následující den se opije, aby zapomněl, co napsal. Tentokrát se pomocí videonahrávky rozhodne potrestat se za svou lenivost a přimět se k zodpovědnějšímu životu. Kryton a Rimmer nainstalují nový počítač pojmenovaný Pree, který má přebrat řízení kosmické lodi Červený trpaslík (dříve ji měl na starost Holly). Nový počítač disponuje prediktivní funkcí - dokáže podle minulých činů předvídat budoucí akce jednotlivých členů posádky a nejen to, dokáže je i za ně sám realizovat, což se ukáže jako velmi nebezpečná schopnost."
+    },
+    {
+     "c": 3,
+     "nazev": "Citróny",
+     "original": "Lemons",
+     "datum": "2012-10-18",
+     "popis": "Kryton najde v krabicích švédský přístroj na omlazování. Za pomoci ostatních ho sestrojí, bohužel špatně, a ten je místo toho přesune na Zemi do roku 23 po Kristu. Protože nemají náhradní baterii na ovládání přístroje, musí si ji vyrobit z citrónů a tak se vydávají z Anglie do Indie. Zde se potkávají Ježíše, který ovšem není tím, za koho ho posádka Červeného trpaslíka považuje."
+    },
+    {
+     "c": 4,
+     "nazev": "Zapletení",
+     "original": "Entangled",
+     "datum": "2012-10-25",
+     "popis": "Lister prohraje Kosmika a Rimmera v kartách s GELFy a aby nemohl uniknout před zaplacením, dostane tříselní rozbušku. Kryton a Kocour se kvantově zapletou, a nevědomky této schopnosti využijí k zadušení GELFů, se kterými právě jednají o vykoupení Rimmera. Protože však Lister nezíská kódy k tříselní rozbušce, vydají se ke zvláštnímu institutu, kde byla rozbuška vyrobena. Zde najdou profesorku Edgingtonovou, přemění ji z opice zpátky na člověka a získají od ní i kódy k rozbušce."
+    },
+    {
+     "c": 5,
+     "nazev": "Milý Dave",
+     "original": "Dear Dave",
+     "datum": "2012-11-01",
+     "popis": "Listerovi opět chybí lidský rod a tak si to kompenzuje tlacháním s výdejními automaty. Pak přiletí poštovní modul a z něj se poslední žijící člověk dozví, že jedna z jeho bývalých přítelkyň, Haley Summersová, byla těhotná a Lister je možná otcem."
+    },
+    {
+     "c": 6,
+     "nazev": "Začátek",
+     "original": "The Beginning",
+     "datum": "2012-11-08",
+     "popis": "Na Červeného trpaslíka zaútočí replikanti a tak musí posádka uprchnout v Modrém skrčkovi. Ukryjí se v asteroidu a Rimmer si v domnění, že ho čeká smrt, přehraje holografický záznam od svého otce. Tato zpráva změní Rimmerův život…"
+    }
+   ]
+  },
+  {
+   "cislo": 11,
+   "rok": "2016",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Zlatý dvacátý",
+     "original": "Twentica",
+     "datum": "2016-09-22",
+     "popis": "Setkáte-li se ve vesmíru s psychopatickými droidy, schopnými každé dva roky zdvojnásobit výkon svého tranzistoru, máte zaděláno na pořádný malér. Zejména, pokud se necháte zmanipulovat do výměny, která ve svém důsledku může znamenat konec lidstva jako takového. Jste-li ovšem členy hrdinné posádky těžařské lodi Červený trpaslík, dokážete se ke svému omylu postavit jako jeden muž a svou fatální chybu napravit. A jmenujete-li se Dave Lister, ještě si z celého dobrodružství odnesete jedno důležité životní ponaučení."
+    },
+    {
+     "c": 2,
+     "nazev": "Samsára",
+     "original": "Samsara",
+     "datum": "2016-09-29",
+     "popis": "Ač od narození neporažen, Rimmer hanebně prohrává s Listerem v Minopolech, když opakovaně a v rozporu se všemi teoriemi pravděpodobnosti hází dvojku a jedničku. Je ovšem možné, že tato anomálie souvisí s havárií výzkumné lodi Samsára, která se před třemi miliony let zřítila do moře a jejíž únikový modul nyní zachytil Červený trpaslík. Naši hrdinové se samozřejmě vydávají na průzkum jejího vraku a hned první okamžiky na palubě ukazují, že se zde kdysi odehrálo něco velmi podivného. Zatímco Lister poznává, co to obnáší trávit delší čas o samotě s Kocourem, Kryton s Rimmerem se pokoušejí přijít na kloub tajemné síle, ovládající veškeré dění na lodi."
+    },
+    {
+     "c": 3,
+     "nazev": "Dávat a brát",
+     "original": "Give & Take",
+     "datum": "2016-10-06",
+     "popis": "Probudíte-li se jednoho dne se strašlivou kocovinou, nemusí to ještě nutně znamenat, že jste si přihnuli krapet přes míru. Ale popořádku. Po Rimmerově absurdním sporu s jedním ze služebních výtahů se posádka Červeného trpaslíka vydává prozkoumat vesmírnou stanici, již má zanedlouho zničit sprška asteroidů. Naděje, že zde najdou špičkovou techniku, je naplněna více než vrchovatě, nikoliv ovšem ke spokojenosti průzkumníků. Setkání se šíleným medibotem totiž opravdu důkladně prověří schopnost našich hrdinů dávat a brát."
+    },
+    {
+     "c": 4,
+     "nazev": "Důstojník Rimmer",
+     "original": "Officer Rimmer",
+     "datum": "2016-10-13",
+     "popis": "Být skutečným důstojníkem vyžaduje něco víc, než toužit po velkém kapitánském křesle s otočným piknikovým podnosem. Vyprávějte to ale Rimmerovi. Díky setkání s průzkumnou lodí Vesmírného sboru Nautilus a neuvěřitelnému štěstí při její záchraně je Rimmer jejím vděčným velitelem povýšen na důstojníka. Obratem na Červeném trpaslíkovi zavede tvrdý kastovní systém, nakonec ovšem doplatí na své chorobné velikášství. Ve vesmíru totiž není místo pro více než jednoho Rimmera."
+    },
+    {
+     "c": 5,
+     "nazev": "Kryze",
+     "original": "Krysis",
+     "datum": "2016-10-20",
+     "popis": "Neštěstí nechodí po horách, nýbrž po lidech a to i těch mechanických. Kryton se začíná zamýšlet více nad smyslem života a méně nad svými hospodyňkovskými povinnostmi. Co to má znamenat? Nic zase tak převratného, ocitl se zkrátka uprostřed své záruční doby, a tudíž se u něj začíná projevovat obávaná krize středního věku. Od toho tu jsou ovšem přátelé, aby druha v tísni utěšili. Ne vždy se zadaří, nakonec se však vložené úsilí přece jen zúročí při jednom vpravdě epochálním setkání."
+    },
+    {
+     "c": 6,
+     "nazev": "Džin z lahve",
+     "original": "Can of Worms",
+     "datum": "2016-10-27",
+     "popis": "První lásku zažijeme v životě jen jednou a měla by patřit k tomu nejkrásnějšímu, co nás potká. Kocour by ale patrně udělal lépe, kdyby se držel své osvědčené sebelásky. Po Listerově šlofíku se posádka Červeného trpaslíka ocitne několik tisíc kilometrů mimo stanovený kurz a narazí na transportní loď s šíleným droidem, který na palubě drží rukojmí. K překvapení všech se z rukojmí vyklube doslova nádherná kočka, k níž Kocour okamžitě zahoří spalujícím milostným citem. Kdyby jen tušil, s kým uléhá na lůžko..."
+    }
+   ]
+  },
+  {
+   "cislo": 12,
+   "rok": "2017",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Vyléčení",
+     "original": "Cured",
+     "datum": "2017-10-12",
+     "popis": "Nikdy nevíte, k čemu se vám v životě bude hodit dovednost zvaná poker face. Posádka Červeného trpaslíka ve vesmíru narazí na měsíční základnu, kterou ve 23. století vybudovala tzv. Spojená Amerika. Dle Krytona se tu pokoušeli vyvinout lék proti zlu. A skutečně, v kryoboxech zde odpočívá celá kolekce výtečníků, v čele s Adolfem Hitlerem a Josefem Stalinem. Všichni údajně vyléčení. Ne nadarmo se ovšem říká: Důvěřuj, ale prověřuj."
+    },
+    {
+     "c": 2,
+     "nazev": "Silikonie",
+     "original": "Siliconia",
+     "datum": "2017-10-19",
+     "popis": "Dobrá hospodyňka pro pírko i přes plot skočí. A co teprve, když jde o milovanou Listerovu kytaru značky Gibson. Její odchyt ve vesmírném prostoru však pro posádku Červeného trpaslíka skončí nepěkným překvapením, když se ocitne v rukou obávané Mechanizované intergalaktické liberální fronty, známé pod hrůzu nahánějící zkratkou MILF. Všichni, s výjimkou Krytona, mají poznat, co to obnáší být krytonifikován."
+    },
+    {
+     "c": 3,
+     "nazev": "Časová vlna",
+     "original": "Timewave",
+     "datum": "2017-10-26",
+     "popis": "Pýcha předchází pád. Rimmer za přihlížení posádky právě bombasticky pojmenovává jeden z bezejmenných měsíců svým vlastním jménem, když volá Kryton, že by se měli urychleně zdekovat kvůli blížící se solární bouři. Není to však bouře, nýbrž časová vlna, díky níž se ocitají na palubě lodi, na které je zakázaná veškerá kritika, takže se všichni chovají jako rozmazlené děti. Rimmer si zpočátku libuje, má to však jeden háček. Loď se nachází na kolizním kurzu s měsícem Rimmer a tento drobný detail její posádka zcela nekriticky odmítá vzít na vědomí."
+    },
+    {
+     "c": 4,
+     "nazev": "Robokracie",
+     "original": "Mechocracy",
+     "datum": "2017-11-02",
+     "popis": "Hlas lidu, hlas Boží, ale co když se jedná o hlasy bytostí neorganického původu? I o ty je třeba se ucházet. Díky Listerově lehkomyslnosti při zacházení s elektronickými daty je Červený trpaslík napaden počítačovým virem a celá situace vygraduje ve všeobecnou stávku strojů. Aby obnovily své služby, je potřeba vybrat člena posádky, který by zastupoval jejich zájmy. O funkci se samozřejmě hlásí Rimmer, něco takového ale nelze připustit. Jediným řešením je uspořádat demokratické volby, v nichž nepochybně zvítězí ten nejlepší."
+    },
+    {
+     "c": 5,
+     "nazev": "M-Corp",
+     "datum": "2017-11-09",
+     "popis": "S láskou se o vás staráme. Tak zní slogan M-Corpu, největšího nadnárodního konglomerátu v celém známém vesmíru, který koupil i Jupiterskou důlní a tudíž vlastní i Červeného trpaslíka. Zpočátku to vypadá na změnu k lepšímu, ne nadarmo se ovšem říká, že když ptáčka lapají, pěkně mu zpívají. Poznat to má hlavně Lister, který se rychle ocitá v začarovaném kruhu obzvláště dravého konzumu a bude jen na zbytku posádky, aby lapeného kolegu vysvobodil."
+    },
+    {
+     "c": 6,
+     "nazev": "Skokan",
+     "original": "Skipper",
+     "datum": "2017-11-16",
+     "popis": "S některými zákonitostmi fungování vesmíru není radno si zahrávat. Říkejte to ale Krytonovi, který má zvídavost přímo zapsanou ve svém základním programu a především Rimmerovi s jeho nezřízenou ctižádostivostí. Díky Krytonově přístroji, umožňujícímu kvantové skoky mezi alternativními vesmíry se před Rimmerem otevírá možnost, že konečně nalezne vesmír, ve kterém nebude zkrachovalý zoufalec. Takovému pokušení samozřejmě nelze odolat, i když jak trefně podotýká Lister, i při nekonečném počtu vesmírů se nejspíš Rimmer docela nahledá."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,575 @@
+{
+ "tmdb": 253,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "1966",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Past na muže",
+     "original": "The Man Trap",
+     "datum": "1966-09-08",
+     "popis": "Enterprise přilétá na planetu M-113, aby zde provedla pravidelnou lékařskou prohlídku. Dr. McCoy se tu setkává se svou dávnou láskou Nancy Craterovou. Vypadá jako by nezestárla ani o den. Několik členů posádky začne záhadně umírat. Dr. McCoy začíná tušit, že to má co dělat s Nancy..."
+    },
+    {
+     "c": 2,
+     "nazev": "Tajemný Charlie",
+     "original": "Charlie X",
+     "datum": "1966-09-15",
+     "popis": "Enterprise převezme ze zásobovací lodě 17tiletého mladíka Charlieho, jehož rodiče před lety záhadně zemřeli. Postupně se však začíná projevovat pravá Charlieho tvář. S pomocí psychických schopností dokáže kohokoliv ovlivnit nebo i zničit."
+    },
+    {
+     "c": 3,
+     "nazev": "Kam se dosud člověk nevydal",
+     "original": "Where No Man Has Gone Before",
+     "datum": "1966-09-22",
+     "popis": "Enterprise se blíží k velké galaktické bariéře. V blízkosti odhalí paměťové zařízení z pozemského plavidla S.S. Valiant, které se ztratilo už před 200 lety během výzkumu hlubokého vesmíru. Mezitím neznámá entita ovlivní některé členy posádky a kapitán Kirk se rozhodne zamířit k opuštěné hornické planetě Delta Vega, kde provedou nezbytné opravy a možná i něco víc."
+    },
+    {
+     "c": 4,
+     "nazev": "Čas obnažení",
+     "original": "The Naked Time",
+     "datum": "1966-09-29",
+     "popis": "Enterprise narazí na planetě Psi 2000 na mrtvý tým vědců. Na palubu se přenese záhadný tvor. Posádka je napadena tajemnou nemocí, která odstraňuje jejich emocionální zábrany. Chovají se velmi uvolněně, jakoby v opojení a nakonec se zcela zblázní. Dr. McCoy musí najít lék, jinak bude loď zničena."
+    },
+    {
+     "c": 5,
+     "nazev": "Nepřítel v nás",
+     "original": "The Enemy Within",
+     "datum": "1966-10-06",
+     "popis": "Porucha transportéru zapříčiní, že poté co je přenesen Kapitán Kirk na loď, se zmaterializuje jeho identická kopie, která je násilná. Mezitím část posádky zůstala uvězněna na planetě Alfa 177, kde prováděli průzkum. Na palubě lodi se pohybuje násilná kopie kapitána Kirka a ohrožuje posádku, mezitím na planetě čeká zbytek týmu dokud nebude problém vyřešen. Jenže teplota na planetě rychle klesá."
+    },
+    {
+     "c": 6,
+     "nazev": "Muddovy ženy",
+     "original": "Mudd's Women",
+     "datum": "1966-10-13",
+     "popis": "Enterprise pronásleduje loď, která se odmítla identifikovat. Zachrání z ní na poslední chvíli posádku, poté co je loď zničena v pásu asteroidů. Je tvořena kapitánem Harry Muddem a třemi překrásnými a spoře oděnými ženami, které okamžitě okouzlí mužskou posádku lodě. Enterprise musí doplnit palivo a proto zastaví na nejbližší planetě. Harry Mudd se spojí s místními obyvateli proti kapitánu Kirkovi, aby jej spolu s jeho ženami osvobodili."
+    },
+    {
+     "c": 7,
+     "nazev": "Z čehopak se vyrábějí děvčátka?",
+     "original": "What Are Little Girls Made Of?",
+     "datum": "1966-10-20",
+     "popis": "Enterprise přiletí k planetě Echo III. Narazí tu na exobiologa Rogera Korbyho. Shodou okolností byla sestra Chapelová jeho snoubenkou. Nikdo z posádky však netuší, že šílený vědec transformuje lidské vědomí do těl androidů a kapitán Kirk se mu jeví jako skvělý objekt pro jeho pokusy."
+    },
+    {
+     "c": 8,
+     "nazev": "Miri",
+     "datum": "1966-10-27",
+     "popis": "Enterprise objeví planetu podobnou Zemi, ale jedinými obyvateli jsou děti. Všichni dospělí zahynuli v dávné válce. Následně zjistí, že na planetě je nákaza, která zabíjí všechny obyvatele, pokud dospějí do puberty."
+    },
+    {
+     "c": 9,
+     "nazev": "Dýka v mysli",
+     "original": "Dagger of the Mind",
+     "datum": "1966-11-03",
+     "popis": "Kirk a psychiatrička Helen Noelová jsou uvězněni v trestanecké kolonii s maximální ostrahou na Tantalusu. V kolonii provádějí experimenty s kontrolou mysli. Přijdou na to, že experimenty měli za úkol napravit trestance eliminací jejich násilnických myšlenek. Aby mohl Spock oba zachránit, musí opět začít používat vulkánské splynutí myslí."
+    },
+    {
+     "c": 10,
+     "nazev": "Manévr s korbomitem",
+     "original": "The Corbomite Maneuver",
+     "datum": "1966-11-10",
+     "popis": "Hvězdná loď USS Enterprise pod dočasným velením pana Spocka objevuje ve vesmíru zvláštní světélkující kostku, která se při pokusu o úhybný manévr vždy navrací do dráhy lodi. Kapitán James T. Kirk zrovna podstupuje čtvrtletní lékařskou prohlídku, a když je povolán na můstek, daří se posádce zničit neznámý objekt phasery."
+    },
+    {
+     "c": 11,
+     "nazev": "Zvěřinec: část první",
+     "original": "The Menagerie (1)",
+     "datum": "1966-11-17",
+     "popis": "Hvězdná loď USS Enterprise doráží na základnu 11 poté, co pan Spock zachytí zprávu od kapitána Christophera Pikea. Po příletu na základnu 11 jsou však komodorem Mendezem ujištěni, že Pike zprávu poslat nemohl, protože je v invalidní kóji po střetu se silným gama zářením. Zatímco se kapitán James Kirk snaží s komodorem Mendezem přijít záhadě neexistující zprávy na kloub, první důstojník Spock přesvědčí posádku USS Enterprise falešnou zprávou, že má oprávnění velet lodi a nahraje do lodního počítače souřadnice planety Talos IV. Talos IV je planeta v zakázané zóně a jediná pozemská vesmírná loď, která se k planetě kdy přiblížila byla právě Enterprise pod vedením kapitána Pikea a jeho prvního důstojníka Spocka. Tehdy bylo zjištěno, že planetu obývají Talosiané, rasa s mimořádně vyspělým mozkem a schopností sugesce fikce."
+    },
+    {
+     "c": 12,
+     "nazev": "Zvěřinec: část druhá",
+     "original": "The Menagerie (2)",
+     "datum": "1966-11-24",
+     "popis": "Zasedání soudu je již zřejmé, že záznamy, které Spock přehrává na obrazovce nepocházejí z výpravy Enterprise pod vedením kapitána Pikea, ale jsou vysílány právě z planety Talos IV. Spock dále ukazuje co se dělo po uvěznění kapitána Pikea rasou Talosianů. Postupně se porota dovídá, jak byl Christopher Pike určen pro chov a záchranu Talosianů, jak se posádka Enterprise snažila jej zachránit, ale díky umění talosianské sugesce fikce, byla jejich snaha marná."
+    },
+    {
+     "c": 13,
+     "nazev": "Jeho Veličenstvo vrah",
+     "original": "The Conscience of the King",
+     "datum": "1966-12-08",
+     "popis": "Enterprise se oddálila z kurzu, aby ověřila objev doktora Thomase Leightona – zvláštní syntetickou potravu. Doktor Leighton, přítel kapitána Kirka, lhal, aby na planetu přilákal Enterprise, protože v jednom z herců z kočovné společnosti poznal Kodose. Anton Karidian, herec hrající Macbetha, má být podle Leightona masový vrah mající na svědomí přes 4000 lidských životů, známý jako Kodos – popravčí. Právě Kirk a Leighton jsou jedni z posledních živých lidí, kteří Kodose viděli. Podle Kirka je Kodos mrtvý, protože bylo nalezeno zuhelnatělé tělo. To ovšem nebylo nikdy řádně identifikováno."
+    },
+    {
+     "c": 14,
+     "nazev": "Rovnováha hrůzy",
+     "original": "Balance of Terror",
+     "datum": "1966-12-15",
+     "popis": "USS Enterprise se vydává na inspekci stanic lemujících Neutrální zónu mezi Romulanským impériem a Federací. Při příletu na místo pan Spock hlásí, že stanice 2 a 3 nejsou na svých místech a asteroidy, na kterých stály, byly rozmetány. Kapitán Kirk má od Flotily jasné příkazy, které spočívají v nenarušení Neutrální zóny. Ta tvoří hranici, která nebyla po století, od dob války, narušena."
+    },
+    {
+     "c": 15,
+     "nazev": "Dovolená",
+     "original": "Shore Leave",
+     "datum": "1966-12-29",
+     "popis": "Enterprise doráží na orbitu planety systému Omicron Delta. Senzory ukazují, že planeta je neobydlená, bez fauny s pozemskou atmosférou. Protože je posádka lodě unavená po posledních 3 měsících služby, kapitán Kirk chce nařídit dovolenou, ale nejprve vysílá na povrch planety výsadek složený z Dr. McCoye, poručíka Sulu, aby ověřili data z lodních senzorů. Prostředí se zdá pro dovolenou jako stvořené, ale McCoye zaskočí setkání s velkým, mluvícím králíkem a následně s malou dívkou podobnou té z příběhu Alenka v říši divů. První důstojník Spock dovolenou odmítá, protože Vulkáncům stačí klasický odpočinek a nikoliv plýtvání energie v přírodě. Donutí však k odpočinku kapitána Kirka."
+    },
+    {
+     "c": 16,
+     "nazev": "Sedm z Galilea",
+     "original": "The Galileo Seven",
+     "datum": "1967-01-05",
+     "popis": "Vesmírná loď USS Enterprise míří na planetu Makus III, do kolonie Nová Paříž, kam veze potřebné zdravotnické zásoby. Cestou se však zastavuje u sestavy Murasaki 312, kde se vyskytují kvasarové formace hodné bližšího prozkoumání. Protože má Enterprise dostatečný náskok v časovém plánu, kapitán Kirk rozhoduje vypustit jeden z raketoplánů Enterprise, zvaný Galileo. Jeho posádku tvoří vědecký důstojník Spock, vrchní lékař Leonard McCoy, vrchní inženýr Scott a další vědečtí pracovníci. Proti zdržení a celé výpravě je galaktický vysoký komisař Ferris, který dohlíží na dodávku léků pro Makus III."
+    },
+    {
+     "c": 17,
+     "nazev": "Zeman z Gothosu",
+     "original": "The Squire of Gothos",
+     "datum": "1967-01-12",
+     "popis": "Hvězdného data 2124.5 kosmická loď USS Enterprise naráží ve vesmíru na planetu o které Spojená federace planet nemá žádné údaje v databázi. Kapitán Kirk rozhoduje zaznamenat a odeslat souřadnice planety s tím, že je prozkoumá jiná loď, ale krátce na to je Kirk i pan Sulu teleportováni pryč z můstku. Velící důstojník Spock nechává sestavit výsadek, který vede Dr. Leonard McCoy. Ačkoliv podle senzorů by měla být planeta ryze nehostinná, povrch je zalesněný, atmosféra dýchatelná. Dr. McCoy, pan DeSalle a meteorolog Karl Jaeger. Posléze nachází kapitána Kirka a poručíka Sulu v historickém sídle. Zde se také setkávají s postavou, která se představuje jako generál Trelane nebo také zeman Trelane."
+    },
+    {
+     "c": 18,
+     "nazev": "Aréna",
+     "original": "Arena",
+     "datum": "1967-01-19",
+     "popis": "Kosmická loď USS Enterprise doráží na základnu Cestus III, kam je pozván komodorem Travesem, známým svou pohostinností. Když se výsadek včetně kapitána Kirka a prvního důstojníka Spocka transportuje na povrch planety zjišťuje, že základna je zničená a v okolí se nachází živé, avšak chladnokrevné bytosti. Výsadek je vystaven dělostřeleckému útoku. Vedoucí důstojník Sulu musí zároveň čelit útoku cizího plavidla na oběžné dráze planety."
+    },
+    {
+     "c": 19,
+     "nazev": "Zítra bude včera",
+     "original": "Tomorrow Is Yesterday",
+     "datum": "1967-01-26",
+     "popis": "Loď USS Enterprise NCC-1701 vedená kapitánem Jamesem Tiberius Kirkem se dostává, po nechtěné závadě, na orbitu planety Země, ale díky časovému warpu jde o období kolem roku 1969. Enterprise bez štítů je zachycena ze strany Americké armády a je k neznámému UFO vyslán stíhací letoun. Pan Spock varuje kapitána, že jejich loď má oslabené štíty a nedokáže ani uletět. Kapitán rozhoduje spustit vlečný paprsek. Ten ale nevydrží stíhačka a Kirk nařizuje pilota transportovat na palubu. Pilot letounu, kapitán Christopher je z Enterprise unesen, ale pouze do doby, než se dozvídá, že jej Kirk nemůže poslat zpět, aby neohrozil budoucnost svým věděním. Když se pokusí o útěk, je kapitánem zadržen tak, že končí na ošetřovně u doktora McCoye. Záhy přichází Spock s tím, že kapitána Christophera vrátit na Zemi musí, protože jeho syn má v budoucnu vést první výpravu na Saturn."
+    },
+    {
+     "c": 20,
+     "nazev": "Vojenský soud",
+     "original": "Court Martial",
+     "datum": "1967-02-02",
+     "popis": "Enterprise se vrací na základnu 11 po střetu se silnou magnetickou bouří, kdy zemřel člen posádky, seržant Ben Finney. Na základně se kapitán Kirk setkává s přítelem, komodorem Stonem. Ten však po kontrole záznamů lodního deníku musí Kirka obvinit z nedbalosti, že odpálil iontový modul, ve kterém byl Finney, před vyhlášením poplachu. Kirk je osobně přesvědčen, že tomu tak nebylo a v momentě odpálení modulu byl již poplach vyhlášen."
+    },
+    {
+     "c": 21,
+     "nazev": "Návrat Archonců",
+     "original": "The Return of the Archons",
+     "datum": "1967-02-09",
+     "popis": "Hvězdného data 3156.2 je loď USS Enterprise na orbitě planety Beta III, kde pátrá po trosečnících USS Archon. Na povrch byl vyslán pan Sulu s dalším důstojníkem. Vrátil se pouze pan Sulu, který se choval dosti podivně poté, co se jej neznámý tvor dotkl holí. V dalším výsadku je kapitán Kirk, první důstojník Spock, Dr. Leonard McCoy a členové bezpečnosti. Na povrchu výsadek potkává obyvatele se stejnými symptomy nepřítomného pohledu a falešného štěstí, jako u pana Sulu. Bezduchý klid trvá pouze do šesté hodiny odpolední, kdy má začít neznámá slavnost. S úderem šesté však na ulici vypuká enormní davové šílenství. Po útěku do blízkého hotelu se setkávají s třemi staršími muži, kteří nechápou, proč nejsou na \"slavnosti\". Majitel hotelu a jeho přítel je omlouvají s tím, že jde o cizince, ale třetí muž nemá pochopení. Muži mluví o jakési bytosti zvané Landru. Na ulici mezitím vypuká chaos a ničení všeho možného, které trvá přesně do ranní 6. hodiny, kdy se všichni v mžiku v poklidu rozejdou, jako by se vůbec nic nestalo."
+    },
+    {
+     "c": 22,
+     "nazev": "Vesmírné sémě",
+     "original": "Space Seed",
+     "datum": "1967-02-16",
+     "popis": "USS Enterprise nachází ve vesmíru volně plující loď identifikovanou jako SS Botany Bay, pocházející z konce 20. století, kdy Zemi zmítaly eugenické války.\n\nKapitán Kirk povolává do výsadku Dr. McCoye, pana Scotta a historičku Marlu McGiversovou. Na Botany Bay nachází větší množství spících lidí v jejich transportních schránkách. Při jejich návštěvě se začne jeden ze spících probouzet, ale jeho schránka selže a Dr. McCoy jej musí zachránit. McGiversová je už během výsadku z velitele \"spící lodi\" unesena. Na ošetřovně McCoy zjišťuje, že dotyčný je značně vyspělý a disponuje až nadlidskou silou. Kapitán Kirk se domnívá, že jde o pozůstatek z oněch eugenických válek, kdy se skupina lidí snažila vytvořit nadčlověka. Když se dotyčný probouzí, nejprve ohrožuje McCoye nožem, ale když zjišťuje, že z něj nemá strach, nechá toho. Při rozhovoru s kapitánem Kirkem se vyhýbá odpovědím na otázky ohledně jejich lodi, účelu cesty nebo data startu a prosí kapitána o novodobou technickou literaturu. Když historička McGiversová navštíví Khana, ten se netají náklonností k ní. Giversová navrhuje společnou večeři pro přivítání Khana v budoucnosti. Při oficiální večeři se opět Khan vyhýbá otázkám kapitána Kirka a pana Spocka, kteří se nemohou ztotožnit s jeho představou jediného vůdce světa. Po menší hádce Khan odchází do své kajuty a později za ním přichází McGiversová. Nemůže odolat jeho diktátorskému charisma a po nátlaku mu slibuje spolupráci pro ovládnutí lodi."
+    },
+    {
+     "c": 23,
+     "nazev": "Příchuť zkázy",
+     "original": "A Taste of Armageddon",
+     "datum": "1967-02-23",
+     "popis": "Hvězdného data 3192.1 kosmická loď USS Enterprise doráží na orbitu planety Eminiar VII, kde se nachází civilizace válčící se sousední planetou Vendikar již přes 500 let. Na palubě Enterprise je také velvyslanec Robert Fox, který má vést diplomatickou diskuzi pro získání Eminiar VII jako spojence Federace."
+    },
+    {
+     "c": 24,
+     "nazev": "Vyhnání z ráje",
+     "original": "This Side of Paradise",
+     "datum": "1967-03-02",
+     "popis": "Enterprise doráží na orbitu planety Omicron Ceti III, kde se nachází zemědělská kolonie Spojené federace planet. Na planetu přijíždějí s tím, že tamní kolonisté budou všichni mrtví po zásahu Bertholdových paprsků. Je velkým překvapením, že všichni kolonisté jsou živí a zdraví."
+    },
+    {
+     "c": 25,
+     "nazev": "Ďábel v temnotě",
+     "original": "The Devil in the Dark",
+     "datum": "1967-03-09",
+     "popis": "USS Enterprise doráží na orbitu planety Janus IV, kde se nachází těžařská kolonie, která se potýká s neznámým tvorem, který v dolech zabil již přes padesát horníků."
+    },
+    {
+     "c": 26,
+     "nazev": "Věc soucitu",
+     "original": "Errand of Mercy",
+     "datum": "1967-03-23",
+     "popis": "Hvězdného data 3198.4 kosmická loď USS Enterprise doráží na orbitu planety Organia, která se nachází nedaleko hranic Spojené federace planet a Klingonské říše. Právě vztahy mezi oběma stranami pomalu vrcholí ve válku a proto chce Federace získat neutrální planetu na svou stranu dříve, než se o to pokusí Klingoni."
+    },
+    {
+     "c": 27,
+     "nazev": "Dveře do vesmíru",
+     "original": "The Alternative Factor",
+     "datum": "1967-03-30",
+     "popis": "Loď USS Enterprise se setkává s neznámým jevem, který vědecký důstojník Spock klasifikuje jako \"neexistenci\". Senzory zaznamenávají na blízké planetě živou bytost, která tam předtím nebyla. Na povrchu se kapitán Kirk a pan Spock opravdu setkávají s vyčerpaným mužem, který se jmenuje Lazar. Po ošetření tvrdí, že jej pronásleduje samotné zlo, které označuje za samotnou smrt a antiživot."
+    },
+    {
+     "c": 28,
+     "nazev": "Město na pokraji věčnosti",
+     "original": "The City on the Edge of Forever",
+     "datum": "1967-04-06",
+     "popis": "Enterprise proplouvá vesmírnou turbulencí, kterou se pan Spock snaží zmapovat za pomocí senzorů. Při jednom z otřesů je zraněn poručík Sulu. Kapitán Kirk nechává přivolat vrchního lékaře McCoye, který bezvládného kormidelníka přivede k vědomí dávkou kordrazinu. Při jednom z dalších otřesů si však omylem zabodne injekční stříkačku do břicha sám a dostane se mu tak do těla mnohonásobně vyšší dávka. Ihned poté McCoye popadne paranoia a uteče z můstku. Zatímco jej ostatní hledají, zneškodní šéfa přepravy a využije transportér pro přenesení se na povrch planety. Kapitán Kirk, pan Spock, poručík Uhura, šéfinženýr Scott a pár členů ochranky se vydávají na povrch planety."
+    },
+    {
+     "c": 29,
+     "nazev": "Operace: Vyhlazení",
+     "original": "Operation: Annihilate!",
+     "datum": "1967-04-13",
+     "popis": "Hvězdného data 3287.2 vesmírná loď USS Enterprise sleduje trasu neznámé formy inteligence, která likviduje postupně jednu civilizaci za druhou, planetu po planetě. Další planetou v řadě je Deneva. Když Enterprise doráží do její sluneční soustavy, setkává se s malou lodí, která míří přímo ke slunci. Přes prvotní snahu o kontakt loď neodpovídá a pouze těsně před shořením se ve vysílačce ozývá „Jsem volný! Konečně jsem...“"
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "1967",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Čas amoku",
+     "original": "Amok Time",
+     "datum": "1967-09-15",
+     "popis": "Kapitán Kirk míří na planetu Altair VI reprezentovat Spojenou federaci planet při inauguračním ceremoniálu nového prezidenta planety. Ještě před zadáním kurzu se však vyskytuje problém v podobě náladovosti pana Spocka, resp. zuřivosti. To je u Vulkánce značně podivné a ještě více to, že první důstojník žádá o dovolenou, kterou vždy odmítal."
+    },
+    {
+     "c": 2,
+     "nazev": "Kdo truchlí pro Adonise?",
+     "original": "Who Mourns for Adonais?",
+     "datum": "1967-09-22",
+     "popis": "USS Enterprise doráží na orbitu planety Pollux IV, když je najednou zachytí energetické pásmo v podobě lidské ruky. Veškeré snahy o uvolnění jsou neúspěšné a pan Spock hlásí zvláštní záznamy na jednom z jeho senzorů. Na obrazovce se objevuje hlava muže, který tvrdí, že posádka Enterprise jsou jeho děti a tímto jsou na konci jejich pět tisíc let dlouhé cesty. Kirk jej upozorňuje, že se budou bránit, ale neznámá bytost je schopna sevřít ruku a tak rozdrtit Enterprise. Po demonstraci své síly si žádá kapitána Kirka s jeho důstojníky, kromě pana Spocka."
+    },
+    {
+     "c": 3,
+     "nazev": "Podvrženec",
+     "original": "The Changeling",
+     "datum": "1967-09-29",
+     "popis": "Posádka lodi Enterprise se setkává s neznámou existencí, která na ní útočí. Po pokusu o kontakt se neznámý objekt identifikuje jako Nomád. Přístroje uvádí, že jde o bezmála 500 kg těžkou, asi metr velkou loď. Pro její rozměry je možné jí přenést na palubu. Záhy se ukazuje, že nejde o kosmickou loď, ale o samostatný přístroj, snad sondu. Mluvící předmět se opakovaně identifikuje jako Nomád, což je také jméno sondy, kterou lidstvo vyslalo do vesmíru před staletími. Podle dostupných informací však byla zničena."
+    },
+    {
+     "c": 4,
+     "nazev": "Zrcadlo, zrcadlo",
+     "original": "Mirror, Mirror",
+     "datum": "1967-10-06",
+     "popis": "Kosmická loď USS Enterprise je na orbitě planety Halkan pro vyjednání svolení k těžbě dilithia. Halkánský koncil však Federaci odmítá s tím, že by energie dilithia mohla být využita pro ničení nebo zabití, byť jediného člověka. Protože kolem planety sílí magnetická bouře, Kirk žádá Spocka na Enterprise k transportu. Během transportu se však projeví vliv magnetické bouře a transportér propojí dva paralelní vesmíry. Kapitán Kirk, šéfinženýr Montgomery Scott, doktor McCoy a komunikační důstojník Nyota Uhura se zhmotňují v jiných uniformách na úplně jiné Enterprise, kde prvním překvapením je Spock s bradkou, který před očima příchozího výsadku krutě trestá obsluhu transportérů."
+    },
+    {
+     "c": 5,
+     "nazev": "Jablko",
+     "original": "The Apple",
+     "datum": "1967-10-13",
+     "popis": "Posádka se dostává na orbitu planety Gamma Trianguli VI. Výsadek čítající kapitána Kirka, pana Spocka, doktora McCoye, poručíka Čechova a několik dalších členů posádky zjišťuje, že planeta má neobvykle úrodnou půdu, teplota je po celém povrchu téměř konstantních 24,5 °C. Celé prostředí se zdá být jako rajská zahrada, ale pouze do doby, než umírá první člen výsadku (Redshirt)."
+    },
+    {
+     "c": 6,
+     "nazev": "Stroj zkázy",
+     "original": "The Doomsday Machine",
+     "datum": "1967-10-20",
+     "popis": "Enterprise zachytává signál další lodi Federace USS Constellation, které velí kapitán Matthew Decker. Když Enterprise doráží ke Constellation je patrné, že je značně poničená a na samotném můstku nefungují systémy podpory života. Signály senzorů jsou značně rušené, ale kapitán Kirk se vydává s výsadkem na palubu Constellation, kde nachází jediného živého člena posádky, kapitána Deckera."
+    },
+    {
+     "c": 7,
+     "nazev": "Návnada",
+     "original": "Catspaw",
+     "datum": "1967-10-27",
+     "popis": "Hvězdného data 3018.2 Enterprise prozkoumává planetu, která je údajně bez forem života. Z výsadku, který tvořil vrchní inženýr Scott, poručík Sulu a pan Jackson, se vrátí jenom poslední jmenovaný a po výstupu z transportéru je mrtvý."
+    },
+    {
+     "c": 8,
+     "nazev": "Já, Mudd",
+     "original": "I, Mudd",
+     "datum": "1967-11-03",
+     "popis": "Loď je infikována špiónem, který postupně ovládá strojovnu a mění kurz lodi. Když dojde na můstek, objasňuje posádce, že je android, který má za úkol Enterprise dovést na místo, o kterém nechce nic sdělit. Po čtyřech dnech letu Enterprise doráží k cíli a Norman (android) se nechává s kapitánem Kirkem, poručíky Uhurou, Čechovem, prvním důstojníkem Spockem transportovat na povrch planety. Zde se výsadek opět setkává s Harry Muddem, z čehož kapitán nemá moc velkou radost."
+    },
+    {
+     "c": 9,
+     "nazev": "Proměna",
+     "original": "Metamorphosis",
+     "datum": "1967-11-10",
+     "popis": "Kapitán James T. Kirk s Dr. McCoyem a panem Spockem míří v raketoplánu NCC-1701/1 zpět na místo setkání s Enterprise. Společně převáží komisařku Nancy Hedfordovou, která byla nakažena Sakurovskou chřipkou. Headfordová je značně protivná a McCoy upozorňuje, že je třeba jí dopravit co nejrychleji na Enterprise. V průběhu letu jsou neznámou silou přitaženi na povrch planetoidu v soustavě Gamma Canaris, kde se ihned snaží malý raketoplán opravit. Najednou se objevuje muž, který se představuje pouze jako Cochran a ujišťuje posádku, že opravit přístroje nebude možné, protože sám na planetě dávno uvízl a nelze nic opravit."
+    },
+    {
+     "c": 10,
+     "nazev": "Cesta k Babylonu",
+     "original": "Journey to Babel",
+     "datum": "1967-11-17",
+     "popis": "Enterprise očekává delegace různých civilizací, které má dopravit do sněmovního hlasování Spojené federace planet na Babylón, kde má dojít ke hlasování o přijení Coridianů. Planeta Coridian je velkým zdrojem dilithia."
+    },
+    {
+     "c": 11,
+     "nazev": "Páteční dítě",
+     "original": "Friday's Child",
+     "datum": "1967-12-01",
+     "popis": "Kapitán Kirk s posádkou doráží na orbitu planety Capella IV, kde má Spojená federace planet enormní zájem o práva těžby, které ale musí udělit tamní civilizace Capellanů. Dr. Leonard McCoy na setkání před výsadkem vysvětluje, že jde o bojovný národ válečníků, kteří jsou proslulí svou hrdostí, pravidly, čestností ale také možnou nebezpečností. Počítá se s tím, že o těžbu mají zájem také Klingoni, kteří mohou být v dosahu."
+    },
+    {
+     "c": 12,
+     "nazev": "Smrtící roky",
+     "original": "The Deadly Years",
+     "datum": "1967-12-08",
+     "popis": "Enterprise má dodat zásoby výzkumné kolonii, ale výsadek s kapitánem Kirkem, prvním důstojníkem Spockem, vrchním lékařem Dr. McCoyem vrchním inženýrem Montgomerym Scottem, poručíkem Čechovem a poručíkem Galwayovou zjišťuje, že osadníci kolonie trpí neúměrnou rychlostí stárnutí."
+    },
+    {
+     "c": 13,
+     "nazev": "Posedlost",
+     "original": "Obsession",
+     "datum": "1967-12-15",
+     "popis": "Na povrchu planety našla posádka zásoby tritania, prvku více jak 20x tvrdšího než diamant. Při výsadku členové výsadku ucítí nasládlou vůni medu. Kirk znejistí, nechá prozkoumat oblast a zároveň upozorňuje své muže, aby pátrali po známkách dikironia. Spock nechápe Kirkovo jednání a upozorňuje, že dikironium existuje pouze v laboratorních podmínkách. Dvojice mužů umírá po napadení zvláštním oblakem dýmu. Kirk rovnou oznamuje, že při ohledání bude zjištěno, že jim z těl zmizely veškeré červené krvinky. Jeden přeživší je transportován na ošetřovnu, kde následně také umírá."
+    },
+    {
+     "c": 14,
+     "nazev": "Vlk v ovčíně",
+     "original": "Wolf in the Fold",
+     "datum": "1967-12-22",
+     "popis": "Planeta Argelius II je známá svou kulturou pozemského Blízkého východu a mírumilovností. Kapitán Kirk, Dr. Leonard McCoy a vrchní inženýr Scott jsou na povrchu v tamním podniku. Scotty se setkává s jednou z orientálních tanečnic a spolu odchází na procházku po okolí. Když se i Kirk s McCoyem rozhodnou k odchodu, uslyší ženský křik. Záhy nachází Scottyho s dýkou v ruce nedaleko mrtvé mladé dívky."
+    },
+    {
+     "c": 15,
+     "nazev": "Trable s Tribbly",
+     "original": "The Trouble With Tribbles",
+     "datum": "1967-12-29",
+     "popis": "Je zachycen signál priority 1 z vesmírné stanice K-7, který značí částečnou nebo úplnou zkázu. Protože se stanice nachází poblíž Shermanovy planety, o kterou se pře Federace s Klingony, Kirk dává povel k setkání se stanicí. Když loď doráží ke stanici K-7, je zřejmé, že žádné zjevné ohrožení není. Kapitán Kirk je značně rozhořčen, že správce stanice použil signál priority jedna neoprávněně a vydává se s panem Spockem na stanici. Zde se setkává i s Nilzem Barisem, podtajemníkem Federace v zemědělských záležitostech a jeho asistentem Arne Darvinem. Správce vysvětluje, že rozkaz pochází od Barise, který vysvětluje, že potřebuje všechny bezpečnostní členy Enterprise pro hlídání skladů kvadrožitovce, obdoby žita určeného pro Shermanovu planetu. Kirk je tímto naprosto rozhořčen, ale na přimluvení správce povolává dva členy posádky pro hlídání skladů. Baris je dotčen tím, že k úkolu bylo přiděleno tak málo mužů. Kirk dává zbytku posádky volno."
+    },
+    {
+     "c": 16,
+     "nazev": "Hráči z Triskelionu",
+     "original": "The Gamesters of Triskelion",
+     "datum": "1968-01-05",
+     "popis": "USS Enterprise přilétá na orbitu planety Gamma II, kde se nachází stanice Federace. Kirk určí k sobě pro výsadek poručíka Uhuru a praporčíka Čechova. Namísto klasického přenosu najednou však mizí neznámo kam z plošiny transportéru. Scott to ihned hlásí na můstek panu Spockovi a začíná pátrání na povrchu planety i v jejím okolí."
+    },
+    {
+     "c": 17,
+     "nazev": "Podíl z akce",
+     "original": "A Piece of the Action",
+     "datum": "1968-01-12",
+     "popis": "Ze systému Sigma Iotia II po stoletém zpoždění přenosu dorazil radiový signál. Tehdy, ještě před zavedením základní směrnice posádka lodi USS Horizon kontaminovala tamější kulturu. Když Enterprise doráží na orbitu planety, kapitán Kirk mluví s Belou Okmyxem, samozvaným „šéfem“. Po dohodnutém termínu se Kirk, McCoy a Spock transportují na povrch planety. Zjišťují, že veškeré obyvatelstvo je ozbrojeno a vše vypadá jako na Zemi v Chicagu 20. let 20. století ."
+    },
+    {
+     "c": 18,
+     "nazev": "Imunitní reakce",
+     "original": "The Immunity Syndrome",
+     "datum": "1968-01-19",
+     "popis": "Byl zachycen nouzový signál lodi USS Intrepid. Než Enterprise k lodi obsazené vulkánci dorazí, signál zmizí a pan Spock cítí smrt čtyř set členů jeho druhu. Enterprise doráží na místo, kde objevuje neznámý, čistě černý jev ve vesmíru. Při jeho sledování začíná být posádka oslabena a někteří členové kolabují. Kirk to nejprve dává za vinu dlouhé službě a nemožnosti odpočinku. Posléze se Enterprise dostává přímo do jádra černého úkazu, který celou loď obklopil a táhne ke svému středu."
+    },
+    {
+     "c": 19,
+     "nazev": "Malá soukromá válka",
+     "original": "A Private Little War",
+     "datum": "1968-02-02",
+     "popis": "Loď USS Enterprise přilétá na orbitu planety Neural, kde se vyvíjí zatím primitivní civilizace. Sám Kirk na planetě již byl a zná Tyreeho, vůdce jednoho kmene."
+    },
+    {
+     "c": 20,
+     "nazev": "Návrat k zítřkům",
+     "original": "Return to Tomorrow",
+     "datum": "1968-02-09",
+     "popis": "Posádka Enterprise objevuje planetu podobnou Zemi, která je ovšem už přes pět set tisíc let mrtvá bez potřebné atmosféry. Najednou přímo na můstku promlouvá ke kapitánovi cizí hlas, který se představí jako Sargon a přívětivým hlasem chce po Kirkovi, aby se vydal s panem Spockem na planetu. Když Kirk namítá, že nemohou žít v daných podmínkách, hlas jej ujišťuje, že vše zařídí. Záhy se objevuje pod povrchem země komora a transportéry jsou schopné přenést výsadek hluboko pod zem. V transportní místnosti se objevuje také doktorka Ann Mullhalová, které hlas přikázal se hlásit k výsadku. Při přenosu jsou přeneseni všichni až na členy ochranky."
+    },
+    {
+     "c": 21,
+     "nazev": "Principy moci",
+     "original": "Patterns of Force",
+     "datum": "1968-02-16",
+     "popis": "Enterprise přilétá do systému M34 Alfa, kde se v blízkosti nachází planety Ekos a Zeon. Na Ekosu by se měl nacházet specialista Federace John Gill, který byl také Kirkovým profesorem na hvězdné akademii. O Ekosu je známo, že tamní civilizace není moc vyspělá, avšak jde o bojovný druh, zatímco Zeon je technologicky mnohem pokročilejší a jde o mírumilovné obyvatelstvo. Ihned po příletu však na Enterprise míří řízená střela s termonukleární hlavicí. Tu se podaří sestřelit, ale něco nasvědčuje, že došlo ke kontaminaci proti základní směrnici, protože ani jedna z civilizací by neměla mít k dispozici takovou technologii."
+    },
+    {
+     "c": 22,
+     "nazev": "Byť zvána jinak",
+     "original": "By Any Other Name",
+     "datum": "1968-02-23",
+     "popis": "Hvězdného data 4657.5 zachycuje Enterprise nouzový signál z planety. Zde se výsadek setkává se zástupci Kelvanské říše, kteří výsadek paralyzují zvláštním zařízením na opasku. Představený útočníků se představuje jako Rojan. Vysvětluje Kirkovi a ostatním, že pocházejí ze sousední galaxie Andromeda a jejich úkolem je najít vhodné místo pro život, protože Andromeda bude za několik tisíc let neobyvatelná. Kelvané jsou očividně mnohem vyspělejší a začnou postupně obsazovat Enterprise. Z rozhovoru mezi Kelvany je patrné, že lidská těla jsou pouze přestupné schránky, které jim dávají také nová zjištění vlastností jako je hmat, čich nebo emoce."
+    },
+    {
+     "c": 23,
+     "nazev": "Sláva Omegy",
+     "original": "The Omega Glory",
+     "datum": "1968-03-01",
+     "popis": "Posádka se nachází poblíž planety Omega IV a další federační lodi USS Exeter. Loď neodpovídá na Uhuřino vysílání a výsadek kapitána Kirka spolu s panem Spockem, Dr. McCoyem a členy ostrahy nachází na lodi pouze uniformy plné zvláštních krystalů. McCoy zjišťuje, že jde o posádku, která byla zbavena veškeré tělesné vody a pouze toto zbylo. Z posledního záznamu lodního deníku je patrné, že šlo o nějakou infekci, která byla přinesena výsadkem z planety a každý, kdo vkročí na loď je infikovaný."
+    },
+    {
+     "c": 24,
+     "nazev": "Absolutní počítač",
+     "original": "The Ultimate Computer",
+     "datum": "1968-03-08",
+     "popis": "Enterprise se setkává s lodí Lexington komodora Wesleyho, který Kirkovi vysvětluje, že Enterprise se zúčastní bojového cvičení jako návnada pro jeho bojovou jednotku. Kirk nechápe, jaké má cvičení smysl, že proti celé bojové jednotce nemá šanci. Wesley vysvětluje, že Enterprise bude vybavena novým počítačem M5, který vyvinul Dr. Richard Daystrom. Počítač má nahradit celou posádku s výjimkou dvaceti lidí."
+    },
+    {
+     "c": 25,
+     "nazev": "Chléb a hry",
+     "original": "Bread and Circuses",
+     "datum": "1968-03-15",
+     "popis": "Při svých cestách nachází kapitán Kirk s posádkou trosky z hvězdné lodi USS Beagle, která zmizela před šesti lety. Pan Spock vypočítal, že trosky mohou pocházet od jedné planety v systému FGC 892. Beagle byl pod velením kapitána R. M. Merricka, kterého Kirk znal z akademie hvězdné flotily. Enterprise objevuje planetu, která velmi připomíná Zemi. Má stejné složení atmosféry, stejný poměr oceánů a pevniny, sondy ukazují, že je obydlená a částečně znečištěná smogem. Poručík Uhura zachycuje vysílání, které se podobá denním zprávám a naznačují, že obyvatelstvo žije ve společnosti s kombinací Římského impéria a 60. let 20. století. Pár snímků naznačuje, že na planetě existuje otroctví, gladiátorské zápasy, ale i televizní vysílání. Jeden ze zabitých gladiátorů se jmenuje William B. Harrison a byl i člen posádky Beagle."
+    },
+    {
+     "c": 26,
+     "nazev": "Místo přidělení: Země",
+     "original": "Assignment: Earth",
+     "datum": "1968-03-29",
+     "popis": "Hvězdná loď USS Enterprise NCC-1701 pod vedením kapitána Jamese Tiberius Kirka se nachází poblíž planety Země v roce 1968, kam se přesunula pomocí časového warpu a kde má provádět neinvazivní historický průzkum. Náhle transportér zachytí cizí signál přicházející ze vzdálenosti světelných let."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "1968",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Spockův mozek",
+     "original": "Spock's Brain",
+     "datum": "1968-09-20",
+     "popis": "Enterprise ve vesmíru objevuje neznámé plavidlo využívající pokročilý iontový pohon. Ještě než stihnout plavidlo důkladněji prozkoumat, objevuje se na můstku cizí žena, která ovladačem na zápěstí omráčí posádku celé lodi. Při probuzení volá Dr. McCoy kapitána Kirka na ošetřovnu, protože zde leží pan Spock. Doktor konstatuje, že mu byl vyoperován mozek a kapitán má 24 hodin, aby jej znovu získal, jinak jeho tělo zemře."
+    },
+    {
+     "c": 2,
+     "nazev": "Případ Enterprise",
+     "original": "The Enterprise Incident",
+     "datum": "1968-09-27",
+     "popis": "Dr. Leonard McCoy zaznamenává v deníku zprávu, že kapitán James Tiberius Kirk se poslední dobou chová velmi podivně, je velmi emotivní a popudlivý vůči své posádce. Na kapitánovi rozkazy se loď ubírá do neutrální zóny u Romulanského impéria, kde je obklíčena trojicí klingonských plavidel, které ovšem využívají romulané."
+    },
+    {
+     "c": 3,
+     "nazev": "Rajský syndrom",
+     "original": "The Paradise Syndrome",
+     "datum": "1968-10-04",
+     "popis": "Enterprise se nachází na orbitě planety velmi podobné Zemi. Loď jde zde pro odklonění blížícího se asteroidu, který má planetu zasáhnout přibližně za dva měsíce. Kapitán Kirk, první důstojník Spock a doktor McCoy jsou na povrchu na obhlídce. Povrch je až překvapivě podobný Zemi se stejnou florou i faunou. Výsadek objevuje zvláštní monolit s neznámými znaky. Poblíž se vyskytuje také vesnice obývaná lidmi velmi podobnými severoamerickým indiánům, avšak jde o vyspělejší směsici Mohykánů, Navajů a Delawarů."
+    },
+    {
+     "c": 4,
+     "nazev": "A děti půjdou v čele",
+     "original": "And the Children Shall Lead",
+     "datum": "1968-10-11",
+     "popis": "Posádka reaguje na nouzový signál a doráží na orbitu planety Triacus. Zde výsadek nachází mrtvé kolonisty Federace. Vše nasvědčuje tomu, že šlo o hromadnou sebevraždu. Výsadek dále objevuje také skupinku dětí, které si bezstarostně hrají, jako by úplně ignorovaly okolní skutečnost."
+    },
+    {
+     "c": 5,
+     "nazev": "Což v pravdě žádná krása není?",
+     "original": "Is There in Truth No Beauty?",
+     "datum": "1968-10-18",
+     "popis": "Loď má vzít za pasažéra medusanského velvyslance Kollose. Lawrence Marvick, jeden z hlavních konstruktérů Enterprise, ještě jednou upozorňuje, že pohlídne-li na medusana jakýkoliv člověk, v okamžiku zešílí z jejich zrůdného vzezření."
+    },
+    {
+     "c": 6,
+     "nazev": "Přízračná přestřelka",
+     "original": "Spectre of the Gun",
+     "datum": "1968-10-25",
+     "popis": "Enterprise se setkává s rasou Melkotianů, rasy pocházející ze systému Theta Kiokis II. Posádka je varována, že narušuje jejich prostor a další upozornění již nebude tolerovat. Kirk úkoluje Uhuru, aby zkusila odeslat Melkotianům zprávu, že Federace má mírový úmysl."
+    },
+    {
+     "c": 7,
+     "nazev": "Den míru",
+     "original": "Day of the Dove",
+     "datum": "1968-11-01",
+     "popis": "Píše se hvězdné datum 5630.3 a Enterprise doráží na místo, kde stála lidská kolonie Beta XII-A, odkud byl vyslán nouzový signál. Po příletu výsadek nenachází ani stopu po stovce kolonistů. Na orbitě se objevuje klingonská loď, která je ovšem značně poškozená. V tu chvíli je výsadek napaden klingony. Ti berou Kirka a ostatní členy výsadku za rukojmí a obviňují je z poškození klingonského plavidla. Po celou dobu je jakoby pozoruje neznámý blikající objekt."
+    },
+    {
+     "c": 8,
+     "nazev": "Neboť svět je dutý a já se dotkl nebe",
+     "original": "For the World Is Hollow and I Have Touched the Sky",
+     "datum": "1968-11-08",
+     "popis": "Loď nachází ve vesmíru zvláštní asteroid s průměrem 370 km, který je ve skutečnosti vesmírné plavidlo se zastaralým atomovým reaktorem. Současně Dr. Leonard McCoy zjišťuje, že trpí smrtelnou nemocí zvanou xenofolicytémie. Oznamuje kapitánovi, že mu zbývá zhruba rok života."
+    },
+    {
+     "c": 9,
+     "nazev": "Síť Tholianů",
+     "original": "The Tholian Web",
+     "datum": "1968-11-15",
+     "popis": "Posádka pátrá po ztracené federační lodi USS Defiant, která se je považována za pohřešovanou. Když loď objevují, na její palubu se transportují kapitán Kirk, první důstojník Spock, vrchní lékař Dr. McCoy a praporčík Pavel Čechov. Na lodi vše nasvědčuje tomu, že zde proběhla vzpoura."
+    },
+    {
+     "c": 10,
+     "nazev": "Platónovy nevlastní děti",
+     "original": "Plato's Stepchildren",
+     "datum": "1968-11-22",
+     "popis": "Píše se hvězdné datum 5784.2 a Enterprise doráží na planetu odkud vychází nouzové hlášení, ale která by podle pana Spocka měla být naprosto neobydlená."
+    },
+    {
+     "c": 11,
+     "nazev": "V mžiku oka",
+     "original": "Wink of an Eye",
+     "datum": "1968-11-29",
+     "popis": "Z planety Scalos vychází záznam signálu neznámých obyvatel planety. Při průzkumu výsadek nenachází žádné známky života, ale během sběru vzorků náhle zmizí jeden z členů výsadku. Kirk během výsadku zaslechne zvláštní zvuk připomínající bzukot hmyzu."
+    },
+    {
+     "c": 12,
+     "nazev": "Empatik",
+     "original": "The Empath",
+     "datum": "1968-12-06",
+     "popis": "Hvězdná loď USS Enterprise doráží na orbitu planety Minara II. Slunce této planety se má zanedlouho přeměnit v červeného obra a pohltit planetu samotnou i s vědeckým týmem Federace, který doposud neodpovídá na žádné volání lodi Enterprise."
+    },
+    {
+     "c": 13,
+     "nazev": "Elaan z Troyiu",
+     "original": "Elaan of Troyius",
+     "datum": "1968-12-20",
+     "popis": "Z planety Troyius přichází na palubu vyslanec Petri, který spolu s Kirkem má za úkol dopravit z planety Elas mladou, ale velmi namyšlenou a arogantní Dohlman Elaan, členku královské rodiny Elasu. Elaan se má na Troyiu vdát za troyianského panovníka, aby mezi světy, které doposud vedly válku, vládlo příměří."
+    },
+    {
+     "c": 14,
+     "nazev": "Koho chtějí bohové zničit",
+     "original": "Whom Gods Destroy",
+     "datum": "1969-01-03",
+     "popis": "Na planetě Elba II se nachází trestanecká kolonie Federace. Kapitán a první důstojník Spock se transportují do kolonie, aby předali nový přípravek pro použití na zbylých patnácti trestancích."
+    },
+    {
+     "c": 15,
+     "nazev": "Poslední bojiště",
+     "original": "Let That Be Your Last Battlefield",
+     "datum": "1969-01-10",
+     "popis": "Posádka pod vedením kapitána Jamese T. Kirka míří na planetu Ariannus, kde má pomoci dekontaminovat zamořenou atmosféru. Cestou Enterprise objevuje malý transportní raketoplán Federace, který odpovídá popisu ukradeného plavidla z jedné základny hvězdné flotily. Na palubě je pouze jeden humanoid, muž s doslova černo-bílou tváří."
+    },
+    {
+     "c": 16,
+     "nazev": "Prokletí Gideonu",
+     "original": "The Mark of Gideon",
+     "datum": "1969-01-17",
+     "popis": "Enterprise doráží na planetu Gideon, kde má kapitán Kirk absolvovat jednání s koncilem Gideonu, který jej schválil jako jediného návštěvníka. Gideon žije izolovaný život, bez bakterií a nemocí a velmi se obávají infikace z vnějšku."
+    },
+    {
+     "c": 17,
+     "nazev": "Ta, která přetrvá",
+     "original": "That Which Survives",
+     "datum": "1969-01-24",
+     "popis": "Posádka objevuje velice mladou planetu jejíž věk odhaduje vědecký důstojník Spock na pouhých pár tisíc let, velikostí odpovídá měsíci, ale váhou Zemi, což je nelogické. Zvláštností je i dýchatelná atmosféra, která by se neměla za tak krátkou dobu existence vytvořit."
+    },
+    {
+     "c": 18,
+     "nazev": "Světla Zetaru",
+     "original": "The Lights of Zetar",
+     "datum": "1969-01-31",
+     "popis": "Píše se hvězdné datum 5725.3 a loď míří na Memory Alpha, planetoid kde Federace zřídila centrální datové skladiště pro uchovávání historických záznamů. Na palubě je také nováček ve vesmíru, poručík Mira Romaine, která má být dopravena na Memory Alpha. Během cesty k této dívce najde velkou náklonnost pan Scott a společně tráví každou volnou chvilku."
+    },
+    {
+     "c": 19,
+     "nazev": "Rekviem za Metuzaléma",
+     "original": "Requiem for Methuselah",
+     "datum": "1969-02-14",
+     "popis": "Enterprise je zasažena nákazou rigelliánské horečky. Aby nákaza byla zažehnána, je zapotřebí látka zvaná Ryetalyn. Daří se najít planetu, kde se nachází v použitelné formě. Při výsadku jsou však pan Spock, kapitán Kirk a vrchní lékař Leonard McCoy napadeni levitujícím robotem. Na poslední moment se objevuje cizí muž a robota odvolá. Žádá, aby všichni tři opustili planetu a to okamžitě, jinak je bude muset donutit. Kirk se nedá a tak muž, který se představí jako Flint, nakonec souhlasí a dává výsadku dvě hodiny pro získání látky."
+    },
+    {
+     "c": 20,
+     "nazev": "Cesta do ráje",
+     "original": "The Way to Eden",
+     "datum": "1969-02-21",
+     "popis": "Enterprise stíhá kradený raketoplán Aurora, který neodpovídá na volání a při zachycení vlečným paprskem se snaží uniknout do Romulanského impéria. Následkem přetížení motorů je plavidlo zničeno, Scotty na poslední moment přenese všech šest členů posádky a hned po transportu konstatuje, že jde o pěknou chásku."
+    },
+    {
+     "c": 21,
+     "nazev": "Strážci oblak",
+     "original": "The Cloud Minders",
+     "datum": "1969-02-28",
+     "popis": "Kapitán James T. Kirk s posádkou doráží na planetu Ardana pro zásilku zenitu, tamního minerálu, který má být doručen jako pomoc planetě Merak II. Kapitán Kirk odmítá setkání v oblačném městě Stratos a pro urychlení naložení minerálu žádá správce Plasa o setkání přímo u vstupu do dolů, kde má být zásilka připravena."
+    },
+    {
+     "c": 22,
+     "nazev": "Kruté divadlo",
+     "original": "The Savage Curtain",
+     "datum": "1969-03-07",
+     "popis": "Kapitán James T. Kirk se ve vesmíru setkává s Abrahamem Lincolnem. Postava sedící v křesle přesvědčuje posádku, že je pravým Lincolnem a žádá o vstup na palubu. Kirkovi je jasné, že jde o cizí postavu, která se za 16. prezidenta USA jenom vydává, ale pro jistotu žádá po posádce, aby k bytosti přistupovala, jako by šlo o opravdového Lincolna."
+    },
+    {
+     "c": 23,
+     "nazev": "Všechny naše včerejšky",
+     "original": "All Our Yesterdays",
+     "datum": "1969-03-14",
+     "popis": "Hvězdné datum 5943.7. Enterprise doráží k planetě Sarpedion, jejíž slunce se již brzy má stát červeným obrem a planetu zničit. Kapitán Kirk, první důstojník Spock a vrchní lékař Dr. Leonard McCoy se transportují na povrch. Pouze v knihovně nachází pana Atoze, který neustále lpí na tom, aby si každý vybral svůj disk. Zatímco se Spock zajímá o neznámý přístroj, Kirk si prohlíží různé disky, najednou zaslechne křik ženy a vydá se tím směrem. Atoz už jej nestihne zastavit a Kirk projde jakousi branou, která jej přenese přímo do světa mušketýrů. Spock a McCoy se vydají za ním, ale objevují se v mrznoucí pustině."
+    },
+    {
+     "c": 24,
+     "nazev": "Vetřelec v mém těle",
+     "original": "Turnabout Intruder",
+     "datum": "1969-06-03",
+     "popis": "Loď doráží na planetu Camus II, kde se setkává s Dr. Janice Lesterovou a Dr. Arthurem Colemanem, kteří jako jediní přežili neznámé ozáření. Kapitán Kirk Dr. Lesterovou zná z dřívějška z dávného vztahu, ze kterého odešli oba ve zlém. Kirk se sice domnívá, že doktorka je po zásahu radiace nemohoucí, ale ta náhle ožívá a znehybní ho na přístroji, který je schopen vyměnit vědomí a osobnost mezi těly."
+    }
+   ]
+  }
+ ]
+}

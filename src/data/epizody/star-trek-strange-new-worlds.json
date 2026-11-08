@@ -1,0 +1,307 @@
+{
+ "tmdb": 103516,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "2022",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Podivné nové světy",
+     "original": "Strange New Worlds",
+     "datum": "2022-05-05",
+     "popis": "Když se při tajné misi Hvězdné flotily ztratí jeden z Pikových důstojníků, musí Pike opustit své vlastní vyhnanství. Musí se zorientovat v tom, jak svého důstojníka zachránit, a zároveň bojovat s tím, co udělat s vizí budoucnosti, kterou dostal."
+    },
+    {
+     "c": 2,
+     "nazev": "Děti komety",
+     "original": "Children of the Comet",
+     "datum": "2022-05-12",
+     "popis": "Starobylá mimozemská relikvie znemožní posádce Enterprise přesměrovat kometu, která se chystá zasáhnout obydlenou planetu."
+    },
+    {
+     "c": 3,
+     "nazev": "Duch Ilyrie",
+     "original": "Ghosts of Illyria",
+     "datum": "2022-05-19",
+     "popis": "Una musí čelit tajemství, které skrývala, když loď zachvátí nákaza, která zneschopní zbytek posádky."
+    },
+    {
+     "c": 4,
+     "nazev": "Memento Mori",
+     "datum": "2022-05-26",
+     "popis": "Pike musí najít netradiční metody Hvězdné flotily, aby se vypořádal se zlovolnou silou, která zaútočí na Enterprise."
+    },
+    {
+     "c": 5,
+     "nazev": "Spockův amok",
+     "original": "Spock Amok",
+     "datum": "2022-06-02",
+     "popis": "Osobní návštěva způsobí komedii omylů během klíčových jednání Spocka a Pikea s neobvyklým mimozemským druhem."
+    },
+    {
+     "c": 6,
+     "nazev": "Pozvedněte nás tam, kam utrpení nedosáhne",
+     "original": "Lift Us Where Suffering Cannot Reach",
+     "datum": "2022-06-09",
+     "popis": "Hrozba pro idylickou planetu přivede kapitána Pikea ke ztracené životní lásce. Aby ji a vědecké svaté dítě ochránil před spiknutím, nabídne Pike svou pomoc a je nucen čelit nevyřešeným pocitům z minulosti."
+    },
+    {
+     "c": 7,
+     "nazev": "Klidná bouře",
+     "original": "The Serene Squall",
+     "datum": "2022-06-16",
+     "popis": "Během nebezpečné humanitární mise narazí posádka U.S.S. Enterprise na strastiplnou hru o páku s nejsmrtelnějším vesmírným pirátem kvadrantu."
+    },
+    {
+     "c": 8,
+     "nazev": "Království Elysian",
+     "original": "The Elysian Kingdom",
+     "datum": "2022-06-23",
+     "popis": "U.S.S. Enterprise uvízne v mlhovině, která je domovem mimozemského vědomí, jež uvězní posádku v pohádce."
+    },
+    {
+     "c": 9,
+     "nazev": "Všichni, kdo putují",
+     "original": "All Those Who Wander",
+     "datum": "2022-06-30",
+     "popis": "Posádka U.S.S. Enterprise se setkává tváří v tvář svým démonům - a také děsivým příšerám - když jejich výsadek uvízne na pusté planetě s dravým nepřítelem."
+    },
+    {
+     "c": 10,
+     "nazev": "Vlastnost milosrdenství",
+     "original": "A Quality of Mercy",
+     "datum": "2022-07-07",
+     "popis": "Když už si kapitán Pike myslí, že přišel na to, jak uniknout svému osudu, navštíví ho jeho budoucí já, které mu ukáže důsledky jeho činů."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "2023",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Přerušený kruh",
+     "original": "The Broken Circle",
+     "datum": "2023-06-15",
+     "popis": "Tísňové volání přinutí Spocka, aby letěl s USS Enterprise a posádkou do pochybné části vesmíru."
+    },
+    {
+     "c": 2,
+     "nazev": "Ke hvězdám přes překážky",
+     "original": "Ad Astra per Aspera",
+     "datum": "2023-06-22",
+     "popis": "Velitel Una je postaven před válečný soud, hrozí mu vězení a propuštění ze služby."
+    },
+    {
+     "c": 3,
+     "nazev": "Zítra a zítra a zítra",
+     "original": "Tomorrow and Tomorrow and Tomorrow",
+     "datum": "2023-06-29",
+     "popis": "La'an se vrací v čase na Zemi jednadvacátého století, aby zabránila útoku, který změní budoucí dějiny lidstva - a postaví ji tváří v tvář jejímu vlastnímu spornému dědictví."
+    },
+    {
+     "c": 4,
+     "nazev": "Mezi jedlíky lotosu",
+     "original": "Among the Lotus Eaters",
+     "datum": "2023-07-06",
+     "popis": "Kapitán Pike a jeho výsadek se vracejí na planetu, která v nich vyvolává tragické vzpomínky, a při konfrontaci s duchem z minulosti zapomínají na všechno, včetně vlastní identity."
+    },
+    {
+     "c": 5,
+     "nazev": "Šarády",
+     "original": "Charades",
+     "datum": "2023-07-13",
+     "popis": "Při nehodě raketoplánu je Spockovi mimozemšťany odebrána vulkanská DNA, takže se stává plně člověkem a je zcela nepřipraven čelit T'Pringově rodině."
+    },
+    {
+     "c": 6,
+     "nazev": "Ztracen v překladu",
+     "original": "Lost in Translation",
+     "datum": "2023-07-20",
+     "popis": "Zdá se, že Uhura je jediná, kdo slyší podivný zvuk. Když zvuk vyvolá děsivé halucinace, požádá o pomoc nepravděpodobného asistenta, aby jí pomohl vypátrat zdroj."
+    },
+    {
+     "c": 7,
+     "nazev": "Ti staří vědci",
+     "original": "Those Old Scientists",
+     "datum": "2023-07-22",
+     "popis": "Nehoda při zkoumání časového portálu pošle praporčíky Becketta Marina a Bradwarda Boimlera časem z 24. století a kapitán Pike a jeho posádka je musí dostat zpět tam, kam patří, než se jim podaří změnit časovou linii."
+    },
+    {
+     "c": 8,
+     "nazev": "Pod pláštěm války",
+     "original": "Under the Cloak of War",
+     "datum": "2023-07-27",
+     "popis": "Kapitán Pike a jeho posádka přivítají na palubě USS Enterprise klingonského zběha."
+    },
+    {
+     "c": 9,
+     "nazev": "Subprostorová rapsodie",
+     "original": "Subspace Rhapsody",
+     "datum": "2023-08-03",
+     "popis": "Nehoda s experimentálním kvantovým pravděpodobnostním polem způsobí, že se všichni na U.S.S. Enterprise nekontrolovatelně rozezpívají, ale skutečné nebezpečí spočívá v tom, že se pole rozšiřuje a začíná ovlivňovat další lodě - spojence i nepřátele."
+    },
+    {
+     "c": 10,
+     "nazev": "Hegemonie",
+     "original": "Hegemony (1)",
+     "datum": "2023-08-10",
+     "popis": "Když U.S.S. Enterprise vyšetřuje útok na kolonii na okraji vesmíru Federace, kapitán Pike a jeho posádka čelí návratu hrozivého nepřítele."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "2025",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Hegemonie, část II.",
+     "original": "Hegemony (2)",
+     "datum": "2025-07-17",
+     "popis": "Kapitán Pike a jeho posádka stále odolávají Gornské invazi. Scotty naštěstí vyvinul zařízení, které Enterprise zneviditelní pro Gornské senzory. Jen ho ještě upravit tak, aby pokrylo celou loď. La'an a hrstka přeživších hledají cestu ven z Gornské lodě."
+    },
+    {
+     "c": 2,
+     "nazev": "Blues svatebních zvonů",
+     "original": "Wedding Bell Blues",
+     "datum": "2025-07-17",
+     "popis": "Mezi Spockem a Christine to jiskří. Když se domluvili, že si nechají nějaký ten čas pro sebe, jsou Spock a posádka překvapeni tím, že se Christine přivede na nadcházející oslavy výročí sta let založení Spojené federace planet nového nápadníka Dr. Rogera Korbyho. Naštvaný Spock odejde k baru, kde mu namíchají něco silnějšího. Když se ráno probudí, zničehonic se vedle něj objeví Christine celá natěšená na jejich nadcházející svatbu."
+    },
+    {
+     "c": 3,
+     "nazev": "Kyvadlová doprava do Kenfori",
+     "original": "Shuttle to Kenfori",
+     "datum": "2025-07-24",
+     "popis": "Jediný způsob, jak vyléčit kapitána Batelovou, je květ rostliny Chiméry. Jeden takový by tu byl, ale nachází se nedaleko klingonských hranic. I přesto tam Pike s M'Bengou vyráží. Spock se mezitím na Enterprise snaží Batelové pomoci od bolestí po vulkánsku."
+    },
+    {
+     "c": 4,
+     "nazev": "Hodina vesmírného dobrodružství",
+     "original": "A Space Adventure Hour",
+     "datum": "2025-07-31",
+     "popis": "La'An je jedna z prvních, která může vyzkoušet nový projekt Hvězdné flotily, simulátory. Stane se tak detektivkou z jejich oblíbených knih, jenže simulátor ji nepustí ven, dokud nepřijde na to, kdo je vrah. Enterprise se mezitím připravuje na průlet rozpadající se neutronovou hvězdou."
+    },
+    {
+     "c": 5,
+     "nazev": "Pohled do minulosti",
+     "original": "Through the Lens of Time",
+     "datum": "2025-08-07",
+     "popis": "Chapelovo a Korbyho pátrání vede Enterprise ke starobylým ruinám, které skrývají temné tajemství."
+    },
+    {
+     "c": 6,
+     "nazev": "Sehlat, který snědl svůj vlastní ocas",
+     "original": "The Sehlat Who Ate Its Tail",
+     "datum": "2025-08-14",
+     "popis": "Kirkův první den jako kapitán se změní v katastrofu, když loď Enterprise zajme loď Scavenger."
+    },
+    {
+     "c": 7,
+     "nazev": "Co je to hvězdná flotila?",
+     "original": "What Is Starfleet?",
+     "datum": "2025-08-21",
+     "popis": "Zatímco pomáhají válkou zničené planetě, ocitá se Pike a jeho posádka pod důkladným drobnohledem vyšetřujícího novináře."
+    },
+    {
+     "c": 8,
+     "nazev": "Čtyři a půl Vulkánce",
+     "original": "Four-and-a-Half Vulcans",
+     "datum": "2025-08-28",
+     "popis": "Členové posádky se snaží znovu proměnit v lidi poté, co se z nich během mise stali Vulkánci."
+    },
+    {
+     "c": 9,
+     "nazev": "Terárium",
+     "original": "Terrarium",
+     "datum": "2025-09-04",
+     "popis": "Ortegasová, uvězněná na toxickém měsíci, se musí vzepřít svým nejhlubším přesvědčením, aby přežila."
+    },
+    {
+     "c": 10,
+     "nazev": "Nový život a nové civilizace",
+     "original": "New Life and New Civilizations",
+     "datum": "2025-09-11",
+     "popis": "Když se znovu objeví prastaré zlo, Pike stojí před životním rozhodnutím, jak ho zastavit."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "2026",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Valles Marineris",
+     "datum": "2026-07-23",
+     "popis": "Pike navádí posádku do hvězdné bouře a vrací Enterprise o 65 milionů let zpět."
+    },
+    {
+     "c": 2,
+     "nazev": "Incident na ztracené lodi",
+     "original": "The Griffin Incident",
+     "datum": "2026-07-30",
+     "popis": "La'An, Spock a Kirk uvíznou na záhadné, dlouho ztracené lodi Federace."
+    },
+    {
+     "c": 3,
+     "nazev": "Nejlepší lidský přítel",
+     "original": "Human Best Friend",
+     "datum": "2026-08-06",
+     "popis": "Posádka Enterprise navštíví planetu, kde si mohou členové posádky užít volno v opojné atmosféře plné zábavy."
+    },
+    {
+     "c": 4,
+     "nazev": "Případ šerosvitu",
+     "original": "A Case of Chiaroscuro",
+     "datum": "2026-08-13",
+     "popis": "Una je mylně považována za ctnostnou vůdkyni boje proti klingonské okupaci."
+    },
+    {
+     "c": 5,
+     "nazev": "Katastrofální selhání transpondéru",
+     "original": "Level-Five Transporter Accident",
+     "datum": "2026-08-20",
+     "popis": "Při nehodě transportéru se všichni kromě Spocka promění v loutky, zatímco loď napadnou piráti."
+    },
+    {
+     "c": 6,
+     "nazev": "Po službě",
+     "original": "Off-Hour",
+     "datum": "2026-08-27",
+     "popis": "Loď Enterprise se dostává do slipstreamu, který ji žene k katastrofálnímu prahu warpu."
+    },
+    {
+     "c": 7,
+     "nazev": "Jako chronitony v přesýpacích hodinách",
+     "original": "Like Chronitons Through the Hourglass",
+     "datum": "2026-09-03",
+     "popis": "Vesmírný šibal uvězní posádku Enterprise v telenovele, zatímco Pike truchlí nad ztraceným životem."
+    },
+    {
+     "c": 8,
+     "nazev": "Rozkazy dle důležitosti",
+     "original": "Orders of Magnitude",
+     "datum": "2026-09-10",
+     "popis": "Admirál Reeger převzal velení nad lodí Enterprise, aby vypátral mimozemskou loď."
+    },
+    {
+     "c": 9,
+     "nazev": "Kdysi dávno s La'An",
+     "original": "Once La'an a Time",
+     "datum": "2026-09-17",
+     "popis": "Vracíme se do Elysejského království, tentokrát však na skutečnou fantasy planetu."
+    },
+    {
+     "c": 10,
+     "nazev": "Enterprise zítřka",
+     "original": "Tomorrow's Enterprise",
+     "datum": "2026-09-24",
+     "popis": "Časová vlna poškodí Enterprise, což donutí mladou i starší Uhuru spolupracovat a napravit časovou osu."
+    }
+   ]
+  }
+ ]
+}

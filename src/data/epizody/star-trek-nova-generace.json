@@ -1,0 +1,1276 @@
+{
+ "tmdb": 655,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "1987",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Střetnutí na Farpointu",
+     "original": "Encounter at Farpoint",
+     "datum": "1987-09-28",
+     "popis": "Hvězdné datum: 41153.7\n\nKapitán Jean-Luc Picard se vydává na svou první misi jako velitel lodi Enterprise, která ho zavede na planetu Deneb IV, kde je vybudována základna Farpoint. Na tom není zas tak nic zvláštního, ovšem rasa, která obývá planetu je zaostalá a sama nemohla postavit velmi moderní základnu.\n\nKapitán Jean-Luc Picard se setkává se záhadným panem Q, který jej postaví před soud, aby se zodpovídal za zločiny lidstva. Aby zachránil sebe a lidstvo musí přijít na záhadu základny Farpoint..."
+    },
+    {
+     "c": 2,
+     "nazev": "Bez zábran",
+     "original": "The Naked Now",
+     "datum": "1987-10-05",
+     "popis": "Hvězdné datum: 41209.2\n\nEnterprise se setkává s lodí Tsiolkovsky. Její posádka se však chová  divně. Posádka Enterprise se od nich nakazí infekcí, jejímiž příznaky  jsou stav opilosti a odstranění veškerých zábran..."
+    },
+    {
+     "c": 3,
+     "nazev": "Zákon cti",
+     "original": "Code of Honor",
+     "datum": "1987-10-12",
+     "popis": "Hvězdné datum: 42805.25\n\nEnterprise přilétá k planetě Ligon II, aby vyjednala dodávku vzácného  léku, který se nachází pouze na této planetě. Poručík Tasha Yarová je  unesena Ligoňany a musí bojovat o svůj život a zároveň získat lék..."
+    },
+    {
+     "c": 4,
+     "nazev": "Nejzazší výspa",
+     "original": "The Last Outpost",
+     "datum": "1987-10-19",
+     "popis": "Hvězdné datum: 41386.4\n\nEnterprise pronásleduje loď Ferengů. Obě lodě se dostanou na orbitu  zvláštní planety, která oběma lodím odčerpává energii. Aby se zachránili  musí kapitán Jean-Luc Picard spolupracovat se zrádnými Ferengy."
+    },
+    {
+     "c": 5,
+     "nazev": "Kam se dosud nikdo nevydal",
+     "original": "Where No One Has Gone Before",
+     "datum": "1987-10-26",
+     "popis": "Hvězdné datum: 41263.1\n\nNa loď Enterprise přichází expert na pohonné systémy, který dokáže  zvýšit výkon motorů. Při jedné zkoušce dojde k chybě a Enterprise se  ocitá miliardy světelných let od planety Země tam, kam se doposud nikdo  nevydal..."
+    },
+    {
+     "c": 6,
+     "nazev": "Osamělý mezi námi",
+     "original": "Lonely Among Us",
+     "datum": "1987-11-02",
+     "popis": "Hvězdné datum: 41249.3\n\nPři převozu dvou zástupců znepřátelených druhů - Selayů a Anticanců na  neutrální planetu Parliament, kde se má konat konference o přijetí obou  druhů do Federace, ovládne neznámá bytost z mlhoviny postupně několik  členů posádky, když se snaží odejít z Enterprise. Nakonec loď opustí  v těle kapitána Picarda. Když zjistí, že její a lidská mysl nejsou  kompatibilní, opustí Picardovo tělo a umožní mu vrátit se zpět."
+    },
+    {
+     "c": 7,
+     "nazev": "Spravedlnost",
+     "original": "Justice",
+     "datum": "1987-11-09",
+     "popis": "Hvězdné datum: 41255.6\n\nKapitán Picard je postaven před dilema. Wesley Crusher byl za porušení  zákona na planetě Rubicon III odsouzen k trestu smrti. Má dodržet  základní směrnici Federace a nevměšovat se do záležitostí planety anebo  se má pokusit Wesleyho zachránit?"
+    },
+    {
+     "c": 8,
+     "nazev": "Bitva",
+     "original": "The Battle",
+     "datum": "1987-11-16",
+     "popis": "Hvězdné datum: 41723.9\n\nFerengiové objevili dávno ztracenou loď Federace - U.S.S. Stargazer, na  které v minulosti sloužil v pozici kapitána i Picard. Ferengiové navenek  přátelsky vrací starou loď Federaci, ale doopravdy připravují plán, jak  vyvolat bitvu, jejímž terčem se má stát Enterprise. Ferengijský kapitán  DaiMon Bok se chce Picardovi pomstít za smrt svého syna a mučí ho  přístrojem, který je schopen ovládat myšlenky."
+    },
+    {
+     "c": 9,
+     "nazev": "Hra na schovávanou",
+     "original": "Hide and Q",
+     "datum": "1987-11-23",
+     "popis": "Hvězdné datum: 41590.5\n\nNa palubu Enterprise se nezván vrací \"Q\", aby přesvědčil Rikera  o možnosti stát se příslušníkem Continua a získat neomezenou sílu."
+    },
+    {
+     "c": 10,
+     "nazev": "Oáza",
+     "original": "Haven",
+     "datum": "1987-11-30",
+     "popis": "Hvězdné datum: 41294.6\n\nEnterprise směřuje na planetu Heaven. Na palubu dorazí matka lodní  poradkyně Deanny Troi - Lwaxana, aby jí připravila na svatební obřad,  o kterém bylo rozhodnuto ještě v Deannině dětství."
+    },
+    {
+     "c": 11,
+     "nazev": "Poslední sbohem",
+     "original": "The Big Goodbye",
+     "datum": "1988-01-11",
+     "popis": "Hvězdné datum: 41997.7\n\nKapitán Picard, lékařka Beverly Crusherová a Dat se vydávají do  simulátoru zahrát si kapitánův oblíbený program s detektivem Dixonem  Hillem. V simulátoru však nastane nečekaná porucha a všichni tři  zůstávají uvězněni v ději simulátoru v roce 1940."
+    },
+    {
+     "c": 12,
+     "nazev": "Bratři",
+     "original": "Datalore",
+     "datum": "1988-01-18",
+     "popis": "Hvězdné datum: 41242.4\n\nEnterprise objeví na domovské Datově planetě dalšího androida. Je to  verze androida, která vznikla před Datem, ale byla nepovedená. Technici  Datova bratra Loriho aktivují. Ten však není tak přátelský jako posádka  lodi a chystá se zničit Enterprise."
+    },
+    {
+     "c": 13,
+     "nazev": "Trosečníci",
+     "original": "Angel One",
+     "datum": "1988-01-25",
+     "popis": "Hvězdné datum: 41636.9\n\nEnterprise je vyslána na planetu Angel One, aby zachránila členy  ztroskotané lidské posádky. Na planetu jsou vysazeni Riker, Deanna Troi,  Dat a Tasha Yarová. Setkávají se tu se společností, které dominují a  vládnou ženy.\n\nMezitím se na palubě Enterprise rozšíří záhadná respirační nemoc."
+    },
+    {
+     "c": 14,
+     "nazev": "Heslo",
+     "original": "11001001",
+     "datum": "1988-02-01",
+     "popis": "Hvězdné datum: 41365.9\n\nEnterprise se zastaví na základně 74 kvůli vylepšení počítačů a také  opravě poškozených simulátorů. Vylepšení provedou Bynarové, druh, který  žije ve dvojicích, dorozumívá se binárně a nedokáže žít bez počítačů.  Celá posádka má volno a tak se většina vydává na základnu. Na lodi  zůstává pouze Wesley Crusher. Dat se věnuje malovaní a Riker si zajde do  nového simulátoru. Nakáže si jazzový klub z roku 1958 v New Orleans a  zaujme ho holografická žena Minuet, která se chová jako skutečná a Riker  je z ní úplně unešen. Do simulátoru zavítá i Picard. Ani jeden z nich  tak netuší, že Enterprise byla nouzově evakuována kvůli nestabilitě  izolačního pole antihmoty a je autopilotem vyslána co nejdále od  základny, kde zřejmě exploduje..."
+    },
+    {
+     "c": 15,
+     "nazev": "Honba za mládím",
+     "original": "Too Short a Season",
+     "datum": "1988-02-08",
+     "popis": "Hvězdné datum: 41309.5\n\nNa palubě Enterprise cestuje admirál Jameson, jako vyjednavač Federace  na planetu Mordan IV, kde jsou úředníci Federace drženi jako rukojmí. V  průběhu cesty však admirál začne překvapivě mládnout..."
+    },
+    {
+     "c": 16,
+     "nazev": "Až se ucho utrhne",
+     "original": "When the Bough Breaks",
+     "datum": "1988-02-15",
+     "popis": "Hvězdné datum: 41509.0\n\nMýtická planeta Aldea, po níž kapitán Picard pátral, se ukáže reálnější,  než se kdo odvažoval doufat. Její obyvatelé jsou navíc mírumilovní.  Mají však problém, jsou neplodní. Z paluby Enterprise začnou záhadně  mizet děti. Mají dopomoci k obnovení vyspělé, legendární rasy Aldeanů."
+    },
+    {
+     "c": 17,
+     "nazev": "Rodná hrouda",
+     "original": "Home Soil",
+     "datum": "1988-02-22",
+     "popis": "Hvězdné datum: 41463.0\n\nNa planetě Valera III provádí skupinka techniků terraformaci. Jeden  z členů terraformačního týmu je zabit. Enterprise provádí vyšetřování.  Původně vypadající nehoda, však byla nejspíše vraždou. Geordi La Forge a  Data objeví mikroskopickou formu života, která považovala členy týmu za  vetřelce. Bytost vyhlašuje válku i Enterprise."
+    },
+    {
+     "c": 18,
+     "nazev": "Plnoletost",
+     "original": "Coming of Age",
+     "datum": "1988-03-14",
+     "popis": "Hvězdné datum: 41416.0\n\nKapitán Jean-Luc Picard musí z podnětu nadporučíka Dextera Remmicka  prokázat, že je schopných velitelem lodi Enterprise a podstoupit test  loajality. Wesley Crusher skládá přijímací zkoušky na Hvězdnou akademii."
+    },
+    {
+     "c": 19,
+     "nazev": "Klingonské srdce",
+     "original": "Heart of Glory",
+     "datum": "1988-03-21",
+     "popis": "Hvězdné datum: 41503.7\n\nLoď Enterprise nalezne nedaleko Neutrální zóny tři Klingonské trosečníky  a přijme je na palubu lodi. Ti se však za záchranu odvděčí tím, že se  zmocní lodi. Poručík Worf se bude muset rozhodnout mezi loajalitou ke  svým lidem nebo k posádce."
+    },
+    {
+     "c": 20,
+     "nazev": "Arzenál svobody",
+     "original": "The Arsenal of Freedom",
+     "datum": "1988-04-11",
+     "popis": "Hvězdné datum: 41798.2\n\nEnterprise pátrá po zmizelé federační lodi USS Drake na planetě Minos.  Výsadek je napaden automatickým zbraňovým systémem, který zahájí palbu  i na loď na orbitě. Výsadek i loď se stávají rukojmími sofistikovaného  zbraňového systému, který je stále plně funkční a likviduje vše živé..."
+    },
+    {
+     "c": 21,
+     "nazev": "Symbióza",
+     "original": "Symbiosis",
+     "datum": "1988-04-18",
+     "popis": "Hvězdné datum: neznámé\n\nEnterprise se pohybuje v hvězdném systému Delos a zkoumá jeho hvězdu,  která má silné výkyvy magnetického pole. Náhle obdrží nouzový signál  z jiné lodi. Na palubu Enterprise jsou přeneseni členové posádky, včetně  záhadného nákladu, který je důležitější než životy zachráněné posádky.  Kapitán Picard postupně zjišťuje, že se jedná o rasu lidí, kteří jsou  závislí na droze. Ta je obsahem tajného nákladu. Droga však pochází  z planety jejich nepřátel. Picard musí tedy zprostředkovat mírová  jednání."
+    },
+    {
+     "c": 22,
+     "nazev": "Slupka všeho zla",
+     "original": "Skin of Evil",
+     "datum": "1988-04-25",
+     "popis": "Hvězdné datum: 41601.3\n\nPři zpáteční cestě z konference na Enterprise havaruje raketoplán  s Deannou Troi na planetě Vagra II. Výsadek na planetě objeví  mimozemskou entitu jejíž podstatou jsou všechny zlé vlastnosti její  rasy. Při boji s tímto netvorem je zabita poručice Yarová."
+    },
+    {
+     "c": 23,
+     "nazev": "Setkání v Paříži",
+     "original": "We'll Always Have Paris",
+     "datum": "1988-05-02",
+     "popis": "Hvězdné datum: 41697.9\n\nPosádka Enterprise míří na dovolenou. Zachytí však nouzové volání  z planety Vandor IV od Dr. Paula Manheima, vědce, který experimentoval  s teoriemi nelineárnosti času. Volání vyslala jeho manželka a jak se  později ukáže i bývala milenka kapitána Picarda. Jeden vědcův experiment  se vymknul kontrole, kromě vědce a jeho manželky všichni zemřeli. Pokud  se experiment nepodaří zastavit, následky mohou ohrozit i samotnou  existenci vesmíru."
+    },
+    {
+     "c": 24,
+     "nazev": "Spiknutí",
+     "original": "Conspiracy",
+     "datum": "1988-05-09",
+     "popis": "Hvězdné datum: 41775.5\n\nKapitán Picard společně s důstojníkem Williamem T. Rikerem narazí na spiknutí ve velení Hvězdné flotily.  Picard obdrží tajnou zprávu a poté Enterprise zamíří na planetu Dytalix  B. Zde se setká se svým přítelem kapitánem Keelem a dalšími třemi  kapitány. Schůzka je tajná. Horatio upozorní Picarda na své podezření  ohledně podivných příkazů přicházejících z Hvězdné flotily s tím, aby si  kryl záda.\n\nPozději při cestě k planetě Pacifica nalezne Enterpise zbytky jiné lodi.  Jak se ukáže byla to loď kapitána Keela. Nikdo nepřežil. Picardovy  obavy se potvrdí. Enterprise nabírá směr Země, aby prozkoumali kdo  chystá spiknutí."
+    },
+    {
+     "c": 25,
+     "nazev": "Neutrální zóna",
+     "original": "The Neutral Zone",
+     "datum": "1988-05-16",
+     "popis": "Hvězdné datum: 41986.0\n\nEnterprise zachytí neznámé plavidlo z 20. století. Na jeho palubě objeví tři kryogenicky zmražené Američany.\n\nMezitím obdrží kapitán Picard zprávu, že na hranicích s Neutrální zónou  byly napadeny dvě základny. Dr. Beverly Crusherová přivede zpět k životu  tři trosečníky, které dostane na starosti důstojník Riker. Je to pro  Američany šok, probudit se o několik set let v budoucnosti.\n\nHlavní problém čeká posádku Enterprise poblíž Neutrální zóny. Zrádní  Romulané, kteří už o sobě nedali velmi dlouho vědět, se opět chystají  k útoku..."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "1988",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Dítě",
+     "original": "The Child",
+     "datum": "1988-11-21",
+     "popis": "Hvězdné datum 42073.1\n\nEnterprise má nového primáře Dr. Katherine Polanski, místo Beverley Crusher, která se stala vedoucí lékařů Hvězdné pěchoty.\n\nEnterprise je na záchranné misi, kde sbírá vzorky moru na analýzu, když  Dr. Troi zjistí, že je těhotná. Její těhotenství postupuje velice  rychle, dítě by se mělo narodit za necelých 48 hodin. Dítě, které Troi  pojmenuje po jejím otci Ian Andrew, roste tak rychle, že dětství prožije  během několika hodin..."
+    },
+    {
+     "c": 2,
+     "nazev": "Kde vládne ticho",
+     "original": "Where Silence Has Lease",
+     "datum": "1988-11-28",
+     "popis": "Hvězdné datum: 42193.6\n\nU.S.S. Enterprise je na cestě do kvadrantu Morgana pohlcena podivnou  \"dírou\", která nemá žádné dimenze, vypouštějíce všechnu energii a hmotu.  Cpt. Picard je zmaten podivností, která se nedá definovat ani měřit  lidskými měřítky. Celá posádka je chycena do pasti, která dle našich  pravidel dokonce ani neexistuje..."
+    },
+    {
+     "c": 3,
+     "nazev": "Jak prosté, drahý Date",
+     "original": "Elementary, Dear Data",
+     "datum": "1988-12-05",
+     "popis": "Hvězdné datum: 42286.3\n\nProtože Enterprise přiletí na setkání s U.S.S. Victory o 3 dny dřív, může si posádka užít zasloužené volno.\n\nGeordi pozve Data, jakožto fanouška Sherlocka Holmese, na holopalubu,  kde se přenesou zpět do Viktoriánského Londýna, aby vyřešili jeden  z nejslavnějších případů. Ovšem Data, který si pamatuje všechny knihy  o Sherlocku Holmesovi, řeší případ bez nejmenšího úsilí..."
+    },
+    {
+     "c": 4,
+     "nazev": "Nezkrotný Okona",
+     "original": "The Outrageous Okona",
+     "datum": "1988-12-12",
+     "popis": "Hvězdné datum: 42402.7\n\nCestou Omega Sagitta systémem pomůže Enterprise neschopné zásobovací  lodi a pozvou jediného obyvatele lodi, Cpt. Okonu, na svoji palubu.\n\nPohledný a uličnický Okona okouzlí posádku - obzvláště ženy - svým  bystrým mozkem a rozpustilým chováním. Data, který není schopný pochopit  vtipy, hledá u Guinan a na holopalubě lekce v lidském humoru..."
+    },
+    {
+     "c": 5,
+     "nazev": "Tichý jako šepot",
+     "original": "Loud as a Whisper",
+     "datum": "1989-01-09",
+     "popis": "Hvězdné datum 42477.2\n\nU.S.S. Enterprise je nečekaně odkloněna do hvězdného systému Rivertas,  aby dopravila slavného prostředníka Rivu stranou od krutého planetárního  konfliktu na Solais V.\n\nK překvapení výsadku, vedeného Cpt.Picardem, se brzy ukáže, že Riva je  hluchý. Ačkoliv rozumí všemu co posádka říká odezíráním ze rtů, je  schopný komunikovat pouze přes Chorus, skupinu tří lidí, kteří nejenže  mají výrazný vliv na Rivovu osobnost, ale dokonce dokáží telepaticky  číst jeho myšlenky..."
+    },
+    {
+     "c": 6,
+     "nazev": "Schizofrenik",
+     "original": "The Schizoid Man",
+     "datum": "1989-01-23",
+     "popis": "Hvězdné datum 42437.5\n\nU.S.S. Enterprise pádí ke vzdálené planetě s posláním nejvyšší úrovně,  doručit lékařskou pomoc Dr. Ira Gravesovi, jednomu z nejvýznamnějších  lidských mozků. \nGravesova mladá asistentka, Kareen Brianon, volá o pomoc oproti Gravesovým požadavkům..."
+    },
+    {
+     "c": 7,
+     "nazev": "Nepřirozený výběr",
+     "original": "Unnatural Selection",
+     "datum": "1989-01-30",
+     "popis": "Hvězdné datum 42494.8\n\nEnterprise je na cestě ke stanici India, když příjme nouzový signál ze  zásobovací lodi U.S.S. Lantree. Když posádka dorazí k lodi, zjistí, že  všichni na palubě vypadají jakoby zemřeli stářím. Lantree je okamžitě  dána do karantény a Enterprise zamíří k poslednímu místu, kde Lantree  kotvila, k Darwinově genetické výzkumné stanici..."
+    },
+    {
+     "c": 8,
+     "nazev": "Věc cti",
+     "original": "A Matter of Honor",
+     "datum": "1989-02-06",
+     "popis": "Hvězdné datum 42506.5\n\nSpeciální výměnný program přivádí benzita jménem Mendon na palubu  Enterprise a dává příležitost Rikerovi, aby se stal prvním důstojníkem  Federace, který sloužil na palubě klingonské lodi.\n\nRikerova příprava zahrnuje lekci o Klingonech od poručíka Worfa, který stále zastává barbarský názor, že hrubá síla vítězí..."
+    },
+    {
+     "c": 9,
+     "nazev": "Lidský rozměr",
+     "original": "The Measure of a Man",
+     "datum": "1989-02-13",
+     "popis": "Komandéra Data hodlají rozebrat, aby mohli sestrojit další androidy.  Dat se brání, dokonce se rozhodne odejít ze služby. Jenže na to nemá  právo, protože podle zákona je pouhá věc, navíc ve vlastnictví Hvězdné  flotily..."
+    },
+    {
+     "c": 10,
+     "nazev": "Vladařka",
+     "original": "The Dauphin",
+     "datum": "1989-02-20",
+     "popis": "Enterprise převáží budoucí vládkyni Salii a její ochránkyni na  domovskou planetu. Když se dívka potká na chodbě s geniálním teenagerem  Wesleym, okamžitě k němu pocítí náklonnost. A zdá se, že je  oboustranná..."
+    },
+    {
+     "c": 11,
+     "nazev": "Nákaza",
+     "original": "Contagion",
+     "datum": "1989-03-20",
+     "popis": "Enterprise spěchá na pomoc sesterské lodi, která má závažné problémy  na území Neutrální zóny, dělící Federaci od nepřátelských Romulanů.  Sotva se jim podaří navázat kontakt, zničí plavidlo výbuch antihmoty  v jádře. Zanedlouho se na Enterprise začnou objevovat stejná selhání  systémů..."
+    },
+    {
+     "c": 12,
+     "nazev": "Hotel Royale",
+     "original": "The Royale",
+     "datum": "1989-03-27",
+     "popis": "Klingonská loď čirou náhodou objeví trosky pozemského vesmírného  plavidla s nápisem NASA. Předá je na Enterprise, kde po průzkumu zjistí,  že jde o loď z 1. poloviny 21. století..."
+    },
+    {
+     "c": 13,
+     "nazev": "Čtverec času",
+     "original": "Time Squared",
+     "datum": "1989-04-03",
+     "popis": "Enterprise vtáhne do hangáru federační raketoplán, který volně plul  vesmírem. Uvnitř najdou kapitána Picarda z jiného časoprostoru. Jak se  posádka vyrovná s druhým Jean-Lucem?"
+    },
+    {
+     "c": 14,
+     "nazev": "Faktor Ikarus",
+     "original": "The Icarus Factor",
+     "datum": "1989-04-24",
+     "popis": "Komandér Riker má dilema, zda přijmout velení na lodi USS Aries. A  aby neměl rozhodování jednoduché, přichází za ním s touto nabídkou otec,  se kterým už patnáct let nepromluvil..."
+    },
+    {
+     "c": 15,
+     "nazev": "Přátelé na dálku",
+     "original": "Pen Pals",
+     "datum": "1989-05-01",
+     "popis": "Enterprise prozkoumává sektor Drema, kde je řada geologicky  nestabilních planet. Android Dat při analýze signálů zaslechne otázku  \"Je tam někdo?\" a odpoví dříve, než si uvědomí možné následky..."
+    },
+    {
+     "c": 16,
+     "nazev": "Kdo je Q",
+     "original": "Q Who",
+     "datum": "1989-05-08",
+     "popis": "Všemocná bytost jménem Q unese Enterprise do velmi vzdálené části  vesmíru jen proto, že jí nebylo umožněno stát se členem posádky. V  neprobádaných končinách narazí loď na druh s velmi vyspělou technologií.  Jsou to tajemní Borgové..."
+    },
+    {
+     "c": 17,
+     "nazev": "Nástrahy lékařské péče",
+     "original": "Samaritan Snare",
+     "datum": "1989-05-15",
+     "popis": "Wesley převáží kapitána Picarda raketoplánem na základnu 515, kde se  má podrobit obtížnému lékařskému zákroku. Enterprise mezitím odpoví na  nouzové volání mimozemské lodi, jejíž posádka se zdá být poněkud  retardovaná..."
+    },
+    {
+     "c": 18,
+     "nazev": "Dodejte nám čerstvou krev!",
+     "original": "Up the Long Ladder",
+     "datum": "1989-05-22",
+     "popis": "Enterprise přilétá evakuovat Bringloidy, potomky pozemských  kolonistů. V systému se však nachází ještě jiná kolonie. Posádka se tak  ocitá přímo v ohnisku střetu dvou zásadně odlišných světonázorů.  Dokonalost stojí proti přirozenosti, náhodné křížení proti genetické  čistotě..."
+    },
+    {
+     "c": 19,
+     "nazev": "Hon na muže",
+     "original": "Manhunt",
+     "datum": "1989-06-19",
+     "popis": "Kapitán Picard s hrůzou zjistí, že se stal objektem Lwaxaniných  milostných tužeb. Velvyslankyně totiž právě prochází periodou, během níž  se libido betazoidských žen zvyšuje až desetinásobně..."
+    },
+    {
+     "c": 20,
+     "nazev": "Posel",
+     "original": "The Emissary",
+     "datum": "1989-06-29",
+     "popis": "Na palubu přichází klingonská vyjednávačka s důležitým úkolem.  Enterprise musí zachytit klingonskou hibernační loď vyslanou v době, kdy  mezi Federací a Klingonskou říší ještě panoval válečný stav. Sebemenší  přehmat hrozí krveprolitím..."
+    },
+    {
+     "c": 21,
+     "nazev": "Špičkový výkon",
+     "original": "Peak Performance",
+     "datum": "1989-07-10",
+     "popis": "V rámci přípravy na útok Borgů se musejí lodě Flotily účastnit  bojových simulací. Kapitán Picard vede zinscenovanou bitvu proti  vlastnímu prvnímu důstojníkovi. Nikdo však nepředpokládá, že by se do  předstíraného střetu mohl připlést skutečný nepřítel..."
+    },
+    {
+     "c": 22,
+     "nazev": "Šedé přízraky",
+     "original": "Shades of Gray",
+     "datum": "1989-07-17",
+     "popis": "Komandér Riker je napaden parazitickými mikroby, infikujícími nervová  zakončení. Upadne do kómatu a trpí halucinacemi, v nichž se mu zjevují  koláže starých vzpomínek. Právě ty jsou však jeho jedinou nadějí na  přežití..."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "1989",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Evoluce",
+     "original": "Evolution",
+     "datum": "1989-09-25",
+     "popis": "Doktor Stubbs chce na palubě Enterprise zkoumat erupci neutronové  hvězdy, což je jev, ke kterému dochází jednou za 196 let. Enterprise je  však zachvácena sérií nevysvětlitelných poruch mnoha důležitých  počítačových systémů..."
+    },
+    {
+     "c": 2,
+     "nazev": "Vlastnosti velitele",
+     "original": "The Ensigns of Command",
+     "datum": "1989-10-02",
+     "popis": "Sheliakové vyžadují, aby Federace neprodleně splnila podmínky více  než sto let staré dohody a vystěhovala kolonii. Situaci komplikuje fakt,  že obyvatel je mnohem víc, než kolik je Enterprise schopna v dané  časové lhůtě evakuovat. Sheliakové však nehodlají čekat..."
+    },
+    {
+     "c": 3,
+     "nazev": "Zničená planeta",
+     "original": "The Survivors",
+     "datum": "1989-10-09",
+     "popis": "Jedenáct tisíc obyvatel kolonie Rana IV bylo nedávno vyhlazeno  neznámým útočníkem. Přežili pouze dva lidé – starší manželský pár. Síla,  která zpustošila planetu, nepoškodila na jejich pozemku ani lísteček..."
+    },
+    {
+     "c": 4,
+     "nazev": "Kdo pozoruje pozorovatele",
+     "original": "Who Watches the Watchers",
+     "datum": "1989-10-16",
+     "popis": "Když se porouchá maskovací systém skryté antropologické stanice,  místní domorodci odhalí přítomnost pozorovatelů Federace. Kapitán Picard  stojí před problémem, jak minimalizovat následky kulturní kontaminace,  aniž by zároveň napáchal mnohem víc škod..."
+    },
+    {
+     "c": 5,
+     "nazev": "Svazek",
+     "original": "The Bonding",
+     "datum": "1989-10-23",
+     "popis": "Jedna členka posádky nešťastnou náhodou zahyne a zůstane po ní  dvanáctiletý syn. Worf si tragédii dává za vinu a rozhodne se podle  klingonských tradic prohlásit sirotka svým pokrevním bratrem. Na palubě  se však objeví nezvaný host, který má s chlapcem jiné plány..."
+    },
+    {
+     "c": 6,
+     "nazev": "Past",
+     "original": "Booby Trap",
+     "datum": "1989-10-30",
+     "popis": "Enterprise nalezne nádherně zachovaný exemplář kosmického plavidla  z dávné války, která se odehrála v době, kdy se na Zemi ještě bojovalo  v brněních. Kapitán Picard neodolá a rozhodne se loď prozkoumat. Netuší,  že tím posádku Enterprise odsoudí ke zkáze..."
+    },
+    {
+     "c": 7,
+     "nazev": "Nepřítel",
+     "original": "The Enemy",
+     "datum": "1989-11-06",
+     "popis": "Enterprise zaměří havarovanou romulanskou loď, jež ztroskotala na  bouřemi zmítané planetě. Výsadek objeví vážně zraněného Romulana a  dopraví ho na palubu. LaForge však ztratí kontakt s lodí a zůstane na  planetě uvězněný. Navíc se tu objeví další Romulan, který mu usiluje  o život..."
+    },
+    {
+     "c": 8,
+     "nazev": "Cena",
+     "original": "The Price",
+     "datum": "1989-11-13",
+     "popis": "Barzané objevili ve své soustavě stabilní červí díru, vedoucí kamsi  na opačný konec Galaxie. Protože sami vesmírem necestují, rádi by práva  k užívání díry výhodně zpeněžili. Poptávka je pochopitelně obrovská a  někteří zájemci se neváhají snížit k intrikám..."
+    },
+    {
+     "c": 9,
+     "nazev": "Faktor pomsty",
+     "original": "The Vengeance Factor",
+     "datum": "1989-11-20",
+     "popis": "Vyšetřování přepadení základny Federace zavede Enterprise na planetu,  která byla po tisíce let zmítána klanovými rozepřemi. Teď na Acamaru už  sto let vládne klid a mír, což však neznamená, že obyvatele přešly  agresivní sklony..."
+    },
+    {
+     "c": 10,
+     "nazev": "Přeběhlík",
+     "original": "The Defector",
+     "datum": "1990-01-01",
+     "popis": "Romulanský důstojník v jednomístné lodi překročí neutrální zónu a  žádá o azyl. Když je přijat na palubu Enterprise, předá kapitánu  Picardovi zásadní informaci. A záhy je válka na spadnutí..."
+    },
+    {
+     "c": 11,
+     "nazev": "Štvanec",
+     "original": "The Hunted",
+     "datum": "1990-01-08",
+     "popis": "Planeta Angosia, která nedávno zvítězila v těžké a zničující válce,  má zájem o členství ve Federaci. Pak ale na palubu Enterprise pronikne  uprchlý trestanec z angosianské vězeňské kolonie. S jeho příchodem se  začne odhalovat tajemství, které by vláda nejraději ututlala..."
+    },
+    {
+     "c": 12,
+     "nazev": "Ušlechtilé důvody",
+     "original": "The High Ground",
+     "datum": "1990-01-29",
+     "popis": "Enterprise přiváží na planetu Rutia IV lékařský materiál. Když se  lékařka Beverly stane rukojmím militantního separatistického hnutí,  posádka Enterprise je zatažena do krvavé občanské války, která se táhne  už přes padesát let..."
+    },
+    {
+     "c": 13,
+     "nazev": "Déjá Q",
+     "original": "Déjà Q",
+     "datum": "1990-02-05",
+     "popis": "Všemocný Q je pro své četné excesy vyloučen z řad Q-kontinua, zbaven  schopností a vyvržen do normálního světa. Prakticky bezbranný a vydaný  na pospas všem bytostem, kterým v minulosti uškodil. Přichází tedy na  palubu Enterprise požádat kapitána Picarda o azyl a místo v jeho  posádce..."
+    },
+    {
+     "c": 14,
+     "nazev": "Věc perspektivy",
+     "original": "A Matter of Perspective",
+     "datum": "1990-02-12",
+     "popis": "Vedoucí vědecké stanice Tanuga IV zahyne při explozi jen několik  okamžiků poté, co odejde komandér Riker, který byl u něj na návštěvě.  Záhy vznesou Tanguané proti Rikerovi obvinění. Všechny důkazy i svědecké  výpovědi potvrzují, že komandér spáchal atentát..."
+    },
+    {
+     "c": 15,
+     "nazev": "Enterprise včerejška",
+     "original": "Yesterday's Enterprise",
+     "datum": "1990-02-19",
+     "popis": "Picardova posádka narazí na nezvyklou časoprostorovou trhlinu, z níž  se vynoří stará loď třídy Ambassador. Je to Enterprise-C, která před  dvaceti lety beze stopy zmizela a byla považována za zničenou..."
+    },
+    {
+     "c": 16,
+     "nazev": "Potomek",
+     "original": "The Offspring",
+     "datum": "1990-03-12",
+     "popis": "Dat se rozhodne uctít odkaz svého tvůrce tím nejlidštějším možným  způsobem – vyrobí si plně funkčního androidního potomka, dceru jménem  Lal. Neobyčejný výtvor však záhy přiláká nevítanou pozornost admirality  Hvězdné flotily..."
+    },
+    {
+     "c": 17,
+     "nazev": "Hříchy otce",
+     "original": "Sins of the Father",
+     "datum": "1990-03-19",
+     "popis": "Worfa navštíví dávno ztracený bratr a sdělí mu, že jejich otec, který  kdysi zahynul rukou Romulanů, je nyní mezi Klingony označován za  romulanského kolaboranta. Worf se s Picardovou podporou pouští do předem  prohraného boje za očištění jména svého rodu..."
+    },
+    {
+     "c": 18,
+     "nazev": "Poslušnost",
+     "original": "Allegiance",
+     "datum": "1990-03-26",
+     "popis": "Kapitán Picard je unesen z Enterprise a nahrazen dvojníkem. Zatímco  falešný Picard vyvolává podezření svým atypickým chováním, pravý kapitán  je uvězněn v malé místnosti s trojicí mimozemšťanů, kteří byli rovněž  uneseni ze svých lodí..."
+    },
+    {
+     "c": 19,
+     "nazev": "Kapitánova dovolená",
+     "original": "Captain's Holiday",
+     "datum": "1990-04-02",
+     "popis": "Kapitán Picard podlehne Rikerovu neúnavnému přesvědčování a vypraví  se na týdenní dovolenou do letoviska na rajské planetě. Dobrodružství na  sebe nedá dlouho čekat. Lovkyně pokladů ho zaplete do honu za  legendárním artefaktem, k němuž se váže fantastické tajemství..."
+    },
+    {
+     "c": 20,
+     "nazev": "Plecháč",
+     "original": "Tin Man",
+     "datum": "1990-04-23",
+     "popis": "Jedinečný zázrak přírody, inteligentní organická vesmírná loď  přezdívaná Plecháč, je oprávněně středem zájmu Federace i Romulanů. Má  to však háček: Plecháč ztratil posádku a zřejmě se teď chystá spáchat  sebevraždu. Zabrání mu v tom betazoidský telepat Tam Elbrun?"
+    },
+    {
+     "c": 21,
+     "nazev": "Planá zábava",
+     "original": "Hollow Pursuits",
+     "datum": "1990-04-30",
+     "popis": "Nesmělý tichošlápek Reginald Barclay propadne kouzlu holografického  simulátoru a začne kvůli simulacím zanedbávat veškeré služební  povinnosti. Kolegové navíc brzy zjistí, čím se vlastně Barclay  v simulátoru doopravdy zabývá..."
+    },
+    {
+     "c": 22,
+     "nazev": "Co nejvíc hraček",
+     "original": "The Most Toys",
+     "datum": "1990-05-07",
+     "popis": "Dat se stal předmětem zájmu zámožného obchodníka a neslavně  proslulého sběratele kuriozit. Vzápětí se stane i exponátem jeho sbírky –  samozřejmě proti své vůli. Únosce naplánoval akci dokonale, takže  posádka Enterprise se domnívá, že jejich přítel zahynul při explozi  raketoplánu..."
+    },
+    {
+     "c": 23,
+     "nazev": "Sarek",
+     "datum": "1990-05-14",
+     "popis": "Slavný vulkánský velvyslanec Sarek přichází na palubu Enterprise, aby  se jako vyjednávač zúčastnil jednání mezi Federací a Legarany. Zdá se  však, jako by s ním vstoupilo na Enterprise ještě něco jiného..."
+    },
+    {
+     "c": 24,
+     "nazev": "Milostný trojúhelník paní Troi",
+     "original": "Ménage à Troi",
+     "datum": "1990-05-28",
+     "popis": "Po úspěšném obchodním jednání si Riker s přáteli vyrazí na piknik na  Betazed. Jsou však nenadále uneseni ferengským daimonem Togem, který se  během jednání zamiloval do Lwaxany, svérázné matky poradkyně Troi..."
+    },
+    {
+     "c": 25,
+     "nazev": "Přeměna",
+     "original": "Transfigurations",
+     "datum": "1990-06-04",
+     "popis": "Neznámý humanoid, nalezený ve vraku mimozemské lodi, vnese na palubu  Enterprise značný rozruch. Má nadpřirozené schopnosti, a navíc prochází  podivnou buněčnou mutací, která zcela mění jeho biologickou podstatu.  Záhy vyjde najevo, že je svými lidmi považován za nebezpečného zločince.  Žádají jeho neprodlené vydání..."
+    },
+    {
+     "c": 26,
+     "nazev": "To nejlepší z obou světů, část první",
+     "original": "The Best of Both Worlds (1)",
+     "datum": "1990-06-18",
+     "popis": "Katastrofické předpovědi se naplnily: Gigantická loď hrozivé rasy  Borgů vstoupila do prostoru Federace a míří přímo k Zemi. Vesmír už  nikdy nebude jako dřív..."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "1990",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "To nejlepší z obou světů, část druhá",
+     "original": "The Best of Both Worlds (2)",
+     "datum": "1990-09-24",
+     "popis": "Kapitán Picard byl násilně začleněn do nepřátelské kolektivní mysli.  Borgská krychle s využitím Picardových znalostí snadno zničila třicet  devět lodí Flotily, které se snažily odříznout jí cestu k Zemi. Komandér  Riker přijal polní povýšení na kapitána Enterprise a jeho loď je nyní  poslední nadějí lidstva..."
+    },
+    {
+     "c": 2,
+     "nazev": "Rodina",
+     "original": "Family",
+     "datum": "1990-10-01",
+     "popis": "Při střetnutí s Borgy utrpěla Enterprise pár šrámů. Nyní proto  podstupuje rozsáhlé opravy v pozemských orbitálních docích. I kapitán  Picard nevyšel z boje bez zranění. Může jen doufat, že mu je návštěva  rodného kraje pomůže zahojit..."
+    },
+    {
+     "c": 3,
+     "nazev": "Bratři",
+     "original": "Brothers",
+     "datum": "1990-10-08",
+     "popis": "Dat začne vykazovat známky poruchy a navede Enterprise na kurz  k neznámé planetě. Žije tu stařík, který se představí jako doktor  Noonien Soong, Datův duchovní otec a konstruktér. I samotného Soonga  však záhy čeká jedno překvapení..."
+    },
+    {
+     "c": 4,
+     "nazev": "Náhle člověkem",
+     "original": "Suddenly Human",
+     "datum": "1990-10-15",
+     "popis": "Enterprise letí na pomoc poškozené talarianské lodi. Na její palubě  nalezne pět mladých pasažérů – čtyři Talariany a jednoho lidského  chlapce, který mezi nimi žije už jedenáct let. Bude vůbec schopen vrátit  se mezi příslušníky vlastního druhu?"
+    },
+    {
+     "c": 5,
+     "nazev": "Vzpomeň si na mě",
+     "original": "Remember Me",
+     "datum": "1990-10-22",
+     "popis": "Zatímco Wesley provádí ve strojovně nevinné experimenty s deformačním  polem warpového pohonu, doktorka Crusherová si začne všímat stále  podivnějších poruch reality. Různí lidé beze stopy mizejí a kromě  doktorky samotné si nikdo nepamatuje, že by kdy existovali..."
+    },
+    {
+     "c": 6,
+     "nazev": "Odkaz",
+     "original": "Legacy",
+     "datum": "1990-10-29",
+     "popis": "Nouzové volání z havarované nákladní lodi zavede Enterprise k planetě  Turkana IV, kterou ovládají dvě soupeřící strany. Politická situace je  krajně nestabilní a záchrana trosečníků si vyžádá velmi opatrné  jednání..."
+    },
+    {
+     "c": 7,
+     "nazev": "Opět spolu",
+     "original": "Reunion",
+     "datum": "1990-11-05",
+     "popis": "Na palubu přichází Worfova někdejší družka. Přivádí mladého  klingonského chlapce, o kterém tvrdí, že je to Worfův syn. Zároveň  doručí Picardovi důležitý vzkaz..."
+    },
+    {
+     "c": 8,
+     "nazev": "Futurum Imperfektum",
+     "original": "Future Imperfect",
+     "datum": "1990-11-12",
+     "popis": "Po neúspěšném výsadku se Riker probudí na ošetřovně – o šestnáct let  později. Zdá se, že se hodně změnilo. Je kapitánem, Picard admirálem, na  můstku slouží Fereng a Federace se právě chystá uzavřít mír s Romulany.  Všechno má jen jedinou vadu: Riker si z uplynulých let nepamatuje ani  minutu..."
+    },
+    {
+     "c": 9,
+     "nazev": "Poslední úkol",
+     "original": "Final Mission",
+     "datum": "1990-11-19",
+     "popis": "Wesley je přijat na Akademii. Picard ho chce před odchodem poctít  posledním úkolem. Vezme tedy Wesleyho jako doprovod na Pentarus V, kde  má urovnat spor mezi místními obyvateli..."
+    },
+    {
+     "c": 10,
+     "nazev": "Ztráta",
+     "original": "The Loss",
+     "datum": "1990-12-31",
+     "popis": "Enterprise uvízne v neznámém vesmírném jevu, který připraví poradkyni  Troi o její empatické schopnosti. Je přesvědčena, že bez vrozené  betazoidské empatie nebude schopna vykonávat svou práci. Rozhodne se  proto na funkci poradkyně rezignovat..."
+    },
+    {
+     "c": 11,
+     "nazev": "Datův den",
+     "original": "Data's Day",
+     "datum": "1991-01-07",
+     "popis": "Enterprise převáží vulkánskou vyslankyni na přísně tajné setkání s romulanskou lodí hluboko uvnitř Neutrální zóny..."
+    },
+    {
+     "c": 12,
+     "nazev": "Zraněný",
+     "original": "The Wounded",
+     "datum": "1991-01-28",
+     "popis": "Přestože od války Federace a Cardassie uplynula řádka let, mnozí  dodnes nedokážou odložit nenávist. Kapitán Benjamin Maxwell z lodi  Phoenix rozpoutá vlastní křížovou výpravu proti Cardassii. Kapitán  Picard se v zájmu míru musí postavit na stranu někdejších nepřátel..."
+    },
+    {
+     "c": 13,
+     "nazev": "Každému po zásluze",
+     "original": "Devil's Due",
+     "datum": "1991-02-04",
+     "popis": "Obyvatelé planety Ventax II před tisíci lety v zájmu míru a  prosperity uzavřeli smlouvu s ďáblem. Dostali, co si přáli, teď se ale  jejich lhůta chýlí ke konci a nastává čas, aby splnili svůj závazek.  Mezi Ventaxiany a ďáblem však stojí kapitán Picard..."
+    },
+    {
+     "c": 14,
+     "nazev": "Stopy",
+     "original": "Clues",
+     "datum": "1991-02-11",
+     "popis": "Enterprise proletí červí dírou a všichni až na Data upadnou do  bezvědomí. Dat tvrdí, že byli v bezvědomí třicet sekund, ale podle  lodních chronometrů to byl celý den. Co se vlastně stalo?"
+    },
+    {
+     "c": 15,
+     "nazev": "První kontakt",
+     "original": "First Contact",
+     "datum": "1991-02-18",
+     "popis": "Enterprise se chystá k prvnímu kontaktu s xenofobními Malcoriany.  Riker proto pracuje na povrchu maskovaný jako Malcorian. Jenže se zraní a  zbytek posádky musí zabránit odhalení jeho původu při vyšetření  v nemocnici..."
+    },
+    {
+     "c": 16,
+     "nazev": "Dítě Galaxie",
+     "original": "Galaxy's Child",
+     "datum": "1991-03-11",
+     "popis": "Enterprise se dostane do problémů. Musí v sebeobraně usmrtit  vesmírného tvora, který ji napadl. Zabitá bytost však byla gravidní a  novorozený potomek považuje hvězdný koráb za svou matku..."
+    },
+    {
+     "c": 17,
+     "nazev": "Noční můry",
+     "original": "Night Terrors",
+     "datum": "1991-03-18",
+     "popis": "Enterprise narazí na loď volně plující vesmírem. Na palubě jsou  všichni mrtví – s výjimkou betazoidského vědce, který se nachází na  prahu šílenství. Co dohnalo ostřílenou posádku fregaty Hvězdné flotily  k masové sebevraždě?"
+    },
+    {
+     "c": 18,
+     "nazev": "Záhadná zmizení",
+     "original": "Identity Crisis",
+     "datum": "1991-03-25",
+     "popis": "Geordi byl kdysi členem výsadku, který vyšetřoval tajemné mizení lidí  na planetě Tarchannen III. Nyní s překvapením zjišťuje, že on a jeho  bývalá kolegyně jsou poslední, kteří z tehdejší pátrací skupiny zbyli.  Ostatní se během uplynulých let kamsi záhadně vytratili..."
+    },
+    {
+     "c": 19,
+     "nazev": "Entý stupeň",
+     "original": "The Nth Degree",
+     "datum": "1991-04-01",
+     "popis": "Enterprise přilétá k samočinnému pozorovacímu komplexu Argus, aby  zjistila, proč už dva měsíce nevysílá žádné údaje. Pravděpodobným  viníkem je mimozemská sonda, nacházející se v bezprostřední blízkosti  zařízení. Na některé členy posádky má však setkání se sondou krajně  znepokojivý vliv..."
+    },
+    {
+     "c": 20,
+     "nazev": "Amorek",
+     "original": "Qpid",
+     "datum": "1991-04-22",
+     "popis": "Enterprise hostí archeologické sympozium a Picard se znovu setkává  s archeoložkou Vash. Jejich vztah však od oné bouřlivé dovolené poněkud  ochladl. Což je záminkou pro Q, aby se je pokusil dát osobitým způsobem  znovu dohromady..."
+    },
+    {
+     "c": 21,
+     "nazev": "Polní soud",
+     "original": "The Drumhead",
+     "datum": "1991-04-29",
+     "popis": "Na Enterprise dojde k nehodě, jejíž okolnosti podezřele připomínají  sabotáž. Z domnělého zločinu je okamžitě obviněn hostující klingonský  důstojník J'Ddan, který měl údajně Romulanům prodat plány motoru  Enterprise. Než se kapitán Picard vzpamatuje, rozpoutá se doslova hon na  čarodějnice..."
+    },
+    {
+     "c": 22,
+     "nazev": "Půl života",
+     "original": "Half a Life",
+     "datum": "1991-05-06",
+     "popis": "Lwaxana Troi se zamiluje do geniálního kaelonského vědce, který s pomocí  Enteprise plní důležitý úkol, jenž má přispět k záchraně jeho domovské  planety.  Okouzlení je oboustranné. Milencům brání ve štěstí jediná věc –  skutečnost, že vědci bude za několik dní šedesát let. Je to čas, kdy  musí spáchat tradiční rituální sebevraždu..."
+    },
+    {
+     "c": 23,
+     "nazev": "Hostitel",
+     "original": "The Host",
+     "datum": "1991-05-13",
+     "popis": "Beverly se zamiluje do trillského velvyslance Odana, který cestuje na  Enterprise za svým příštím úkolem. Když Odan utrpí vážná zranění a  doktorka dostane příležitost ho důkladně prohlédnout, odhalí skutečnost,  která ji vyvede z míry..."
+    },
+    {
+     "c": 24,
+     "nazev": "Vnitřní zrak",
+     "original": "The Mind's Eye",
+     "datum": "1991-05-27",
+     "popis": "Cestou na seminář je Geordi unesen Romulany a podroben mučení, které  z něj má vyrobit poslušného agenta. Jsou mu implantovány žádoucí  vzpomínky a je vyslán zpět na Enterprise. Nikdo z Geordiho kolegů  netuší, že mají ve svých řadách zrádce..."
+    },
+    {
+     "c": 25,
+     "nazev": "Teoreticky",
+     "original": "In Theory",
+     "datum": "1991-06-03",
+     "popis": "Dat se stane objektem milostného zájmu mladičké praporčice, která si  tím kompenzuje zklamání z předchozího vztahu. Zprvu bezradný Dat se  nakonec z ryze experimentálních důvodů rozhodne nabízený vztah přijmout,  a to navzdory skutečnosti, že naprosto nedisponuje emocemi..."
+    },
+    {
+     "c": 26,
+     "nazev": "Usmíření, část první",
+     "original": "Redemption (1)",
+     "datum": "1991-06-17",
+     "popis": "Enterprise míří do Klingonské říše, kde se má Picard zúčastnit  inaugurace nově zvoleného vůdce Vysoké rady. Nad říší se ale stahují  mračna. Rodina neúspěšného kandidáta se chystá rozpoutat nepokoje a  vtáhnout Klingony do občanské války..."
+    }
+   ]
+  },
+  {
+   "cislo": 5,
+   "rok": "1991",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Usmíření, část druhá",
+     "original": "Redemption (2)",
+     "datum": "1991-09-23",
+     "popis": "Worf se rozhodne opustit Hvězdnou flotilu, aby mohl bojovat  v občanské válce. Kapitán Picard se odmítá vměšovat do klingonských  vnitřních záležitostí. Má však podezření, že jednu ze stran tajně  podporují Romulané, a proto přesvědčí velení Flotily, aby zahájilo  blokádu romulanských hranic..."
+    },
+    {
+     "c": 2,
+     "nazev": "Darmok",
+     "datum": "1991-09-30",
+     "popis": "Jazyk Tamarianů je oříškem, na kterém si vylámali zuby i ti nejlepší  lingvisté. Když Enterprise zachytí jejich signál, Picard doufá, že se mu  konečně podaří navázat s touto podivnou civilizací smysluplný kontakt.  Tamariané však nepřestávají šokovat..."
+    },
+    {
+     "c": 3,
+     "nazev": "Podporučík RO",
+     "original": "Ensign Ro",
+     "datum": "1991-10-07",
+     "popis": "Na Enterprise je přidělena praporčík Ro, Bajoranka, která má  Picardovi pomoci při vyjednávání s teroristy. Kapitán ale brzy začne mít  oprávněný pocit, že jedna Ro dokáže způsobit právě tolik problémů jako  celá tlupa po zuby ozbrojených Bajoranů..."
+    },
+    {
+     "c": 4,
+     "nazev": "Marná oběť",
+     "original": "Silicon Avatar",
+     "datum": "1991-10-14",
+     "popis": "Krystalická bytost, s níž se Enterprise už kdysi setkala při návštěvě  Datovy rodné planety, zaútočí tentokrát na bezbrannou kolonii Federace.  Kapitán Picard se rozhodne, že se pokusí s bytostí komunikovat. Činí  tak však k velké nelibosti těch, kteří při útocích zabijáckého krystalu  ztratili blízké..."
+    },
+    {
+     "c": 5,
+     "nazev": "Neštěstí",
+     "original": "Disaster",
+     "datum": "1991-10-21",
+     "popis": "Při srážce s kvantovým vláknem je Enterprise vážně poškozena. Zůstane  ochromeně viset v prostoru. Vnitřní spojení je přerušeno a někteří  členové posádky jsou odříznuti od ostatních. Není to zrovna ideální  chvíle, aby Keiko O'Brienová začala rodit..."
+    },
+    {
+     "c": 6,
+     "nazev": "Hra",
+     "original": "The Game",
+     "datum": "1991-10-28",
+     "popis": "Riker si z dovolené přiveze zajímavou počítačovou hru, která si  v posádce Enterprise záhy získá širokou oblibu. Nikdo zatím netuší, že  vyvolává u hráčů prudkou závislost.\n\nWesley Crusher zrovna tráví na Enterprise prázdniny a velkou měrou  přispěje k dopadení mimozemšťana, který se snaží prostřednictvím Hry  ovládnout posádku lodě."
+    },
+    {
+     "c": 7,
+     "nazev": "Sjednocení, část první",
+     "original": "Unification (1)",
+     "datum": "1991-11-04",
+     "popis": "Picard a Dat se vydávají na tajnou misi. Mají vypátrat vulkanského  velvyslance Spocka, který se ukrývá mezi Romulany. Nikdo neví, proč  vlastně Spock na Romulus odcestoval. Možná to souvisí s podivným  kontrabandem na lodi Ferengů..."
+    },
+    {
+     "c": 8,
+     "nazev": "Sjednocení, část druhá",
+     "original": "Unification (2)",
+     "datum": "1991-11-11",
+     "popis": "Picard se setkává se Spockem a dozvídá se velvyslancovy plány: Snaží se podporovat myšlenku znovusjednocení Vulkánců a Romulanů. Picard má však vážné pochybnosti, zda je bezpečné důvěřovat romulanské vládě..."
+    },
+    {
+     "c": 9,
+     "nazev": "Otázka času",
+     "original": "A Matter of Time",
+     "datum": "1991-11-18",
+     "popis": "Enterprise se snaží odvrátit nukleární zimu na Penthaře IV, vtom se  však na můstku objeví podivný návštěvník. Profesor Rasmussen, cestovatel  z konce šestadvacátého století, si přijde na vlastní oči prohlédnout  legendární loď..."
+    },
+    {
+     "c": 10,
+     "nazev": "Nové perspektivy",
+     "original": "New Ground",
+     "datum": "1992-01-06",
+     "popis": "Enterprise se účastní testu nového druhu pohonu, založeného na  principu solitonové vlny. Worf se mezitím musí vyrovnat se zjištěním, že  jeho syn Alexander, dosud vychovávaný Worfovými lidskými pěstouny, se  rozhodl přestěhovat za otcem..."
+    },
+    {
+     "c": 11,
+     "nazev": "Můj hrdina",
+     "original": "Hero Worship",
+     "datum": "1992-01-27",
+     "popis": "Vědecká loď byla vážně poškozena. Tak vážně, že přežil jen chlapec  jménem Timothy. Protože se nedokáže vyrovnat s prožitým neštěstím, vezme  si za vzor emocemi nevybaveného Data a začne svým zachráncům na  Enterprise předstírat, že je také android..."
+    },
+    {
+     "c": 12,
+     "nazev": "Násilník",
+     "original": "Violations",
+     "datum": "1992-02-03",
+     "popis": "Enterprise převáží delegaci telepatických historiků, kteří provádějí  své výzkumy sondami do těch oblastí lidských mozků, kde jsou uloženy  dávno zapomenuté vzpomínky. Je celkem pochopitelné, že jejich přítomnost  není posádce zrovna příjemná. Zvlášť když jeden z vědců poruší nepsané  pravidlo a začne vstupovat do cizích myslí násilím..."
+    },
+    {
+     "c": 13,
+     "nazev": "Dokonalá společnost",
+     "original": "The Masterpiece Society",
+     "datum": "1992-02-10",
+     "popis": "Uvolněný fragment hvězdné hmoty ohrožuje dosud neznámou pozemskou  kolonii. Katastrofa je na dosah. Jedinou možností záchrany je evakuace.  Vůdce kolonistů však Picardův návrh odmítá. A má pro to pádný důvod..."
+    },
+    {
+     "c": 14,
+     "nazev": "Záhada",
+     "original": "Conundrum",
+     "datum": "1992-02-17",
+     "popis": "Enterprise je zasažena paprskem neznámé mimozemské lodi. Celá posádka  přijde o vzpomínky. Všichni umějí mluvit i řídit loď, ale za žádnou  cenu si nemohou vzpomenout, kdo vlastně jsou a co tu dělají. Nikdo si  také neuvědomuje, že je mezi nimi jedna osoba navíc..."
+    },
+    {
+     "c": 15,
+     "nazev": "Z pozice síly",
+     "original": "Power Play",
+     "datum": "1992-02-24",
+     "popis": "Enterprise zareaguje na nouzové volání z místa, kde před dvě stě lety  zmizela loď USS Essex. Výsadek však na povrchu planety nenalezne nic  víc než zuřící bouře. Přesto se tam ale skrývá ještě něco..."
+    },
+    {
+     "c": 16,
+     "nazev": "Etika",
+     "original": "Ethics",
+     "datum": "1992-03-02",
+     "popis": "Worf je zraněn padajícím nákladním kontejnerem a od pasu dolů ochrne.  Protože je přesvědčen o nevyléčitelnosti zranění, žádá přátele, aby mu  pomohli provést rituální klingonskou sebevraždu..."
+    },
+    {
+     "c": 17,
+     "nazev": "Vyděděnec",
+     "original": "The Outcast",
+     "datum": "1992-03-16",
+     "popis": "Enterprise pomáhá hermafroditní rase J'naii při pátrání po ztraceném  raketoplánu. Náhlé přátelství mezi Rikerem a jeho j'naiiským  spolupracovníkem začne rychle přerůstat v něco mnohem hlubšího. Vztah  však porušuje všechna pravidla rasy J'naii. Citová pouta vázaná na  konkrétní pohlaví jsou v této společnosti přísně zakázána..."
+    },
+    {
+     "c": 18,
+     "nazev": "Příčina a důsledek",
+     "original": "Cause and Effect",
+     "datum": "1992-03-23",
+     "popis": "Členové posádky Enterprise si všimnou podivných úkazů kolem sebe. Zdá  se jim, že všechno už jednou prožili a že s okolní realitou zřejmě není  něco v pořádku. Vysvětlení na sebe nenechá dlouho čekat..."
+    },
+    {
+     "c": 19,
+     "nazev": "Základní povinnost",
+     "original": "The First Duty",
+     "datum": "1992-03-30",
+     "popis": "Wesley se během letových cvičení stane účastníkem nehody, při níž  jeden jeho spolužák zahyne a všech pět tréninkových letounů je zničeno.  Zprvu si všichni myslí, že šlo o nešťastnou náhodu. Následné vyšetřování  však ve výpovědích kadetů odhalí podivné rozpory..."
+    },
+    {
+     "c": 20,
+     "nazev": "Cena života",
+     "original": "Cost of Living",
+     "datum": "1992-04-20",
+     "popis": "Matka lodní poradkyně Lwaxana Troi se chce vdát za muže, kterého si  zvolila podle profilu sestaveného počítačem a nikdy ho osobně neviděla.  Zatímco čeká na palubě Enterprise na setkání s vyvoleným, oblíbí si  Worfova syna..."
+    },
+    {
+     "c": 21,
+     "nazev": "Ideální partnerka",
+     "original": "The Perfect Mate",
+     "datum": "1992-04-27",
+     "popis": "Enterprise převáží vzácný dar pro valtského vůdce. Když na palubu  lstí proniknou dva Ferengové a začnou čenichat ve skladišti, kde je dar  uložen, způsobí tím velké potíže..."
+    },
+    {
+     "c": 22,
+     "nazev": "Vymyšlená přítelkyně",
+     "original": "Imaginary Friend",
+     "datum": "1992-05-04",
+     "popis": "Osamělá Clara si vysnila fiktivní kamarádku, kterou pojmenovala  Isabella. Zatímco Enterprise zkoumá nezvyklou mlhovinu, jež se  zformovala v okolí neutronové hvězdy, Isabella se začne poněkud vymykat  z Clařina vlivu a projevovat vlastní vůli..."
+    },
+    {
+     "c": 23,
+     "nazev": "Já Borg",
+     "original": "I, Borg",
+     "datum": "1992-05-11",
+     "popis": "V troskách havarované borgské průzkumné lodi je nalezen jediný  přeživší – mladý voják. Když ho doktorka Crusherová odpojí od  kolektivního vědomí, začne pomalu vykazovat známky individuálního  myšlení..."
+    },
+    {
+     "c": 24,
+     "nazev": "Další fáze",
+     "original": "The Next Phase",
+     "datum": "1992-05-18",
+     "popis": "Návštěva poškozené romulanské vědecké lodi způsobí LaForgovi a Ro  Larenové mnoho potíží. Během návratu na Enterprise dojde náhodou  k posunu mimo fázi, takže jsou pro zbytek vesmíru neviditelní a  nehmotní..."
+    },
+    {
+     "c": 25,
+     "nazev": "Vnitřní světlo",
+     "original": "The Inner Light",
+     "datum": "1992-06-01",
+     "popis": "Picard je zasažen paprskem z mimozemské sondy a upadne do bezvědomí.  Když se probere, zjistí, že se nachází na cizí planetě ve vesnici plné  přátelských lidí, kteří se chovají, jako by ho znali už odedávna..."
+    },
+    {
+     "c": 26,
+     "nazev": "Šíp času, část první",
+     "original": "Time's Arrow (1)",
+     "datum": "1992-06-15",
+     "popis": "Při vykopávkách v San Franciscu jsou objeveny důkazy, že  v devatenáctém století navštívili Zemi cizinci z jiného světa. Mimo jiné  je objevena i špinavá, otlučená a od těla odtržená Datova hlava.  Skutečnost, že má Dat hlavu dosud pevně na krku, může znamenat jen  jedno: Že se dříve či později nějak dostane do devatenáctého století..."
+    }
+   ]
+  },
+  {
+   "cislo": 6,
+   "rok": "1992",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Šíp času, část druhá",
+     "original": "Time's Arrow (2)",
+     "datum": "1992-09-21",
+     "popis": "Posádka Enterprise pronásleduje Devidiany do minulosti Země, aby je  zastavila dřív, než nějak zasáhnou do dějin lidstva. Devatenácté století  je plné klíčových historických zvratů a k tomu, aby se celé dějiny  odvíjely úplně jinak, by stačila nepatrná změna..."
+    },
+    {
+     "c": 2,
+     "nazev": "Zóna strachu",
+     "original": "Realm of Fear",
+     "datum": "1992-09-28",
+     "popis": "Poněkud neurotický člen posádky Barclay narazí na děsivé nestvůry  žijící uvnitř transportního paprsku. Nikdo mu však nevěří, protože  Barclay už dříve trpěl fobií z cestování paprskem..."
+    },
+    {
+     "c": 3,
+     "nazev": "Vyjednavač",
+     "original": "Man of the People",
+     "datum": "1992-10-05",
+     "popis": "Enterprise má přepravit lumerianského velvyslance Alkara. Během cesty  mu však zemře matka a Alkar požádá Troi, aby s ním provedla tradiční  pohřební meditaci. Tento rituál má na poradkyni podivný vliv..."
+    },
+    {
+     "c": 4,
+     "nazev": "Host",
+     "original": "Relics",
+     "datum": "1992-10-12",
+     "popis": "Enterprise objeví plně funkční gigantickou stavbu, která je  považována za svatý grál vesmírného stavitelství. Na povrchu sféry leží  vrak lodi USS Jenolen, která kdysi zmizela..."
+    },
+    {
+     "c": 5,
+     "nazev": "Únosci",
+     "original": "Schisms",
+     "datum": "1992-10-19",
+     "popis": "Geordiho zlepšovací návrh se vymkne z ruky a upoutá pozornost cizinců  z jiné dimenze, kteří se začnou o Enterprise a její posádku velice  zajímat. Někteří členové posádky si začnou vybavovat bizarní zážitky,  které napřed považují za pouhé noční můry..."
+    },
+    {
+     "c": 6,
+     "nazev": "Slečna Q",
+     "original": "True Q",
+     "datum": "1992-10-26",
+     "popis": "Na palubě cestuje studentka, která má zvláštní nadpřirozené  schopnosti. Dokáže zhmotňovat a zase nechat mizet různé věci,  manipulovat s předměty na dálku nebo zastavit čas. Vše se vysvětlí, když  se na Enterprise dostaví Q..."
+    },
+    {
+     "c": 7,
+     "nazev": "Rošťáci",
+     "original": "Rascals",
+     "datum": "1992-11-02",
+     "popis": "Když se Picard a jeho pobočníci vracejí na Enterprise, ohrozí je  nebezpečná anomálie. O'Brien je dokáže přenést na palubu, ale dojde  k poruše. Všichni čtyři se zhmotní jako sotva dvanáctileté děti..."
+    },
+    {
+     "c": 8,
+     "nazev": "Tenkrát v Deadwoodu",
+     "original": "A Fistful of Datas",
+     "datum": "1992-11-09",
+     "popis": "Worf a Alexander tráví volno v simulátoru, kde si užívají westernovou  simulaci. LaForge se mezitím pokouší připojit Datův mozek k palubnímu  počítači Enterprise, což má na fungování lodi neblahý vliv..."
+    },
+    {
+     "c": 9,
+     "nazev": "Kvalita života",
+     "original": "The Quality of Life",
+     "datum": "1992-11-16",
+     "popis": "Dat je přesvědčen, že inteligentní opravářské automaty jsou  mechanická forma života a měl by jim být přiznán status živých bytostí.  Je natolik přesvědčen o své pravdě, že by za ni obětoval i život  přítele..."
+    },
+    {
+     "c": 10,
+     "nazev": "Změna velení, část první",
+     "original": "Chain of Command (1)",
+     "datum": "1992-12-14",
+     "popis": "Mezi Federací a Cardassií narůstá napětí. Picard je odvelen  z Enterprise a na jeho místo je dosazen kapitán Jellico. Zatímco Jellico  se horko těžko sžívá s posádkou, Picard se vydává na přísně tajnou  špionážní misi..."
+    },
+    {
+     "c": 11,
+     "nazev": "Změna velení, část druhá",
+     "original": "Chain of Command (2)",
+     "datum": "1992-12-21",
+     "popis": "Výzvědná mise se nezdaří. Picard je zajat a čeká ho výslech. Buď bude  spolupracovat, nebo zemře. Ale copak může spolupracovat, když neví, na  co se ho věznitelé ptají?"
+    },
+    {
+     "c": 12,
+     "nazev": "Loď v láhvi",
+     "original": "Ship in a Bottle",
+     "datum": "1993-01-25",
+     "popis": "Geordi s Datem zase jednou zajdou do holosimulátoru a hrají si na  Sherlocka Holmese. Přitom narazí na několik anomálií, které má poručík  Barclay opravit. Během opravy se objevuje starý známý Profesor Moriarty a  informuje Barclayho, že je živý a že ho Picard držel po čtyři roky  v zajetí."
+    },
+    {
+     "c": 13,
+     "nazev": "Aquiel",
+     "datum": "1993-02-01",
+     "popis": "Enterprise přilétá ke vzdálené subprostorové retranslační stanici  poblíž klingonské hranice. Riker, Geordi a Beverly uvnitř neleznou pouze  vystrašeného psa a něco, co vypadá jako ostatky poručíka Aquiel Unhari.  Posádka se snaží zjistit, co se přesně stalo. Riker s Beverly mají  podezření, že Unhari i nezvěstný poručík Rocha, mohou být obětmi  klingonského útoku. Geordi poté nalezne osobní deník Aquiel, který mnoho  vypovídá o její povaze a citech. Jak Geordi dál a dál studuje její  záznamy, je mu Aquiel stále víc a víc sympatičtější. Na Enterprise  dorazí i klingonský guvernér Torak, aby se také podílel na  vyšetřování..."
+    },
+    {
+     "c": 14,
+     "nazev": "Tvář nepřítele",
+     "original": "Face of the Enemy",
+     "datum": "1993-02-08",
+     "popis": "Deanna Troi se probudí v tmavé místnosti. Pomalu vstane a když se jí  podaří rozsvítit a uvidí v zrcadle svou podobu, nemůže uvěřit svým  očím... je Romulanka.  Zanedlouho do místnosti vejde romulanský důstojník N'Vek a informuje jí,  že byla unesena, aby hrála roli majora Rakal, člena Tal Shiar. Troi  okamžitě odmítá, ale N'Vek jí pohrozí smrtí. Troi musí chtě nechtě  souhlasit a N'Vek jí sdělí její úkol: Má přinutit Toreth - komandéra  válečného ptáka, na jehož palubě se nacházejí, aby zamířila do systému  Kaleb, kde mají naložit záhadný náklad..."
+    },
+    {
+     "c": 15,
+     "nazev": "Tapisérie",
+     "original": "Tapestry",
+     "datum": "1993-02-15",
+     "popis": "Kapitán Picard je při překvapivém útoku smrtelně zraněn a vinou svého  umělého srdce umírá. Q, který se nad ním zjeví jako bůh, mu dává  možnost prožít život znovu a jinak. Picard se opět stává mladým kadetem a  má možnost zabránit hloupé rvačce, v níž kdysi přišel o své srdce a  dostal náhradou umělé. Picard tuší, že s ním Q nehraje fér, ale přinutí  se zkrotit touhu riskovat a vyhne se boji. Jeho vlastní srdce mu sice  zůstane - ale jaký bude Jean-Luc Picard teď? Změní se? Nebo ne?"
+    },
+    {
+     "c": 16,
+     "nazev": "Dědictví otců, část první",
+     "original": "Birthright (1)",
+     "datum": "1993-02-22",
+     "popis": "Enterprise \"zaparkovala\" na Deep Space Nine, aby pomohla při obnově škod  na Bajoru způsobených Cardassianskou okupací. Worf je na stanici  kontaktován záhadným Yridianem, který tvrdí, že Worfův otec Mogh  nezemřel před 25 lety u Khitomeru, jak se Worf domnívá, ale dosud žije  v romulanském zajetí. Dat se zatím seznamuje s doktorem Bashirem a  společně začnou zkoumat jakýsi přístroj z gama kvadrantu, který v Datovi  probudí dosud neznámé schopnosti..."
+    },
+    {
+     "c": 17,
+     "nazev": "Dědictví otců, část druhá",
+     "original": "Birthright (2)",
+     "datum": "1993-03-01",
+     "popis": "Zatímco Dat experimentuje se svou nově objevenou schopností snít, byl  Worf při pátrání po svém otci uvezněn v romulanském zajateckém táboře  v systému Karaya. Seznamuje se s jednotlivými obyvateli tábora, který je  tvořen jak Klingony tak Romulany a pokouší se vymyslet plán, jak  všechny zajatce osvobodit. Ale to ještě nezná celou pravdu..."
+    },
+    {
+     "c": 18,
+     "nazev": "Moje loď",
+     "original": "Starship Mine",
+     "datum": "1993-03-29",
+     "popis": "Enterprise zakotví na Remmlerově komplexu, kde má být zbavena  baryonů. Je to postup, při kterém je loď proskenována pro člověka  smrtelnými paprsky, aby se eliminovaly částice, které se na lodi  nahromadily během několika let vesmírných letů. Posádka se přenese na  povrch planety, kolem které stanice obíhá, a je pozvána tamním velitelem  na večírek. Jako poslední, před spuštěním baryonového filtru, opouští  loď Picard a povšimne si technika, který stále pracuje na jednom panelu.  Když technik Picarda uvidí, zaútočí na něj, ale kapitánovi se ho podaří  omráčit. Tím se Jean-Luc zdrží, nestihne přenos na povrch a zůstane na  lodi, která se pomalu začíná zaplňovat smrtelnými paprsky. Ale jak po  chvíli zjistí, není na palubě tak docela sám..."
+    },
+    {
+     "c": 19,
+     "nazev": "Lekce",
+     "original": "Lessons",
+     "datum": "1993-04-05",
+     "popis": "Na palubu přichází nový šéf oddělení výzkumu hvězd, nadporučík Nella  Darenová. Picard, který se šel podívat, proč Enterprise náhle došla  šťáva, na ní narazí a téměř okamžitě se do ní zamiluje. Když se více  sblíží, stojí kapitán před rozhodnutím, zda poslat svou milou na  nebezpečnou misi a nebo dát průchod svým citům..."
+    },
+    {
+     "c": 20,
+     "nazev": "Závod",
+     "original": "The Chase",
+     "datum": "1993-04-26",
+     "popis": "Na Enterprise zavítá dávný Picardův přítel profesor archeologie  Richard Galen, kterého kapitán neviděl už více jak 30 let. Galen  Picardovi nabídne, aby se k němu připojil na roční misi, aby společně  objevili největší archelogický nález, který by mohl změnit rovnováhu  v celé galaxii. Nechce prozradit nic víc, pokud mu Picard neslíbí, že se  k němu připojí. Picard jeho nabídku pečlivě zváží, ale nakonec odmítne a  Galen se vydává na svou výpravu sám. To se mu ale stává osudným, když  na něj okamžitě po opuštění Enterprise, zaútočí Yridiáni. Galen umírá a  jeho tajemství s ním. Picard se ale rozhodne, že musí najít důvod jeho  smrti a vydává se s Enterprise na nebezpečnou výpravu po jeho stopách..."
+    },
+    {
+     "c": 21,
+     "nazev": "Stav mysli",
+     "original": "Frame of Mind",
+     "datum": "1993-05-03",
+     "popis": "Riker je pověřen velením mise na Tilonus IV, planety, na které zavládla  anarchie. K přípravě na nebezpečnou misi zbývá ještě několik dní a Riker  využije svého volného času zkoušením divadelní hry pod režijním vedením  doktorky Crusherové. Riker hraje chovance v ústavu pro duševně choré a  svou roli zrovna moc nezvládá. Zanedlouho si začně všímat zvláštních  věcí - zejména jednoho poručíka, který na něj neustále zírá, kdykoli ho  potká. Poradkyně Troi mu k tomu řekne, že se zřejmě příliš vžívá do své  postavy, která v ústavu trpí. Když konečně dojde na premiéru, Will během  hry zjistí, že kulisy i diváci zmizeli a on se ocitl ve skutečném  blázinci, kde je vězněným chovancem... a nikdo mu nechce naslouchat..."
+    },
+    {
+     "c": 22,
+     "nazev": "Podezření",
+     "original": "Suspicions",
+     "datum": "1993-05-10",
+     "popis": "Guinan navštíví Beverly v její kajutě a zjistí, že si doktorka právě  balí svě věci. Byla uvolněna ze služby a povolána zpět na Zemi, kde se  má dostavit k formálnímu slyšení - a k ukončení své kariéry ve Flotile.  Guinan se jí podaří přesvědčit, aby jí vyprávěla, jak se všechno  seběhlo.  Začalo to tím, že Beverly pozvala na palubu skupinu vědců, aby je  ferengský doktor Reyga mohl seznámit se svým novým vynálezem -  metafázovými štíty, které ochrání loď i v koroně hnězdy. Jeden z vědců  Jo'Bril se dobrovolně přihlásí, že vynález vyzkouší. Do kabiny  raketoplánu začnou ale pronikat baryonové částice a Jo'Brilovi se jen  tak tak podaří uniknout z korony hvězdy. Když se dostane na Enterprise,  je už v bězvědomí a Beverly se ho už nepodaří zachránit..."
+    },
+    {
+     "c": 23,
+     "nazev": "Právoplatný dědic",
+     "original": "Rightful Heir",
+     "datum": "1993-05-17",
+     "popis": "Worf jednoho rána nenastoupí do služby a Riker jde do jeho kajuty  zjistit proč. Když vstoupí, uvidí Worfa uprostřed jakéhosi Klingonského  rituálu nevšímajícího si vnějšího světa... tedy dokud ho Riker  nevyrušil.\n\nPozději, když se Worf ve službě špatně soustředí, za ním zajde i Picard.  Worf mu nakonec vysvětlí, že od své nedávné návštěvy soustavy Karaya,  odkud sebou přivedl několik klingonských dětí, se cítí opuštěně.  Pokoušel se vyvolat vizi Kahlesse - největšího klingonského válečníka,  který před stoletími sjednotil jeho lid, a který slíbil, že se jednoho  dne vrátí, aby je opět vedl. Picard dovolí Worfovi, aby navštívil  planetu Boreth, kde Kahlessovi následovníci očekávají návrat svého  vůdce. Worf se opět pokusí v lávových jeskyních Borethu o rituál. A  tentokrát se mu Kahless opravdu zjeví. Má to jedinou vadu ... je z masa a  krve!"
+    },
+    {
+     "c": 24,
+     "nazev": "Druhá šance",
+     "original": "Second Chances",
+     "datum": "1993-05-24",
+     "popis": "Enterprise se vrací na planetu Nervala IV, kterou musela Flotila před  osmi lety nuceně evakuovat, aby vyzvedla data, která zde zanechali  výzkumnící Flotily. V distorzním poli planety se totiž zrovna otevřelo  transportní okno, kterým se může přenést několik lidí. Byl to právě  Riker, který tehdy ještě jako poručík na lodi Potěmkin, vedl před osmi  lety výsadek.  Ale když se s týmem přenese na povrch nyní, je překvapen, když proti  němu stojí jeho druhé já - identické dvojče. Oba Rikerové vedli  výsadkový tým před osmi lety, ale jen jeden se přenesl bezpečně zpět na  Potěmkin. Druhý poručík Riker tvrdí, že se přenos nepodařil a distorzní  pole planety ho uvěznilo na povrchu. Když se oba přenesou na Enterprise,  doktorka Crusher zjistí, že jsou geneticky nerozeznatelní.  Geordi nakonec přijde s teorií, která by celou situaci vysvětlovala. Ale  od této chvíle jsou na lodi dva Rikerové, oba stejně skuteční, kteří  žijí odlišné životy, ale jsou přitahováni ke stejné ženě..."
+    },
+    {
+     "c": 25,
+     "nazev": "Past v čase",
+     "original": "Timescape",
+     "datum": "1993-06-14",
+     "popis": "Enterprise je spolu s romulanskou lodí uvězněna v časoprostorové  anomálii, kde plyne čas nesmírně pomalu. Warp jádro Enterprise je navíc  porušeno, a pokud se čas opět rozeběhne, loď bude v okamžiku zničena  explozí..."
+    },
+    {
+     "c": 26,
+     "nazev": "Vpád, část první",
+     "original": "Descent (1)",
+     "datum": "1993-06-21",
+     "popis": "Enterprise odpoví na nouzový signál z Ohniaky III. Když Entperise  přiletí na místo, uvidí cizí neznámou loď na orbitě kolem planety.  Pokusy o komunikaci selžou a proto se Worf, Riker a Dat přenesou na  povrch, kde naleznou pouze mrtvá těla. Když se Datovi, po chvíli  hledání, podaří otevřít jedny dveře, vrhne se na něj Borg, který stál za  nimi. Ale není sám a výsadkový tým se ocitá pod těžkým útokem. Ve  stejnou chvíli zaútočí cizí loď i na Enterprise. Borgové se ale chovají  podivně, nejsou už tak chladní a dokonce se při přestřelce kryjí.  Chovají se skoro jako by byli samostatnými jedinci, raději zabíjejí než  asimilují. Navíc znají Datovo jméno a soustředí se hlavně na něj. Dat je  přinucen bojovat holýma rukama a když zabije jednoho Borga, vypadá,  jako by z toho měl potěšení..."
+    }
+   ]
+  },
+  {
+   "cislo": 7,
+   "rok": "1993",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Vpád, část druhá",
+     "original": "Descent (2)",
+     "datum": "1993-09-20",
+     "popis": "Picard, Geordi a Troi jsou uvězněni Lorem a Datem. Dat prožívá další  emoce. Na minulém životě už mu vůbec nezáleží a s klidným srdcem provádí  na Geordim experimenty, které by ho mohly stát život.  Mezitím na Enterprise, která je pod velením Beverly, zaútočí borgská  loď. Beverly se podle rozkazu stahuje k transwarp tunelu a nechává tak  posádku na povrchu bez ochrany..."
+    },
+    {
+     "c": 2,
+     "nazev": "Vztahy",
+     "original": "Liaisons",
+     "datum": "1993-09-27",
+     "popis": "U.S.S. Enteprise přivítá dva Iyaaranské velvyslance, Loquela a Byletha,  kteří navštíví loď v rámci \"kulturní výměny\". Kapitán Picard naopak  cestuje na jejich planetu. Před tím než odletí, určí Deannu a Rikera,  aby byli styčnými důstojníky s oběma velvyslanci. Ale když Byleth  zahlédne Worfa, okamžitě požaduje, aby byl jeho průvodcem Worf. Picard  odlétá s Iyaaranem jménem Voval, který je ale velmi nekomunikativní.  Jejich mlčení je přerušeno selháním lodi, a oba ztroskotají na neznámé  pusté planetě.  Pilot je v komatu a Jean-Luc se vydá hledat pomoc. Na bouřlivém povrchu  planety ho ale zasáhne blesk a jeho bezvědomé tělo odtáhne neznámá  životní forma..."
+    },
+    {
+     "c": 3,
+     "nazev": "Lidská sonda",
+     "original": "Interface",
+     "datum": "1993-10-04",
+     "popis": "Geordi zkouší novou mechanickou řízenou sondu, která je napojena přímo  na jeho VISOR a tedy přímo na jeho mozek. Sonda je vyslána na vědeckou  loď U.S.S. Raman, která zůstala uvězněna v turbulentní atmosféře  zvláštní plynné planety.  Když se Geordi připravuje na misi, obdrží kapitán Picard špatné zprávy  od admirála Holta. U.S.S. Hera pod velením Geordiho matky bezestopy  zmizela a je považována za nezvěstnou."
+    },
+    {
+     "c": 4,
+     "nazev": "Gambit, část první",
+     "original": "Gambit (1)",
+     "datum": "1993-10-11",
+     "popis": "Picard zmizí při svém archeologickém výletu. Riker, Troi, Beverly a Worf  po něm pátrají ve špinavém baru v místě, kde byl viděn naposledy.  Většina štamgastů jim ale vůbec nic neřekne.  Nakonec Worf objeví jednoho Yridiána, který vypadá jako by něco věděl,  ale bojí se mluvit. Výměnou za bezpečný odlet na Enterprise nakonec  prozradí, co viděl. Podle něj na Picarda zaútočilo před několika týdny  pár alienů a po střelbě se jeho tělo vypařilo. Beverly provedla scan a  ten to potvrdil. Kapitán zemřel..."
+    },
+    {
+     "c": 5,
+     "nazev": "Gambit, část druhá",
+     "original": "Gambit (2)",
+     "datum": "1993-10-18",
+     "popis": "Riker je zajat piráty. Spolu s Picardem, který vystupuje pod krycím  jménem Galen, musí zmařit záměry jejich vůdce. Ve hře je legendární  vulkanský artefakt.\n\nPoté, co Enterprise odrazí útok pirátské lodě, kde je vězněn Riker, ji  Dat nechá odletět, protože si myslí, že jde o součást komandérova plánu.  Později Tallera odhalí Picardovo přestrojení. Baran začíná Rikerovi  stále více věřit, ale Will musí na důkaz své loajality Picarda zabít..."
+    },
+    {
+     "c": 6,
+     "nazev": "Vidiny",
+     "original": "Phantasms",
+     "datum": "1993-10-25",
+     "popis": "Dat je rozrušen svou první noční můrou, ve které ho skupina 'dělníků'  napadne a rozebere. Geordi si ale myslí, že to je jen další úroveň jeho  programu na sny a vrací se k práci. Instaluje totiž nové warp jádro. Při  jeho prvním spuštění však dojde k selhání.  Později Troi zajde za Datem, protože se Dat obává spustit svůj noční  program. Nakonec ho přemluví a Dat jde spát. Ve snu uvidí Worfa  pojídajícího dort, který má živou hlavu poradkyně Troi. Náhle se probudí  a u své postele uvidí stát Troi, Worfa a Geordiho. Měli o něj strach,  protože poprvé ve svém životě zaspal. Vše by bylo v pořádku, kdyby se  jeho sny nezačaly projevovat i v bdělém stavu."
+    },
+    {
+     "c": 7,
+     "nazev": "Temný kout",
+     "original": "Dark Page",
+     "datum": "1993-11-01",
+     "popis": "U.S.S. Enterprise přivítá delegaci Cairnů, telepatické rasy, která vůbec  nekomunikuje mluvenou řečí. Proto je na pomoc přivolán prostředník  s telepatickými schopnostmi, Lwaxana Troi. Okamžitě po svém příletu se  snaží dát dohromady svou dceru, Deannu Troi, s Maquesem, starším  diplomatem Cairnů. Deanna chce nejprve matce vynadat, ale Lwaxana se  rozbrečí. Později se Maques Troi omluví za nevydařené první setkání a  také jí sdělí, že část Lwaxaniny mysli je skryta v temnotě. Druhý den je  Deanna šokována, když její matka napomene Rikera, že se Deanny dotknul.  Poradkyně vezme svou matku k Beverly, která zjistí, že Lwaxana má  nízkou hladinu psilosininu, telepatického neurotransmitéru. Lwaxaně je  zakázáno na čas používat telepatii a Deanna se nabídne, že bude  pokračovat v jednání s Cairny. Ale jakmile začne jednání, Lwaxana poruší  doktorčin zákaz a komunikuje s Maquesem, což má za následek její  kolaps.\n\nDeanna sonduje mysl matky, aby jí pomohla probrat se z kómatu. V matčině  mysli náhle narazí na temný kout – potlačenou vzpomínku z doby před  třiceti lety..."
+    },
+    {
+     "c": 8,
+     "nazev": "Spojení",
+     "original": "Attached",
+     "datum": "1993-11-08",
+     "popis": "Picard a Beverly se připravují na návštěvu Kesů, části obyvatel  planety Kesprytt, která je rozdělena na dvě společnosti, právě na Kesy a  Prytty. Kesové požádali o vstup do Federace, zatímco Pryttové nemají  žádné kontakty s vnějškem, a protože je to bezprecedentní případ, Picard  s Beverly mají situaci prověřit. Worf se je pokusí přenést ke Kesům,  ale ani jeden z nich nedorazí na určené místo. Místo toho skončí  v pryttském vězení. Je jim implantováno elektronické zařízení, které  spojuje jejich mysli a díky kterému se jeden bez druhého nedokáže  obejít. Pryttský ministr Lorin jim sdělí, že byli uvězněni kvůli  podezření ze spolupráce s Kesy a implantované přístroje mají odhalit  pravdu."
+    },
+    {
+     "c": 9,
+     "nazev": "Síla přírody",
+     "original": "Force of Nature",
+     "datum": "1993-11-15",
+     "popis": "U.S.S. Enterprise dostane zprávu o zmizení lékařské transportní lodi  U.S.S. Fleming v Hekaranském koridoru, což je několik světelných let  široký průchod oblastí plnou tetryonových částic, které znemožnují  navigaci lodím s warp pohonem. Když je poblíž objevena ferengijská loď,  Beverly podotkne, že Ferengové mohli Fleming přepadnout a ukrást cenný  bio-mimetický gel. Když přiletí blíž je posádka překvapena tím, že pohon  ferengijské lodi je nefunkční a nyní se jí téměř nedostává energie.  Ferengové nejprve neodpovídají na volání Enterprise, ale pak se jejich  loď probudí a vypálí na Enterprise.\n\nPozději dva vědci informují posádku o novém objevu – užívání warp pohonu může mít dopad na celou Galaxii..."
+    },
+    {
+     "c": 10,
+     "nazev": "Odkaz",
+     "original": "Inheritance",
+     "datum": "1993-11-22",
+     "popis": "U.S.S Enterprise míří k planetě Atrea IV, aby zabránila hrozící  přírodní katastrofě. Dva vědci, manželé Pran a Juliana Tainerovi,  vysvětlí, že žhavé jádro Atrei krystalizuje. Následkem toho se stane  planeta neobyvatelnou. Dat navrhuje, aby přímo do centra planety  vstříkli plasmu a Pran s Julianou souhlasí. Po poradě zajde Juliana za  Datem a sdělí mu překvapující novinky - kdysi byla vdaná za doktora  Soonga a v podstatě je Datovou matkou. Vysvětlí mu, že jeho vzpomínky na  ní byly vymazány po útoku krystalické entity na Omicron Theta. Doktor  Soong chtěl Data reaktivovat, ale byl i s Julianou přinucen odletět bez  něho. Když jí ale Dat sdělí, že doktor Soong před několika lety zemřel,  je Juliana otřesena a chce s Datem strávit nějaký čas, aby se opět  poznali."
+    },
+    {
+     "c": 11,
+     "nazev": "Paralely",
+     "original": "Parallels",
+     "datum": "1993-11-29",
+     "popis": "Worf se raketoplánem vrací jako vítěz ze soutěže v souboji  s bat'lethy. Po svém příjezdu zjistí, že pro něj posádka připravila  narozeninový večírek, z čehož není zrovna nadšený. Navíc začíná  pociťovat závratě a je dezorientovaný. Pak se mu zdá, že narozeninový  dort změnil barvu a v místnosti se objevil kapitán Picard, který tam  dříve nebyl, ale při tom nikdo dveřmi jeho kajuty nevešel. Později si  Worfa zavolají Dat s Geordim, aby mu ukázali, jak byl Argusský komplex  přeprogramován, aby fungoval jako špionážní zařízení. Worf podle záznamů  v komplexu vystopuje cardassianskou loď a chce začít se scanováním. V  tom ale opět dostane závrať a když se vzpamatuje, uvidí Data a Geordiho  jak pracují na úplně opačném konci místnosti než před chvílí. Zajde si  proto za Beverly na ošetřovnu, ale ta jen řekně, že zřejmě ještě  odeznívá rána, kterou Worf schytal při bat'lethovém souboji. Worf je  šokován, protože si nepamatuje, na žádný zásah a pospíchá do své kajuty,  aby dokázal opak. Jaké je ale jeho překvapení, když vyndá svou trofej,  na které stojí, že skončil na devátém místě. Už nepochybuje, že se tu  něco děje..."
+    },
+    {
+     "c": 12,
+     "nazev": "Pegasus",
+     "original": "The Pegasus",
+     "datum": "1994-01-10",
+     "popis": "Na Enterprise přichází admirál Pressman, který byl kdysi Rikerovým  velícím důstojníkem při jedné tajné misi. Riker je šokován, když se  dozví, že byli v romulanském systému Devolin nalezeny trosky jejich  staré lodi Pegasus, která se i s posádkou ztratila před dvanácti lety.  Pressman vysvětlí, že musí Pegasus najít a zajistit, aby se Romulanům  nedostala do rukou jakási technologie, která byla na Pegasus  nainstalována.  Pátrání začíná a Enterprise se střetává s romulanským válečným ptákem,  který má očividně stejný úkol jako oni. Později, když Riker s Pressmanem  probírají, co se stalo na Pegasu, je Riker pobouřen, když mu Pressman  prozradí pravý důvod svého zájmu o tu starou loď. Snaží se zamaskovat  experiment, který zapříčinil před dvanácti lety nehodu. Řekne Rikerovi,  že má pověření přímo od šéfa bezpečnosti Flotily a přikáže mu, aby vše  udržel v tajnosti dokonce i před kapitánem Picardem..."
+    },
+    {
+     "c": 13,
+     "nazev": "Domů",
+     "original": "Homeward",
+     "datum": "1994-01-17",
+     "popis": "U.S.S. Enterprise odpoví na nouzové volání od Nikolaie Rozhenka, Worfova  nevlastního bratra, který pracuje jako pozorovatel na Boraalu II,  planetě, která je odkázána k sebezničení. Protože Boraalané nevědí nic  o cestování vesmírem, Picard vyšle na povrch Worfa v převleku Boraalana.  Nikolaie nemusí dlouho hledat, se skupinou domorodců se ukrývá  v jeskyni, když je také převlečen za Boraalana. Oba se tajně přenesou na  Enterprise, kde Nikolai přednese plán, jak zachránit alespoň jeho malou  skupinku. Picard ale odmítá, protože by to bylo porušením Základní  směrnice. Následně je Boraal II zničen.  Zanedlouho poté začínají na Enteprise kolísat dodávky energie. Worf  hledá příčinu, kterou je simulátor, kde nalezne Nikolaie i s jeho  skupinkou vesničanů, kteří v holografickém prostředí netuší, že opustili  svoji rodnou planetu..."
+    },
+    {
+     "c": 14,
+     "nazev": "Milenec",
+     "original": "Sub Rosa",
+     "datum": "1994-01-31",
+     "popis": "Enterprise zamíří ke Caldosu IV, aby se Beverly mohla zúčastnit pohřbu  své babičky Felisy Howard. Při obřadu Beverly zahlédne zvláštního  mladého muže, který do babiččina hrobu hodí kamélii - její oblíbenou  květinu a vědoucně na Beverly pohlédne.  Když se Beverly vrátí do babiččina starého domu je vyrušena Nedem  Quintem, který se o dům stará už pět let. Ned trvá na tom, aby mu  Beverly vydala svícen, který se v její rodině po generace dědí, protože  podle jeho slov přináším ženám z rodiny Howardů neštěstí. Beverly se ale  svícnu nechce vzdát a rázně Neda vykáže ze dveří. Mezitím na Enterprise  Dat s Geordim zjistí, že v Caldosském systému pro kontrolu počasí se  objevila porucha, která by mohla mít na život na povrchu neblahý vliv.  Beverly nalezne deník Felisy a dozví se z něho, že měla milence jménem  Ronin. Odnese si deníky na Enterprise, aby si je mohla podrobně přečíst.  Později v noci sám od sebe zhasne svícen, sama se odkryje Beverlina  přikrývka a mužský hlas zašeptá její jméno. Když ale Beverly prudce  procitne, uvidí jen prázdnou místnost. Možná měl Ned pravdu, a něco se  opravdu děje..."
+    },
+    {
+     "c": 15,
+     "nazev": "V podpalubí",
+     "original": "Lower Decks",
+     "datum": "1994-02-07",
+     "popis": "Během vyhodnocování nižších důstojníků, vzrůstá ve skupince čtyř členů  posádky napětí. Jsou to sestra Alyssa Ogawa, Sam Lavelle, Bajoranka Sito  Jaxa a mladý Vulkánec Taurik. Vše se ještě zhorší, když jim Ben, číšník  v baru, prozradí, že Sito a Lavelle jsou navrženi na stejné místo,  funkci operačního důstojníka.  Sito se nedaří při tréninku a proto si myslí, že Lavelle má místo jisté.  Později ukazuje Taurik Geordimu novou počítačovou simulaci, kterou  vyvinul, ale Geordi není příliš spokojen s Vulkancovými schopnostmi.  Jediná, která je na tom dobře, je Ogawa, Beverly už jí totiž prozradila,  že ji doporučí na povýšení.  Všichni čtyři prátelé se scházejí, aby si pověděli o svých úspěších.  Lavelle spekuluje, že si na něj Riker zasedl. Ben mu poradí, aby si  s ním promluvil jako s člověkem, ale jeho pokus dost krutě selže.  Později to vypadá, že Enterprise dostala nové rozkazy a mladí důstojníci  budou muset ukázat, co umí ve skutečné krizi.\n\nZdá se, že jsou velící důstojníci zapleteni v nějakém spiknutí..."
+    },
+    {
+     "c": 16,
+     "nazev": "Tvé vlastní já",
+     "original": "Thine Own Self",
+     "datum": "1994-02-14",
+     "popis": "Dat je poslán na Barkon IV, pre-industriální planetu, s rutinním úkolem,  vyzvednout radiokatinví materiál ze sondy, která tam ztroskotala. Ale  něco se nepovedlo. Datovi to kompletně vymazalo paměť a bez vědomí toho,  kdo nebo kde je, pomalu dojde k nejbližší vesnici i s kontajnerem plným  radioaktivního kovu.  Zakrátko se spřátelí s Garvinem a jeho dcerou Giou, kteří ho vemou  k sobě. Garvin pak otevře nebezpečný kontejner, protože doufá, že tak  zjistí něco o Datově identitě.\n\nNa palubě Enterprise dostane Deanna Troi zálusk na velitelské křeslo a  požádá o povýšení. Musí projít zkouškami, které nevede nikdo jiný než  Will Riker..."
+    },
+    {
+     "c": 17,
+     "nazev": "Masky",
+     "original": "Masks",
+     "datum": "1994-02-21",
+     "popis": "Krátce poté, co Enterprise začala scanovat 87 miliónů let starou kometu,  se po palubě Enterprise začnou objevovat záhadné artefakty, stejně jako  symboly ve tvaru růžice a několik cizích ikon, které jsou vždy spojeny  do růžicové formace.  Posádka se snaží znaky rozluštit, ale počítač ani nedokáže identifikovat  ikony. Riker s Geordim si uvědomí, že zřejmě během scanování byly do  lodního počítače Enteprise nahrány nějaké cizí informace. Rozhodnou se  proto rozbít vnější obal komety, aby se podívali na její obsah. Ale než  to stačí udělat, Dat si najednou uvědomí, že ty symboly dokáže  identifikovat.  Zdá se, že cizí informace nestáhl jen počítač Enterprise, ale i Dat, na kterého to má velice podivný vliv..."
+    },
+    {
+     "c": 18,
+     "nazev": "Cizíma očima",
+     "original": "Eye of the Beholder",
+     "datum": "1994-02-28",
+     "popis": "Člen posádky Enterprise poručík Kwan, spáchá sebevraždu - skočí do  proudu plasmy ve warp gondole v jejíž kontrolní místnosti měl své  pracoviště. Troi a Worf se pustí do vyšetřování a zjístí, že Kwan byl  zcela normální. Chodil s poručíkem Calloway, která je jeho činem také  překvapena, stejně jako jeho nadřízený. Troi se vyšplhá po žebříku až  k místu odkud Kwan skočil a je náhle zaplavena panikou i strachem.  Protože byl Kwan částečný empat, Beverly si myslí, že je to nějaké  empatické echo, které zde zanechal těsně před svou sebevraždou.  Worf s Deannou se při společné práci začnou velmi sbližovat, narazí na  stopy vraždy, která se na témže místě odehrála před osmi lety, ale  s Troi se začne dít něco divného, začíná být dezorientovaná a přestává  rozlišovat co je realita a co jen její představy..."
+    },
+    {
+     "c": 19,
+     "nazev": "Geneze",
+     "original": "Genesis",
+     "datum": "1994-03-21",
+     "popis": "Doktorka Crusherová připravuje pro hypochondrického Barclayho syntetické  T-buňky, protože přišel s chřipkou, proti které je jeho imunitní systém  bezmocný.  Dat se mezitím připravuje na narození Flíčkových koťátek a sestra Ogawa oznámí, že je také těhotná.  Worf využívá času k testování nově vylepšených zbraní, při kterém mu  unikne jedno torpédo. Picard s Datem si vezmou raketoplán a vydají se za  ním, aby torpédo zneškodnili.  Když se po úspěšně splněném úkolu vrátí na Enterprise, jsou šokováni,  když uvidí loď pohybující se volně prostorem bez energie. Když se  dostanou na palubu, zjistí, že hlavní počítač a většina systémů je mimo  provoz a po palubě se pohybují zvláštní zvířecí tvorové..."
+    },
+    {
+     "c": 20,
+     "nazev": "Konec cesty",
+     "original": "Journey's End",
+     "datum": "1994-03-28",
+     "popis": "Admirál Nachayev informuje kapitána Picarda, že byla mezi Cardassiany a  Federaci ustanovena dohoda o nových hranicích, podle které se některé  kolonie Federace ocitnou v prostoru Cardassie. Picard má za úkol  evakuovat Dorvan IV, která se před dvaceti lety stala koloníí  severoamerických indiánů. Picard jí připomene, že indiáni již byli  jednou v historii vyhnáni ze svého území, ale Nachayev je neoblomná a  přikáže mu, aby je odtamtud dostal \"jakýmikoli prostředky\".  Picard s Troi se tedy setkají s členy kmenové rady Dorvanu, kteří ale  podle očekávání nehodlají z nového domova odejít. Mezitím na Enterprise  přiletí na prázdniny Wesley Crusher, ale chová se velmi znuděně a  podivně. Když ho uvidí indián Lakanta, seznámí se s ním a sdělí mu, že  tu na něho již dlouho čeká a může mu pomoci nalézt odpovědi, které jeho  duše hledá..."
+    },
+    {
+     "c": 21,
+     "nazev": "Prvorozený",
+     "original": "Firstborn",
+     "datum": "1994-04-25",
+     "popis": "Worf má starosti, protože se přiblížil čas, kdy by měl Alexandr projít  rituálem, ve kterém mladí Klingoni veřejně prohlásí, že se chtějí stát  válečníky. Je ale zklamán a šokován, když Alexandr i jenom možnost, že  by se měl stát válečníkem, rozhodně odmítne.  Picard poradí Worfovi, že kdyby Alexandr věděl více o svém klingonském  původu, možná by změnil názor a proto zařídí, aby Enterprise mohla  zastavit na planetě Maranga IV, aby se Worf se svým synem mohl zůčastnit  klingonské slavnosti Kot'baval. Zdá se, že to na Alexandra zapůsobilo, a  to hlavně poté, co se sám zůčastnil tradiční klingonské bitevní hry.  Když ale padne tma, objeví se tři Klingoni a s tasenými noži se vrhnou  na Worfa a Alexandra..."
+    },
+    {
+     "c": 22,
+     "nazev": "Pokrevní pouta",
+     "original": "Bloodlines",
+     "datum": "1994-05-02",
+     "popis": "Picard obdrží velmi zneklidňující zprávu od Daimona Boka, Ferenga,  kterému před lety Picard zabil syna v bitvě. Bok ho informuje, že hodlá  synovu smrt konečně pomstít a to tak, že zabije syna Picardova, Jasona  Viga. Picard je překvapen, že by měl mít syna a sám tomu nevěří, ale  musí přiznat, že se asi rok před Jasonovým narozením znal s jeho matkou.  Jason je ale v nebezpečí, ať už je Picard otcem nebo ne a proto ho  začne hledat. Nalezne ho na Camoru V, a okamžitě překvapeného mladíka  přenese na palubu. Seznámí ho se situací a Jason nakonec souhlasí  s genetickým testem, který k Picardovu překvapení potvrdí, že je Jason  opravdu jeho synem."
+    },
+    {
+     "c": 23,
+     "nazev": "Zrození",
+     "original": "Emergence",
+     "datum": "1994-05-09",
+     "popis": "Na Enterprise začíná nevysvětlitelně selhávat několik systémů. Nejprve  se v simulátoru sám od sebe objeví jedoucí vlak z jiného programu, a pak  loď sama přejde na warp a všechny přístupy k ovládání pohonu jsou  zablokovány. Picard chce za každou cenu získat opět kontrolu nad lodí a  velí nouzově odstavit jádro, ale před tím, než Geordi jeho rozkaz  vykoná, loď sama přejde na impuls. Vyšetřování odhalí, že loď chránila  jen sama sebe - kdyby nepřešla na warp, explodovala by.\n\nZ analýzy událostí vyplyne jediné možné vysvětlení: Enterprise získala vlastní vědomí..."
+    },
+    {
+     "c": 24,
+     "nazev": "Preventivní úder",
+     "original": "Preemptive Strike",
+     "datum": "1994-05-16",
+     "popis": "Na Enterprise se vrací Ro Laren. V té době zaútočí několik menších  lodí pod velením občanů Federace nespokojených se zněním mírové smlouvy  mezi Federací a Cardassií, na cardassianskou válečnou loď poblíž  Demilitarizované zóny. U.S.S. Enterprise se povede zahnat renegáty, ale  Cardassiani pod velením Gula Eveka jsou rostoucí hrozbou Makistů  rozzuřeni a pohrozí, že vezmou vše do vlastních rukou, pokud Federace  nedonutí Makisty, aby plnili mírovou smlouvu. Admirál Nachayevová se  rozhodne infiltrovat Makisty s pomocí Ro Laren. Ro se nový úkol moc  nelíbí, protože jako Bajoranka bojovala po celý svůj život proti  Cardassianům, ale úkol akceptuje a vydává se na nebezpečnou misi..."
+    },
+    {
+     "c": 25,
+     "nazev": "Všechno dobré",
+     "original": "All Good Things...",
+     "datum": "1994-05-23",
+     "popis": "Picard si uvědomí, že proti své vůli cestuje časem. V jednu chvíli je  o pětadvacet let starší a prochází se s Geordim po vinici – a vzápětí  se jede podívat na novou loď Enterprise. Co se to s ním děje?"
+    }
+   ]
+  }
+ ]
+}

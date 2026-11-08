@@ -1,0 +1,1556 @@
+{
+ "tmdb": 4629,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "1997",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Děti bohů",
+     "original": "Children of the Gods (1)",
+     "datum": "1997-07-27",
+     "popis": "Začátek pilotního dvoudílu Stargate SG-1 s názvem Děti bohů (Children  of the Gods) se odehrává rok po první misi na Abydos. Plukovník  Jonathan \"Jack\" O'Neill, který po návratu z Abydosu odešel do výslužby,  je opět povolán do aktivní služby poté, co hvězdnou bránou pronikne do  velitelství stargate (SGC) skupina Jaffů vedená příslušníkem parazitické  rasy Goa'uldů Apophisem. Ti napadnou ostrahu střežící bránu, unesou  jednu ženu a ostatní členy ostrahy pobijí. Poté, co je O'Neill nucen  prozradit, že dr. Jackson žije, je vyslán na Abydos, aby ho přivedl  zpět. Tam se od Jacksona dovídá, že existují tisíce bran po celé  galaxii."
+    },
+    {
+     "c": 2,
+     "nazev": "Děti bohů druhá část",
+     "original": "Children of the Gods (2)",
+     "datum": "1997-07-27",
+     "popis": "Začátek pilotního dvoudílu Stargate SG-1 s názvem Děti bohů (Children of the Gods) se odehrává rok po první misi na Abydos. Plukovník Jonathan \"Jack\" O'Neill, který po návratu z Abydosu odešel do výslužby, je opět povolán do aktivní služby poté, co hvězdnou bránou pronikne do velitelství stargate (SGC) skupina Jaffů vedená příslušníkem parazitické rasy Goa'uldů Apophisem. Ti napadnou ostrahu střežící bránu, unesou jednu ženu a ostatní členy ostrahy pobijí. Poté, co je O'Neill nucen prozradit, že dr. Jackson žije, je vyslán na Abydos, aby ho přivedl zpět. Tam se od Jacksona dovídá, že existují tisíce bran po celé galaxii."
+    },
+    {
+     "c": 3,
+     "nazev": "Nepřítel je uvnitř",
+     "original": "The Enemy Within",
+     "datum": "1997-08-01",
+     "popis": "Po návratu z Abydosu si na základnu SGC přinesli i malý dárek v podobě Goa'ulda, který se zmocnil majora Kowalského."
+    },
+    {
+     "c": 4,
+     "nazev": "Emancipace",
+     "original": "Emancipation",
+     "datum": "1997-08-08",
+     "popis": "SG1 navštíví planetu, kde jsou nuceni přizbůsobit se zdejší kultuře,  ovšem pobyt zde nebude tak růžový, jak se na první pohled může zdát...\nNa této planetě vládne náboženství, které se tak trochu podobá islámu, čili ženy nesmí mít odhalený obličej..."
+    },
+    {
+     "c": 5,
+     "nazev": "Mezi světlem a tmou",
+     "original": "The Broca Divide",
+     "datum": "1997-08-15",
+     "popis": "Tým SG-1 se dostává na planetu, kde řádí nebezpečná choroba. Aniž by o tom věděli, nemoc si přinesou zpět na Zemi."
+    },
+    {
+     "c": 6,
+     "nazev": "První přikázání",
+     "original": "The First Commandment",
+     "datum": "1997-08-22",
+     "popis": "SG1 řeší problém, kdy jeden z velitelů SG týmu se zblázní a hraje si na boha."
+    },
+    {
+     "c": 7,
+     "nazev": "Zmrtvýchvstání",
+     "original": "Cold Lazarus",
+     "datum": "1997-08-29",
+     "popis": "SG1 nalezne velice zvláštní krystaly, které vyzařují energii. Jeden si vezmou s sebou na SGC. A poté se začnou dít věci."
+    },
+    {
+     "c": 8,
+     "nazev": "Noxové",
+     "original": "The Nox",
+     "datum": "1997-09-12",
+     "popis": "SG-1 se při své misi dostane na planetu, na níž žijí bytosti, které  jsou menší než lidé, ale mají dar zneviditelnění a navíc umí zázračně  léčit. Planetu ale napadne Apophis."
+    },
+    {
+     "c": 9,
+     "nazev": "Jepičí život",
+     "original": "Brief Candle",
+     "datum": "1997-09-19",
+     "popis": "Na planetě Argos se zdá být vše v naprostém pořádku, ale jen do doby, kdy plukovník O'Neill začne podivně rychle stárnout..."
+    },
+    {
+     "c": 10,
+     "nazev": "Thorovo kladivo",
+     "original": "Thor's Hammer",
+     "datum": "1997-09-26",
+     "popis": "Plukovník O'Neill se spolu s Teal'cem dostane na planetu Cimmeria,  kde je ihned po projití Bránou oslepí záblesk ze stavby, jež před ní  stojí. Je to Thorovo kladivo, mocná zbraň proti Goa'uldům, která dokáže  zbavit hostitele jeho symbionta. Dokáže se z toho Teal'c dostat, aniž by  o svého symbionta přišel?"
+    },
+    {
+     "c": 11,
+     "nazev": "Tantalova muka",
+     "original": "The Torment of Tantalus",
+     "datum": "1997-10-03",
+     "popis": "Jaké překvapení čeká na velitelství SGC, které zjistí, že Brána byla  poprvé aktivována mnohem dříve, než Daniel Jackson rozluštil symboly  o několit let později.  SG1 se dozvídá, že člověk, který Bránou prošel, byl jistý Ernest  Littlefield. Ale vzhledem k tomu, že Ernest nevěděl, jak se dostat zpět,  zůstal na planetě. \nSG1 se na ní vydává..."
+    },
+    {
+     "c": 12,
+     "nazev": "Pokrevní svazky",
+     "original": "Bloodlines",
+     "datum": "1997-10-10",
+     "popis": "Teal'c se od svého přítele Bra'taca dozvídá, že jeho synu Rya'covi má  být implantován symbiont. Teal'c se proto vrací na domovskou planetu  Chulak. Teal'c se snaží implantaci zabránit a v sebeobraně zabije kněze,  který měl provést implantaci. Jenže pak mu jeho žena řekne, že  implantace je jediný způsob, jak Rya'ca zachránit... je totiž těžce  nemocen a umírá. Podaří se Rya'ca zachránit?"
+    },
+    {
+     "c": 13,
+     "nazev": "Oheň a voda",
+     "original": "Fire and Water",
+     "datum": "1997-10-17",
+     "popis": "SG1 se vrací z planety Dannes v panice a celí mokří. Jsou zdrceni  smrtí Daniela, který na planetě uhořel. Zachránili se skokem do vody  blízko ohně. SG1 jsou teda posláni na ošetřovnu, jelikož jsou všichni  v šoku. Uskuteční se Danielův pohřeb, kdy se po poslání věnce skrz bránu  děj přenese na Dannes. Zde se Jackson probudí v místosti, kde najde  mimozemšťana Nema. Ten mu ukáže jistou tabulku se starým Babylónským  písmem. Chce po Danielovi, aby zjistil, jaky je osud Omorocy."
+    },
+    {
+     "c": 14,
+     "nazev": "Hathor",
+     "datum": "1997-10-24",
+     "popis": "Na Zemi pronikne Goa'uld jménem Hathor a pomocí neznámé látky  obsahující feromony si okamžitě zotročí všechny muže na veliteltsví SGC.  Jde jí o to udělat si ze Země svou základnu, na které by mohla rodit  Goa'uldy a muži na Zemi měli být hostiteli..."
+    },
+    {
+     "c": 15,
+     "nazev": "Singularita",
+     "original": "Singularity",
+     "datum": "1997-10-31",
+     "popis": "Na planetě Hanka byla zřízena dočasná vědecká stanice, aby  shromáždila údaje o akrečním disku černé díry během místního zatmění  slunce. Tímto úkolem byl pověřen tým SG-7. Vědecká mise se však změní  v drama poté, co SG-1 nalezne celou populaci planety, včetně týmu SG-7,  mrtvou. Přežil jediný člověk, malá dívka Cassandra. Nevinný uprchlík,  zachráněný z mrtvého světa se stává hrozbou pro celé SGC. Generál  Hammond, členové SG-1 a dr. Fraiserová se musejí rozhodnout mezi  záchranou života malé dívky a tím zřejmě zničením SGC a dívčinnou smrtí."
+    },
+    {
+     "c": 16,
+     "nazev": "Cor-Ai",
+     "datum": "1998-01-23",
+     "popis": "SG-1 se vydává na misi na planetu Cartago (Kartágo). Teal'c hned po  příchodu zjišťuje, že není na planetě poprvé, že tu už kdysi byl, ještě  v dobách, kdy býval Apophisovým Prvním mužem. Planetu obývají Byrsové.  Ti jsou častou kořistí Goa'uldů, kteří planetu navštěvují, když hledají  nové hostitele. Jeden z vesničanů - mladík Hanno - Teal'ca pozná a  obviní ho z vraždy svého otce. Teal'c je podroben místnímu soudu tzv.  Cor-ai a ostatní členové SG-1 se nabídnou, že ho budou obhajovat. Ale  soud má jiná pravidla, než na které jsou na Zemi zvyklí a rozsudek  určuje sám poškozený. Teal'covi tak hrozí trest smrti."
+    },
+    {
+     "c": 17,
+     "nazev": "Záhada",
+     "original": "Enigma",
+     "datum": "1998-01-30",
+     "popis": "Při misi na Tollan tým SG-1 zachrání deset místních obyvatel z umírající  planety a vezme je s sebou na Zemi. Velitel Tollanů Omoc však není  pozemšťany nadšen, protože je považuje za příliš primitivní, a chce se  vrátit zpět na Tollan. To však není možné, protože Tollan byl zničen  vulkanickou činností. Omoc však se svými lidmi nechce na Zemi zůstat a  už vůbec ne podělit se s nimi o své znalosti a vyspělé technologie.  Ukazuje se, že o Tollany, především o jejich znalosti, má zájem vojenská  rozvědka reprezentovaná plukovníkem Maybournem. Omoc odmítne azyl  v Zemi světla na planetě, který jim nabízí nejvyšší rada Tuplo. SG-1 pro  Tollany musí urychleně najít nový domov dříve, než budou vydáni do  rukou Maybournovi a jeho lidem. Volba padne na Noxy. Ale Maybourne se  nehodlá jen tak vzdát."
+    },
+    {
+     "c": 18,
+     "nazev": "Osamění",
+     "original": "Solitudes",
+     "datum": "1998-02-06",
+     "popis": "Tým SG-1 musí ukončit misi na planetu P4A-771 dříve než vůbec mohla  začít, protože je napaden místními nepřátelskými obyvateli ihned po  příchodu bránou na planetu. Při návratu na Zem je však systém přetížen a  zatímco Teal'covi a Danielovi se podaří zraněným dostat zpět na Zem do  SGC, Sam a vážně zraněný Jack se ocitnou v ledové jeskyni na nějaké  neznámé planetě... aspoň si to myslejí. Jackův zdravotní stav se rychle  zhoršuje a brána nereaguje na zadání pozemské adresy. Carterová  zjišťuje, že jsou uvězněni na ledové planetě. Vypadá to pro ně  beznadějně. V SGC mezitím nastává boj s časem o záchranu O'Neilla a  Carterové. Daniel zjišťuje neuvěřitelnou skutečnost - na Zemi je ještě  jedna hvězdná brána."
+    },
+    {
+     "c": 19,
+     "nazev": "Montér",
+     "original": "Tin Man",
+     "datum": "1998-02-13",
+     "popis": "Při misi na planetu Altair tým SG-1 potkává jejího posledního  přeživšího obyvatele Harlana. Ten bez vědomí členů SG-1 zkopíruje jejich  mysl a přenese ji do umělých těl k nerozeznání podobných originálům.  \"SG-1\" se vrací přes Harlanův odpor zpět na Zem a zde zjišťuje krutou  pravdu. Harlan z nich udělal jakési androidy, neschopné žít na Zemi,  protože potřebují zdroj energie, který ovládá Harlan na Altairu. Jsou  nuceni vrátit se zpět na Altair a žádají Harlana, aby jim vrátil zpět  jejich těla, protože netuší, že jejich vědomí bylo pouze zkopírováno a  že existují \"originály\" členů SG-1."
+    },
+    {
+     "c": 20,
+     "nazev": "Paralelní svět",
+     "original": "There But For the Grace of God",
+     "datum": "1998-02-20",
+     "popis": "Pomocí neznámého artefaktu - kvantového zrcadla, který tým SG-1  nalezl při misi na planetě, se dr. Jackson dostane do alternativní  reality. V této realitě Goa'uldi napadli Zemi. Vidíme, jak by mohl svět  dopadnout. Teal'c zabije nejlepšího přítele, protože jeho nejlepší  přítel právě zničil celou rasu včetně jeho rodiny. Vidíme Carterovou  hrdinně zemřít, Hammonda a celý personál základny bojující až do samého  konce. Vidíme zničenou celou planetu. A to všechno by se mohlo stát  i v naší realitě."
+    },
+    {
+     "c": 21,
+     "nazev": "Politika",
+     "original": "Politics (1)",
+     "datum": "1998-02-27",
+     "popis": "Skeptický a arogantní senátor Kinsey je pověřen, aby vyslechl členy  SG-1 a rozhodl, zda má být hvězdná brána uzavřena, protože její provoz  je příliš drahý a užitek a dosažené výsledky skromné. Nedbá na naléhání  členů SG-1 a generála Hammonda, že SGC je první a vlastně jedinou  obrannou linií v boji s Goa'uldy. Nevěří, že Goa'uldi představují pro  Zemi smrtelné nebezpečí. Nedbá ani varování Daniela, že Zemi hrozí  v nejbližší době útok Goa'uldů, který by mohl skončit zničením celé  planety, že totéž se už stalo v alternativní realitě, do které se Daniel  dostal interdimenzionálním přenosem pomocí kvantového zrcadla na  P3R-233 (viz TBFTGOG). Senátor mu však nevěří a považuje ho za blázna.  Žádné argumenty členů SG-1 nakonec neuspějí a senátor Kinsey uzavírá  celý projekt Hvězdné brány."
+    },
+    {
+     "c": 22,
+     "nazev": "V sevření hada",
+     "original": "Within the Serpent's Grasp (2)",
+     "datum": "1998-03-06",
+     "popis": "SG-1 se bránou tajně vydává na adresu, jejíž koordináty přinesl  Daniel ze Země v alternativní realitě, kam se dostal interdimenzionálním  přenosem pomocí kvantového zrcadla na P3R-233. Ukáže se, že koordináty  nesměřují na planetu, ale na goa'uldskou loď patřící Klorelovi,  Apophisovu synovi a že tato loď spolu s další lodí pod vedením Apophise  míří k Zemi, aby ji mohla zničit. Členové SG-1 se pokoušejí útoku na  Zemi zabránit. Umístí po celé Klorelově lodi výbušniny. Jack s Teal'cem  zajmou Klorela a pokouší se probudit v něm jeho hostitele Skaaru.  Nezbývá jim však mnoho času a lodě se nezadržitelně přibližují k Zemi."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "1998",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "V hadím hnízdě",
+     "original": "The Serpent's Lair (3)",
+     "datum": "1998-06-26",
+     "popis": "Členové SG-1 jsou zajati oddílem Jaffů a Apophis nařídí Bra'tacovi,  který se rovněž účastní výpravy, aby je zabil. Bra'tac rozkaz  neuposlechne a naopak tým SG-1 osvobodí z vězení. Klorel byl dán do  sarkofágu, aby jej oživil a uzdravil. Apophis nařídil odložit útok na  Zem do té doby, než se Klorel uzdraví. Mezitím na Zemi probíhá evakuace  vybraných lidí (nejlepších odborníků z nejrůznějších oborů lidské  činnosti) na stanoviště Alfa s cílem uchovat lidský rod. Do SGC přichází  podplukovník Samuels s tím, že má rozkaz koordinovat preventivní úder  proti oběma lodím, až se dostanou na oběžnou dráhu Země. Jsou proti nim  vystřeleny dvě rakety s hlavicemi obohacenými naquadahem, ale útok je  neúspěšný. Obě hlavice neškodně narazí do ochranných štítů obou lodí.  Jedinou nadějí na záchranu Země tak zůstává tým SG-1 a mistr Bra'tac se  dvěma dalšími Jaffy - svými věrnými žáky. Nezbývá jim však mnoho času a  navíc Daniel je smrtelně raněn při přestřelce s několika Jaffy."
+    },
+    {
+     "c": 2,
+     "nazev": "Při výkonu služby",
+     "original": "In the Line of Duty",
+     "datum": "1998-07-03",
+     "popis": "Na planetu Nasyu obývanou mírumilovnými Nasyany zaútočí goa'uldské  bojové kluzáky. Goa'uldi zde hledají Tok'ru Jolinara z Malkshuru, který  se zde ukrývá v těle jednoho z vesničanů. Tok'rové jsou odpadlíci  Goa'uldů, kteří nesouhlasí s některými jejich metodami, zvláště pak  s násilným braním hostitelů. Členové SG-1 evakuují přeživší Nasyany na  Zem. Sam se snaží oživit jednoho těžce raněného vesničana a dává mu  umělé dýchání. Při tom do ní ústy pronikne Jolinar. Sam se vrací  s ostatními na Zem a nikdo na ní nic nepozná. Nikdo, kromě Cassandry,  dívky zachráněné z planety Hanka. Jolinar se snaží odejít bránou ze  Země, ale je zadržen a uvězněn. Generál Hammond zvažuje rozhodnutí  o odstranění Jolinara z těla Carterové. Jolinar žádá, aby mohl odejít  bránou, že poté opustí tělo Carterové. Ale nikdo mu nevěří. Hraje se zde  ale o čas, protože s Nasyany pronikl na Zem i goa'uldský zabiják  Ashrak, který má od Vládců soustavy úkol Jolinara zlikvidovat. To by  znamenalo konec nejen Jolinara, ale i Carterové."
+    },
+    {
+     "c": 3,
+     "nazev": "Ve vězení",
+     "original": "Prisoners",
+     "datum": "1998-07-10",
+     "popis": "SG-1 se vydává na další neznámou planetu. Narazí na vyděšeného  prchajícího muže, který je žádá o pomoc. Členové SG-1 se ho snaží  uklidnit a berou ho s sebou. Neujdou však daleko a náhle jsou všichni  přeneseni do jakéhosi řečniště, kde je jim sděleno, že překročili zákon  jednak tím, že vkročili na svatou půdu a jednak tím, že pomohli  uprchlému vrahovi Roshurovi. Nic nepomůže Jackova obhajoba, že netušili,  že vkročili na posvátné území a že jen pomohli muži, který byl vyděšný a  žádal je o pomoc, aniž by tušili, že je to zločinec. Všichni jsou  odsouzeni na doživotí a posláni bránou na vězeňskou planetu Hadante.  Jedinou možnost úniku z podzemního vězení představuje hvězdná brána.  Ovšem členové týmu nemají k dispozici ani DHD, ani zdroj energie,  potřebný k manuálnímu zadání adresy přímo na bráně."
+    },
+    {
+     "c": 4,
+     "nazev": "Správce",
+     "original": "The Gamekeeper",
+     "datum": "1998-07-17",
+     "popis": "Tým SG-1 se vydává na misi na planetu, kde naleznou nádhernou  kvetoucí zahradu a zvláštní kopulovitou stavbu. Při bližším průzkumu  objeví jakási zařízení podobná svisle stojícím lůžkům s kabely. Chtějí  je prozkoumat, ale jsou těmi zařízeními lapeni a probouzí se ve  virtuální realitě, která čerpá ze zážitků Jacka O'Neilla a Daniela  Jacksona."
+    },
+    {
+     "c": 5,
+     "nazev": "Závislost",
+     "original": "Need",
+     "datum": "1998-07-24",
+     "popis": "SG-1 se vydává na misi na planetu, kde po příchodu zjišťují, že  nedaleko brány se nalézá goa'uldská pyramidová loď, která stojí poblíž  rozsáhlého dolu, před kterým panuje čilý ruch. Daniel zachrání život  mladé dívce, která se rozhodla spáchat sebevraždu skokem do propasti.  Dívka je sice zachráněna, ale členové SG-1 jsou prozrazeni a zajati. Při  pokusu o útěk je Daniel smrtelně zraněn, když ho zasype kus skály  uvolněný výstřelem z tyčové zbraně. Shyla Danielovi zachrání život tím,  že ho dá do sarkofágu, který ho vyléčí. Nutí Daniela, aby používal  sarkofág, i když už se uzdravil, jako důkaz toho, že jí důvěřuje. Ovšem  časté používání sarkofágu úplně změní Danielovu osobnost."
+    },
+    {
+     "c": 6,
+     "nazev": "Thorův vůz",
+     "original": "Thor's Chariot",
+     "datum": "1998-07-31",
+     "popis": "Zanedlouho poté, co byl tým SG-1 nucen zničit na Cimmerii Thorovo  kladivo, byla planeta napadena Goa'uldem Heru'urem a mnoho Cimmeřanů  přišlo o život. Gairwyn se podařilo poslat bránou schránku ze Saganova  institutu, kterou tým SG-1 dal Kendře pro Thora při své návštěvě  Cimmerie. Schránka narazila na iris a podle slabé radioaktivity a stop  iridia Sam zjistila, o co jde. Tým se vydává na Cimmerii a od Gairwin se  dovídá, co se přihodilo. Jedinou nadějí se pro všechny stává Thor."
+    },
+    {
+     "c": 7,
+     "nazev": "Zpráva v láhvi",
+     "original": "Message in a Bottle",
+     "datum": "1998-08-07",
+     "popis": "SG-1 byl vyslán na misi na planetu P5C-353 podobnou Měsíci, která  nemá dýchatelnou atmosféru a povrch je zbrázděný krátery. Planeta je  zřejmě už po mnoho tisíc let neobydlená. Členové SG-1 objeví jakýsi  zlatavý postavec, na kterém je usazen kulovitý objekt stejné barvy.  Koule generuje elektromagnetické pole a vysílá slabé záření alfa, gamma a  delta. Její povrch je pokryt drobným písmem. Nikdo z týmu netuší, co by  to mohlo být. Po diskuzi o možném nebezpečí nakonec Jack usoudí, že  zisk převáží riziko a nařizuje vzít kulovitý objekt na Zem. Ukáže se, že  koule je schránka pro mimozemské organizmy, které v ní přežívaly tísíce  let a čekaly, až se dostanou do vhodného prostředí. Jakmile se  organizmy dostaly do atmosféry živého světa, začaly opouštět kouli,  množit se a zamořily SGC."
+    },
+    {
+     "c": 8,
+     "nazev": "Rodina",
+     "original": "Family",
+     "datum": "1998-08-14",
+     "popis": "Mistr Bra'tac přichází na Zemi se špatnou zprávou. Apophis unesl  Teal'cova syna Rya'ca. Se souhlasem generála Hammonda se tým SG-1 spolu  s Bra'tacem vydává na Chulak. Situace se zkomplikuje, když členové SG-1  zjistí, že Apophis vymyl Rya'covi mozek. Rya'c teď považuje Apophise za  boha a Teal'ca za zrádce. Nakonec se však podaří dostat Rya'ca i jeho  matku Drey'auc zpět na Zem. Rya'c předstírá, že už je v pořádku a že  dokázal silou vůle zvítězit nad Apophisem. Je to však léčka a Rya'c  představuje pro SGC a celou Zemi smrtelné nebezpečí."
+    },
+    {
+     "c": 9,
+     "nazev": "Tajemství",
+     "original": "Secrets",
+     "datum": "1998-08-21",
+     "popis": "Daniel Jackson a Teal'c se po roce vrací na Abydos, tak jak Daniel  slíbil otci Sha´re Kasufovi. Poté co sem dorazí Daniel zjistí, že  Apophis sem ukryl svou ženu Amaunet (Amonet), aby zde porodila jejich  společné dítě. Apophis chce dítě použít jako svého nového hostitele.  Mezitím jsou O'Neill a Carterová ve Washingtonu, aby zde obdrželi  medaili za statečnost. O'Neilla zde kontaktuje novinář Armin Selig  s tím, že ví vše o projektu Hvězdná Brána, a že se to chystá zveřejnit.  Krátce na to umírá před očima Jacka. Sam se zde setká se svým otcem a  ten jí řekne, že má rakovinu, a že mu zbývá málo času..."
+    },
+    {
+     "c": 10,
+     "nazev": "Zhouba",
+     "original": "Bane",
+     "datum": "1998-09-25",
+     "popis": "Při průzkumu vyspělé, avšak vylidněné planety BP6-3Q1, je tým SG-1  napaden velkým hmyzem podobným komárům. Teal´ca jeden z nich bodne.  Teal´c je napaden neznámým virem, který začne modifikovat jeho DNA. Ani  Teal´cův Goa´uld není schopen této změně zabránit. Samantha si neví rady  a tak povolá genetického specialistu Dr. Richarda Harlowa. Ten však pod  vedením plukovníka Maybourna nechá Teal´ca převézt do Pentagonu.  Maybourne vidí v Teal´cově transformaci možnou biologickou zbraň a chce,  aby došlo k plné transformaci. Teal´c však při převozu uprchne..."
+    },
+    {
+     "c": 11,
+     "nazev": "Tok'rové, část první",
+     "original": "The Tok'ra (1)",
+     "datum": "1998-10-02",
+     "popis": "Sam se zdá sen, v kterém uvidí jak Jolinar společně s ostatními Tok´ry evakuují planetu napadenou Goa´uldy. Proto se celý tým vydá na planetu P34 353J, jejíž adresu viděla Sam ve snu. Krátce po příchodu jsou zajaty Tok´ry. Těm sdělí Sam, že v ní býval Goa´uld Jolinar, a že přišli, aby s Tok´ry uzavřeli spojenectví. Tok´rové však chtějí výměnou za spojenectví něco získat, neboť možnost prozrazení je pro ně příliš velká. Sam se od Tok´ry Martoufa dozví, že Jolinar byla žena a o vztahu Jolinar a Martoufa, který trval přes sto let. Tok´rové stojí o jedinou věc a to o nové hostitele, nikdo z SG-1 však nechce na nic takového pomyslet. Bohužel Tok´rové jsou v zoufalé situaci, neboť jeden hostitelů nejvýznamnějšího Tok´ry umírá. Vyjednávání se ještě více zkomplikuje, když je základna Tok´rů napadena Goa´uldy."
+    },
+    {
+     "c": 12,
+     "nazev": "Tok'rové, část druhá",
+     "original": "The Tok'ra (2)",
+     "datum": "1998-10-09",
+     "popis": "Tok'rové odmítli spojenectví se Zemí, neboť jak řekla Garshaw, Země má jen málo co nabídnout a hrozba prozrazení Tok´rů je příliš vysoká. Také odpor k tomu, aby se kdokoliv z nich stal hostitelem Selmak moc situaci nepomáhá. Sam však dostane nápad. Její otec umírá na rakovinu a kdyby se spojil se Selmak mohli by žít oba. Když se s Jacobem vrátí napadnou planetu Goa´uldi, jež byli informováni zrádcem z řad Tok´rů. Tok'rové zahájí evakuaci a lidé jim pomáhají. Selmak se s pojí s Jacobem, avšak zůstanou ponecháni v podzemním komplexu společně se Sam, která odmítá opustit otce, a Tok´rou Martoufem, aby měla Selmak čas Jacoba vyléčit. Při evakuaci také Jack pomůže odhalit zrádce. Jacob, společně s Martoufem také uniknou a Jacob odejde společně s Tok´ry. Tok´rové slíbí, že se lidem ozvou."
+    },
+    {
+     "c": 13,
+     "nazev": "Duchové",
+     "original": "Spirits",
+     "datum": "1998-10-23",
+     "popis": "Tým SG-11 se nevrátí z mise na planetu PXY 887, kde těžil vzácný kov  trinium, který je stokrát lehčí než ocel a přitom pevnější; místo něj  však vylétne z brány šíp z trinia a zasáhne Jacka. Jack zůstane na  marodce a ostatní členové SG-1 se vydají zjistit, proč se tým SG-11  nevrátil. Zde jsou omráčeni a když s probudí nacházejí se v táboře  indiánského kmene Salishů. Mluvčí kmene Tonani jim řekne, že SG-11  zajali “Duchové”. Carterová a ostatní jsou skeptičtí, když mají žádat  T'akayu - ducha ve vlkovi a Xe'lse - ducha v havranu o propuštění SG-11.  Ti je propustí a společně se vrátí na Zemi společně s Tonanim. Zde se  tajně dohodnou, že se bude v těžbě pokračovat. SG-11 se však náhle změní  v mimozemšťany a nechá zmizet téměř všechen personál SGC..."
+    },
+    {
+     "c": 14,
+     "nazev": "Svatý kámen",
+     "original": "Touchstone",
+     "datum": "1998-10-30",
+     "popis": "Skupina, která se vydává za SG-1 ukradne z planety Madrona zařízení  kontrolující počasí. Odsoudí tak veškeré obyvatelstvo k smrti, neboť  začnou řádit sněhové bouře. Madronský vrchní kněží Roham a jeho vnučka  princezna La Moor obviní z krádeže SG-1. SG-1 jim slíbí, že svatý kámen  najde. Na Zemi zjistí, že někdo použil druhou hvězdnou bránu a s pomocí  svatého kamene začíná ovlivňovat počasí na Zemi. SG-1 se vydá hledat  druhou bránu a nalezne ji. Zloději však v poslední chvíli skrz ni  utečou..."
+    },
+    {
+     "c": 15,
+     "nazev": "Pátá rasa",
+     "original": "The Fifth Race",
+     "datum": "1999-01-22",
+     "popis": "Tým SG-1 cestuje na planetu, kde se nacházejí nápisy ve stejném  jazyce, jaký byl nalezen v místnosti, kde se scházeli čtyři mimozemské  rasy. Poté, co O'Neill nahlédl do zde se nacházejícího zařízení, byly do  jeho mozku nahrány znalosti Antiků. Jack postupně začíná mluvit jejich  jazykem a tvořit věci, kterým nerozumí. Do počítače SGC také zadá nové  adresy hvězdných bran. Jackův mozek je přetížen znalostmi Antiků a hrozí  jeho zhroucení. O'Neill sestaví zařízení, které mu pomůže dodat energii  na zadání adresy na domovskou planetu Asgardů v galaxii Ida. Samantha a  Teal'c zatím navštíví jednu z nových planet, avšak jsou zde uvězněni,  neboť DHD nefunguje a na planetě rapidně stoupá teplota. Jack jim však  namaluje plánek a tým se tak v poslední chvíli vrátí. Poté Jack zadá 8  symbolovou adresu a přenese se na planetu Asgardů..."
+    },
+    {
+     "c": 16,
+     "nazev": "Černá díra",
+     "original": "A Matter of Time",
+     "datum": "1999-01-29",
+     "popis": "Při pokusu o záchranu týmu SG-10, který zůstal na planetě P3W-451 pod  vlivem černé díry dojde k tomu, že brána nejde zavřít a hrozí,že celá  Země bude černou dírou pohlcena. Při pokusu vypnout proud jsou Teal´c a  seržant Siler zraněni. I přes odpojené napájení černá díra stále  ponechává červí díru zapnutou a způsobuje svou vysokou gravitací  zpomalování času v komplexu SGC. SGC ztratí kontakt s okolím, a tak  Pentagon vyšle speciální jednotky pod vedením plukovníka Cromwella  v domění, že SGC byla napadena mimozemšťany. Hammond odcestuje do  Washingtonu, kde se rozhodne, že základna a brána budou zničeny.  Základna je evakuována, zůstane jen Jack s Cromwellem, aby zapnuli  autodestrukci. Sam se však mezitím podaří najít jiné řešení..."
+    },
+    {
+     "c": 17,
+     "nazev": "Dovolená",
+     "original": "Holiday",
+     "datum": "1999-02-05",
+     "popis": "Na jedné z planet najde SG-1 neznámé technologie a starce, který se  jmenuje Machello a byl to nejslavnější bojovník proti Goau´ldům. Při  kontaktu s jedním z přístrojů je mysl Daniela přenesena do starce a mysl  Machella do Daniela. Machello se pak vydává za Daniela a vezme si na  Zemi dovolenou. Při ní se Machello seznámí s černým bezdomovcem a snaží  se poznat Zemi. Je šťasten, neboť dlouhá léta trpěl díky mučení od  Goa´uldů a jako stařec umíral. Mezitím se Daniel v těle Machella probere  a přesvědčí ostatní, že je Machello..."
+    },
+    {
+     "c": 18,
+     "nazev": "Hadova píseň",
+     "original": "Serpent's Song",
+     "datum": "1999-02-12",
+     "popis": "SG-1 čeká na jedné z planet, poté, co obdržela radiový signál. Krátce  na to havaruje smrtící kluzák, jež řídil Apophis. Ten byl pronásledován  svým úhlavním nepřítelem Goa´uldem Sokarem, který byl v Starém Egyptě  Bohem smrti. SG-1 Apophise zajme a vezme ho s sebou na Zemi. Tam zjistí,  že byl mučen, a že pomalu umírá..."
+    },
+    {
+     "c": 19,
+     "nazev": "Jeden chybný krok",
+     "original": "One False Step",
+     "datum": "1999-02-19",
+     "popis": "Během rutinní průzkumné mise se zřítí UAV letadlo přímo na  kaktusovitě vypadající rostlinu bílé barvy. SG-1 je vyslán, aby letoun  našel. Na planetě najde humanoidy, kteří však nemluví a jsou celí bílí.  Krátce po příchodu SG-1, však začnou tito lidé upadat do kómatu a šíří  se to jako epidemie. SG-1 má obavy, že na planetu zavlekl nemoc, která  může zabít celou populaci. Sam se vrátí na základnu s jedním nemocným ve  snaze najít lék..."
+    },
+    {
+     "c": 20,
+     "nazev": "Neviditelný nepřítel",
+     "original": "Show and Tell",
+     "datum": "1999-02-26",
+     "popis": "Dojde k neoprávněné aktivaci brány a k samovolnému otevření iris. Do  SGC přichází malý chlapec se slovy, že přišel Zemi varovat. Říká, že  cestu mu otevřela matka, která se už nějakou dobu zdržuje v SGC. Matka  patří k neviditelné rase Reetům, jejichž planeta Reetalia byla zničena  Goa´uldy. Reetští teroristé se proto rozhodli vyhladit všechny  potenciální hostitele Goa´uldů a tím i Goa´uldy samotné. Chlapec  převezme jméno Charlie po Jackově synovi. Charlie byl geneticky vytvořen  Reety, aby zprostředkoval komunikaci mezi rasami. Jelikož je však  vytvořeni lidského jedince příliš komplikované, začínají mu selhávat  některé důležité orgány."
+    },
+    {
+     "c": 21,
+     "nazev": "Rok 1969",
+     "original": "1969",
+     "datum": "1999-03-05",
+     "popis": "Tým SG-1 je připraven k odchodu na misi. Hammond si však všimne jizvy  na ruce Sam a tak rychle napíše vzkaz, který ji předá s tím, aby si ho  nechala v kapse. SG-1 projde branou, je však přenesen o třicet let zpět  do roku 1969. Ocitnou se v raketovém silu přímo pod startující raketou.  Startu rakety zabrání Teal'c zat'nik'atelem, vzápětí je však tým SG-1  zatčen jako špioni. Při následné přepravě jim pomůže v útěku poručík  Hammond, který si přečetl lístek, který měla Sam v bundě. SG-1 se vydá  do New Yorku, stopne si karavan dvou hippies. Cestou zjistí, že na  lístku jsou uvedeny časy slunečních erupcí. Ty způsobili jejich přesun  do minulosti a mohou je teď dostat zpět. Musejí však nejprve najít  bránu."
+    },
+    {
+     "c": 22,
+     "nazev": "Otázka paměti",
+     "original": "Out of Mind (1)",
+     "datum": "1999-03-12",
+     "popis": "Jack je rozmražen v budoucnosti a je mu řečeno, že byl vrácen na Zemi  skrz bránu již zmražený a že trvalo sedmdesát let než ho mohli  rozmrazit. Řeknou mu, že se dál bojuje s Goa´uldy, a že proto potřebují  všechny dostupné informace o rasách, které by jim mohli v boji pomoci.  Také mu řeknou, že všichni, které znal, včetně týmu SG-1 jsou již dávno  mrtví. Stejná věc se stane i Sam a Danielovi. Mezitím se na Zemi po  třech nedělích bezvědomí probudí Teal´c. Je mu řečeno, že se zbytek týmu  SG-1 nenašel a že už se po něm nebude pátrat. Teal´c se proto rozhodne,  že ze Země odejde. Hammond mu v tom chce zabránit, avšak Teal´c je  neoblomný a odchází. Mezitím Jack přijde na to, že něco není v pořádku  poté, co zaslechne doktory mluvit goa´uldštinou. Zjistí, že se nachází  v komplexu, jehož část je napodobenina SGC a zbytek jsou goa´uldské  struktury. Podaří se mu osvobodit Daniela a Sam a společně chtějí  prchnout bránou - ta je však umělá. Objeví se Hathor a její služebníci.  Hathor po nich chce informace o nových technologiích a také, aby se  jeden z nich stal hostitelem dospělé goa´uldí larvy..."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "1999",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Pod palbou",
+     "original": "Into the Fire (2)",
+     "datum": "1999-06-25",
+     "popis": "Tok´rové poskytnou SGC informaci, kde se nachází zajatý tým SG-1.  Generál Hammond vyšle všechny dostupné SG týmy, aby vysvobodili SG-1.  Mezitím Hathor vybere jako hostitele pro dospělého Goa´ulda Jacka. Poté,  co do něj Goa´uld pronikne a Jack zůstane sám s dr. Raullyovou, se  ukáže, že ona je Tok´ra a pomůže mu tak, že Jacka opět zmrazí, čímž  zabije larvu Goa´ulda. V zápětí se však vrátí Hathor a omráčí Dr.  Raullyovou. Záchrané týmy ztratí kontakt s týmem střežícím bránu a tak  se rozhodnou vrátit zpět i bez Jacka. Mezitím se Teal´c vrátí na Chulak a  snaží se získat armádu Jaffů, kteří by pomohli vysvobodit SG-1. Jaffové  se však stále bojí a nikdo se k němu nechce připojit. Týmy SG jsou  u brány překvapeny energetickou bariérou a silným odporem Jaffů, ztratí  tak hodně mužů a jsou nuceni ukrýt se v podzemních chodbách Tok´rů."
+    },
+    {
+     "c": 2,
+     "nazev": "Seth",
+     "datum": "1999-07-02",
+     "popis": "Jacob/Selmak přichází do SGC vyřídit díky Tok'rů za zničení Hathor [viz  Into the Fire] a s žádostí o pomoc při hledání Goa'ulda Setha (Se'tesh,  starověký Egyptský Bůh chaosu), který by se mohl již tisíce let ukrývat  na Zemi jak před Tok'ry, tak před Vládci Soustavy, kteří na něho vypsali  odměnu. Dr. Jacksonovi se podaří z různých pramenů vystopovat Sethův  kult, který prolíná historií. Poslední stopa vede nedaleko Seattlu, kde  má opevněné sídlo sekta, jejíž vůdce si říká Seth. Všechny důkazy  nasvědčují tomu, že by mohlo jít o Goa'ulda, kterého hledají."
+    },
+    {
+     "c": 3,
+     "nazev": "Mírová konference",
+     "original": "Fair Game",
+     "datum": "1999-07-09",
+     "popis": "Na základně SGC probíhá slavnostní ceremoniál, kterého se účastní  náměstek ministra obrany Arthur Simms, který děkuje jednotkám SG za  skvělou práci při zničení Hathor a osvobození SG-1 se zajetí. Na závěr  ceremoniálu je Carterová povýšena na majora. O'Neill jako její velící  důstojník má pronést pár slov, ale náhle je přenesen na Thorovu loď. Na  základně je vyhlášen poplach."
+    },
+    {
+     "c": 4,
+     "nazev": "Ma'chellův odkaz",
+     "original": "Legacy",
+     "datum": "1999-07-16",
+     "popis": "Při misi na planetu PY3-948 se SG-1 dostane do opuštěného  goa'uldského objektu. Poté, co s Teal'covou pomocí členové týmu  proniknou do uzavřené místnosti, naleznou zde devět mrtvých Goa'uldů,  členů Linvrisu - ligy soupeřící o moc s Vládci Soustavy. Daniel objeví  tabulku, podobnou té, kterou našli na Argosu. Je to jakýsi bitevní plán.  Poté, co naleznou i čtecí zařízení, dr. Jackson se pokouší obrátit na  další \"stránku\", ale nedaří se mu to. Má podivný pocit, jakoby se o něho  něco otřelo. O'Neill nařizuje návrat domů."
+    },
+    {
+     "c": 5,
+     "nazev": "Zrychlené učení",
+     "original": "Learning Curve",
+     "datum": "1999-07-23",
+     "popis": "Dr. Jackson se účastní vykopávek na planetě Orban. Orbánci jsou podle  jeho předpokladů potomky předchůdců Aztéků, kteří postavili  Tenochtitlan. Teal\\'c se s Orbánci dělí o své znalosti Goa\\'uldů. Na  oplátku do SGC přichází Kalan a jedenáctiletá velmi inteligentní dívka  Merrin, která je odbornicí na naquadahové technologie. Přinášejí s sebou  naquadahový reaktor s tím, že po dobu \\'kulturní výměny\\' ho může  kapitán Carterová studovat. Chtějí se ihned vrátit zpět, ale Carterová  je požádá o pomoc při zkoumání reaktoru. Merrin se nabídne, že zůstane a  pomůže jí."
+    },
+    {
+     "c": 6,
+     "nazev": "Jiný náhled",
+     "original": "Point of View",
+     "datum": "1999-07-30",
+     "popis": "V Nellisu, oblasti 51, je ve skladišti umístěno kvantové zrcadlo  z P3X-233 [viz TBFTGOG]. To je náhle aktivováno a z alternativní reality  jím procházejí dr. Samantha Carterová a major Kawalsky. Okamžitě jsou  zadrženi a převezeni do SGC. Žádají zde o azyl. Ten je jim udělen. Mohou  zůstat a mají být zařazeni do jednotek SG. Carterová se jen těžko  smiřuje s tím, že ve zdejší realitě je O'Neill živý, ale není její  manžel a nejsou si tak blízcí jako v její realitě."
+    },
+    {
+     "c": 7,
+     "nazev": "Lovec Goa'uldů",
+     "original": "Deadman Switch",
+     "datum": "1999-08-06",
+     "popis": "Při rutinní misi na planetu PJ6-877 jsou členové SG-1 ihned po  příchodu na planetu zajati Arisem Bochem, který o sobě tvrdí, že je  největší nájemný lovec v galaxii. Ten je odvede do nákladní lodi, která  používá dokonalé maskovací zařízení a je tak pro okolí neviditelná. Aris  Boch žádá, aby mu tým SG-1 pomohl při lovu na Goa'ulda Kel'tara, na  kterého Sokar vypsal odměnu, výměnou za jejich svobodu. Pokud odmítnou,  hodlá je přivést Sokarovi, protože na ně byla vypsána odměna. Největší  cenu má Teal'c, ze kterého by Sokar chtěl udělat odstrašující příklad. I  Carterová je vysoce ceněna, protože má v sobě vzpomínky Jolinar.  O'Neill je považován za osinu v 'miktě'. Nejmenší cenu prý má dr.  Jackson, za kterého by Aris dostal sotva zásoby. Dostanou se z toho?"
+    },
+    {
+     "c": 8,
+     "nazev": "Démoni",
+     "original": "Demons",
+     "datum": "1999-08-13",
+     "popis": "Po průchodu bránou se SG-1 vydává do místní vesnice, která je na úrovni  středověku a obývají ji křesťané. Ve vesnici osvobodí domorodou dívku  Mary, která byla prohlášena za posedlou duchy a přichystána jako oběť  démonovi. Simon, místní mladík a přítel Mary je seznámí se situací ve  vesnici. Vesnici pravidelně navštěvuje démon, který si přichází pro  připravené oběti. Oběti umožňují vesničanům přežívat již po generace.  Vybírá je vikář, nejmocnější muž ve vesnici. Mary vybral proto, že  zaměnil její nemoc - plané neštovice - za posedlost ďáblem."
+    },
+    {
+     "c": 9,
+     "nazev": "Bitevní řád",
+     "original": "Rules of Engagement",
+     "datum": "1999-08-20",
+     "popis": "SG-1 se po průchodu bránou ocitá uprostřed boje. Skupina vojáků SG  bojuje s jaffskou armádou. SG-1 se domnívá, že jde o pohřešovaný tým  SG-11 a nabídne jim pomoc. K jejich překvapení, SG tým obrátí zbraně  proti nim. Členové SG-1 se probouzejí ve výcvikovém vojenském táboře  s bolestí hlavy a beze zbraní.\nAle jen do té doby, než se vrátí Apophis."
+    },
+    {
+     "c": 10,
+     "nazev": "Rozloučení navždy",
+     "original": "Forever in a Day",
+     "datum": "1999-10-08",
+     "popis": "Při záchraně zajatých Abydosanů včetně Kasufa se dr Jackson opět  setkává se Sha're/Amaunet. Následuje jí do stanu a zde ho Amaunet  napadne \"ozbrojenou rukou\". V okamžiku, kdy Jackson upadá do bezvědomí,  vstupuje Teal'c a střelí Sha're tyčovou zbraní."
+    },
+    {
+     "c": 11,
+     "nazev": "Minulost a přítomnost",
+     "original": "Past and Present",
+     "datum": "1999-10-15",
+     "popis": "SG-1 přichází na planetu Vyus a zjištuje, že všichni obyvatelé trpí  amnézií. Nepamatují si nic, co se stalo před Vorlixem, celoplanetární  katastrofou, a postrádají všechny staré lidi a děti. Planeta spěje  k neodvratnému zániku, pokud si lidé urychleně neobnoví své znalosti.  SG-1 potkává Ke'ru, mladou inteligentní ženu, která se stala vůdkyní  Vyanů a snaží se obnovit pořádek a najít lék na amnézii. Ke'ra se sblíží  s Jacksonem. SG-1 nabídne pomoc při hledání léku..."
+    },
+    {
+     "c": 12,
+     "nazev": "Vzpomínky Jolinar",
+     "original": "Jolinar's Memories (1)",
+     "datum": "1999-10-22",
+     "popis": "Tok'ra Martouf přichází do SGC se špatnou zprávou. Otec Samanthy  Jacob Carter a jeho symbiont Selmak byli zajati Sokarem a uvězněni na  Netu, měsíci, který Sokar transformoval tak, aby se podobal mýtickému  peklu a udělal z něj vězeňskou planetu. Tok'rové se domnívají, že Sokar  plánuje útok proti Soustavě Goa'uldů. Martouf se chce pokusit  Jacoba/Selmak zachránit, ale prioritou jsou především informace, které  získala Selmak o chystaném útoku. Naneštěstí nikomu se ještě nepodařilo  z vězení na Netu uniknout. Nikomu, kromě Jolinar, a ta nikdy  neprozradila, jak to dokázala. Jedinou nadějí zůstává Carterová, pokud  si vybaví Jolinařiny vzpomínky na útěk."
+    },
+    {
+     "c": 13,
+     "nazev": "Vyhánění čerta ďáblem",
+     "original": "The Devil You Know (2)",
+     "datum": "1999-10-29",
+     "popis": "Členové SG-1 a Martouf jsou postupně vyslýchání Apophisem, který od nich  chce získat informace, které by pak předložil Sokarovi, aby si získal  jeho přízeň, dostal se do jeho blízkosti a mohl ho zabít a tak se  pomstít. Při výslechu je všem podáno narkotikum, které způsobuje silné  halucinace. Je známé jako Sokarova krev. Účinek drogy je ještě zesílen  využitím zařízení Tok'rů schopného vyvolávat vzpomínky. Jack je při  pokusu zabránit odvedení Carterové k výslechu střelen tyčovou zbraní do  nohy. Apophisovi se však nepodaří získat téměř žádné informace. Jedinou  informaci získá od Martoufa, o tom, kde sídlí hnutí Tok'rů. Apophis žádá  Sokara o slyšení a ten mu vyhoví. Sdělí mu vítězoslavně, že zná  planetu, kde sídlí hnutí Tok'rů. Ukáže se ale, že mu Martouf záměrně  lhal, protože planetu, kterou uvedl, Sokar nedávno dobyl a žádná  základna Tok'rů tam nebyla. Sokar přikáže aby byl Apophis zabit...  pomalu."
+    },
+    {
+     "c": 14,
+     "nazev": "Nouzová situace",
+     "original": "Foothold",
+     "datum": "1999-11-05",
+     "popis": "SG-1 se vrací z mise na P3R-928 zpátky na Zemi a dovídá se, že došlo  k nehodě - k úniku tetrachloretylenu a část personálu SGC je mimo  službu. Při následné prohlídce na ošetřovně jsou členové SG-1 nadopováni  sedativy a upadnou do bezvědomí. Teal'c se probere první a tajně  vyslechne rozhovor dr. Fraiserové a generála Hammonda s vetřelci. Teal'c  zjišťuje strašlivou pravdu - členové SGC nejsou tím, čím se zdají být.  Předstírá bezvědomí a když je odvážen z ošetřovny, podaří se mu  uprchnout a osvobodit i Carterovou. Oba docházejí k poznání, že došlo  k invazi mimozemšťanů, kteří na sebe vzali podobu členů SGC a že tedy  nemohou nikomu v SGC věřit. Musejí hledat pomoc venku mimo základnu..."
+    },
+    {
+     "c": 15,
+     "nazev": "Záminka",
+     "original": "Pretense",
+     "datum": "2000-01-21",
+     "popis": "Skaara/Klorel ztroskotá se svou lodí na Tollanu. Požádá Tollany  o svolání Triadu, což je tollanská forma soudu. Předmětem sporu je právo  na bezvýhradné využívání těla, které si nárokují jak Skaara, tak  i Klorel. Jako archoni - obhájci Skaary jsou přizváni plukovník O'Neill a  dr. Jackson, Klorelovým archonem je lord Zipacna a třetím, neutrálním  archonem noxská žena Lya. Kdo zvítězí? Klorel, který tak zůstane  v hostiteli, nebo Skaara, který by se zbavil Klorela a mohl tak být opět  svobodný?"
+    },
+    {
+     "c": 16,
+     "nazev": "Urgo",
+     "datum": "2000-01-28",
+     "popis": "Členům SG-1 je při jejich misi na planetu P4X-884 implantováno do  mozku mimozemské zařízení, které má bez jejich vědomí jejich  prostřednictvím sbírat informace o Zemi. Při implantaci však dojde  k chybě a zařízení, Urgo, začne s členy SG-1 nejen komunikovat, ale  umožní jim navázat s ním i vizuální kontakt..."
+    },
+    {
+     "c": 17,
+     "nazev": "Sto dnů",
+     "original": "A Hundred Days",
+     "datum": "2000-02-04",
+     "popis": "Cílem další mise SG-1 je planeta Edora, která oplývá bohatými ložisky  naquadahu. Členové SG-1 zde chtějí dojednat dohodu o jeho těžbě.\n\nPřicházejí zrovna v období 'ohnivých dešťů', což jsou roje meteoritů,  které každým rokem dopadají na Edoru, když její oběžná dráha protíná pás  asteroidů. Zhruba každých 150 let dojde k dopadu větších meteoritů,  které způsobí katastrofu různého rozsahu. Naneštěstí tým SG-1 dorazil  právě na konci tohoto stopadesátiletého období. Aby zabránili  nejhoršímu, evakuují na Zem většinu Edořanů.\n\nO'Neill se zdrží hledáním Garana, syna Lairy - vesničanky se kterou se  spřátelil, a je uvězněn na Edoře poté, co jeden z meteoritů dopadne  přímo na bránu a pohřbí ji. Zdá se, že už se nikdy nebude moci vrátit  zpět na Zem. Postupně se sbližuje s Lairou a vesničany, kteří odmítli  evakuaci a smiřuje se s novým životem. Na Zemi je prohlášen za  nezvěstného..."
+    },
+    {
+     "c": 18,
+     "nazev": "Odstíny šedi",
+     "original": "Shades of Grey",
+     "datum": "2000-02-11",
+     "popis": "SGC čelí obvinění Asgardů a Tollanů, že kradou technologie na jiných  planetách. Asgardi, Tollani a Noxové s nimi proto chtějí přerušit  diplomatické styky. Hammond je nucen vypátrat tajemné zloděje.\n\nUkáže se, že plukovník Maybourne vytvořil tajnou jednotku, která má za  úkol bez jakýchkoliv skrupulí získávat mimozemské technologie a že  s tímto týmem spolupracuje někdo z SGC. Po zinscenovaném incidentu je  plukovník O'Neill naoko poslán do předčasného důchodu. Má tak volné ruce  na to, aby pronikl do Maybournova utajovaného týmu a stal se jeho  velitelem..."
+    },
+    {
+     "c": 19,
+     "nazev": "Nové poznání",
+     "original": "New Ground",
+     "datum": "2000-02-18",
+     "popis": "SG-1 se dostává na planetu dvou válčících stran - Bedrosianů a Optriců,  kteří vedou vleklou válku kvůli rozdílným názorům na svůj původ a na  vznik světa.\nTým, kromě Teal'ca, je zajat bedrosianskými vojáky pod velením velitele  Rigara. Rigar nevěří v existenci hvězdné brány a považuje členy týmu za  optrické špióny. Teal'covi se podaří uprchnout, ale při útěku je vážně  zraněn a dočasně oslepne..."
+    },
+    {
+     "c": 20,
+     "nazev": "Mateřský instinkt",
+     "original": "Maternal Instinct",
+     "datum": "2000-02-25",
+     "popis": "Týmy SG-1 a SG-2 se spolu s Bra'tacem vydávají na planetu Kheb. Údajně  zde má být ukrýván Harsesis, dítě, které v sobě nosí veškeré znalosti  Goa'uldů.\nNedorazili však jako první, již před jejich příchodem se na planetě  objevila skupina Jaffů, která měla stejný cíl - nalézt Harsesise. SG-1  nalezne všechny Jaffy mrtvé, spálené na kost nějakou neznámou zbraní. Na  planetě se setkávají s tajemnou mimozemšťankou, která se ujala ochrany  Harsesise."
+    },
+    {
+     "c": 21,
+     "nazev": "Křišťálová lebka",
+     "original": "Crystal Skull",
+     "datum": "2000-03-03",
+     "popis": "Na planetu P7X-377 je vyslána průzkumná sonda, která má za úkol  prozkoumat 1000 metrů vysokou pyramidu, která je nejspíše mayského  původu. Sonda v pyramidě objevila leptony, což zvláště zaujalo  Carterovou. Něco v pyramidě zpomaluje neutrina. Uvnitř pyramidy je na  kamenném podstavci umístěna křišťálová lebka podobná té, kterou  Jacksonův dědeček Nicholas Ballard objevil v roce 1971 v Belize při  vykopávkách ruin mayského chrámu. Nick tvrdil, že lebka, kterou objevil  má zvláštní moc, že je něco jako teleport. Pokud se jí člověk podívá do  očí, přenese ho někam do jiné dimenze, kde vidí jakési cizí tvory. Jemu  se to jednou stalo. Léta se pak snažil pokus zopakovat, ale už se mu to  nepodařilo. Tato skutečnost zase velmi zajímá dr. Jacksona..."
+    },
+    {
+     "c": 22,
+     "nazev": "Nemesis",
+     "original": "Nemesis (1)",
+     "datum": "2000-03-10",
+     "popis": "Dr. Jackson prodělal operaci slepého střeva a zotavuje se na  ošetřovně. Protože byl dočasně postaven mimo službu než se uzdraví, mají  ostatní členové SG-1 dovolenou. Teal'c jí tráví s rodinou v Zemi světla  [viz The Broca Divide], Carterová se věnuje studiu naquadahového  reaktoru a O'Neill se chystá na ryby k jezeru v severní Minesotě. Snaží  se přemluvit nejprve Jacksona a pak Carterovou, aby jeli s ním. Ale oba  odmítají. O'Neill se loučí s Carterovou, ale náhle je v půli věty  přenesen na Thorovu loď. Na základně je vyhlášen poplach..."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "2000",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Malá vítězství",
+     "original": "Small Victories (2)",
+     "datum": "2000-06-30",
+     "popis": "Pokračování předchozí epizody Nemesis. Jack, Sam a Teal'c se  v pořádku vracejí domů na Zem do SGC. Vypadá to, že je vše v pořádku,  ale klid netrvá dlouho. Major Davis přináší zprávu z Pentagonu, že jeden  replikátor přežil zničení Biliskneru i pád trosek do Pacifiku, zaútočil  na ruskou ponorku a zlikvidoval všechny členy její posádky. Replikátor  se začne živit materiálem z ponorky - ocelí a replikovat se. Je třeba  replikátory za každou cenu zastavit a zničit. Na Zem přichází Thor a  žádá o pomoc v boji s replikátory. Sam s ním odchází na jeho domovskou  planetu. Zbytek týmu SG-1 má za úkol zničit replikátory v ruské ponorce."
+    },
+    {
+     "c": 2,
+     "nazev": "Druhá strana",
+     "original": "The Other Side",
+     "datum": "2000-07-07",
+     "popis": "Do SGC přichází bránou signál z planety Euronda. Euronďané vyslali  skrz bránu tříčlenný tým, ale nevědí, že všichni zahynuli nárazem na  iris, chránící pozemskou bránu. Alar, vůdce Euronďanů, se snaží spojit  se svým týmem a ptá se, zda dorazili do světa jejich předků - na Zemi.  Místo toho se jim ozve SGC. Alar žádá pozemšťany o pomoc. Jsou ve válce,  docházejí jim zásoby a jejich obrana se hroutí a dlouho už nevydrží.  Generál Hammond vysílá na Eurondu tým SG-1 na humanitární misi. SG-1  přináší zásoby a léky. Alar chce s pozemšťany uzavřít dohodu. Nabízí  eurondské vyspělé technologie výměnou za těžkou vodu, kterou nutně  potřebují jako palivo do svých reaktorů, které vytvářejí ochranný štít  nad podzemní základnou Euronďanů. Povrch planety je zamořený a je  neobyvatelný. Ještě před odchodem Hammond hovořil s prezidentem a ten  spolu se sborem náčelníků štábů dal O'Neillovi zelenou k případnému  vyjednávání s Euronďany, kteří by mohli mít vyspělé technologie, které  by pomohly pozemšťanům v boji proti Goa'uldům. Po příchodu na planetu  poté, co je Alar seznámí se situací, O'Neill souhlasí s nabídkou  Euronďanů. Ovšem dr. Jackson je skeptický a nesouhlasí s O'Neillem."
+    },
+    {
+     "c": 3,
+     "nazev": "Odkaz Ataniků",
+     "original": "Upgrades",
+     "datum": "2000-07-14",
+     "popis": "Do SGC přichází Tok'ra Anise/Freya s žádostí o pomoc při testování  vyspělé technologie dávno vymřelé rasy Ataniků. Jde o jakési \"návleky na  ruku\" [armband], které Tok'rové našli ve starých ruinách na jedné  vzdálené planetě. Anise se domnívá, že by to mohla být důležitá zbraň  v boji proti Goa'uldům. Bohužel symbiont zabraňuje tomu, aby zařízení  mohl testovat nějaký Tok'ra. Členové SG-1 (kromě Teal'ca, který má  v sobě rovněž symbionta a je tedy nepoužitelný) souhlasí, že \"návleky\"  otestují. \"Návleky\" mnohonásobně zvyšují lidské schopnosti (především  sílu a rychlost), ale zároveň mají i určitý narkotizační účinek na  nositele a ovlivňují jeho úsudek. Dr. Fraiserová rovněž z krevních testů  zjistí, že zařízení vypouští do těla člověka virus, který postupně může  zapříčinit až selhání důležitých orgánů. Navrhuje přes protesty Anise,  aby členové SG-1 nadále nepokračovali v testování a \"návleky\" sundali.  Generál Hammond s tím souhlasí, ale ukazuje se, že \"návleky\" nejdou  sundat. Anise chce využít příležitost, kdy mají členové SG-1 nadlidské  schopnosti, a navrhne vyslat tým na tajnou Apophisovu základnu, kde  Apophis buduje novou bitevní loď mnohem vyspělejší, než byla jeho  původní mateřská pyramidová loď (ha'tak). Pokud by se mu ji podařilo  dokončit, mohl by zvrátit poměr sil mezi Vládci Soustavy ve svůj  prospěch."
+    },
+    {
+     "c": 4,
+     "nazev": "Na rozcestí",
+     "original": "Crossroads",
+     "datum": "2000-07-21",
+     "popis": "SGC přijímá signál od mistra Bra'taca. Ovšem místo Bra'taca na Zem  přichází jaffská žena Shan'auc s tím, že ji posílá Bra'tac. Má pro  pozemšťany zajímavé informace. Objevila způsob jak komunikovat se svým  symbiontem a může s ním sdílet jeho vzpomínky. Goa'uldí larvy se rodí  s genetickou pamětí a přístup k takovým vzpomínkám by byl pro SGC  neocenitelný. Takové informace by mohly výrazně pomoci v boji proti  Goa'uldům. Shan'auc se snažila svému symbiontovi vysvětlit, že Goa'uldi  jsou falešní bohové. Podle ní je prý její symbiont připraven připojit se  k Tok'rům a svěřit jim všechny své znalosti. Larva je však již dospělá a  potřebuje co nejdřív hostitele. Hraje se zde o čas, protože pokud  nebude mít hostitele co nejdříve, Shan'auc i symbiont zemřou. SGC  kontaktuje Tok'ry. Ti souhlasí, že znalosti symbionta by pro ně mohly  být značným přínosem a naleznou urychleně hostitele. Je jím Hebron  z Paravalu (Parabalu), který se dobrovolně nabídl, že se stane  hostitelem. Bude však goa'uldí larva poté, co získá hostitele, opravdu  ochotna spolupracovat s Tok'ry a pozemštany a prozradit jim všechny své  znalosti Goa'uldů?"
+    },
+    {
+     "c": 5,
+     "nazev": "Rozděl a panuj",
+     "original": "Divide and Conquer",
+     "datum": "2000-07-28",
+     "popis": "Na základně Tok'rů na planetě Vorash probíhá schůzka, na které je  projednáván termín setkání nejvyššího představitele Tok'rů Per'suse  s prezidentem USA, kde by měla být uzavřena aliance mezi Zemí a Tok'ry.  Náhle major Graham, jeden z členů SG týmu, vystřelí na Per'suse a zraní  ho. Dále pak kolem sebe střílí jako smyslů zbavený a nakonec obrátí  zbraň proti sobě. Podle Anise se Graham stal tzv. zatarcem - obětí nové  goa'uldské technologie, která umožňuje v krátkém okamžiku přeprogramovat  vědomí, aniž by o tom měla oběť tušení a vše je překryto falešnými  vzpomínkami. Naprogramované instrukce se zřejmě spustí audio nebo video  signálem a po splnění úkolu je oběť naprogramována k sebedestrukci.  Pozemšťané i Tok'rové se tak ocitají ve vážném nebezpečí a rovněž  setkání nejvyšších představitelů obou stran je ohroženo. Anise  s Martoufem přinášejí do SGC experimentální zařízení - tzv. zatarc  detektor, který pracuje částečně na podobném principu jako detektor lži.  Zařízení je však ještě ve stadiu vývoje a jeho použití při  odprogramování může vést k nenávratnému poškození mozku testované osoby  nebo dokonce k její smrti. Ale musejí to risknout. Anise chce otestovat  i další členy Grahamova týmu. Ukáže se, že naprogramována byla i poručík  Astorová. Ta začne kolem sebe bezhlavě střílet a nakonec se sama  zastřelí. Následuje testování i dalších SG týmů, které odhalí překvapivé  skutečnosti. O'Neill a Carterová byli rovněž naprogramováni a stali se  z nich zatarcové. Ale je testování opravdu spolehlivé?"
+    },
+    {
+     "c": 6,
+     "nazev": "Časová smyčka",
+     "original": "Window of Opportunity",
+     "datum": "2000-08-04",
+     "popis": "Při misi na planetu P4X-639 se členové SG-1 seznamuji s mimozemským  archeologem Malikaiem, který na planetě stejně jako dr. Jackson zkoumá  záhadné zařízení s nápisy podobnými latině, které se podobá jakémusi  oltáři s kamennou klávesnicí na povrchu. Slunce, okolo kterého planeta  obíhá, je v této době velmi aktivní a probíhají na něm četné erupce.  Malikai varuje Daniela, že se blíží geomagnetická bouře, která by mohla  být pro SG-1 nebezpečná a chce, aby odešli. Mohla by značně vzrůst  radiace na povrchu planety. Když Daniel ignoruje Malikaiovo varování,  ten vytáhne schovanou energetickou zbraň, vystřelí po Danielovi a začne  mačkat „klávesy“ na podivném mimozemském zařízení. Zbytek týmu běží  k Danielovi. Ze zařízení vytryskne modré světlo, které kromě Malikaie  zachytí i O’Neilla s Teal’cem. Ti se ocitnou zpět v SGC o deset hodin  dříve a připravují se na misi, ze které se však právě vrátili. Jack  s Teal’cem jsou zmatení, protože nikdo kromě nich si uplynulých deset  hodin nepamatuje. Ukáže se, že to mimozemské zařízení je jakýsi stroj  času, který vyrobili před dávnými časy Antikové. Ovšem zařízení  nefunguje správně a vytváří krátkodobou, neustále se opakující časovou  smyčku, do které bylo kromě Země zachyceno více než deset dalších  planet. Všichni jsou nuceni prožívat neustále desetihodinové období,  které se znovu a znovu opakuje. Ovšem jenom Jack s Teal’cem si pamatují,  co prožili v předchozích časových smyčkách. Podaří se jim prolomit  časovou smyčku a vrátit plynutí času do normálu? A jakou úlohu v tom  hraje mimozemšťan Malikai?"
+    },
+    {
+     "c": 7,
+     "nazev": "Vodní brána",
+     "original": "Watergate",
+     "datum": "2000-08-11",
+     "popis": "Tým SG-1 je připraven na rampě před bránou na další misi. Ovšem sedmý  symbol při zadávání adresy nezapadne a brána nejde otevřít. Ukáže se,  že na Zemi je ještě jedna brána, která je aktivována a blokuje tak bránu  v SGC. K velkému překvapení tu druhou hvězdnou bránu mají Rusové na  tajné základně na Sibiři. Je to původní brána z SGC, kterou vyzvedli ze  dna oceánu po pádu Thorova Biliskneru (viz Nemesis a Small Victories).  Ovšem Rusové mají problémy a nemohou bránu zavřít. Na žádost hlavního  vědeckého důstojníka ruského projektu Stargate - dr. Světlany Markovové,  jsou Američané požádáni o pomoc a na tajnou základnu je vyslán tým  SG-1. Členové SG-1 s dr. Markovovou dorazí na základnu a zjišťují, že  veškerý vojenský i vědecký personál základny je mrtvý. Brána je stále  otevřená a spojená s vodní planetou, ze které už dříve vzali vědci  vzorky vody. Dr. Markovová se spolu s Danielem a Sam vydávájí  v průzkumné miniponorce na planetu s cílem pokusit se uzavřít bránu, ale  miniponorka se z nějakého záhadného důvodu přestane pohybovat a trojice  zůstane uvězněna na planetě. Okolní tlak na ponorku začíná narůstat a  na předním skle se začínají objevovat prasklinky..."
+    },
+    {
+     "c": 8,
+     "nazev": "První hostitelé",
+     "original": "The First Ones",
+     "datum": "2000-08-18",
+     "popis": "Dr. Daniel Jackson se spolu s týmem SG-11 účastní archeologického  průzkumu na planetě P3X-888. Dochází k překvapivému zjištění. Planeta je  zřejmě původním domovem Goa'uldů. Ti se zde po milióny let vyvíjeli  v oceánech. Goa'uldi se i nyní hojně vyskytují ve vodních zdrojích  planety. Planeta je rovněž domovem starobylé rasy Unasů, kteří se  zrodili ze stejných zárodečných vod jako Goa'uldi. Nyní žijí  v jeskyních, kam se uchýlili před Goa'uldy. Unasové se stali prvními  hostiteli Goa'uldů. Goa'uldi byli nejprve predátory a až později se  z nich vyvinuli paraziti. Ti, kteří použili Unase za své hostitele, se  naučili používat bránu, opustili planetu a postupně se rozšířili po celé  galaxii. \nBěhem průzkumu je tým napaden a Daniel je unesen jedním mladým Unasem -  Chakou. Dr. Robert Rothman je vyslán zpět, aby informoval SGC o situaci a  přivedl pomoc. Generál Hammond vysílá na pomoc týmy SG-1 a SG-2 pod  velením plukovníka Jacka O'Neilla. Zjišťují, že z týmu SG-11 přežil  pouze jeho velitel - major Hawkings. Ovšem situace se zkomplikuje, když  Teal'c objeví, že ve vodě poblíž jejich tábora žijí Goa'uldi. Je jasné,  že mohli napadnout kohokoli, kdo se přiblížil k vodě, a kdokoli z SG  týmů tedy může být hostitelem Goa'ulda, aniž by o tom ostatní měli  tušení. Navíc Carterová tentokrát není schopna vycítit přítomnost  Goa'ulda, protože tito původní Goa'uldi nemají ve svém těle stopy  naquadahu. Bohužel, Teal'covy obavy se potvrzují. Kdo se stal  hostitelem? A jak dopadne Daniel?"
+    },
+    {
+     "c": 9,
+     "nazev": "Spálená země",
+     "original": "Scorched Earth",
+     "datum": "2000-08-25",
+     "popis": "Tým SG-1 pomáhá s přesídlením civilizace Enkaranů z jejich planety  postižené katastrofou na planetu P5S-381, kterou jim v SGC našli jako  vhodný nový domov. Je to už druhé stěhování Enkaranů. Před dávnými lety  byli jejich předkové přeneseni v lodích nějakým Goa'uldem na jinou  planetu, která byla mnohem později postižena katastrofou a Enkaranům by  bez pomoci pozemšťanů hrozila smrt. Enkarané jsou velmi citliví i na  malé hodnoty úrovně radiace, při které mohou oslepnout a při delším  pobytu v takovém prostředí u nich nastávají degenerativní změny, vedoucí  k nevyhnutelné smrti. I pobyt na Zemi, trvající více než několik dnů,  by byl z tohoto důvodu pro Enkarany životu nebezpečný. Planeta P5S-381  je jedinou vhodnou planetou, protože je chráněna silnou ozónovou  vrstvou. Ovšem naneštěstí se ukáže, že tato planeta je jediná vhodná  i pro další ohroženou civilizaci - Gadmeery. Gadmeerové byli po 10 000  let kvetoucí mírumilovnou civilizací. Ale nakonec padli za oběť nějaké  vyspělé militantní rase. Vybudovali obrovskou loď, do jejíž paměti  uložili veškeré své znalosti a umístili nejen své genetické vzorky, ale  i vzorky dalších tvorů a rostlin ze své planety, aby mohli, až naleznou  vhodnou planetu, znovu vybudovat svůj svět..."
+    },
+    {
+     "c": 10,
+     "nazev": "Pod povrchem",
+     "original": "Beneath the Surface",
+     "datum": "2000-09-01",
+     "popis": "Tým SG-1 se vydává na misi na P3R-118 - nehostinnou ledovou planetu, kde  místní obyvatelé žijí v jediném velkém městě chráněném kopulí. Celý  povrch planety je pokryt silnou vrstvou ledu a sněhu a neustále jej  bičují sněhové bouře. Mimo město zde člověk nemá nejmenší šanci na  přežití. Členové SG-1 zde chtějí dohodnout vzájemně výhodný obchod:  získat vyspělé metalurgické a chemické technologie výměnou za poskytnutí  znalostí hvězdné brány a adres. Hlavním vůdcem lidu na P3R-118 je  administrátor Calder, se kterým jednají. Členové SG-1 však zjistí, že  město a komfort jeho obyvatel závisí na otrocké práci dělníků,  pracujících v obrovském podzemním komplexu pod městem. Dělníkům byla  vymazána paměť - byl jim dán tzv. paměťový cejch a nahrány nové  vzpomínky. Žijí s vědomím, že nad nimi je jen ledová pustina a že je  třeba neustále usilovně pracovat a žít ve velmi skromných podmínkách a  jednou se jim snad podaří zkrotit ledový svět. SG-1 zjistí jak se věci  mají a Jack sdělí administrátoru Calderovi, že nedoporučí obchodování  s kulturou, která zotročuje část svých vlastních lidí, i kdyby jim  nabízela jakkoli skvělé technologie. Jack chce vědět, v čem tkví  tajemství poslušnosti dělníků - v mučení, v hladovění...? Calder mu  odpoví, že mu to ukáže. A to se naneštěstí i stane.\nVšem členům je dán paměťový cejch, jsou jim nahrány nové vzpomínky a  jsou posláni jako dělníci do podzemního komplexu, aniž by si pamatovali  něco ze svého předchozího života. Už to nejsou Jack, Sam, Daniel a  Teal’c, ale Jonah, Therra, Carlin a Tor. Na Teal’ca ale poprvé  ocejchování nezabere a snaží se ostatní členy týmu přesvědčit, že si  musejí vzpomenout, že tam nepatří a že musejí uprchnout."
+    },
+    {
+     "c": 11,
+     "nazev": "Není cesty zpět",
+     "original": "Point of No Return",
+     "datum": "2000-09-08",
+     "popis": "Generál Hammond svolává tým SG-1 a přehrává jim telefonát jakéhosi  Martina Lloyda.Vypadá to, že je to nějaký potrhlý blázen, posedlý  konspiračními akcemi americké vlády ve stylu Akt X. Hammond by takovému  telefonátu nevěnoval pozornost, kdyby se neukázalo, že Martin z nějakého  záhadného důvodu má informace o hvězdné bráně, které by rozhodně mít  neměl, a navíc žádá o setkání s plukovníkem O’Neillem. I když většina  z toho, co říká, jsou bláboly, přesto ví o některých utajovaných  skutečnostech týkajících se hvězdné brány. To Hammonda rozhodně nemůže  nechat klidným a vysílá členy SG-1 do Montany na setkání s tajemným  mužem.\nO’Neill se s Martinem setkává v jedné restauraci. Martin trpí přehnanou  opatrností a domnívá se, že je neustále sledován. Žádá Jacka o pomoc.  Říká, že musí projít bránou, protože je mimozemšťan a nepatří na Zem."
+    },
+    {
+     "c": 12,
+     "nazev": "Zkušební let",
+     "original": "Tangent",
+     "datum": "2000-09-15",
+     "popis": "Teal’c testuje nový letoun - stíhačku X-301 Intercept, hybrid vzniklý  spojením americké technologie a dvou goa’uldských letounů, které  ukořistil tým SG-1. Testům přihlížejí kromě generála Hammonda a zbytku  týmu SG-1 i major Davis a generál Vidrine z Pentagonu. Vidrine je  letadlem fascinován. Testy mají určit, jak účinná by stíhačka byla proti  goa’uldským mateřským lodím. Po zkoušce letových vlastností následuje  test ostré střelby na vzdušný cíl. Té se vedle Teal’ca účastní  i O’Neill. Ovšem řízení letounu se náhle vymkne kontrole. Letoun je  neovladatelný a dvojice se ani nemůže katapultovat. Vše se stalo v tu  nejméně vhodnou chvíli, kdy se letoun chystal zaútočit na vzdušný cíl a  akceleroval na strmé stoupání. Míří přímo do vesmíru. Poté, co se  dostanou mimo oběžnou dráhu Země, pohon se vypne a už nezrychlují. Náhle  se ozve Apophisův hlas, který oběma mužům sděluje, že loď se vrátí  k němu a oni oba zemřou v chladu vesmíru. Ukazuje se, že v ukořistěných  letounech, ze kterých je síhačka postavena, bylo ukryto návratové  zařízení, které přebralo kontrolu nad letounem. Mají dost energie a  kyslíku na několik dní. Ale návrat na Apophisovu domovskou planetu bude  při rychlosti jakou mají trvat několik set let..."
+    },
+    {
+     "c": 13,
+     "nazev": "Kletba",
+     "original": "The Curse",
+     "datum": "2000-09-22",
+     "popis": "Daniel se náhodou z novin dovídá o tragické smrti svého profesora  archeologie dr. Jordana, který zahynul při údajném výbuchu plynu  v laboratoři, a vydává se do Chicaga na jeho pohřeb. Zbytek členů SG-1  dostává dovolenou. Sam pracuje se seržantem Silerem na opravě motorky a  Jack s Teal’cem tráví volný čas rybařením u jezera v Minnesotě. \nV Chicagu se Daniel setkává se svými bývalými kolegy - dr. Stevenem  Raynerem a dr. Sarah Gardnerovou, kteří byli blízkými spolupracovníky a  asistenty dr. Jordana. Steven nemá Daniela příliš v oblibě. Daniel byl  vždy Jordanův oblíbenec, dokonce i poté, co odešel, když se mu celá  archeologická komunita vědců vysmála kvůli jeho názorům na stavbu  pyramid. I poté Steven stále zůstával v Danielově stínu a velmi na  Daniela žárlil, také i kvůli jeho vztahu k Sarah. Proto, na rozdíl od  Sarah, není příliš nadšen, když se Daniel objeví na pohřbu. Sarah je  ráda, že Daniela vidí a říká, že by ho bývali rádi pozvali na pohřeb,  ale nikdo nevěděl, kde ho hledat. Daniel zmizel beze stopy na pět let a  nijak o sobě nedal vědět, nikde nepřednášel ani nepublikoval..."
+    },
+    {
+     "c": 14,
+     "nazev": "Hadí zášť",
+     "original": "The Serpent's Venom",
+     "datum": "2000-09-29",
+     "popis": "Teal’c se vydává na Chulak na tajnou schůzku s Jaffy Rak’norem a  Ma’karem, na které by měli probrat postup v boji proti Goa’uldům a  možnosti protigoa’uldského povstání. Ukazuje se však, že to byla past a  oba Jaffové pouze předstírali, že chtějí bojovat proti Goa’uldům. Teal’c  je zajat. \nMezitím Jacob posílá prostřednictvím brány do SGC zprávu o tom, že  Heru’ur je nyní spojencem Apophise. Oba Goa’uldi ovládají dvě největší  armády. Apophis chce využít spojenectví ke svržení Vládců Soustavy.  Kdyby se podařilo toto spojenectví rozeštvat, válka by zdecimovala obě  strany a vrátila moc do rukou Vládců Soustavy. To by bylo pro Tok’ry  i pozemšťany lepší alternativou, než jeden všemocný Goa’uld. O něco  později přichází Jacob do SGC s informací, že k setkání a dohodě  o spojenectví mezi Apophisem a Heru’urem má dojít v Tobinské soustavě.  Civilizace Tobinů vyhynula už před staletími, ale jedním z jejích odkazů  je minové pole chránící celou soustavu. Je to jakési neutrální území,  kde se ani Apophis, ani Heru’ur neodváží zaútočit, pokud nechtějí být  zničeni minami. Jacob s sebou přinesl technický manuál Tobinů, který  však nikdo z Tok’rů není schopen přeložit. Co však nedokáží Tok’rové, to  dokáže Daniel. Manuál, který Jacob přinesl, obsahuje údaje o tom, jak  fungují miny..."
+    },
+    {
+     "c": 15,
+     "nazev": "Řetězová reakce",
+     "original": "Chain Reaction",
+     "datum": "2001-01-05",
+     "popis": "Členům SG-1 se jen tak tak podaří vrátit se do SGC z jedné z velmi  nebezpečných misí. Generál Hammond jim sděluje, že s okamžitou platností  rezignuje na funkci velitele SGC a odchází do důchodu. Říká, že už je  unavený a má dost toho, posílat své nejlepší lidi na mise mimo Zemi a  nevědět, jestli se vrátí. Jack se mu to marně snaží vymluvit. Hammond  však trvá na svém a nehodlá Jackovi sdělit pravé důvody odchodu. Členům  SG-1 je to velmi divné. Generál není z těch, kteří by se jen tak lehce  vzdávali a hned tak něco ho neporazí. Ovšem nemohou nic dělat. Na  základnu přichází nový velitel - generálmajor Bauer. Je přesně tím, čeho  se tým SG-1 obával - byrokratem, který bazíruje na nepodstatných  maličkostech a vyžaduje striktní dodržování předpisů. Je rovněž  představitelem těch frakcí, které žádají tvrdší postupy při získávání  mimozemských technologií. Ihned po příchodu rozpustí tým SG-1. Daniel  jako archeolog nemá co dělat ve frontové jednotce a nadále má proto  působit jako konzultant a cestovat mimo Zemi podle potřeby. Sam jako  odbornice na naquadahové reaktory dostává za úkol pracovat na vývoji  zbraně, která by spojovala nukleární bombu s využitím energie naquadahu,  což by mnohonásobně zvýšilo její explozívní účinek. Teal’c je převelen  k týmu SG-3. Zbývá Jack. Tomu se změny vůbec nelíbí a dostane se do  konfliktu s Bauerem. Ten mu dává nějaký čas na rozmyšlenou, aby se Jack  rozhodl, zda je ochoten se podřídit předpisům a zůstat tak v SGC. \nJack jde navštívit generála Hammonda a informuje ho o tom, co se děje na  základně. Hammond mu nakonec prozrazuje pravé důvody svého odchodu.  Před dvěma týdny byl kontaktován zástupci NID, kteří požadovali  agresívnější postup při získávání mimozemských technologií. Hammond to  odmítl a další den mu agenti NID vyzvedli ze školy obě vnučky a po pár  hodinách je v pořádku vrátili domů. Byla to výstraha. Hammond pochopil a  odstoupil, protože není schopen zajistit bezpečnost své rodině 24 hodin  denně. Jack to tak nechce nechat a obrací se s žádostí o pomoc na  plukovníka Maybourna. Má to však háček. Maybourne sedí ve vězení za  velezradu a hrozí mu trest smrti."
+    },
+    {
+     "c": 16,
+     "nazev": "Rok 2010",
+     "original": "2010",
+     "datum": "2001-01-12",
+     "popis": "Píše se rok 2010 a na Zemi se od zprovoznění hvězdné brány událo  mnoho změn. Přesně před deseti lety se tým SG-1 vydal na misi na planetu  P4C-970, kde se setkal s vyspělou civilizací Aschenů. Tím se vše  změnilo. Země se stala členem Aschenské konfederace a Goa’uldi byli  poraženi. Hvězdná brána nyní slouží jako veřejný dopravní prostředek při  cestování na jiné planety. Zavládl mír a armáda byla rozpuštěna. Z SGC  se stalo muzeum. Pozemšťané získali od mnohem vyspělejších Aschenů léky  proti všem chorobám a rovněž vakcínu, která jim prodlouží život na  dvojnásobek. I život členů SG-1 a ostatních pracovníků SGC se změnil.  Jack, který nesouhlasil se spoluprací s Ascheny, se stáhl do ústraní a  žije ve srubu u jezera v Minnesotě. Sam pracuje na vědeckých projektech  s aschenskými vědci, je vdaná za velvyslance Joea a marně se snaží mít  dítě. Teal’c žije na Chulaku a Daniel se věnuje archeologii. Generál  Hammond zemřel před šesti lety a dr. Janet Fraiserová žije ve  Washingtonu, kde má stále svou ordinaci i když vlastně nemá co na práci,  díky vyspělým aschenským lékům a technologiím. Sam, Daniel, Teal’c a  Janet se po letech opět scházejí. Všichni se účastní slavnostního  ceremoniálu v den desátého výročí prvního kontaktu s Ascheny. Na  ceremoniálu má projev president Kinsey a poté členové bývalého týmu SG-1  dostávají vyznamenání. Pouze Jack se akce neúčastní. Sam se svěří  Janet, že se s Joem stále pokoušejí o miminko, ale nedaří se to.  Aschenský lékař jí ale sdělil, že je v pořádku. Janet nabídne Sam, že ji  vyšetří. Ukáže se, že Sam nemůže mít děti a že jí Aschenský lékař lhal.  Ale proč? Sam se podaří získat přístup k aschenskému počítači a spolu  s Janet s hrůzou zjišťují, že porodnost na Zemi klesla o devadesát  procent. Jde o oblasti, kam šla vakcína proti stárnutí. Ascheni nejsou  tak nezištní, jak se zdálo. Podáním vakcíny se jim podařilo sterilizovat  většinu obyvatelstva Země. Takhle získají Zemi bez jediného výstřelu..."
+    },
+    {
+     "c": 17,
+     "nazev": "Absolutní moc",
+     "original": "Absolute Power",
+     "datum": "2001-01-19",
+     "popis": "Tým SG-1 přichází na Kasufovu žádost na Abydos, kde se setkává  s mladým chlapcem. Je to Shifu, harsesis - syn Sha’re a Apophise,  kterého vychovala Oma Desala. Shifu přišel na Abydos, aby se něco  dověděl o své matce. Vrací se se členy SG-1 na Zem. Pro pozemšťany je to  skvělá příležitost, jak od něj získat vědomosti Goa’uldů. O tyto  vědomosti mají zajem i Tok’rové, s nimiž mají pozemšťané smlouvu  o výměně všech potencionálních zdrojů informací, které se týkají  Goa’uldů. Do SGC přichází Tok’ra Aldwin s tím, že mohou použít zařízení  na vyvolávání vzpomínek a že to Shifuovi nijak neublíží. Shifu říká, že  Oma Desala mu pomohla pohřbít ty vzpomínky v podvědomí, aby mohl žít  normální život. Daniel rozmlouvá s Shifuem, který mu sděluje, že Oma  Desala učí, že o pravé povaze člověka se rozhoduje v boji mezi jeho  vědomím a touhami jeho podvědomí. Podle Omy je Shifuovo podvědomí příliš  silné, než aby mu mohl vzdorovat. Zvítězit může jen tehdy, když mu  nedovolí bojovat. U Daniela je to podobné a Shifu mu umožní malý  experiment, aby Daniel poznal sám sebe a našel svou cestu. Shifu se  dotkne Danielova čela, objeví se bílý paprsek a Daniel omdlí..."
+    },
+    {
+     "c": 18,
+     "nazev": "Světlo",
+     "original": "The Light",
+     "datum": "2001-01-26",
+     "popis": "Daniel je s týmem SG-5 na průzkumné misi na planetě P4X-347, kde byl  objeven starý goa’uldský palác se záhadným zařízením vydávajícím bílé  světlo. Jeden z členů týmu, poručík Barber, byl vyslán do SGC a nyní se  připravuje k návratu zpět na planetu. Spolu s ním se na odchod  připravuje i Sam. V prostoru brány je s nimi i Jack. Barber stojí před  rampou a v okamžiku, kdy se brána začne otevírat, skočí do víru energie a  zmizí. Všichni šokovaně přihlížejí. Barber právě před jejich očima  spáchal sebevraždu. Nikdo nechápe, proč to udělal. Nikdy nevykazoval  známky deprese ani sebevražedné sklony..."
+    },
+    {
+     "c": 19,
+     "nazev": "Zázračné dítě",
+     "original": "Prodigy",
+     "datum": "2001-02-02",
+     "popis": "Jack dostává za úkol posoudit možnosti zřízení výzkumné stanice na  M4C-862, měsíci plynného obra, kam byl vyslán vědecký tým společně  s vojáky pod vedením majora Griffa, kteří mají vědecké členy výpravy  ochraňovat. Jack s Teal’cem se vydávají na M4C-862 majora Griffa  vystřídat. Jack není úkolem vůbec nadšen a totéž lze říci i o Griffovi,  který se se svými muži zjevně nudí a je rád, že ho Jack vystřídá. Navíc  neustále propukají konflikty mezi vědci, kteří by rádi prozkoumávali  široké okolí tábora, a vojáky, kteří jim v tom brání, protože se obávají  o jejich bezpečnost a chtějí vše nejprve sami prověřit, aby vyloučili  možná rizika.\nMezitím Daniel je na misi mimo Zemi s týmem SG-11 a Sam má na letecké  akademii přednášku z astrofyziky. Sam se seznamuje s mladou, velmi  nadanou kadetkou Jennifer Haileyovou, která je s ní neustále srovnávána.  Ovšem má problémy s dodržováním disciplíny a hrozí jí vyloučení  z akademie. Na přímluvu Sam se tak nestane. Haileyová by byla výbornou  kandidátkou pro SGC. Ale to znamená naučit se dodržovat disciplínu a  dostudovat. Sam jí chce ukázat možnosti, které by ji čekaly, a bere ji  do SGC. S Hammondovým svolením obě procházejí hvězdnou bránou na  M4C-862."
+    },
+    {
+     "c": 20,
+     "nazev": "Entita",
+     "original": "Entity",
+     "datum": "2001-02-09",
+     "popis": "Na planetu P9C-372 je vyslána průzkumná sonda. Generál Hammond a  členové SG-1 jsou zvědaví, co sonda ukáže, protože adresa planety  pochází z archívu Antiků. Sonda dorazí na planetu a začne vysílat záběry  z okolí brány. Na prvních záběrech se objevuje plošina lemovaná sloupy  zvláštního půlkruhového tvaru. V dálce jsou vidět nějaké stavby.  Danielovi nic z toho nepřipomíná Antiky a ani Teal’c se s takovou  architekturou ještě nesetkal. Náhle se sonda k překvapení všech dá do  letu. Ztratili nad ní kontrolu. Po chvíli obraz zmizí. Ovšem vysílání  nepřestalo, stále mají silný signál. Do SGC se prostřednictvím sondy  přenášejí zpětnovazební smyčkou vysokofrekvenční oscilace. Daniel se  domnívá, že se s nimi někdo snaží komunikovat. Sam navrhuje odpojit  bránu a analyzovat všechny získané údaje. Náhle začnou po všech  přístrojích v řídící místnosti probíhat namodalé elektrické výboje a  jeden počítač za druhým kolabují a monitory vybuchují. Nějaký  elektromagnetický výboj přetížil celý systém. Brána nejde zavřít,  počítače nejdou resetovat a řídící systémy jsou vyřazené. Zbývá jediná  možnost - pokusit se nouzově odpojit bránu od elektrické energie. To se  podaří a celá základna se noří do tmy. Naskakuje záložní generátor a  v SGC zjišťují škody. Ovládací systémy brány včetně záložních jsou  nefunkční, stejně jako iris. Vypadá to, že se někdo na planetě napojil  na signál sondy a jeho signál tak prošel v protisměru červí dírou..."
+    },
+    {
+     "c": 21,
+     "nazev": "V dvojím ohrožení",
+     "original": "Double Jeopardy",
+     "datum": "2001-02-16",
+     "popis": "Členové SG-1 se vydávají na misi na planetu Juna. Zde však padnou do  léčky a jsou zajati junskými válečníky a jedním Jaffou. Jaffa se jich  ptá, co jsou zač, ale členové týmu mlčí. K jejich překvapení náčelník  domorodých bojovníků Darian oznamuje Jaffovi, že zajatci jsou ze Země a  jsou známí jako tým SG-1. Jak se vůbec opovažují vrátit se zpět na Junu!  Členové týmu na něj překvapeně hledí. Jsou na planetě poprvé. Jackovi  se při nastálém zmatku podaří uprchnout. Trojice zbylých členů týmu je  odvedena do velké pyramidy, kde zjišťuje, že Juna je v područí Goa’ulda  Chrona. Chronos nechá shromáždit všechny junské bojovníky a nechá před  ně předvést zajatce. Mezi bojovníky je i Jack, přestrojený za jednoho  z nich. Chronos nařídí Darianovi, aby na důkaz své oddanosti zabil  jednoho ze zajatců a vybere Daniela. Daniel si všimne Jacka a naznačuje  mu nepatrným pokývnutím, aby nezasahoval. Zbytek týmu tak bezmocně  sleduje, jak Darian vystřelí z tyčové zbraně a Daniel padá mrtev k zemi.  Všichni v sále, kromě zbytku SG-1, strnou překvapením. Danielovi totiž  odpadla hlava a změtí součástek uvnitř probíhají slabé namodralé výboje.  Je jasné, že to není člověk a že to není pravý tým SG-1, ale jeho  kopie, které vytvořil Harlan na Altairu."
+    },
+    {
+     "c": 22,
+     "nazev": "Exodus",
+     "original": "Exodus (1)",
+     "datum": "2001-02-23",
+     "popis": "Tým SG-1 přilétá s lodí, kterou ukořistili Chronovi, na Vorash. Tok’rové  se dohodli s SGC, že jim bude loď zapůjčena, aby se na ní mohli  přemístit z Vorashe na nějaké bezpečnější místo, kde by vybudovali novou  základnu. Hvězdnou bránu chtějí vzít s sebou. Tanith je velmi překvapen  jejich dopravním prostředkem a ptá se, proč o tom všem nebyl  informován. Je mu sděleno, že proto, aby se o tom nedověděl Apophis a že  Tok’rové od začátku věděli, že je Apophisův špeh a že zabil Shan’auc.  Využili ho k dezinformování Apophise. Tanith je odveden do vězení.  Tok’rové ho nechtějí vzít s sebou, aby neprozradil umístění jejich nové  základny. \nNa loď jsou přepravovány veškeré zásoby ze základny. Když je vše  přemístěno, Tok’rové se připravují k nalodění. Ale právě v tom okamžiku  se tunely rozezní poplašný signál. Tanithovi se podařilo uprchnout a  ukrýt se někde na povrchu. Tanith jde ke skrýši, kde má schovanou  komunikační kouli, jejímž prostřednictvím kontaktuje loď, která byla po  celou dobu schovaná poblíž planety a má ho vyzvednout. Na povrchu po něm  bezvýsledně pátrají Teal’c, Jack a několik Tok’rů. Po několika hodinách  to vzdávají a vracejí se do tunelů, kromě Teal’ca, který celou věc bere  osobně - Tanith zabil Shan’auc."
+    }
+   ]
+  },
+  {
+   "cislo": 5,
+   "rok": "2001",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Nepřátelé",
+     "original": "Enemies (2)",
+     "datum": "2001-06-29",
+     "popis": "Tento díl je pokračováním předchozí epizody Exodus. Poté, co SG-1  a Jacob nechali vybuchnout slunce, kolem kterého obíhala planeta  Vorash, byla celá Apophisova flotila zničena. Carterové se naštěstí  podařilo podle instrukcí jejího otce opravit hyperpohon jejich lodi a  mohli tak uniknout do hyperprostoru. Loď však byla zachycena vlnou z té  exploze a během cesty hyperprostorem byla vychýlena z kurzu. Spolu  s nimi se do hyperprostoru dostala také loď Apophise. SG-1 se chce vydat  na průzkum jeho lodi. Daniel zůstává na lodi a Jack, Sam a Jacob se  vydávají na průzkum Apophisovy lodi. Na lodi je spuštěna autodestrukce.\n\nUkazuje se, že Apophisova loď byla napadena a ovládnuta replikátory.  Teal’c přilétá s lodí do nákladního prostoru.  Jack Teal’ca obejme na  přivítanou. Ten objetí opětuje, pak však Jacka odtstrčí a namíří na něj  zbraň. Přicházejí další ozbrojení Jaffové a také Apophis.  Podaří se členům SG-1 a Jacobovi uniknout z vězení, zneškodnit Apophise a  uniknout replikátorům? A dostanou se zpět do své galaxie a na Zem? A co  bude s Teal’cem?"
+    },
+    {
+     "c": 2,
+     "nazev": "Na prahu smrti",
+     "original": "Threshold (3)",
+     "datum": "2001-07-06",
+     "popis": "Tento díl uzavírá předchozí dvě epizody Exodus a Enemies. \nČlenům SG-1 se podařilo dostat se v pořádku zpět na Zem. Teal’c byl po  návratu vzat do zadržovací cely a byl k němu povolán psychiatr dr.  McKenzie. \nDr. McKenzie přivádí do cely za Teal’cem generála Hammonda a Jacka, aby  se sami přesvědčili o tom, že Teal’c už je v pořádku a sami rozhodli,  zda ho propustí z cely. Teal’c znovu přísahá věrnost pozemšťanům.\nBra’tac jediný rozpozná, že Teal’c vše pouze hraje a že je stále hluboce  přesvědčen o tom, že Apophis je jeho bůh. Bra’tac poté podrobí Teal’ca  rituálu M’al Sharran, který je sice velmi nebezpečný a může skončit  Teal’covou smrtí.\nPodaří se Teal’covi úspěšně projít rituálem a vrátit se zpět nebo zemře ve jménu falešného boha?"
+    },
+    {
+     "c": 3,
+     "nazev": "Povznesení",
+     "original": "Ascension",
+     "datum": "2001-07-13",
+     "popis": "SG-1 prozkoumává planetu Velona. Sam detailně studuje neznámé zařízení  (zbraň?), Daniel překládá neznámé texty a Jack s Teal’cem prozkoumávají  okolí. Sam někdo nebo něco pozoruje a rychle se k ní blíží. O’Neill ji  bere zpět do SGC. Doktorka Fraiserová ji ošetří a generál Hammond jí  navrhne volno. Druhý den ráno potkává před domem neznámého muže, který  se chová trochu divně. Vtom se ten neznámý muž objevuje u ní v kuchyni.  Sam mu vyhrožuje policií, ale muž se jí snaží uklidnit a vysvětluje, že  pochází z planety, kterou právě navštívila. Představuje se jako Orlin.\n\nZatím Daniel s Teal’cem přijdou na teorii o zkáze Velonské civilizace.  Tamní rasa byla zhruba na úrovni Země, když na ni zaútočili Goa’uldi.  Daniel s Teal’cem se zprvu domnívali, že ji vyhladili Goa’uldi, ale  podle nových zjištění Veloňané právě pomocí své zbraně Goa’uldy  odrazili. Otázkou zůstává, kdo tedy Veloňany vyhladil…"
+    },
+    {
+     "c": 4,
+     "nazev": "Pátý člen",
+     "original": "The Fifth Man",
+     "datum": "2001-07-20",
+     "popis": "SG-1 je během mise napadena Goa’uldy, kteří hledají jednoho  příslušníka rasy Reolů majícího schopnost produkce chemikálie, která při  kontaktu způsobí, že napadený si o Reolovi myslí něco úplně jiného než  je a stejně odlišně ho i vidí. Celý tým SG-1 je tedy infikován a domnívá  se, že s nimi je poručík Tyler, kterého k nim generál Hammond přidal  jako pátého člena týmu. Sam, Danielovi a Teal’covi se podaří uprchnout,  ale Jack zůstává s postřeleným Tylerem v nepřátelském území, kde je  hledají Goa’uldi. Skryjí se v ruinách staré budovy, kde přespí. Mezitím  zbytek SG-1 dorazí do SGC a tam se zjistí nepatřičnosti ohledně poručíka  Tylera, který podle členů základny neexistoval a ani neexistuje. Pak je  doktorka Fraiserová při přenášení Teal’covy bundy částečně zasažena  chemikálií a začíná si matně vzpomínat na Tylera. To ji dovede ke  zjištění, že poručík není tím, za koho se vydává, ale je někdo jiný.  Mezitím ráno na planetě objeví Jacka a Tylera goa’uldský letoun. Jack ho  sestřelí granátometem, ale tím Goa’uldi zjistili jejich pozici. O  chvíli později, kdy už jim Jack přichystal přivítání v podobě C-4,  doráží na místo velká skupina Jaffů a Jack s Tylerem jsou obklíčeni a  zdá se, že svůj boj prohráli. V poslední chvíli ale dorazí zbytek SG-1 a  osvobodí je. Ke střežené bráně se dostanou Tylerovou pomocí, který jim  prozradil, kdo ve skutečnosti je, a díky Teal’covi, který použije  tyčového děla z letounu a zlikviduje zbytek jaffů. Tyler se loučí  s členy SG-1 a odchází na planetu, kde se mají shromáždit všichni  Reolové."
+    },
+    {
+     "c": 5,
+     "nazev": "Rudé nebe",
+     "original": "Red Sky",
+     "datum": "2001-07-27",
+     "popis": "Při cestě na planetu K’tau brána hlásí chybu, ale zadávací program  tuto chybu obejde a tak SG-1 cestou nabere těžký prvek, který se dostane  do k’tauského slunce a tím naruší jeho činnost. Podle Carterové, je  narušeno ultrafialové spektrum a obloha planety zrudne. Lidé na K’tau  pokládají SG-1 za bohy, kteří mají zvěstovat něco špatného. To špatné  přichází v podobě Odinova oka, což má být zrudlá obloha způsobená  nadměrným UV zářením, chystající se vyhubit celou populaci planety.  Samozřejmě, SG-1 chce napravit, co způsobili, a proto jdou do síně  moudrosti Freyra, místního boha. Po monologu Freyra v podobě velkého  válečníka je Jackův hologram transportován k Radě Asgardů, kde zjistí,  že K’tau spadá do Smlouvy o chráněných planetách, a tak Asgardi nemohou  nijak pomoci, aniž by porušili smlouvu s Goa’uldy a tím by ohrozili  všechny planety, které smlouva zahrnuje. Carterová má plán, jak situaci  vyřešit a vrátit činnost slunce do normálních poměrů, ale potřebuje  k tomu raketu a nějaký supertěžký prvek. Raketu po částech dopraví a  složí, a když si jdou na Zemi vyzvednout supertěžké maclarium,  radikální, nepřátelská část domorodců na K’tau zničí raketu a tak SG-1  nemá, jak dostat maclarium do slunce. Carterovou však napadne, že by  mohli použít stejný postup, jak do slunce cizí prvek původně dostali,  jenže bránou pošlou maclarium. Když přijdou na planetu, je vše beze  změny, ale po chvíli slunce vrací zpět k normálu. Jenom nikdo neví,  jestli to způsobilo maclarium nebo Asgardi, kteří to pouze zamaskovali  pod pokus o záchranu planety od SG-1."
+    },
+    {
+     "c": 6,
+     "nazev": "Zasvěcení",
+     "original": "Rite of Passage",
+     "datum": "2001-08-03",
+     "popis": "Díl začíná oslavou šestnáctých narozenin Cassandry. Janet se Sam  zapalují svíčky na dortu připravující oslavu. Cassandra však jejich  nadšení zdaleka nesdílí, neboť chce jít s partou přátel někam ven. Navíc  před domem na ní čeká Dominik. Janet ji s ohledem na to, že jí není  úplně dobře nechce nechat jít nikam daleko. Cassandra jde pouze před  dům, kde od Dominika dostává malý dárek. Rozhodně z něj má větší radost  než ze všeho ostatního. Nadejde chvíle polibku. Vtom světla zablikají,  praskne žárovka na verandě a ona se hroutí k zemi. Janet se Sam běží  ihned ven jakmile zaslechnou volání. Nevypadá to vůbec dobře a berou ji  ihned do nemocnice na základně SGC..."
+    },
+    {
+     "c": 7,
+     "nazev": "Domácí zvířata",
+     "original": "Beast of Burden",
+     "datum": "2001-08-10",
+     "popis": "Daniel studuje chování a řeč Unasů na jejich planetě  tím, že vždy  přiláká Chaku k bráně na čokoládovou tyčinku. Jednou, když Chaka zase  přijde pro tyčinku, vystoupí z brány několik mužů a Chaku zadrží a  odvedou bránou pryč. Členové SG-1 se vydávají na planetu, kam byl Chaka  odvlečen, a objeví zde společnost otrokářů, která využívá Unasy jako  otroky. Daniel při prohlídce osady a Unasů projeví zájem o Chaku, který  je uvězněn v jakési stodole se zamřížovanými celami a Daniela ihned  pozná. Daniel sdělí Burrocovi, hlavnímu obchodníkovi, že Chaka je jeho  Unas a že ho chce získat zpět.\nKdyž Burroc odmítne, Jack s Danielem se pokusí Chaku osvobodit. Nezdaří se a oba jsou chyceni.\nSam s Teal’cem však nemohou k bráně pro posily, protože je dobře  střežená. Proto způsobí ve městě požár a zničí i zásobník s vodou. V  nastalém zmatku vysvobodí Daniela s Jackem i Unasy a vydávají se  k bráně. Muži, kteří bránu hlídali, jsou pryč, a členové SG-1 se  domnívají, že odešli na pomoc do osady hasit oheň a zachránit, co se dá.  Ovšem ukazuje se, že neodešli všichni. SG-1 s Unasy je cestou napaden a  jeden Unas je zastřelen. Po malé přestřelce jsou útočníci zlikvidováni.  Unasové pod vedením Chaky se rozhodnou osvobodit všechny zotročené  Unase na planetě a berou si tyčové zbraně mrtvých místních bojovníků."
+    },
+    {
+     "c": 8,
+     "nazev": "V hrobce",
+     "original": "The Tomb",
+     "datum": "2001-08-17",
+     "popis": "SG-1 se dovídá, že během doby provozu ruské brány prošel nelegálně ruský  tým vědců na pouštní planetu, která byla doménou Goa’ulda Marduka. Na  planetu se společně s SG-1 vydává i ruský tým vedený plukovníkem  Žukovem. Na planetě se nachází zikkurat podobný tomu, jaké se stavěly na  Zemi v starověké Mezopotámii.\nUvnitř se rozdělí na dvě části a skupina vedená plukovníkem Žukovem  objeví sarkofág. Jack jim sice přikáže počkat s otevřením na ně, ale  Žukov neuposlechne a nechá sarkofág otevřít. Ten se však propadne a  jeden ze členů ruského komanda je ztracen pod sutinami. Sarkofág ukrývá  jenom kostru Goa’ulda Marduka, která je podivně ohlodaná, stejně jako  kostry lidí z ruského týmu, které najdou později. Po chvíli objeví jednu  kostru, je ale ve stavu, který je naprosto nepřiměřený byť i třem  měsícům po smrti, a Sam najde na kostech stopy zubů shodné s obtisky na  Mardukovi, takže dojdou k názoru, že jeho smrt muselo způsobit nějaké  malé zvíře s velmi ostrými zuby.\nDále prozkoumávají chrám, Sam je s Teal’cem, Jack s Žukovem a Daniel je  v hlavní místnosti se zraněnou Toliněvovou a dalším ruským vojákem  vojákem. Mezitím Žukov najde mimozemský artefakt Tiamatovo oko, které má  rozkazem od svých nadřízených sebrat, a tak jej vezme s sebou."
+    },
+    {
+     "c": 9,
+     "nazev": "Mezi dvěma ohni",
+     "original": "Between Two Fires",
+     "datum": "2001-08-24",
+     "popis": "SG-1 je pozvána na Tollanu k pohřbu Omoca, jednoho z Tollanců, které  kdysi zachránili (viz epizoda Enigma) z jejich zničeného světa. Narim  pronese smuteční řeč, načež kancléřka zapálí oheň a obřad je u konce.  Konečně Daniel načne téma, proč byli pozváni také oni, když Omoc o nich  neměl příliš vysoké mínění. Narim ho lehce poopravuje, načež kancléřka  naznačí, že by budoucí jednání o budoucích obchodních vztazích mohlo být  otevřeno. Nezvykle vřele je pozve druhý den k jednání. Nenápadně pokyne  dvojici strážných, aby na ně dohlédla. Během cesty zkouší SG-1 vyzvědět  informace od Narima, ale ten je sám překvapen a netuší jaký záměr  kancléřka sleduje.\nO několik hodin později napadne planetu Tollan Goa'uld Tanith a SG-1 i Narim se dozvídají, že se s ním kancléřka spojila."
+    },
+    {
+     "c": 10,
+     "nazev": "Rok 2001",
+     "original": "2001",
+     "datum": "2001-08-31",
+     "popis": "SG-1 přichází na zemědělsky zaměřenou planetu obývanou Voliany. Ti  zde žijí pod ochranou a správou vyspělých Aschenů, kteří nabízejí Zemi  mnohé výhody, včetně léků na prodloužení života. Výměnou chtějí adresy  k cizím branám. Po návratu zpět do SGC je s nimi zpět poslán vyslanec  Joseph Faxon. Jack, Sam a Faxon jdou spolu s představiteli Aschenů na  palubu aschenského žacího stroje, kde vyjednávají o podmínkách smlouvy.  Mezitím se Daniel s Teal’cem prochází po planetě a po upozornění jednoho  farmáře sestoupí do podzemí, kde naleznou zbytky dávné civilizace na  úrovni podobné třicátým letům 20. století na Zemi. Objeví zde i noviny.  Ty na Zemi Daniel překládá a zjistí, že kdysi na planetě byla poměrně  vyvinutá civilizace, ale pak náhle počet obyvatel klesl a obyvatelé  opustili města. Daniel ale nemůže přeložit jedno slovo, které je velmi  důležité a prozrazuje, co zapříčinilo takový pokles počtu obyvatel.  Vychází najevo, že domovská planeta Aschenů musí ležet někde mezi třemi  planetami, z nichž jedna byla na seznamu vyškrtnuta kvůli dopisu, který  prošel bránou a byl potřísněn Jackovou krví (viz epizoda 2010). Na  planetu se poté vrací vrací pouze Sam s Faxonem vést další jednání. Sam  dává Mollemovi a Borrenovi adresy několika planet a ptá se Borrena, co  znamená slovo, které Daniel nemohl přeložit. Je to \"sterilita\". Nyní je  jasné, co by při spolupráci s Ascheny Zemi čekalo - radikální snížení  populace a postupná přeměna na zemědělskou planetu a obilnici Aschenů.  Když je Aschenům jasné, že jejich záměry byly odhaleny, chtějí poslat na  Zemi bránou ničivou biologickou zbraň, která by vyhubila vše živé. Mají  adresy několika planet a spolupráci se Zemí tak mohou oželet. Carterové  se na poslední chvíli podaří dostat se bránou zpět do SGC a varovat  před hrozícím nebezpečím. Ovšem vyslanec Faxon takové štěstí neměl a  zůstal na planetě v rukou Aschenů. Jeho další osud není známý. Díky Sam  bylo nebezpečí hrozící od Aschenů zažehnáno. Navíc se ukazuje, že první  adresa, kterou dali Aschenům byla ta, vedoucí na planetu přitahovanou  k blízké černé díře..."
+    },
+    {
+     "c": 11,
+     "nazev": "Zoufalé řešení",
+     "original": "Desperate Measures",
+     "datum": "2001-09-07",
+     "popis": "Když jednoho dne Sam jde po ulici, zastaví vedle ní dodávka, ze které  vyskáčou muži v kuklách a Sam unesou. Vyjde najevo, že před nedávnem  byl Rusům ukraden nelegálně vlastněný Goa’uld, který byl prodán  prostřednictvím Harryho Maybourna do firmy Adriana Conrada. Conrad trpí  nevyléčitelnou chorobou a Goa’uld by ho mohl vyléčit. Po Sam se začne  shánět celá SGC. Harry Maybourne sdělí Jackovi, že nedávno měl prsty  v prodeji symbionta od Rusů Conradově firmě a že tedy oproti očekávání  nestojí za touto akcí NID. Daniel přijde na to, že do majetku firmy  patří i stará, nepoužívaná nemocnice v Chicagu. Mezitím se tým lékařů  snaží získat od Sam informace, jak se dokázala zbavit svého symbionta,  protože po vyléčení chtějí Goa’ulda z Conrada vyndat. Sam se podaří  jednou utéct, ale znovu je chycena a ještě důkladněji spoutána, aby se  to neopakovalo. SG-1 s Harrym Maybournem dorazí do nemocnice právě včas -  ve chvíli, kdy se jeden z lékařů snaží Sam zabít. Mezitím však byla  Adrianu Conradovi implantována goa’uldí larva. Goa’uld jej ovládne,  zneškodní Conradovu přítelkyni a podaří se mu uprchnout. V podzemní  části budovy narazí na Jacka. Objevuje se však plukovník Simmons a  zezadu dvakrát na Jacka vystřelí. Kulku, která směřovala do zad, zachytí  vesta, ale druhá kulka zranila Jackovi rameno, které mu vesta  nechránila. Simmon pak nabízí Conradovi pomoc a oba odcházejí neznámo  kam. Zraněného Jacka objeví Sam a ten je odvezen do nemocnice. Domnívá  se, že ho postřelil Maybourne."
+    },
+    {
+     "c": 12,
+     "nazev": "Seriál Červí díra",
+     "original": "Wormhole X-Treme!",
+     "datum": "2001-09-08",
+     "popis": "Při schůzce v zasedací místnosti Carterová ukazuje, jak vesmírná sonda  Kepler při průletu kolem Marsu pořídila snímek. Mysleli si, že je to  asteroid, ale vydávalo to slabou energii. Byla to vesmírná loď podobná  té, ke které je přivedl Martin Lloyd. Loď letí k Zemi a bude zde za tři  dny.\n\nMezitím někde ve studiu probíhá natáčení sci-fi seriálu Červí díra, kde  Martin Lloyd dělá v produkci. Seriál se nápadně podobá programu Hvězdné  brány..."
+    },
+    {
+     "c": 13,
+     "nazev": "Zkouška ohněm",
+     "original": "Proving Ground",
+     "datum": "2002-03-08",
+     "popis": "SG-1 cvičí ve výcvikovém zařízení tým nováčků a budoucích adeptů do  SGC. Tým nováčků vede poručík Elliot, do týmu dále patří Jennifer  Haileyová (viz 4.19 Prodigy), Satterfieldová a Grogan. Při dalším testu  nejsou příliš úspěšní - všichni jsou \"zastřeleni\" a Daniel si připisuje  bod. Jack si neodpustí pár sarkastických narážek na Elliotovo velení.  Jeho tým však za Elliotem pevně stojí. Elliot poukazuje na pár  nesrovnalostí v testu. Poslední test je odložen na druhý den. Elliot  usedá později ve značně v pokleslé náladě u jeepu. Domnívá se, že ho  plukovník O’Neill evidentně nemá rád, s čímž většina jeho týmu souhlasí.  Jedině Haileyová plukovníka nekritizuje. Naopak pobízí Elliota  i ostatní, že to mohou dokázat, když se budou opravdu snažit. Neprozradí  nic z toho, že už O'Neilla viděla ve skutečné akci. Večer Jack zůstane  na základně. V jídelně Sam vyzvídá, jaký má Jack názor na nováčky..."
+    },
+    {
+     "c": 14,
+     "nazev": "48 hodin",
+     "original": "48 Hours",
+     "datum": "2002-03-15",
+     "popis": "SG-1 je pod palbou Jaffů, Daniel se snaží zadat adresu a ostatní  střílejí. Náhle se zpoza stromů zvedá veliká goa’uldská loď, řízená  Tanithem. O’Neill probíhá bránou a domnívá se, že Teal’c běží za ním.  Ten ale po zjištění, že loď řídí Tanith, chce loď zničit menším  přenosným dělem, které má u sebe. Loď zasáhne a ta se řítí k zemi.  Teal’c vběhne do brány, ale loď při pádu zasáhne ovládací panel a červí  díra se uzavře. Teal’c zůstane uvězněn v bráně jako energetický otisk.  Když po návratu zbylí členové SG-1 zjistí, že Teal’c se s nimi nevrátil,  chtějí se pro něj okamžitě vrátit, ale počítač hlásí neznámou chybu.  Carterová v poslední chvíli zastaví zadávání adresy, protože jí dojde,  že Teal’c by mohl být uvězněn v bráně. Neví ale, jak jej dostat z brány  ven. Navíc několik týmů je na misích mimo Zemi a pokud by některý tým  aktivoval bránu pro návrat na základnu, Teal’cův otisk v bráně by se  vymazal. Hammond odchází informovat Pentagon. Daniel s majorem Davisem  odlétají do Moskvy dojednat použití ruské brány, aby se SG týmy mohly  vrátit domů. Setkávají se s plukovníkem Čechovem. Ten dává najevo, že se  mu tato situace nelíbí a že Rusové budou rovněž mít své požadavky..."
+    },
+    {
+     "c": 15,
+     "nazev": "Schůzka na nejvyšší úrovni",
+     "original": "Summit (1)",
+     "datum": "2002-03-22",
+     "popis": "Na začátku nabídne vazal Anubise lord Zipacna Usirevovi v těle Sarah,  přítelkyně Daniela Jacksona, poddanství Anubisovi. Pak do SGC přichází  Tok’rové a oznamují, že když zemřel Kronos s Apophisem, vládci se snaží  spojit, a proto chtějí uspořádat schůzku na jedné velmi chráněné  neutrální planetě, kam se smí pouze na nákladní lodi a to pouze  s jediným lidským otrokem - lo’taurem. Otrok musí mluvit plynně  goa’uldsky, takže je vybrán Daniel. Spolu s SG-1 jde tým SG-17  s poručíkem Elliotem (viz Proving Ground). Na Revanně (planeta Tok’rů)  jim Jacob vysvětlí, jak se Daniel dostane na schůzku. Pomocí nově  vytvořené chemikálie Tok’rů bude vládci Yu vsugerováno, že je jeho věrný  lo’taur. Dále dostane ampulku se dvěmi složkami, které když se smíchají  dohromady, vytvoří silný jed, který zabije symbionta, ale ne normálního  člověka. Jednání se má účastnit sedm Vládců Soustavy – Baal, Kálí,  Svorog, Bastet, Yu [Ti], Olokun a Morrigan. Když se Daniel chystá použít  jed, přichází Usirev, jehož hostitelka Sára zná Daniela a ví, že není  lo’taur vládce Yu. Naštěstí to nedává znát a žádá jménem Anubise, aby se  Anubis znovu stal Vládcem Soustavy. Mezitím se lord Zipacna se svou  armádou a flotilou přepravuje k Revanně, kterou dostal od Anubise za  úkol zničit. Tok’rové se nemůžou dostat pryč, protože brána je blokována  zvenčí, a proto se budou muset bránit. Všechen jed, který by mohli  případně použít ale bohužel má u sebe Daniel. Planeta je bombardována  bombami z al’keshů, tunely Tok’rů se začínají bortit. Část týmu SG-17,  který doprovází SG-1, je společně s Tok’ry pohřben pod troskami a  poručíka Elliota se snaží zachránit Lantash, bývalý symbiont Martoufa.  Je ale velmi slabý a na zranění poručíka Elliota asi stačit nebude. Na  jednání zatím vládci přijmou Anubise jako dalšího Vládce Soustavy. Do  tunelů pronikají Jaffové a pobíjí zbytek Tok’rů bránících se jenom  zat’nik’ately. Epizoda pokračuje dílem Last Stand."
+    },
+    {
+     "c": 16,
+     "nazev": "Poslední boj",
+     "original": "Last Stand (2)",
+     "datum": "2002-03-29",
+     "popis": "Tato epizoda je pokračováním první části tohoto dvoudílu s názvem  dílu Summit. Za Danielem přichází Sarah/Usirev, hrozí mu dýkou a žádá  informace, na jakém spiknutí se podílí. Daniel ji ale vpíchne  chemikálii, kterou vpíchl i vládci Yu, takže jej začne považovat za  obyčejného sluhu Yu. Jacob žádá okamžité použití jedu, ale Daniel nechce  Sarah společně s Usirevem a Vládci Soustavy zabít. Anubise pak Goa’uldi  na sumitu přijmou jako dalšího Vládce Soustavy. To znamená, že Daniel  nemůže všechny vládce zabít, protože nepřítomný Anubis by se stal  nepřemožitelný. Major Carterová společně s Lantashem v těle poručíka  Elliota jsou uvězněni v tunelu a Jack s Teal’cem se musí pokusit dostat  je ven pomocí krystalů Tok’rů. Pak si tvoří nové tunely a unikají  Jaffům. Daniel objeví na chodbě během schůzky nádržku s Goa’uldy a obává  se, že po skončení každý lo’taur jednoho dostane a stane se hostitelem.  Místo toho je zúčastnění Goa’uldi zabijí a snědí. Tohle podle jednoho  sluhy dělají každý večer. Zatím na Revanně se SG-1 podaří dostat se  z tunelů na povrch. Musí se dostat k signálnímu zařízení, pomocí kterého  by oznámili, že jsou naživu. Daniel chce ukrást teltak vládce Yu a  unést i Usireva. Usirev pak na palubě teltaku bodne dýkou Yu a chce  zabít Daniela, ale tomu se podaří vystřelit se v záchranném modulu a  Jacob jej transportuje na svůj teltakc a letí k Revanně. Tam dostanou  varování o napadení základny a chvíli poté vyšle zbytek SG-1 zprávu, že  jsou na planetě. Jacob s Danielem letí k nim, ale vydávají se za nimi  dva bojové letouny a sestřelí je. Podaří se jim však přistát, ale teltak  je příliš poškozený, než aby mohl znovu vzlétnout. Chtějí použít jed,  který měl u sebe Daniel, ale nemůžou jej použít, protože by uvolněný  plyn neměl dosah až k bráně a navíc by zabil i Teal’ca, Jakoba a  Elliota. Elliot navrhne, že se nechá donést k bráně Jaffy, kteří jej  zajmou pod záminkou, že jim poskytne informace o vzorci tohoto jedu, a  tam jed použije. Ostatní nakonec souhlasí, SG-1 s Jacobem odchází a za  chvíli k Elliotovi přichází oddíl Jaffů."
+    },
+    {
+     "c": 17,
+     "nazev": "Kritický bod",
+     "original": "Fail Safe",
+     "datum": "2002-04-05",
+     "popis": "Amatérský astronom objeví obří asteroid, který směřuje k Zemi. Má  délku 137 kilometrů a od doby objevení za jedenáct dní má zničit všechen  život na planetě. SG-1 doufá v pomoc mimozemských spojenců, tj. Tok’rů a  Asgardů. Ti však nemůžou pomoci kvůli Smlouvě o chráněných planetách.  Tok’rové mají zase po útocích na Revanně velice snížené počty, takže  také nemohou pomoci. Rozhodnou se tedy zničit asteroid sami. Pokusí se  opravit teltak na Revanně a pak se dostat k asteroidu dříve, než se  dostane k Zemi a zničí ji. Cesta z Revanny bude trvat při 100 % výkonu  motoru osm dní. Naštěstí se jim společně s vědeckým týmem podaří teltak  spravit a mohou odletět. Z planety letí pryč už jenom SG-1."
+    },
+    {
+     "c": 18,
+     "nazev": "Bojovník",
+     "original": "The Warrior",
+     "datum": "2002-04-12",
+     "popis": "Teal’c s Bra’tacem jsou na planetě Cal Mah, kde nalezli útočiště  jaffští povstalci vedení Jaffou K’tanem, který zabil bezvýznamného  goa’ulda Imhotepa. Po příchodu do SGC oba informují o situaci a žádají,  aby se lidé spojili s Jaffy. Tollani jsou možná zahubeni a Tok’rů zbývá  málo – to jeden z důvodů. Hammond vysílá SG-1 na planetu se zásobami a  zbraněmi. Jaffové nejsou pozemskými zbraněmi příliš nadšení. Myslí si  o nich, že jsou primitivní; čekali tyčové zbraně. Členové SG-1 sledují  probíhající tvrdý trénink Jaffů. Při jedné ukázce zvláště tvrdého  souboje O’Neill zasáhne s tím, že se Jaffové nemusí při tréninku zabít,  že je potřebují živé. Jeden z Jaffů vyzve O’Neilla na souboj, ale právě  se vrací K’tano, který z výpravy přinesl zbraně. K’tano se vítá  s Teal’cem , Bra’tacem a s SG-1. I K’tanovi se zdají být pozemské zbraně  primitivní, a tak mu Carterová předvede malou ukázku, co pozemské  zbraně dokážou. K’tano zbraně přijme, ale obává se, že Země nebude  dodávat pravidelně náboje a že budou na pozemšťanech příliš závislí.  K’tano hodlá přepadnout nějaký jaffský transport a ukořistit  zat’nik’ately a zbraňový naqadah a chce, aby se toho zúčastnili  i členové SG-1. Přepadení a převzetí kořisti je ale nějak jednoduché.  Teal’c je nadšen a rád by se přidal k Jaffům, ale pochybuje o spojení  s lidmi, protože jsou jiní. K’tano vysílá tým Jaffů na planetu Nirrti.  O’Neillovi se to nelíbí a mezi ním a Teal’cem vznikají rozpory, protože  Jack se domnívá, že K’tano hraje divadýlko. K’tano také plánuje útok na  Goa´ulda Yuho[Tiho]. O’Neill, který nesouhlasí s K’tanem, přikazuje  Teal’covi, jako členu SG-1, aby se sbalil, že odcházejí. Teal’c ale  odmítne a odchází na misi, na kterou ho vyslal K’tano; padne však do  rukou Yuho [Tiho]. Yu ví, že Teal’c ho měl na K’tanův příkaz zabít, a  přesto ho propustí s tím, že ví o planetě, kde se ukrývají jaffští  povstalci. Tým SG-1 se hodlá vrátit do SGC, ale zadávání adresy se  přeruší, když je brána aktivována zvenčí. Brána se otevře a proběhne jí  Teal’c. Nikoho nevnímá a běží do tábora s výkřiky, že K’tano je zrádce,  že Yu a ostatní Vládci Soustavy o všem ví a k základně jaffských  povstalců se blíží mateřské lodě. Teal’c vyzve K’tana souboj, při kterém  vyjde najevo, že K’tano není Jaffa, ale Goa’uld Imhotep. Teal’c ho  v souboji zabije. Na planetu zaútočí goa’uldské lodě a Jaffové i členové  SG-1 prchají bránou do bezpečí."
+    },
+    {
+     "c": 19,
+     "nazev": "Hrozba",
+     "original": "Menace",
+     "datum": "2002-04-26",
+     "popis": "Členové SG-1 se vydávají na misi na opuštěnou planetu. Carterová  zachytí slabý zdroj energie a naleznou mladou ženu, ležící na jakémsi  stole nebo oltáři s přikrytou tváří. Energie vychází z ní. Spojí se  základnou a informují generála Hammonda o nálezu. Carterová by ženu ráda  vzala na Zemi. Hammond souhlasí. Po návratu na základnu dr. Fraiserová  spolu s Carterovou ženu-androida probudí. Žena neví kde je a je velice  vystrašená. Jmenuje se Reese a zajímá se, kde je a kdo jsou oni. Na nic  si nevzpomíná, jen na to, že její otec věděl o nějakém nebezpečí a jí  řekl, aby šla spát, že ji probudí, až nebezpečí pomine. Vypadá to, že si  ani neuvědomuje, že je androidka. Daniel s Carterovou se domluví, že jí  to raději neřeknou a počkají s tím na pozdější dobu. Plukovník O´Neill  se vrací zpět na planetu spolu s Teal’cem a s dvěma vojáky z jiného  týmu. Jeden z vojáků najde něco, co v životě neviděl, a podá to  O´Neillovi. Ten poznává díl replikátora a okamžitě se vrací na základnu."
+    },
+    {
+     "c": 20,
+     "nazev": "Strážce",
+     "original": "The Sentinel",
+     "datum": "2002-05-03",
+     "popis": "Členové týmu SG-9 mají jedenáct hodin zpoždění a nehlásí se. Byli  vysláni na planetu P2A-018 – Latonu, kterou už dříve navštívil tým NID a  zajímal se o obranný systém Latony, místními nazývaný strážce. Spojení  se základnou je sice navázáno, ale je velice špatně slyšet hlášení.  Dozví se jen to, že Latona byla napadena Jaffy a jaffská hlídka stojí  i u brány.\n\nGenerál Hammond se obává, že tým pod vedením plukovníka Grievese z NID  s tímto obranným systémem něco provedl a když byli zatčeni, zamlčeli to.  Latona již není nadále chráněna a proto ji napadli Jaffové. O´Neill  navrhuje poslat průzkumný letoun a Carterová říká, že by si měli  promluvit s plukovníkem Grievesem, který zkoumal strážce. O´Neill jde do  vězení za Grievesem. Ten je v cele smrti. Jack žádá, aby mu řekl, jak  zařízení opravit. Po slovní přestřelce Grieves nakonec začne mluvit.  Říká, že strážce rozebrali a zase složili a že Latoňané o ničem  nevěděli. Dál však chce mluvit, jen když mu změní rozsudek a vezmou ho  spolu s poručíkem Kershawovou na Latonu. O´Neill nemá na výběr."
+    },
+    {
+     "c": 21,
+     "nazev": "Velká cesta",
+     "original": "Meridian",
+     "datum": "2002-05-10",
+     "popis": "Na planetě Kelowna, kde se nachází prvek, který se nevyskytuje nikde  jinde v galaxii – naquadria, která vznikla z normálního naquadahu,  probíhá výzkum tohoto prvku. Daniel se zde seznámí s Jonasem Quinnem,  kelownským vědcem, který se později stane členem SG-1. Když pozorují  jeden experiment, dojde k havárii a nestabilní naquadria začne vydávat  energii a radiaci. Vědci, kteří se pokusu účastnili, skoro okamžitě  zemřeli na nemoc z ozáření. V té chvíli hrozí exploze naquadrie a tím by  prakticky započala řetězová reakce, protože na planetě jsou dvě žíly  naquadahu – jedna je přeměněna na naquadrii a druhá, hlubší obsahuje  nepřeměněný naquadah, což by zničilo celou planetu. Daniel však  rozstřílí sklo laboratoře a vrhne se dovnitř. Zde se mu podaří zažehnat  hrozbu, ale to vše za cenu obrovské dávky záření, která je bohužel  smrtelná. Kelownská vláda však nezná pravdu a mylně se domnívá, že  nehodu způsobil dr. Jackson. Protože však Země chce udržet s Kelownou  diplomatické styky kvůli naquadrii, která je velmi důležitá pro mnoho  projektů, nemohou říci pravdu a generál Hammond raději uzná Danielovu  vinu. Jack to vše poví Jonasovi, který se velmi stydí, že Daniel není na  Kelowně, kterou zachránil, uznáván jako hrdina. Mezitím v SGC se  doktorka Fraiserová a Sam pokoušejí Daniela zachránit, Sam dokonce zkusí  použít goa’uldské léčebné zařízení, avšak bezvýsledně. Daniel rozmlouvá  s Omou Desalou o svém životě, co udělal dobrého, špatného, čeho dosáhl a  také, jak se dostat do jiné úrovně bytí. Jonas pak přichází bránou  s naquadrií a s tím, že řekl své vládě pravdu a sebral naquadrii.  Zůstává v SGC, protože se nemůže vrátit na svou domovskou planetu, kde  je nadále pokládán za zrádce. Do SGC přichází i Jacob/Selmak a pokouší  se zachránit Daniela. Ale ten si již vybral svou cestu. Během léčebného  procesu Daniel řekne Jackovi, že již nechce dále žít a touží odejít  s Omou. Jack požádá Jacoba, aby přestal s léčením. Skoro okamžitě Daniel  \"umírá\" a z těla vystupuje už jako ascendovaný."
+    },
+    {
+     "c": 22,
+     "nazev": "Překvapivá odhalení",
+     "original": "Revelations",
+     "datum": "2002-05-17",
+     "popis": "Trojice goa’uldských ha'taků se objeví u nejmenované planety chráněné  smlouvou uzavřenou Asgardy a Vládci Soustavy. Samozřejmě zde nejsou  náhodou a Usirev, sledující přilétající Asgardskou loď, spokojeně  přechází po můstku. Asgardský velitel Thor je upozorní, že porušili  smlouvu. Po krátké výměně názorů, kdy Usirev nehodlá ustoupit, Thor  zahájí palbu. Vylepšené goa’uldské štíty však nápor vydrží. Usirev si  jen spokojeně zamručí, že dny, kdy ustupovali Asgardům, jsou konečně  pryč.\nNa základně Sam prochází Danielovu kancelář, bere do rukou ležící knihy a  stále nedokáže překousnout, že Daniel už tady není. Přichází i generál  Hammond a zkouší ji utěšit, jenomže právě skutečnost, že si nejsou úplně  jistí jeho smrtí, ji nejvíc užírá. Během hovoru dojde k náhlému výpadku  energie. Po chvilce naskočí generátory a generála naléhavě volají do  prostoru brány. Tam již přichází asgardský zástupce Freyr. Informuje  o mimořádně nepříjemné situaci a jejich nedávné nepřítomnosti. Přišel  však z jiného důvodu. Kvůli nedávnému incidentu s Goa’uldy, během něhož  byl zabit velitel Thor, protože se Goa'uldům podařilo zničit jeho loď.  Na Teal’covu poznámku Freyr připouští, že Goa'uldi nyní mají výkonnější  štíty a zbraně, což výhodu Asgardů v následujících střetnutí značně  snižuje."
+    }
+   ]
+  },
+  {
+   "cislo": 6,
+   "rok": "2002",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Spása, část první",
+     "original": "Redemption (1)",
+     "datum": "2002-06-07",
+     "popis": "Epizoda začíná neúspěšnou misí SG-1 na P2X-374. Zatím nemohou najít vhodnou náhradu za Daniela. Další kandidát se neosvědčil a oni jen zázrakem unikli domů. Generál informuje Sam, hned po neúspěšném návratu, že projekt v Oblasti 51 je dokončen. Ta zajde za Jonasem, který se na Zemi pomalu zabydluje, a nachází si nového koníčka v meteorologii. Na generálův pokyn ho vezme do oblasti Oblasti 51, kde Jonas spatří dokončenou a plně funkční verzi prototypu X-302, z které je nadšen. Po návratu na základnu, najde Jack generála, jak mluví s plukovníkem Čechovem, který se snaží protlačit ruské zájmy a lidi v rámci smlouvy do SGC i do týmu SG-1, což Jack kategoricky odmítá před ním i poté, co zůstane s generálem o samotě. Jonas se během rozhovoru se Sam snaží naznačit, jestli by on nemohl být tím čtvrtým členem SG-1. Sam se však zatváří poněkud rozpačitě, neboť ani ona si není jistá, jestli má Daniela nahradit Kelowňan, kvůli kterému Daniel zemřel (povznesl se). Jonas o tom zkouší mluvit i s Teal’cem během boxu a Teal’c se tváří nejvíc souhlasně. Později v jídelně Teal’c zkusí Jackovi nadhodit volbu Jonase, než na základnu přichází Bra’tac se špatnou zprávou. Teal’cova žena umírá, její symbiont dosáhl stádia plné dospělosti..."
+    },
+    {
+     "c": 2,
+     "nazev": "Spása, část druhá",
+     "original": "Redemption (2)",
+     "datum": "2002-06-14",
+     "popis": "Krátce po Anubisově dramatickém holo-představení („Připravte se na svou smrt“) dostává doktor McKay nápad. Vyslat silný elektromagnetický výboj, který zničí vše na druhé straně. Sam má námitky, že nápad nebude fungovat. Generál ji vyzve, ať najde něco lepšího, jinak bude mít McKay zelenou. Jediné, s čím Sam přijde, je výpočet, kdy v případě neúspěchu se zkrátí čas do výbuchu brány na polovinu. Generál ji však nařídí s McKayem spolupracovat. Tou dobou vystoupí z hyperprostoru teltak pilotovaný Shaq’relem s Teal’cem, Bra’tacem a Rya’cem na palubě. Kolem planety je spousta ha’taků, což je důkaz, že jsou na správném místě. V SGC již probíhají plné přípravy vedené McKayem, jež je ve svém živlu. Mezi ním a Sam srší rivalita a osobní nesnášenlivost, přesto se pouštějí společně do práce. ... Jack se po pár hodinách vrací do SGC. Generál Hammond si balí věci a ptá se Jacka, zda už se rozhodl, kam by chtěl být přidělen a co bude dále dělat. Zdá se, že projekt Hvězdné brány končí, protože nemohou používat bránu bez rizika dalšího útoku. Krátce na to přilétá teltak a Teal’c informuje základnu, že Anubisova zbraň byla zničena. Tím se vše mění – je jasné, že projekt může dále pokračovat. Jonas si stihne promluvit s Jackem. Ten mu nedává za vinu, co se stalo Danielovi. Později, když generál Jacka informuje o ruských podmínkách, za kterých jim pronajali bránu, se konečně rozhodne. Čtvrtým členem SG-1 se stává Jonas Quinn."
+    },
+    {
+     "c": 3,
+     "nazev": "Havárie",
+     "original": "Descent",
+     "datum": "2002-06-21",
+     "popis": "SG-1 s Jacobem, majorem Davisem a doktorem Friesenem letí goa'uldskou  nákladní lodí - teltakem. Jejich cílem je goa’uldský ha’tak, jež  přiletěl do Sluneční soustavy, aniž by zaútočil. Zůstal stát na své  pozici. Ukazuje se, že by mohlo jít o loď, na jejíž palubě byl Thor.  Důvod, proč nezaútočili, je, že senzory na palubě neukazují známky  života. Jacob navrhuje, aby se na palubu raději přesunuli kruhy. Jack  nechává Teal’ca s Jonasem na palubě, čímž novému členovi SG-1 zkazí  trochu nadšení z prvního letu vesmírem."
+    },
+    {
+     "c": 4,
+     "nazev": "V zajetí ledu",
+     "original": "Frozen",
+     "datum": "2002-06-28",
+     "popis": "Díl začíná v Antarktidě, kde Jack a Sam nalezli druhou hvězdnou bránu  (viz Solitudes), během nehody před 4 lety. Na tomto místě založil  Pentagon výzkumnou stanici a skupinka vědců zde hledá další artefakty.  Dr. Michaelsová mluví se Sam, přičemž ta jí vysvětluje teorii o tom, že  antarktická brána je jedna z nejstarších bran, které nalezli (kolem 50  miliónů let). Sam trvá na tom, že tam pod ní ještě musí něco být. Kromě  dvojice zmrzlých Jaffů však zatím za poslední čtyři roky neučinili žádný  další objev. Říká Sam, že zdejší projekt Pentagon nejspíš ukončí,  protože tady nic důležitého nenajdou. Během hovoru vpadnou dovnitř její  dva kolegové dr. Woods a dr. Osbourne. Učinili totiž nečekaný nález  v blízkosti původních vykopávek..."
+    },
+    {
+     "c": 5,
+     "nazev": "Noční směna",
+     "original": "Nightwalkers",
+     "datum": "2002-07-12",
+     "popis": "Pozdě v noci neznámý muž, dr. Richard Flemming, vyděšený nasedá do svého  auta a rychle odjíždí pryč. Cestou vytáčí na mobilu číslo. Telefon  zvedá Sam s ospalým hlasem. Dr. Flemming mluví rychle a zmínka o Adrianu  Conradovi vzbudí její zájem. Stihne říci ještě o projektu a požádat  o ochranu než do něj zezadu někdo prudce narazí. Telefon ohluchne a Sam  se nic dalšího nedoví.\n\nRáno na poradě v SGC Sam rozebírá celou záležitost kolem doktora  Flemminga. Pracoval u řady vědeckých společností a obzvláště  u Immunitech Research, dceřiné společnosti Zetatron Industries, kterou  vlastnil Adrian Conrad. Jonas okamžitě všechny překvapí, když doktora  pozná podle jména, ale dále předstírá, že netuší, kdo je Adrian Conrad  (viz Desperate Measures). Generál Hammond mu osvětluje, že Conrad si  před nějakým časem zkoušel sám implantovat symbionta, aby vyléčil  smrtelnou chorobu. Sam zarytě mlčí a nekomentuje, proč tehdy unesli  i ji. Společnost byla přesunuta do malé vesničky Steveston na pobřeží  Oregonu. Jelikož doktor Flemming je od rána pohřešován, generál Hammond  nařídí vyšetřování a pošle SG-1 vyřešit záhadu. U stolu zůstává pouze  Sam s Jonasem. Sam se ptá, zda Jonas skutečně nevěděl o Adrianu  Conradovi. Ten připouští, že věděl, jenom nechtěl vypadat před ostatními  příliš podivně tím, že ví všechno..."
+    },
+    {
+     "c": 6,
+     "nazev": "Kobka",
+     "original": "Abyss",
+     "datum": "2002-07-19",
+     "popis": "Protože Jackovi hrozí smrt, stává se hostitelem Tok'ry Kanana, který  ho vyléčí. Jack/Kanan se poté nevrátí do SGC, ale odchází na planetu, na  které byl Tok'ra Kanan při jedné ze svých posledních misí a zanechal  tam svému osudu otrokyni, kterou se nyní chce pokusit ovobodit. Záchrana  se ale nepodaří. Jack je vážně zraněn tyčovou zbraní a padne do rukou  Goa'ulda Baala. Jeho symbiont Tok'ra Kanan spáchá sebevraždu, aby jeho  znalosti nepadly do rukou nepřítele. Baal se domnívá, že Jack by si mohl  uchovat nějaké vzpomínky svého symbionta a opakovaně ho mučí až k smrti  a poté oživuje pomocí sarkofágu. Opět se setkáváme s dr. Danielem  Jacksonem, který přichází Jackovi pomoci překonat a vydržet útrapy  mučení."
+    },
+    {
+     "c": 7,
+     "nazev": "Stínohra",
+     "original": "Shadow Play",
+     "datum": "2002-07-26",
+     "popis": "Velitelství SG-1 kontaktují Kelowňané a navrhují diplomatické  jednání. Na základnu přichází velitel Hale, velvyslankyně Dreylocková a  dr. Kieran, Jonasův učitel na universitě a také muž jenž ho zatáhl do  projektu naquadrie. Vyslanec hovoří o napjaté situaci na Kelowně, kdy  Tirania a Federace Andari hodlají podepsat dohodu o neútočení a je jen  otázkou času, než zaútočí na ně. Tím pádem jim nezbude nic jiného než  použít naquadriovou bombu, jíž doktor Kieran úspěšně otestoval. Nabízí  naquadrii výměnou za pomoc v oboru technologie tryskového pohonu.  Generál Hammond a SG-1 váhá s jakoukoliv akcí, protože už se jednou  spálili. Jonas jenom potvrzuje, co bylo řečeno, protože byl toho všeho  součástí..."
+    },
+    {
+     "c": 8,
+     "nazev": "Hrdinové",
+     "original": "The Other Guys",
+     "datum": "2002-08-02",
+     "popis": "Profesor Jay Felger pracuje jako vědec v SG-1 a je velkým příznivcem  SG-1. Zároveň je ale také velikým snílkem. Proto je celý bez sebe, když  se s týmem SG-1 setká během jedné mise, kde provádějí výzkum technologie  transportních kruhů. Jeho obdivování hrdinů má současně vliv na jeho  práci, neboť více času stráví mluvením o nich, než výzkumem. Netuší ale,  že Jaffa Herak dostal za úkol zajmout SG-1 a přivést je k Anubisovi.  Náhle přilétá ha'tak a zaútočí al-keshem, z něhož se transportují  Anubisovi Jaffové. Dochází k přestřelce a Jay dostává od Jacka rozkaz,  aby se s ostatními vědci schoval dokud neodletí. Po krátké přestřelce je  tým SG-1 skutečně zajat. Trojlístek vědců s Jayem v čele to sleduje  z nedaleké duny, ale Jaffové si jich nevšímají a odlétají i s SG-1. Jay  dostane šílený plán zachránit SG-1. Přesvědčí svého kolegu profesora  Coombse, aby použili transportní kruhy k přesunu na goa’uldskou loď.  Všichni to považují za šílené, ale Jay se od toho nenechá odradit.  Třetího kolegu pošlou na základnu SGC, aby informoval generála Hammonda  o situaci."
+    },
+    {
+     "c": 9,
+     "nazev": "Svornost",
+     "original": "Allegiance",
+     "datum": "2002-08-09",
+     "popis": "Na pozemské stanoviště Alfa přicházejí prchající Tok’rové ze základny  Risa, kterou napadla Anubisova vojska. Spousta Tok’rů je zabita a  zraněna. Jako poslední prochází bránou Jacob s Malekem. Jacob je sice  zasažen, ale ujišťuje Jacka, že na druhé straně odpálil dostatečně  silnou nálož, aby nikdo z Anubisových Jaffů neviděl, kam odešli. Na  stanovišti jsou také Jaffové, vedeni Bra’tacem a Teal’cem. Už první  setkání vyvolává mezi oběma stranami napětí, přestože bojují za stejnou  věc proti stejnému nepříteli. Situaci musí uklidňovat až Jack. Ale  Tok’rové mají svůj důvod k averzi vůči Jaffům, stejně jako Jaffové mají  averzi vůči Tok’rům. Vůdcové obou skupin proto musí své lidi držet na  uzdě, aby se předešlo problémům. Jacob později vysvětluje Jackovi proč  tomu tak je a bylo. Tok’rové byli po staletí zabíjeni Jaffy, stejně jako  Jaffové byli zabíjeni Goa’uldy, v nichž přes všechno vidí i Tok’ry.  Útok na základnu Tok’rů vzbuzuje v Jacobovi obavy, že konec Tok’rů je  mnohem blíže, než si kdokoliv myslel."
+    },
+    {
+     "c": 10,
+     "nazev": "Lék",
+     "original": "Cure",
+     "datum": "2002-08-16",
+     "popis": "SG-1 naváže kontakt s planetou Pangar. Pangarané chtějí navázat  s lidmi ze Země spojenectví a získat více znalostí o hvězdné bráně. Po  první opatrné výměně názorů nabízejí výměnou Tretonin, vakcínu, jež  posiluje imunitu, zajišťuje pevné zdraví a téměř stoprocentní ochranu  vůči nemocem. Teal’c s Jonasem si jdou prohlédnout místní vykopávky.  Ujme se jich archeoložka Zenna Valková, vedoucí projektu, která je vezme  do místa hlavních vykopávek. Zatím Sam s Jackem jednají o Tretoninu.  Obratem nabízejí deset adres vedoucích na mírumilovné světy, jenomže  Pangarané chtějí navštívit jiná, více nebezpečnější místa ovládaná  Goa’uldy. Jack je sice informuje o nebezpečích, ale oni jsou připraveni  riskovat. Archeoložka Valková, zatím vezme Teal’ca s Jonasem do chrámu,  kde jim ukazuje nápisy na stěnách, které zatím nedokázali přeložit.  Teal’c na jedné ze stěn přeloží část nápisů, pojednávajících  o Goa’uldovi Shak’ranovi, který vládl na Pangaru dlouho předtím, než byl  zničen Apophisem. Pangaranka jim chce povědět více Tretoninu ve smyslu,  že není úplně tím, čím se zdá být. Zmlkne, když kolem prochází jeden  z dělníků a víc už o tom nemluví."
+    },
+    {
+     "c": 11,
+     "nazev": "Prometheus",
+     "original": "Prometheus (1)",
+     "datum": "2002-08-23",
+     "popis": "Sam chce nastoupit do auta, ale vtom ji osloví reportérka. Řekne jí,  že ví o projektu Prometheus, což je krycí jméno pro projekt Stargate.  Ukáže jí také trinium, které má být součástí Promethea. Sam vše popře a  odjede. Když Sam dojede do SGC, vše vylíčí generálu Hammondovi. Ten se  jí zeptá, jestli si myslí, že ten vzorek trinia byl pravý. Řekne také,  že jde o únik informací z neznámého zdroje. Reportérka chce za čtyři dny  vysílat reportáž o projektu. Když reportérka jede limuzínou, nastoupí  do ní major Davis a řekne jí, aby reportáž nevysílala, protože jde  o tajný projekt."
+    },
+    {
+     "c": 12,
+     "nazev": "Nepřirozený výběr",
+     "original": "Unnatural Selection (2)",
+     "datum": "2003-01-10",
+     "popis": "Pokračování epizody Prometheus v bodě, kdy členové SG-1 získali zpět  kontrolu nad lodí, ale nevěděli, kde se právě nacházejí, dokud  nepřiletěla Thorova loď. Thor členům týmu vypráví o boji Asgardů  s replikátory a o tom, že prohrávají. Vymysleli však plán. S pomocí  příkazového kódu převzatého z androidky Reese (viz epizoda 5.19 Menace)  nalákali replikátory do jednoho místa, kde hodlali spustit zařízení na  dilataci času. Potřebují však pomoc SG-1. Thor to vysvětluje tak, že  pozemské loď je primitivnější než asgardská a pro replikátory je tedy  nezajímavá, což by členům týmu mělo umožnit snadný průnik až na místo -  planetu Halla [Hala], kde je zařízení umístěno. Asgardům totiž vše  nevyšlo tak, jak to naplánovali, a zařízení se v plánovaný okamžik  nespustilo. Proto Thor žádá členy SG-1, aby se vydali na planetu a  zařízení spustili. Jack váhá s vydáním se na takovou šílenou misi. Thor  dále argumentuje tím, že Asgardi válku s replikátory prohrávají na plné  čáře..."
+    },
+    {
+     "c": 13,
+     "nazev": "Karanténa",
+     "original": "Sight Unseen",
+     "datum": "2003-01-17",
+     "popis": "Děj začíná návratem SG-1 z průzkumné mise na P9X-391. Přinášejí  s sebou mimozemské zařízení, které našel Jonas v písečných rozvalinách.  Vyzařuje energii, ale ta je podle Sam zcela neškodná... najednou však  Jonas spatří podivné stvoření podobné hmyzu, jak poletuje nahoře  u stěny. Nikdo jiný je ovšem nevidí. Generál Hammond nechává prohledat  základnu, ale nic nenajdou. Domnívají se tudíž, že Jonas má halucinace a  je přetažený, na což on reaguje hypotézou, že by symptomy mohly  souviset s jeho dřívějším vystavením se účinkům naqadrie. Podle doktorky  Fraiserové byl však na rozdíl od ostatních kelownských vědců  nezasažen..."
+    },
+    {
+     "c": 14,
+     "nazev": "Kouřová clona",
+     "original": "Smoke & Mirrors",
+     "datum": "2003-01-24",
+     "popis": "Díl začíná atentátem na senátora Kinseyho během jeho volební kampaně na  prezidenta Spojených států. Atentátník si balí zbraň, opouští hotel  zadními dveřmi a kupodivu vypadá úplně jako Jack O’Neill. V nastalé  panice mizí ze scény.\n\nV televizních zprávách je atentát na Kinseyho okamžitě vysílán a několik  dní je přetřásán médii. V SGC jej všichni sledují kromě Jacka, který  právě přijíždí ze svého oblíbeného rybaření na chatě. Je dost  překvapený, když ho informují o profesionálním zabijákovi, po němž  nejsou ani stopy. Přichází generál Hammond a s vážnou tváří ho informuje  o tom, že bude eskortován do věznice v Petersonu a poté do Washingtonu  pro vraždu senátora Kinseyho. Nikdo tomu nechce věřit a Jack má tendenci  se vzepřít, jenže generál ho přesvědčuje, aby raději šel dobrovolně. Do  SGC přijíždí major Davis a ukazuje jim záznam bezpečnostní kamery  hotelu, odkud padl výstřel – důvod, jenž vedl k tomu, aby byl Jack  zatčen pro vraždu. Dalším důkazem byla zbraň schovaná na dně jezera  poblíž Jackovy chaty. Zmiňuje ještě i dřívější O'Neillovy spory se  senátorem. Ani tyto důkazy zbytek SG-1 nepřesvědčí o tom, že je Jack  vrah.\nTak kdo?"
+    },
+    {
+     "c": 15,
+     "nazev": "Ztracený ráj",
+     "original": "Paradise Lost",
+     "datum": "2003-01-31",
+     "popis": "V úvodu si Jack na chatě v poklidu griluje a když se vrací zjišťuje,  že mu jeden kousek chybí. Vzápětí najde Harryho Maybourna sedět na  zídce, kde si pochutnává na jedné porci a chválí Jackovu kuchyni.  Vysvětluje, proč přišel. Prezidentské období se pomalu chýlí ke konci a  on cítí, že by mohl dostat milost. Výměnou za to, že je dovede na místo  kde jsou, schovávané pokročilé zbraně, kvůli nimž Simmons a jeho kumpáni  unesli X-303. Jedinou podmínkou je, že on tam musí jít s nimi, na což  se Jack netváří zrovna souhlasně. Maybourne Jackovi nechá adresu brány a  odejde..."
+    },
+    {
+     "c": 16,
+     "nazev": "Proměna",
+     "original": "Metamorphosis",
+     "datum": "2003-02-07",
+     "popis": "Sam potkává Jonase u výtahu jak flirtuje s příjemnou zdravotní  sestrou. Neodpustí si trochu se do něj navést, ale to již základnou  zazní poplachová siréna. Vrací se ruský tým vedený plukovníkem Ivanovem.  Přivádí neznámého muže jménem Alebran, který má informace o Nirrti, jež  provádí pokusy na jeho lidech. Neopomene podotknout, že právě Jack byl  tím, kdo Nirrti nechal jít. Alebran vypadá velice špatně a chce vědět,  zda jeho lidem uvězněným v pevnosti pomohou. Později na ošetřovně  popisuje Ivanov jak našel Alebrana. Alebran jim objasňuje situaci, kdy  jeho lidé věřili Nirrti, dokud on sám neviděl jednoho ze svých lidí  umírat hroznou smrtí. Poté ho Nirrti prostě propustila. Ve vesnici již  byli všichni mrtví. Doplňuje, že ho Nirrti nějak změnila uvnitř ve svém  zařízení, které, jak Fraiserová pochopí, dokáže manipulovat s DNA.  Dospějí k závěru, že Nirrti znovu zkouší vytvořit dokonalého člověka –  hok'tara."
+    },
+    {
+     "c": 17,
+     "nazev": "Prozrazené tajemství",
+     "original": "Disclosure",
+     "datum": "2003-02-14",
+     "popis": "Do Pentagonu byli svoláni představitelé nejvlivnějších a  nejmocnějších národů světa (Angličané, Rusové, Číňané a Francouzi). Jsou  tam všichni proto, že se jim vláda USA rozhodla odtajnit projekt  Hvězdné brány. Major Davis spolu s generálem Hammondem a senátorem  Kinseym jim vyprávějí o nalezení Hvězdné brány, rozluštění symbolů dr.  Jacksonem, o konfliktech mezi goa'uldy a o celkové hrozbě, jakou pro  naši Zemi goa'uldi představují. Nejprve si všichni myslí, že jde  o nějaký žert, ale nakonec uvěří. Hammond jim vysvětluje, že je svolali  proto, že kdyby goa'uldi napadli naši planetu a pět nejmocnějších národů  světa by spolu spolupracovalo, měli by pozemšťané větší šanci klást  úspěšný odpor. Ostatní státy žádají přemístění Hvězdné brány  z Cheyenských hor na neutrální území a složení nového personálu ze  zástupců všech států. S tím letectvo samozřejmě nesouhlasí. Čína je  odhodlaná informace o Hvězdné bráně zveřejnit svému národu. Nakonec vše  ale dopadne jinak.."
+    },
+    {
+     "c": 18,
+     "nazev": "Trosečníci",
+     "original": "Forsaken",
+     "datum": "2003-02-21",
+     "popis": "SG-1 je na misi na planetě P2X-131, kde Carterová hodlá provádět  nějaký hvězdný výzkum. Připravuje dalekohled a Jack si opodál zavazuje  botu, když si všimne na zemi fotografie ženy. V tu chvíli se vysílačkou  ozve Jonas, že s Teal’cem něco našli, aby se přišli podívat. Sam a Jack  jdou za nimi. Je tam havarovaná vesmírná loď Sebrus [Cebrus]. Zezadu  k nim přichází posádka této lodi. Všichni na sebe začnou mířit. Nakonec  obě skupinky sklápějí zbraně a vzájemně se představují. Kapitánem lodi  Sebrus je Aden Corso a dalšími členy posádky jsou zástupkyně Tanis  Reynardová a Lyle Pender. Trojice vysvětluje, že jejich loď letěla  vystřídat těžební tým a dostala se do asteroidové bouře. To je vychýlilo  z kurzu a nemají palivo. Myslí si, že SG-1 přiletěla na planetu lodí a  žádají o palivo, aby se dostali na jejich planetu Hebridan. Členové SG-1  jim sděluje, že přicestovali na planetu bránou, kterou oni neznají. Při  celém tomto rozhovoru je z lesa sledují dva mimozemšťané..."
+    },
+    {
+     "c": 19,
+     "nazev": "Dvojí realita",
+     "original": "The Changeling",
+     "datum": "2003-02-28",
+     "popis": "Děj začíná v nemocnici, kde na sále leží Teal´c a přichází k němu  lékař - je to Apophis. Teal´c se probouzí ze špatného snu v nějaké  ubytovně jako hasič, jmenuje se T. Jonas jde za ním a ptá se, co se  děje, ale Teal´c odpoví, že nic, ale ví, že je něco špatně; a opět je na  základně ve svém pokoji. Sam je v jídelně a Teal´c jde za ní a Sam ho  nutí vypít čaj. Zase je u hasičů, reality se střídají, pokaždé je jinde.  V realitě u hasičů se T. chystá na transplantaci ledviny pro svého  otčíma Braeho. Ozve se siréna a všichni jdou na výjezd. Jedou k nehodě.  Je tam rozbité auto. T. jednoho zraněného otočí - je to Apophis a T. se  lekne. Potom auto začne hořet a T. vidí uvnitř Braeho, a tak běží, aby  ho vytáhl, ale auto vybouchne a T. to odmrští a... probudí se opět na  základně. Sam je vyděšená, že Teal´c omdlel, ten ale tvrdí, že to není  pravda..."
+    },
+    {
+     "c": 20,
+     "nazev": "Svědek minulosti",
+     "original": "Memento",
+     "datum": "2003-03-07",
+     "popis": "Hvězdná loď Prometheus pod velením plukovníka Ronsona je na cvičné  plavbě. Na palubě mají i SG-1 během své první mise. Ronson provádí velké  množství cvičení a simulací. Později, během letu hyperprostorem, dojde  ke skutečné nehodě. Takové, na kterou není Prometheus připraven.  Naquadriový pohon vypadne a zůstanou na suchu. Jonas přijde na to, že  příčinou byla silná gravitační vlna ze zanikajícího slunce. Jelikož  opravu není možné provést na místě a cesta domů by trvala příliš dlouho,  navrhuje doletět k planetě P3X-744, kde by podle kartuše měla být  brána. Nejspíš zakopaná, protože se s ní nikdy nepodařilo navázat  spojení. Risknou krátký skok hyperprostorem, ale poté, co se objeví  u planety, dojde k přetížení reaktoru a musí ho rychle odhodit.  Následující silná exploze vyřadí systémy Promethea a z planety jsou  vystřelené balistické střely. Jack se na poslední chvíli s představenými  planety domluví a oni své rakety zničí. Prometheus přistane na planetě,  kterou místní obyvatelé nazývají Tagrea. Vše za mimořádně silných  bezpečnostních opatření zdejší vlády."
+    },
+    {
+     "c": 21,
+     "nazev": "Proroctví",
+     "original": "Prophecy",
+     "datum": "2003-03-14",
+     "popis": "SG-1 je na návštěvě planety P4S-237, která patřila pod Baalovu  správu. Místní lidé zde stále těží naquadah, který posílají přes Baalova  služebníka, Mota. Ten má na planetu dorazit během 12 dnů. Jonas během  rozhovoru zažije podivné deja’vu, kdy zažije rozhovor s vesničany ještě  před tím, než skutečně proběhne. Vyšetření v SGC nic neodhalí. Žádné  spojitosti s vystavením naquadrii, ani účinkům, které to mělo na  Kelownanské vědce. Pouze sotva patrná mozková aktivita, přesto se  pokračuje v dalších testech. Na poradě se probírá situace ohledně  P4S-237 a možnosti osvobodit ty lidi ze spárů Goa’uldů. Jonas má další  vizi, která se krátce po poradě skutečně stane. Doktorka Fraiserová  v druhém sledu testů najde něco, o čem si myslí, že by mohl být nádor na  mozku. Navrhne Jonase uvolnit ze služby. Jonasovy vize dále pokračují  s příchodem Tok’rů a jeho bolest hlavy začíná sílit..."
+    },
+    {
+     "c": 22,
+     "nazev": "Kruh se uzavírá",
+     "original": "Full Circle",
+     "datum": "2003-03-21",
+     "popis": "V této vynikající závěrečné epizodě 6. sezóny, předznamenávající  Danielův návrat, se vracíme tam, kde příběh začal - na Abydos. Na scéně  se opět objevuje Skaara, O´Neillův malý abydoský přítel, který byl  hostitelem Goa´ulda. Dozvídáme se, že na Abydos míří sám Anubis, aby  něco našel. U překvapeného Skaary se objeví povznesený Daniel Jackson,  který mu řekne, že v boji nebudou osamoceni, a že Anubis nesmí dostat  to, co chce.\n\nDaniel informuje ve výtahu o situaci plukovníka O´Neilla, který tomu  zpočátku moc nevěří. Daniel mu řekne, že existuje šest mocných artefaktů  - očí, rozdělených mezi Vládce Soustavy. Vládce Anubis nedávno získal  pět ze šesti očí a chybí mu jediné - oko Raovo. Daniel si je jistý, že  je ukryto na Abydosu, ale neví přesně kde. Prosí Jacka, aby Abydosu  pomohl. Pokud by Anubis získal všech šest očí, byl by prakticky  neporazitelný. O´Neill informuje o všem Hammonda a ten mu dá k misi  svolení."
+    }
+   ]
+  },
+  {
+   "cislo": 7,
+   "rok": "2003",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Návrat ztraceného syna",
+     "original": "Fallen (1)",
+     "datum": "2003-06-13",
+     "popis": "Jonas při překladu tabulky z Abydosu zjistí chybu v překladu dr.  Daniela Jacksona. Nejedná se zde o ztracené město, ale město ztracených -  Vis Uban. Přijde také na to, že adresa planety, na které se nachází,  bude poslední, kterou Jack zadal do počítače, když disponoval vědomostmi  Antiků. Vydávají se na tuto planetu a nacházejí město, ve kterém zrovna  pobývají další poutníci, kteří také město zkoumají. K údivu pozemšťanů,  je jedním z dočasných obyvatel města i Daniel Jacksom. Ukazuje se však,  že Daniel trpí amnézií a nepamatuje si nic ze své minulosti. Nepoznává  své přátele a kolegy z SG-1, dokonce si ani nepamatuje, kdo je a kým  byl. Samantha Daniela přesvědčí, aby se s nimi vrátil do SGC, že by si  mohl vzpomenout. Daniel si s pomocí svých přátel postupně vzpomíná, kdo  je. Nadále však již nedisponuje nadlidskými schopnostmi, které měl, když  byl ascendován..."
+    },
+    {
+     "c": 2,
+     "nazev": "Návrat domů",
+     "original": "Homecoming (2)",
+     "datum": "2003-06-13",
+     "popis": "Sam a Jack se vracejí do SGC bez Jonase a Daniela. Anubis zatím  prozkoumá Jonasovi mozek, zjistí tak nejen to, že je Daniel na lodi, ale  i vše o naquadrii, a vydává se na Kelownu. Teal´c je stále zajatcem  vládce Ti. Představitelé Kelowny kontaktují SGC s žádostí o pomoc,  protože na ně zaútočil Anubis. První muž vládce Ti se svěří Teal´covi,  že Ti již používá sarkofág moc dlouho, ztrácí rozum a jedná neuváženě, a  dohodne se s Teal´cem, že mu, i přes zákaz svého pána, proti Anubisovi  pomůže. Kontaktují proto Baala a dají mu Anubisovy souřadnice, aby na  něj mohl zaútočit a osvobodit tak sebe i zbylé Vládce Soustavy."
+    },
+    {
+     "c": 3,
+     "nazev": "Křehká rovnováha",
+     "original": "Fragile Balance",
+     "datum": "2003-06-20",
+     "popis": "V SGC je zadržen asi patnáctiletý chlapec, který se pokoušel projít  na základnu pomocí karty plukovníka O’Neilla. K údivu všech tvrdí, že je  plukovník O’Neill. Zprvu tomu nikdo nechce věřít, i když chlapcovo  chování silně Jacka připomíná. Navíc chlapec má znalosti o projektu  hvězdné brány a členech SG-1, které by rozhodně mít neměl. Takže to  vypadá, že to asi skutečně bude Jack O’Neill. Test DNA to až na drobnou  abnormalitu potvrzuje. Dr. Fraiserová mu dělá další testy a zjistí, že  se Jackovy buňky začínají rozpadat a že mu nezbývá příliš mnoho času.  Tok´rové nabídnou pomoc - symbionta, ale Jack to rázně odmítá. Už jednou  tím prošel a rozhodně to nepatřilo k nejpříjemnějším zážitkům. Při  prohlídce bytu si Jack vybaví, že v noci, kdy došlo k jeho radikálnímu  omlazení, byl unesen nějakým Asgardem. Daniel vyhledá informace  o podobných případech, které se staly některým lidem na Zemi, a několik  takových jedinců navštíví. Všechny případy jsou identické..."
+    },
+    {
+     "c": 4,
+     "nazev": "Orpheus",
+     "datum": "2003-06-27",
+     "popis": "Teal´c je při jedné z misí zraněn. Je střelen přímo do břišního vaku,  ve kterém však už nemá symbionta. Nemůže tak nadále počítat s léčivými  schopnosti Goa’ulda a s rychlým uzdravením. Teal´c špatně snáší své  zranění hlavně psychicky - nebyl zvyklý tak dlouho se léčit. Myslí si,  že proto, že už nemá symbionta, je slabší a nevěří si. Daniel stále  slyší v hlavě jakési volání: „No, master.“ Tuší, že je to nějaká  zasunutá vzpomínka z doby, kdy byl povznesený, a že odpověď by mohl  najít v záznamech SGC souvisejících s bránou; ale jeho hledání je marné.  Jde za Teal´cem a podstoupí kel’no’reem. Při meditaci se mu vybaví  vzpomínka na jakousi planetu, kde se staví mateřská loď a těží naquadah a  kde jsou Rya’c a Bra’tac drženi jako otroci. Teal´c kontaktuje  Rak’nora. Ten podle Danielova popisu poznává, o jakou planetu jde. Je to  Erebus; bránu tam chrání jakési silové pole, kterým nelze projit. Když  byl ještě Daniel povznesený a navštívil tuto planetu, Bra’tacovi se  podařilo přemoci hlídku u brány, zadat adresu Země a odeslat kód ke  zrušení tohoto silového pole. Daniel záznam o této aktivaci brány  nakonec najde a podaří se jim rozluštit kód. Týmy SG-1 a SG-3 se  vydávají na Erebus Rya’ca a Bra’taca zachránit. Bra’tacovi navíc dochází  tretonin a začíná rychle slábnout..."
+    },
+    {
+     "c": 5,
+     "nazev": "Revidování",
+     "original": "Revisions",
+     "datum": "2003-07-11",
+     "popis": "Sonda při průzkumu nové planety hlásí nedýchatelnou atmosféru;  několik kilometrů od brány se však nachází kopule o průměru 2,2 km.  Sonda jí projde a ocitne se v zahradě s bujnou vegetací a normální  atmosférou, vhodnou pro lidský život. SG-1 se vydává tuto záhadu  prozkoumat. Když projdou kopulí, ocitají se v zahradě s normální  atmosférou a mohou svléknout ochranné kombinézy. Vydávají se na průzkum a  cestou potkají malého chlapce, který je dovede do města. Kopule zevnitř  vytváří holografický dojem, jakoby zahrada i domy byly rozlehlejší, než  je tomu ve skutečnosti. Členové SG-1 jsou přivítání místními velmi  přátelskými obyvateli. Styl domů ukazuje na méně vyspělejší civilizaci,  než je naše, ale sama existence kopule tuto teorii popírá. Navíc místní  lidé mají na spánku malé zařízení, které jim umožňuje jen pouhou  myšlenkou na nějakou věc dostat se do databáze veškerých informací,  takže téměř okamžitě vědí v podstatě všechno. Členům SG-1 je nabídnuto  ubytování, aby mohli prozkoumat technologii kopule. Dozví se tak, že  příliš vyspělá technologie zničila dříve celou obydlenou planetu a  kopule měla zachránit aspoň zbytek lidí. Proto místní nadále nepokračují  ve vyvíjení nových technologií, jejich technický vývoj se prakticky  zastavil. Město má nyní 1373 obyvatel. V noci se jedna žena - členka  rady, se kterou předtím členové SG-1 jednali - zvedne a odejde mimo  kopuli, což znamená jistou smrt. Druhý den rada i všichni ostatní  popírají, že by tato žena kdy žila..."
+    },
+    {
+     "c": 6,
+     "nazev": "Záchranný člun",
+     "original": "Lifeboat",
+     "datum": "2003-07-18",
+     "popis": "SG-1 při misi na P2A-347 objeví havarovanou vesmírnou loď neznámého  původu. Uvnitř lodě jsou ve skleněných boxech zmrazená těla posádky. Je  jich mnoho. Tým se rozdělí, aby těla spočítali, ale v tom Daniel  vykřikne a všechny k zemi srazí energetická vlna vypadající jako ohnivá  koule. První se probudí Teal´c. Jack a Sam jsou v bezvědomí, ale Daniela  se mu podaří vzbudit, ten ho ovšem nepoznává, pouze při pohledu na  Teal´ca vykřikne. Na základnu je přivede tým SG-4, který pro ně byl  poslán. Při návratu na základnu je Daniel zmatený a snaží se proběhnout  bránou zpět. Nepoznává ani základnu, ani nikoho z personálu a jedná  agresivně. Není to totiž Daniel. Má v sobě přenesená vědomí několika  cestujících Stromosu - lodi, kterou členové SG-1 našli na P2A-347. Jedna  z osobností v jeho těle je panovník Talthusu jménem Martice. Když na  ošetřovně Jack a Sam nabydou vědomí ukáže se, že oba jsou v pořádku. V  Danielovi se mezitím střídavě objevují další cestující Stromosu. Nejvíce  komunikativní a schopný spolupracovat je Tryan. Od jiného cestujícího,  malého chlapce Keenina, Janet zjistí, že pochází z planety, na které  mělo vyhasnout slunce, tak byly postaveny čtyři lodě a losováním vybráni  lidé, kteří jimi budou zachráněni. Cesta na novou vhodnou planetu měla  trvat více jak sto let, a tak byla posádka zmražena. Stromos však  ztroskotal na P2A-347."
+    },
+    {
+     "c": 7,
+     "nazev": "Nepřátelský důl",
+     "original": "Enemy Mine",
+     "datum": "2003-07-25",
+     "popis": "Na planetě, kde SGC hledá ložiska naquadahu, dojde konečně  k úspěšnému nálezu. Jeden z vojáků ale najednou zmizí. Není možné ho  vystopovat, protože signál vysílaček je zde silně rušen. Daniel si ovšem  všimne artefaktů, které zde byly nalezeny a ukazují na dávnou těžbu.  Nástroje jsou však příliš těžké a velké, než aby s nimi mohli pracovat  lidé. Jsou vyrobeny pro Unase. Tým se proto vydává vojáka hledat a  najdou ho mrtvého, přivázaného k jakémusi kůlu na místě, kde je takto  připoutáno i několik mrtvých Jaffů, spíše to, co z nich za tu dobu, co  tam visí, zbylo. Několik týmů při průzkumu lesa narazí na tlupu Unasů a  dojde k boji, ve kterém je několik Unasů zabito a pár vojáků zraněno,  mezi nimi i O’Neill. Unasové se stahují, aby oplakali mrtvé. Velitel  celého výsadku, plukovník Edwards je rozzuřen a chce jít Unase ihned  pobít, O´Neill to nedovolí. SG-1 se vrací zpět do SGC a Jack je odveden  na ošetřovnu..."
+    },
+    {
+     "c": 8,
+     "nazev": "Vesmírný závod",
+     "original": "Space Race",
+     "datum": "2003-08-01",
+     "popis": "Major Carterová je povolána v urgentní záležitosti na základnu SGC.  Nestačí se ani převléct a utíká do centrály v 28. patře. Tam na ní čeká  kromě generála Hammonda s Danielem také Warrick. Mimozemšťan jehož  zachránili (viz Forsaken). Nabízí možnost lépe poznat technologie  Serrakinů, hlavně v oblasti iontového pohonu. Celá věc má malý háček,  který Warrick vysvětluje s tím, že vše proběhne na neformální úrovni,  kdy SG-1 bude fungovat coby malá delegace. Potřebuje však naquadahový  generátor do své nové lodi, s níž poletí závod. Vítězství by mu velice  pomohlo a zajistilo výhodnou zakázku společnosti Tech Con Group. Sam  nadšeně souhlasí, že poletí s ním a dohlédne na naquadahový generátor.  Warrick z toho nemá největší radost, ale souhlasí. Generál Hammond  nakonec dává SG-1 zelenou..."
+    },
+    {
+     "c": 9,
+     "nazev": "Mstitel",
+     "original": "Avenger 2.0",
+     "datum": "2003-08-08",
+     "popis": "Doktor Jay Felger, velice nadějný vědec v SGC, ale beznadějný snílek a  smolař právě chystá předvést svou novou energetickou superzbraň.  Bohužel jeho skutečnou motivací je udělat dojem na majora Carterovou,  jak poznamenává jeho asistentka Chloe, což on popírá a poukazuje na  událost, kdy zachránili SG-1 během tajné mise. Na test přijde kromě Sam  i Jack. Bohužel Jayův test zrovna moc nevyjde a na celé základně dojde  k výpadku proudu."
+    },
+    {
+     "c": 10,
+     "nazev": "Právo na zrození",
+     "original": "Birthright",
+     "datum": "2003-08-15",
+     "popis": "Členové SG-1 se na planetě setkávají s Jaffou Ryk´lem, který slouží  Goa´uldu Molocovi. Při rozhovoru s Teal´cem je Jaffa zabit a začne  přestřelka s jinými Jaffy, na které začne někdo střílet zezadu, a tak  SG-1 jen přihlíží a nestřílí. Po ukončení boje vycházejí z lesa Jaffské  bojovnice a jedna z nich přistoupí k umírajícímu Jaffovi, vyjme jeho  symbionta a uloží ho do nádoby, kterou má uvázanou u pasu. Pak žádají  SG-1, aby šli s nimi; věděly že přijdou na tuto planetu. Jejich rozvědce  se podařilo dostat mezi Molocovy Jaffy a tak je přišli požádat  o pomoc..."
+    },
+    {
+     "c": 11,
+     "nazev": "Evoluce, část první",
+     "original": "Evolution (1)",
+     "datum": "2003-08-22",
+     "popis": "Dr. Jackson se vydává pátrat do Jižní Ameriky po antickém zařízení ze kterého byl vytvořen 1. sarkofág. Je však zajat a nikdo neví, kde je. Zbytek SG-1 se snaží zastavit vojáky, které sám vytvořil Anubis..."
+    },
+    {
+     "c": 12,
+     "nazev": "Evoluce, část druhá",
+     "original": "Evolution (2)",
+     "datum": "2004-01-09",
+     "popis": "Jack O'Neill se vydává hledat do Jižní Ameriky Daniela, který byl unesen při hledání antické technologie. Sam, Jacob a Teal'c se mezitím snaží infiltrovat na Anubisovu základnu, v níž vytváří své nové vojáky..."
+    },
+    {
+     "c": 13,
+     "nazev": "Grace",
+     "datum": "2004-01-16",
+     "popis": "Carterová se vydává vyzvednout opraveného Prométhea. Na zpáteční cestě  se však loď dostane pod útok neznámé lodi, a tak zamíří do blízké  mlhoviny, aby se ukryla. Při útoku se uhodí do hlavy a když opět nabude  vědomí, zjišťuje, že všichni členové posádky zmizeli a že z mlhoviny  nemůže uniknout..."
+    },
+    {
+     "c": 14,
+     "nazev": "Hrozba z podzemí",
+     "original": "Fallout",
+     "datum": "2004-01-23",
+     "popis": "Keloňané po analýze goa'uldského krystalu zjistí, že naquadria se na  planetě přeměňuje ze surového naquadahu v podzemních žilách. Jonas si  proto myslí, že až dosáhne určité hloubky, tak pod vysokým tlakem a  teplotou exploduje a zničí celou planetu..."
+    },
+    {
+     "c": 15,
+     "nazev": "Chiméra",
+     "original": "Chimera",
+     "datum": "2004-01-30",
+     "popis": "Carterová má nového přítele, ale musí před ním skrývat svou práci v SGC.  V Danielových snech se začne objevovat Sára Gardnerová, která mu  ukazuje antickou tabulku s polohou Ztraceného města. Daniel se nejdřív  domnívá, že jde jen o sny, ale později se zjistí, že Usirev Daniela  skutečně navštěvuje..."
+    },
+    {
+     "c": 16,
+     "nazev": "Umíráček",
+     "original": "Death Knell",
+     "datum": "2004-02-06",
+     "popis": "Stanoviště Alfa je odhaleno Anubisem, který zjistil, že Carterová zde  vyvinula zbraň proti Anubisovým vojákům. Je nařízena evakuace a spuštěna  autodestrukce. Když se zbytek SG-1 vrácí na zničenou základnu Alfa,  není Sam nikde k nalezení..."
+    },
+    {
+     "c": 17,
+     "nazev": "Hrdinové, část první",
+     "original": "Heroes (1)",
+     "datum": "2004-02-13",
+     "popis": "Vláda USA pošle do SGC tým filmařů zdokumentovat práci SGC. SG-13 se vydává prozkoumat planetu s antickými ruinami, ale narazí na goa'uldskou sondu, která goa'uldy informuje o jejich poloze. Po příchodu jaffů je člen SG-13 zraněn, a tak SGC vysílá další podpůrné týmy SG-13 na pomoc..."
+    },
+    {
+     "c": 18,
+     "nazev": "Hrdinové, část druhá",
+     "original": "Heroes (2)",
+     "datum": "2004-02-20",
+     "popis": "V SGC je zahájeno vyšetřování, protože SG-týmy padly do léčky goa'uldům. Podařilo se jim sice dostat až k Bráně a vrátit se na základnu, ale při přestřelce bylo několik lidí zraněno a jeden člověk dokonce zemřel..."
+    },
+    {
+     "c": 19,
+     "nazev": "Zmrtvýchvstání",
+     "original": "Resurrection",
+     "datum": "2004-02-27",
+     "popis": "V komplexu, kde působila NID, byli zavražděni všichni lidé až na jednu  dívku a vědce. Je nalezena laboratoř, kde NID vyvíjela goa'uldsko-lidské  klony, a také artefakty, z nichž je jeden goa'uldskou naquadahovou  bombou, která byla aktivována a má brzy explodovat..."
+    },
+    {
+     "c": 20,
+     "nazev": "Inaugurace",
+     "original": "Inauguration",
+     "datum": "2004-03-05",
+     "popis": "Nově zvolený prezident Henry Hayes má být informován o programu Hvězdné  brány. Senátor Kinsey toho chce využít a přesvědčit prezidenta o tom, že  SGC je pod velením gen. Hammonda vedeno špatně. Proto navrhuje, aby se  souhlasem prezidenta bylo vedení SGC nahrazeno..."
+    },
+    {
+     "c": 21,
+     "nazev": "Ztracené město",
+     "original": "Lost City (1)",
+     "datum": "2004-03-12",
+     "popis": "Anubis shromažďuje flotilu a chystá se provést útok na Zemi. O'Neill použije antické zařízení, které mu zkopíruje do hlavy veškeré antické vědomosti, aby mohl určit polohu Ztraceného města. Mezitím je gen Hammond je převelen, SGC se dostává pod velení dr. Weirové a je zahájena tří měsíční kontrola, při níž jsou pozastaveny mise..."
+    },
+    {
+     "c": 22,
+     "nazev": "Ztracené město, část druhá",
+     "original": "Lost City (2)",
+     "datum": "2004-03-19",
+     "popis": "Anubis begins a systematic assault on Earth, and the planet's only hope of salvation depends on whether SG-1 can find the Ancients' mythical Lost City.",
+     "jazyk": "en"
+    }
+   ]
+  },
+  {
+   "cislo": 8,
+   "rok": "2004",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Časy se mění, část první",
+     "original": "New Order (1)",
+     "datum": "2004-07-09",
+     "popis": "Plk. O'Neill je stále uvězněn ve stázové komoře na Antarktidě, a proto  se Teal'c s Carterovou vydávají k planetě, na níž jsou shromážděni  všichni replikátoři, aby se spojili s Asgardy, kteří jsou jedinou nadějí  pro O'Neilla..."
+    },
+    {
+     "c": 2,
+     "nazev": "Časy se mění, část druhá",
+     "original": "New Order (2)",
+     "datum": "2004-07-09",
+     "popis": "Replikátorům se podařilo zničit zařízení na dilataci času a utvořit  malou loď. Ta se blíží k nové kolonii Asgardů a na své palubě má  Carterovou, kterou se replikátorům podařilo unést. Mezitím se na Zemi  připravuje zaútočit goa'uld Ba'al, aby otestoval novou obranu Země..."
+    },
+    {
+     "c": 3,
+     "nazev": "Karanténa",
+     "original": "Lockdown",
+     "datum": "2004-07-23",
+     "popis": "Po příchodu ruského plk. Vaselova se na základně SGC začne šířit nějaká  nákaza. Zjišťuje se však, že nejde o virus, ale o Anubise, který ve  formě energie přechází z jednoho těla do druhého a nikdo jej v tomto  stavu nedokáže zastavit..."
+    },
+    {
+     "c": 4,
+     "nazev": "Hodina H",
+     "original": "Zero Hour",
+     "datum": "2004-07-30",
+     "popis": "SG-1 se vydává na planetu, kde by se měla nacházet jedna z Anubisových  základen ještě neobjevená goa'uldem Ba'alem. Po příchodu na planetu však  beze stopy zmizí. V SGC se začne rozšiřovat mimozemská rostlina a její  růst nejde ničím zastavit..."
+    },
+    {
+     "c": 5,
+     "nazev": "Ve jménu víry",
+     "original": "Icon",
+     "datum": "2004-08-06",
+     "popis": "Příchod SG-1 na planetu způsobí válku mezi dvěma nepřátelskými národy -  Randským protektorátem a Caledonianskou federací. Daniel proto zůstává  na planetě a snaží se dát vše do pořádku. Je však těžce zraněn a SGC po  něm vyhlašuje pátrání..."
+    },
+    {
+     "c": 6,
+     "nazev": "Nebezpečná hra",
+     "original": "Avatar",
+     "datum": "2004-08-13",
+     "popis": "V SGC se testují komory s virtuální realitou, které by měli sloužit pro  výcvik nováčků před vstoupem do SG teamů. Teal'c se nabídne, že toto  tréninkové zařízení vyzkouší a díky jeho zkušenostem jej zdokonalí. Jeho  zdravotní se stav se ale začne náhle zhoršovat a od zařízení se ho  nedaří odpojit..."
+    },
+    {
+     "c": 7,
+     "nazev": "Spříznění",
+     "original": "Affinity",
+     "datum": "2004-08-20",
+     "popis": "Teal'c se nastěhuje do nového bytu mimo základnu a blíže se seznámí se  svou sousedkou, která se brzy na to pohádá s přítelem a neplánovaně  odjede s Teal'cem. Její přítel je ale později nalezen mrtvý a Teal'c je  obviněn. Daneil dostává e-mail s antickým textem. Za jeho překlad je mu  nabídnut záznam dokazující Teal'covu nevinu..."
+    },
+    {
+     "c": 8,
+     "nazev": "Úmluva",
+     "original": "Covenant",
+     "datum": "2004-08-27",
+     "popis": "Milionář Alec Colson vyhrožuje zveřejněním snímků Promethea spolu  s Anubisovou flotilou světu. Carterová a Daniel jsou pověřeni přesvědčit  milionáře Colsona, aby žádné snímky nezveřejňoval. Za to mu nabízí  seznámení s programem Hvězdné brány a dalšími věcmi..."
+    },
+    {
+     "c": 9,
+     "nazev": "Oběti",
+     "original": "Sacrifices",
+     "datum": "2004-09-10",
+     "popis": "Teal'c zjišťuje, že se jeho syn zamiloval a chce se oženit. Teal'c  později doprovází Ishtu na jaffské setkání, ke jsou však přepadeni a  Ishta je zajata. Teal'c musí co nejrychleji vymyslet plán na jejich  záchranu, protože jemu i Ishtě dochází tretonin..."
+    },
+    {
+     "c": 10,
+     "nazev": "Konec hry",
+     "original": "Endgame",
+     "datum": "2004-09-17",
+     "popis": "Z SGC náhle zmizí Hvězdná brána. Pozdější vyšetřování odhalí, že Brána  se zřejmě nachází v Usirevově lodi na oběžné dráze. Pomocí Brány jsou  vypouštěny rakety s tok'erským jedem na planety, na nichž žijí goa'uldi a  jaffové, a to i ti spřátelení..."
+    },
+    {
+     "c": 11,
+     "nazev": "Blíženci",
+     "original": "Gemini",
+     "datum": "2005-01-21",
+     "popis": "Replikátorská kopie Carterové požádá SGC o pomoc - přeje si být zničena.  SG-1 ji tedy vezme na stanoviště Alfa, kde má být vyslechnuta a  případně zničena. Při výslechu vyjde najevo, že Pátý údajně přišel na  způsob, jak učinit sebe i své \"bratry\" imuní vůci disruptoru..."
+    },
+    {
+     "c": 12,
+     "nazev": "Upoutaný Prométheus",
+     "original": "Prometheus Unbound",
+     "datum": "2005-01-28",
+     "popis": "Prométheus při cetě na Atlantis zachytí nouzové volání. Nalezne  poškozený Al-kesh. Z něj se na palubu Prométhea transportuje jeden  z Anubisových vojáků, ovládne loď a transportuje celou posádku až na  Daniela na Al-kesh. Daniel ale zjistí, že Anubisův voják je ve  skutečnosti žena - Vala, která se rozhodla loď ukrást a vyměnit ji..."
+    },
+    {
+     "c": 13,
+     "nazev": "Byl jednou jeden král",
+     "original": "It's Good to Be King",
+     "datum": "2005-02-04",
+     "popis": "Na planetu, kde tok'rové vysadili Maybourna, se vracejí goa'uldi. SG-1  se proto vydává, aby Maybourna odvedla zpět na Zemi. Po příchodu na  planetu zjišťuje, že se Maybourne stal zdejším králem díky předpovědím,  které zde nechal zazamenány Antik cetující časem..."
+    },
+    {
+     "c": 14,
+     "nazev": "Konfrontace",
+     "original": "Full Alert",
+     "datum": "2005-02-11",
+     "popis": "Rusové začínají se zbrojením kvůli tvrzení, že americká vláda byla  infiltrována goa'uldy. Daniel je vyslán do Ruska, aby se snažil situaci  uklidnit, ale zjistí, že ve skutečnosti je tomu právě naopak a že  goa'uldi se snaží vyprovokovat válku ze strany Ruska a zničit tak  Zemi..."
+    },
+    {
+     "c": 15,
+     "nazev": "Občan Joe",
+     "original": "Citizen Joe",
+     "datum": "2005-02-18",
+     "popis": "Holič Joe při jednom výprodeji objeví kámen, který mu umožňuje vidět, co  prožívá na svých misích SG-1. Nejprve o svých historkách vypráví doma a  v práci, ale za čas si rozhodne přověřit, zda-li výplod jeho fantazie -  plk. Jack O'Neill opravdu existuje..."
+    },
+    {
+     "c": 16,
+     "nazev": "Poslední boj, část první",
+     "original": "Reckoning (1)",
+     "datum": "2005-02-25",
+     "popis": "Replikátorská kopie Sam spolu s ostatními replikátory začíná likvidovat  goa'uldy v celé galaxii. Carterová se s Thorem snaží přijít na to, co  replikátory činí imuními vůci distruptoru. Nakonec se jim to podaří, ale  po první zkoušce se replikátoři znovu přizpůsobí a distruptor opět  nefunguje..."
+    },
+    {
+     "c": 17,
+     "nazev": "Poslední boj, část druhá",
+     "original": "Reckoning (2)",
+     "datum": "2005-03-04",
+     "popis": "SG-1 objeví antické zařízení na Dakaře. Toto zařízení je schopné  rozložit určitou hmotu na elementární částice - včetně replikátorů, ale  nejprve musí být správně nastaveno. Jenže o zařízení se také z Danielovy  mysli dozví replikátoři, a proto vyšlou loď, aby jej zničila..."
+    },
+    {
+     "c": 18,
+     "nazev": "Osobní záležitosti",
+     "original": "Threads",
+     "datum": "2005-03-11",
+     "popis": "Daniel se musí rozhodnout, jestli se znovu povznese, ale již nesmí znovu  \"porušit\" pravidla. Anubis se chystá získat antickou zbraň, která je  umístěna na Dakaře, a pomocí ní chce zničit veškerý život v galaxii.  Jackob Carter oznamuje Sam, že tok'ra Selmak v něm umírá a on že zemře  společně s ní..."
+    },
+    {
+     "c": 19,
+     "nazev": "Moebius, část první",
+     "original": "Moebius (1)",
+     "datum": "2005-03-18",
+     "popis": "Po náhlé smrti Catherin Langfordové jsou Danielovi do SGC přivezeny její  osobní věci. Daniel v nich nalezne záznam o ZPM - antickém zdroji  energie. SG-1 se tedy rozhodne vrátit zpět do 5000 let vzdálené  minulosti pomocí antického stroje času, aby ZPM získala a vzala jej zpět  do současnosti..."
+    },
+    {
+     "c": 20,
+     "nazev": "Moebius, část druhá",
+     "original": "Moebius (2)",
+     "datum": "2005-03-25",
+     "popis": "SG-1 se v minulosti podaří narušit časovou linii, a proto se budoucnost  zcela změní. Aby vše napravila, pohřbila v hrobce poblíž Gízy nahrávku  obsahující informace, jak vše napravit. V budoucnosti je nahrávka  nalezena, ale aby se vše \"dalo do pořádku\", musí se nejprve nalézt  Hvězdná brána a stroj času..."
+    }
+   ]
+  },
+  {
+   "cislo": 9,
+   "rok": "2005",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Avalon, část první",
+     "original": "Avalon (1)",
+     "datum": "2005-07-15",
+     "popis": "Po oddchodu O'Neilla se k SG-1 připojuje Cameron Mitchell. Na Zemi  přichází Vala, která Danielovi a sobě připevní náramky, kvůli nimž musí  být stále spolu, jinak zemřou a odmítá je sundat do doby, než najdou  bájný poklad Avalonu, který chce..."
+    },
+    {
+     "c": 2,
+     "nazev": "Avalon, část druhá",
+     "original": "Avalon (2)",
+     "datum": "2005-07-22",
+     "popis": "Po splnění několika \"úkolů\" nalézají v Avalonu antické zařízení schopné  mezigalaktické komunikace. Pomocí něj je vědomí Daniela a Valy přeneseno  do lidí v jiné galaxii. Tito lidé uctívají jako své bohy rasu Oriů a  Vala má být upálena jako nevěřící..."
+    },
+    {
+     "c": 3,
+     "nazev": "Počátek",
+     "original": "Origin (3)",
+     "datum": "2005-07-29",
+     "popis": "Daniel setká s Orii a zjisšťuje, že jsou to ve skutečnosti povznesení  Antikové, kteří si myslí, že by měli být uctíváni. Ten, kdo je neuctívá,  má být zničen. Daniel s Valou tak svým příchodem do této galaxie  odhalili Zemi a další planety plné těch, co v Orie nevěří..."
+    },
+    {
+     "c": 4,
+     "nazev": "Trvalé pouto",
+     "original": "The Ties That Bind",
+     "datum": "2005-08-05",
+     "popis": "Po odstranění náramků jsou Daniel i Vala stále spojeni poutem, které jim  nedovoluje se od sebe vzdálit. Vala se proto musí vrátit k vědci, jemuž  náramky ukradla, aby zjistila, jak pouto přerušit. Jenže vědec chce  zpět další věc, kterou mu Vala ukradla a pak prodala..."
+    },
+    {
+     "c": 5,
+     "nazev": "Sláva bohům na výsostech",
+     "original": "The Powers That Be",
+     "datum": "2005-08-12",
+     "popis": "Vala se vrací na svět, který ovládala jako bohyně i po tom, co jí byl  odstraněn symbiont. Na tento svět rovněž přichází převor, který hlásá  víru v Orie. Lidé se víru nakonec rozhodnou odmítnout, a tak jsou i s  Mitchellem nakaženi nevyléčitelnou chorobou..."
+    },
+    {
+     "c": 6,
+     "nazev": "Předsunutá základna",
+     "original": "Beachhead",
+     "datum": "2005-08-19",
+     "popis": "Jeden z Oriských převorů přichází na jaffskou planetu a začíná kolem  sebe vytvářet silové pole, které pohlcuje planetu. SGC se ho rozhodne  zničit jadernou hlavicí obohacenou naquadrií. Výbuch ale pole pomůže  rozšířit a Oriové začnou s výstavbou obří Brány na orbitě planety, která  má dopravit jejich armádu do místní galaxie..."
+    },
+    {
+     "c": 7,
+     "nazev": "Návrat vysloužilého boha",
+     "original": "Ex Deus Machina",
+     "datum": "2005-08-26",
+     "popis": "Teal'c se od jednoho z jaffů dozvídá, že goa'uld Ba'al se ukrývá na  Zemi. Ba'al brzy SGC kontaktuje a navrhne, že pokud jej nechájí na  svobodě, nikomu neublíží. Jako pojistku však umístil někde v USA  naquadahovou bombu, kterou by v případě jeho ohrožení odpálil..."
+    },
+    {
+     "c": 8,
+     "nazev": "Babylon",
+     "datum": "2005-09-09",
+     "popis": "SG-1 se dostane do přestřelky se Sodanskými jaffy a plk. Mitchell  jednoho z nich smrtelně zraní. Poté jaffové náhle zmizí i s Mitchellem,  kterého unesou, aby jej naučili jejich umění a on se tak mohl utkat  v souboji na život a na smrt, ve kterém má zaplatit za svůj čin..."
+    },
+    {
+     "c": 9,
+     "nazev": "Prototyp",
+     "original": "Prototype",
+     "datum": "2005-09-16",
+     "popis": "SG-1 nalézá na planetě s chráněnou Bránou opuštěnou Antickou laboratoř.  Mitchell se dotkne jedné ze stázových komor, ta se aktivuje a oživí  muže. Ten tvrdí, že na něm byly prováděny experimenty, ale ve  skutečnosti je to klon s pamětí Anubise a schopnostmi Antiků, díky nimž  se již brzy povznese..."
+    },
+    {
+     "c": 10,
+     "nazev": "Čtvrtý jezdec apokalypsy, část první",
+     "original": "The Fourth Horseman (1)",
+     "datum": "2005-09-16",
+     "popis": "Vůdce jaffů chce uzákonit víru v Orie. Na Zemi se začíná šířit choroba,  která od Oriů pochází. Antik Orlin, se stává znovu člověkem, aby pomohl  vyvinout lék, který by dokázal epidemii zastavit a zachránit tak Zemi.  Ale velké množsví antických vědomostí mu začíná poškozovat mozek..."
+    },
+    {
+     "c": 11,
+     "nazev": "Čtvrtý jezdec apokalypsy, část druhá",
+     "original": "The Fourth Horseman (2)",
+     "datum": "2006-01-06",
+     "popis": "Sam sestrojí zařízení, které s pomocí ultrazvukových vln znemožní  Převorovi využívat jeho nadlidské schopnosti. Zařízení nejprve  nefunguje, ale po nalezení správné frekvence ztrácí Převor své  schopnosti. Je mu odebrána krev, díky které snad bude lék dokončen, a  Daniel se jej pokusí obrátit proti Oriům..."
+    },
+    {
+     "c": 12,
+     "nazev": "Paralelní vzpomínky",
+     "original": "Collateral Damage",
+     "datum": "2006-01-13",
+     "popis": "Mitchell se ráno probudí celý od krve a ihned je obviněn z vraždy, na  kterou si vzpomíná. Zavraždil doktorku, která pracovala se zařízením,  jež umožňovalo implantovat do mozku člověka cizí vzpomínky. Mithell  zjistí, že vzpomínka na vraždu je falešná a nyní mu zbývá najít  skutečného vraha..."
+    },
+    {
+     "c": 13,
+     "nazev": "Rezonanční efekt",
+     "original": "Ripple Effect",
+     "datum": "2006-01-20",
+     "popis": "Při hlášení týmu SG-1 se aktivuje Brána a do SGC přichází druhá SG-1 a  následně další. Carterová zjišťuje, že černá díra, kterou vytvořili  Oriové kvůli invazi do naší galaxie narušila prostor a všechny týmy tak  přichází z různých alternativních realit bez možnosti návratu..."
+    },
+    {
+     "c": 14,
+     "nazev": "Síla vůle",
+     "original": "Stronghold",
+     "datum": "2006-01-27",
+     "popis": "Jaffové v Nejvyšší radě začínají náhle, ze dne na den měnit své názory.  Zjišťuje se, že Teal'c náhle zmizel a že mnohým jaffům byl vymyt mozek -  udělal to Ba'al, který chce jaffy sjednotit a jako jejich vůdce se  chystá porazit hrozbu v podobě Oriů..."
+    },
+    {
+     "c": 15,
+     "nazev": "Satelit",
+     "original": "Ethon",
+     "datum": "2006-02-03",
+     "popis": "Do SGC přichází Jarrod Kane z Randského protektorátu a sděluje, že jeho  planetu navštívil převor Oriů. Za jejich víru jim nabídl zbraň -  satelit, kterým mohou zcela zničit Caledoniany. SG-1 se ho vydá  zneškodnit, ale Prométheus je satelitem zničen. Posádka se stihne  transportovat na povrch planety, kde ale nemá přístup k Bráně..."
+    },
+    {
+     "c": 16,
+     "nazev": "Narušená síť",
+     "original": "Off the Grid",
+     "datum": "2006-02-10",
+     "popis": "SG-1 je pod palbou nepřátel, a tak Mitchell nařídí zadat adresu. V tom  Brána s DHD zmizí, je transportována. SG-1 je zajata, ale brzy ji ze  zajetí vysvobodí Odysea, která je transportuje na palubu. Od Tok'rů se  podařilo zjistit, že v celé galaxii se začínají ztrácet Brány, nyní je  třeba zjistit, kdo za krádežemi stojí..."
+    },
+    {
+     "c": 17,
+     "nazev": "Metla",
+     "original": "The Scourge",
+     "datum": "2006-02-17",
+     "popis": "SG-1 je odvolána ze své mise, aby doprovázela zástupce mezinárodní  komise na stanoviště Gama. Zde dr. Myers studuje údajně býložravé brouky  označené jako R75, kteří jsou ve skutečnosti všežraví. Broukům se  podaří uniknout a zamořit základnu. SG-1 musí ochránit vyslance a přijít  na způsob, jak se z planety dostat..."
+    },
+    {
+     "c": 18,
+     "nazev": "Plášť krále Artuše",
+     "original": "Arthur's Mantle",
+     "datum": "2006-02-24",
+     "popis": "Carterové se podaří aktivovat Antické zařízení, které ji a Mitchella  přenese do alternativní dimenze. V SGC zatím pátrají po stopě, kam mohli  tak najednou zmizet. Z bezpečnostních kamer zjistí, co se stalo. Dr.  Lee nakonec přijde na to, jak Sam zařízení aktivovala a pokusí se proces  zvrátit. Přitom přenese do zařízení i Daniela..."
+    },
+    {
+     "c": 19,
+     "nazev": "Křížová výprava",
+     "original": "Crusade",
+     "datum": "2006-03-03",
+     "popis": "Vala kontaktuje Zemi pomocí antického komunikačního zařízení - to  přenese její vědomí z galaxie Oriů do těla Daniela. Vala Zemi varuje, že  se Oriové od zmaření první invaze nevzdali a že připravují stovky lodí,  které mají brzy do naší galaxie dopravit jejich početné armády..."
+    },
+    {
+     "c": 20,
+     "nazev": "Kamelot",
+     "original": "Camelot",
+     "datum": "2006-03-10",
+     "popis": "SG-1 se vydává na planetu Kamelot pátrat po Merlinově zařízení, které je  schopné zničit povznesené bytosti. Odtut však Carterovou a Teal'ca  vyzvedne Odysea, jelikož byla objevena nová superbrána. Po příletu k ní  se Brána aktivuje a do naší galaxie vstoupí první útočná linie - čtyři  Orijské lodě..."
+    }
+   ]
+  },
+  {
+   "cislo": 10,
+   "rok": "2006",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Z masa a kostí",
+     "original": "Flesh and Blood",
+     "datum": "2006-07-14",
+     "popis": "Mitchell musí přijít na způsob, jak zachránit Carterovou, které již  začíná docházet vzduch. Vala mezitím porodí dívku a pojmenuje ji Adria.  Je to geneticky vyspělý člověk se znalostmi Oriů. Adria během krátké  doby dospěje, aby byla schopná začít vést svoji armádu, která má za úkol  konvertovat galaxii..."
+    },
+    {
+     "c": 2,
+     "nazev": "Morpheus",
+     "datum": "2006-07-21",
+     "popis": "SG-1 se vydává najít Merlinovu zbraň, která je klíčem k porážce Oriů.  Při jejím hledání objevuje vesnici, v níž jsou všichni mrtví. Může za to  spavá nemoc, kterou se později nakazí i SG-1. Jelikož nechce ohrozit  základnu, zůstává a snaží se nalézt lék. Mezitím se na Zemi Vala  podrobuje psychologickým testům, aby se rozhodlo, zda se může připojit  k SGC..."
+    },
+    {
+     "c": 3,
+     "nazev": "Projekt Pegasus",
+     "original": "The Pegasus Project",
+     "datum": "2006-07-28",
+     "popis": "Pokračující pátrání po Svatém grálu zavede Daniela a Valu na Atlantis.  Zde se v holografické místnosi pokoušejí získat adresy dvou planet, na  kterých by mohl být ukrytý. Zbytek týmu se mezitím snaží otevřít červí  díru z galaxie Pegasus a zablokovat orijskou superbránu, aby znemožnili  Oriům poslat do naší galaxie další lodě..."
+    },
+    {
+     "c": 4,
+     "nazev": "Ba'alovy klony",
+     "original": "Insiders",
+     "datum": "2006-08-04",
+     "popis": "Na Zemi je sestřelen Al-kesh a na jeho palubě je nalezen Ba'al. Ten žádá  SG-1 o pomoc, jeho klony se proti němu totiž vzbouřili, a proto je chce  s jejich pomoci najít a zničit. Výmenou za tuto pomoc jim nabízí  informace, s jejichž pomocí naleznou planetu, na níž je ukryta Merlinova  zbraň..."
+    },
+    {
+     "c": 5,
+     "nazev": "Nezvaný host",
+     "original": "Uninvited",
+     "datum": "2006-08-11",
+     "popis": "Mitchell se vydává si odpočinout za generálem Landrym do O'Neillova  srubu. Zbytek týmu SG-1 se k nim má později připojit, ale na dvou  planetách dojte k útoku neznámého zvířete, a tak se to vydává prověřit.  Vale se podaří zvíře eleliminovat a pozdější pitva odhalí, že bývalo  býložravcem, kterého napadl jakýsi parazit a způsbil rozsáhlou mutaci  jeho DNA..."
+    },
+    {
+     "c": 6,
+     "nazev": "Dvoustá",
+     "original": "200",
+     "datum": "2006-08-18",
+     "popis": "Do SGC přichází Martin Lloyd, autor seriálu Červí díra. Nyní však  s nápadem natočit film. Nejprve však chce, aby mu SG-1 pomohla scénář  upravit. Ani jednomu ze členů se to nezamlouvá, ale generál slibuje, že  po pěti minutách můžou vyrazit na misi. Z neznámého důvodu ale dojde  k poruše brány a SG-1 je s Martinem nucena zůstat..."
+    },
+    {
+     "c": 7,
+     "nazev": "Protiúder",
+     "original": "Counterstrike",
+     "datum": "2006-08-25",
+     "popis": "SG-1 je přítomna na planetě, jež se rozhodla připojit k Oriům. V  okamžiku, kdy poslouchá projev Adrie, zachytí Odysea nárust energie a  zvýšenou radiaci, která se šíří od Hvězdné brány. Velitel Odysey nechá  pro jistotu transportovat SG-1 zpět na palubu. Hned poté už senzory  nezaznamenávají žádné známky života. SG-1 se vrací zpět a zjišťuje, že  na planetě se nachází opuštěná Orijská loď a že všichni na planetě byli  zabiti zbraní na Dakaře..."
+    },
+    {
+     "c": 8,
+     "nazev": "Pamatuj na smrt",
+     "original": "Memento Mori",
+     "datum": "2006-09-08",
+     "popis": "Vala je unesena Athénou, goa'uldem, se kterého Vala jako Quetesh kdysi  podvedla. Chce v její paměti pomocí paměťového zařízení najít informace,  vedoucí antickému pokladu. SGC se podaří určit místo, kde ji drží, a  při přestřelce dojde k poškození zařízení a Vala ztrácí pamět. Zcela  zmatená z místa utíká, toulá po městě a navštví jednu restauraci. Při  odchodu ale nemá čím zaplatit, a tak zůstává a pracuje zde. Zbytek SG-1  se ji zatím marně snaží najít..."
+    },
+    {
+     "c": 9,
+     "nazev": "Spolek zlodějů",
+     "original": "Company of Thieves",
+     "datum": "2006-09-15",
+     "popis": "Odysea s Carterovou na palubě je nalákána do pasti a obsazena Anateem,  protivníkem Netana z Luciánské aliance. SGC zachytí nouzový signál a  zbytek SG-1 se vydává zjistit, co se stalo. Vala s Danielem je však také  zajata, ale než se tak stane, zjistí, že v přepadení má prsty Luciánská  aliance. Mitchell se tedy chce do aliance jako bratr Netana infiltrovat  a zjistit, co se s pozemskou lodí stalo..."
+    },
+    {
+     "c": 10,
+     "nazev": "Výprava, část první",
+     "original": "The Quest (1)",
+     "datum": "2006-09-22",
+     "popis": "SG-1 pokračuje v pátrání po Merlinově zbrani. Pátrání je přivádí na  další planetu do středověké vesnice. Vesničané jsou překvapeni, že je to  během několika dní již druhá skupina, co se Svatý grál vydává hledat.  Jak se od místních dotvídají, předstihl je Ba'al, a má již třídenní  náskok..."
+    },
+    {
+     "c": 11,
+     "nazev": "Výprava, část druhá",
+     "original": "The Quest (2)",
+     "datum": "2007-04-13",
+     "popis": "Knihovník, který SG-1 doprovázel, je ve skutečnosti Adria, která chce  jedinou zbraň, schopnou Orie zničit, získat. Bojí se ale, že by mohla  být proti Oriům chráněná, a proto poručí Danielovi, aby ji jí podal.  Když se jí Jackson dotkne, jsou všichni, až na Adriu přeneseni na místo,  na kterém nacházejí stázovou komoru se samotným Merlinem..."
+    },
+    {
+     "c": 12,
+     "nazev": "Čára v písku",
+     "original": "Line in the Sand",
+     "datum": "2007-04-20",
+     "popis": "Tým SG-1 navštěvuje planetu, která se rozhodla učení Oriů odmítnout.  Carterová chce zabránit vyhlazení vesnice, a tak využije Merlinova  zařízení, a pokusí se skrýt celou vesnici v jiné dimenzi. Před spuštěním  je však zařízení poškozeno a Sam zraněna. Mitchellovi se podaří sebe a  Sam do jiné dimenze dostat, ale zbytek vesnice je právě příchozími  vojáky Oriů obsazena..."
+    },
+    {
+     "c": 13,
+     "nazev": "Cesta, po níž jsme se nevydali",
+     "original": "The Road Not Taken",
+     "datum": "2007-04-27",
+     "popis": "Carterová provádí testy s Merlinovým zařízením, avšak při jednom z testů  se záhadným způsobem ocitá v alternativní realitě. Zjišťuje, že  Carterová v této realitě zemřela při experimentu, který měl pomoci  odrazit Orijské lodě, blížící se k této Zemi. Nabízí tedy nový plán,  pomocí Merlinova zařízení chce přesunout celou planetu mimo fázi a  ochránit ji tak..."
+    },
+    {
+     "c": 14,
+     "nazev": "Maskování",
+     "original": "The Shroud",
+     "datum": "2007-05-04",
+     "popis": "Mitchell, Carterová, Teal'c, a Vala navštěvují další planetu, a sledují  příchod převora Orijů. Je jím samotný Daniel Jackson. Vracejí se tedy do  SGC a odlétají s Odyseou k planetě, aby ho mohli zajmout. Po transportu  na palubu jim však Daniel sděluje, že oddanost Oriům jen předstíral,  aby mohl připravit plán na jejich zničení..."
+    },
+    {
+     "c": 15,
+     "nazev": "Odměna",
+     "original": "Bounty",
+     "datum": "2007-05-11",
+     "popis": "Členům SG-1 se podaří zničit další transport s návykovou kukuřicí  kassou, a tak Natan, vůdce Luciáncské aliance, vyhlášuje na jejich hlavy  odměnu. Nájemní vrazi z celé galaxie, se tedy vydávají na Zemi, aby  členy SG-1 dostali a získali slíbenou odměnu..."
+    },
+    {
+     "c": 16,
+     "nazev": "Padouchové",
+     "original": "Bad Guys",
+     "datum": "2007-05-18",
+     "popis": "SG-1 navštěvuje planetu, na níž by podle dr. Jacksona mohl být ukrytý  antický poklad. Po průchodu bránou se ale tým ocitá v jakémsi muzeu a  zjišťuje, že se nemůže vrátit. Zdejší ovládací panel je totiž jen kopií.  SG-1 chce vyčkat, až je SGC kontaktuje. Jsou ale odhaleni, a místní je  považují za rebely. Celé muzeum je obklíčeno a SG-1 musí hrát padouchy  do doby, než je SGC kontaktuje..."
+    },
+    {
+     "c": 17,
+     "nazev": "Odveta",
+     "original": "Talion",
+     "datum": "2007-06-01",
+     "popis": "SG-1 s dalšími tými přichází na planetu a nalézá vážně zraněného Teal'ca  s dalšími jaffy. Konalo se zde setkání, ale došlo k útoku a většina  jaffů zemřela. Teal'c se chce proto na vlastní pěst vydává hledat osobu,  která je za tento útok zodpovědná..."
+    },
+    {
+     "c": 18,
+     "nazev": "Rodinná pouta",
+     "original": "Family Ties",
+     "datum": "2007-06-08",
+     "popis": "SGC kontaktuje Jacek, otec Valy, a požádá o azyl výměnou za informace  o připravovaném útoku na Zemi. Hrozbu se podaří odvrátit, a tak Jacek  přichází na Zemi, dostává svůj byt a začíná s podvody..."
+    },
+    {
+     "c": 19,
+     "nazev": "Panství",
+     "original": "Dominion",
+     "datum": "2007-06-15",
+     "popis": "Vala byla přinucena opustit SGC a nyní se pokouší podvodem vyhrát  nákladní loď. Do toho přichází Adria a dozvídá se, co se přihodilo. Vala  zjistila adresu, na níž měl být ukrytý antický poklad, ale tým, který  se ji vydal prověřit padl do léčky. Později přišla na další adresu, ale  tu už generál nepovolil prověřit. Adria s Valou na onu planetu vydává,  zde již ale čeká připravená SG-1. Náhle se však na planetu přenesou  Ba'alovi jaffové a Adriu jim unesou..."
+    },
+    {
+     "c": 20,
+     "nazev": "Bez konce",
+     "original": "Unending",
+     "datum": "2007-06-22",
+     "popis": "Asgardi předali všechny své vědomosti a technologie lidem a svou rasu  zničili, aby předešli úplné degeneraci. Nová technologie však přiláká  Orijské lodě, a ty zaútočí na Odyseu, na kterou byla asgardská vylepšení  nainstalována. Odysea se dostane pod útok a začnou ji selhávat štíty.  Orijská loď na bezbranou loď vystřelí a Carterová aktivuje dilatační  zařízení a zpomalí čas, aby měla dostatek času na vymyšlení plánu na  sebe i záchranu lodi..."
+    }
+   ]
+  }
+ ]
+}

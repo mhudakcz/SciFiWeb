@@ -663,7 +663,7 @@ export const dalsi: Titul[] = [
     rokDo: null,
     zeme: 'USA',
     tvurce: 'Akiva Goldsman, Alex Kurtzman a Jenny Lumet',
-    delka: '3 řady',
+    delka: '4 řady · 40 dílů',
     fransiza: 'star-trek',
     subzanry: ['space-opera'],
     nalady: ['epos', 'smich', 'srdce'],

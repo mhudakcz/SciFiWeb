@@ -1,0 +1,487 @@
+{
+ "tmdb": 67198,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "2017",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Návrat Klingonů",
+     "original": "The Vulcan Hello",
+     "datum": "2017-09-24",
+     "popis": "Vesmírná loď Hvězdné flotily narazila na neznámý objekt, o kterém se domnívá, že zničil jejich komunikační relé. Rozhodnou se jej prozkoumat. Jedná se však o klingonský posvátný artefakt, a když je při průzkumu jeden z nepřátel zabit, mají Klingoni záminku k útoku."
+    },
+    {
+     "c": 2,
+     "nazev": "Souboj",
+     "original": "Battle at the Binary Stars",
+     "datum": "2017-09-24",
+     "popis": "Vesmírná loď Shenzhou je ze všech stran obklíčena Klingony. Je jasné, že válka začíná. První důstojnice Michael přijde na to, že se Klingoni sjednocují. Kapitánka Philippa však její varování odmítá a uvolní ji ze služby."
+    },
+    {
+     "c": 3,
+     "nazev": "Nový začátek",
+     "original": "Context Is for Kings",
+     "datum": "2017-10-01",
+     "popis": "Michael Burnhamová se dostává jako nový vězeň na USS Discovery. Kapitán Lorca chce, aby pro něj pracovala, ona v tom však cítí nějakou levárnu. Na spřátelené lodi mezitím dojde k nehodě a posádka zahyne. Všechny podle všeho zabil podivný tvor."
+    },
+    {
+     "c": 4,
+     "nazev": "Bytost, nebo zbraň",
+     "original": "The Butcher's Knife Cares Not for the Lamb's Cry",
+     "datum": "2017-10-08",
+     "popis": "Michael Burnhamová dostává od kapitána Lourca speciální úkol - zjistit, odkud pochází tvor, který nejspíš zlikvidoval přátelskou loď a nebyl poražen ani Klingony, a vyrobit podle něj účinnou zbraň proti Klingonům."
+    },
+    {
+     "c": 5,
+     "nazev": "Zvol si svá muka",
+     "original": "Choose Your Pain",
+     "datum": "2017-10-15",
+     "popis": "Gabriel Lorca je uvězněn na lodi Klingonů. Sám se potká s jinými zajatci a bude se muset rychle rozhodnout, kterému začne věřit. Michael Burnhamová si uvědomuje, že Rozporovač dlouho nevydrží vytížení spórovému pohonu, a tak pracuje na nouzovém plánu."
+    },
+    {
+     "c": 6,
+     "nazev": "Léthé",
+     "original": "Lethe",
+     "datum": "2017-10-22",
+     "popis": "Sylvia se jednou chce stát kapitánkou, Michael se jí věnuje a fyzicky ji trénuje. Lorca si testuje Ashe jako nového šéfa bezpečnosti. Sarek, vulkánský otec Michael, letí na setkání s Klingony. To se ale nelíbí ostatním Vulkáncům, kteří jsou znepokojení Sarekovou posedlostí lidmi. Ten se tak dostává do nebezpečí. Díky spojení s Michael Burnhamovou se loď Discovery vydává na záchrannou misi."
+    },
+    {
+     "c": 7,
+     "nazev": "Časová smyčka",
+     "original": "Magic to Make the Sanest Man Go Mad",
+     "datum": "2017-10-29",
+     "popis": "Na Discovery probíhá večírek, který je však přerušen pohotovostí. Na obzoru se objeví gormagangra, kterou transportují do laboratoře. Uvnitř je skryt vetřelec, ze kterého se vyklube Mudd, se kterým kapitán strávil Lorca nějaký čas v klingonském vězení. Chce se mu pomstít, že ho nechal ve vězení..."
+    },
+    {
+     "c": 8,
+     "nazev": "Chceš-li mír, chystej se na válku",
+     "original": "Si Vis Pacem, Para Bellum",
+     "datum": "2017-11-05",
+     "popis": "Kapitán Gabriel Lorca se vydává na pomoc lodi USS Gagarin, na kterou útočí Klingoni. Dokud ale budou mít maskované lodi, je proti nim Federace bezbranná. Proto Lorca vysílá Michaela, Sarua a Tylera na planetu Pahvo, kde všichni mohou nalézt odpovědi na kladené otázky."
+    },
+    {
+     "c": 9,
+     "nazev": "Do hloubi lesa vcházím",
+     "original": "Into the Forest I Go",
+     "datum": "2017-11-12",
+     "popis": "Navzdory rozkazům hvězdné flotily chce Lorca ukončit válku s Klingony jednou provždy a to za použití té nejlepší zbraně, kterou má posádka USS Discovery k dispozici - lodi samotné."
+    },
+    {
+     "c": 10,
+     "nazev": "Sám proti sobě",
+     "original": "Despite Yourself",
+     "datum": "2018-01-07",
+     "popis": "Discovery se ztratila a ocitla se na pohřebišti klingonských lodí, kde na ně útočí vulkánská loď vzbouřenců. Discovery je pravděpodobně v paralelním vesmíru a musí najít cestu zpět. Stametz je ve špatném stavu, blouzní. Ash se vydává na průzkum rozbité klingonské lodi, ale vracejí se mu nepříjemné vzpomínky na mučení."
+    },
+    {
+     "c": 11,
+     "nazev": "Vlk v rouše beránčím",
+     "original": "The Wolf Inside",
+     "datum": "2018-01-14",
+     "popis": "Na palubě Defiantu je Saru pouhým otrokem. A Michael je nucena se přizpůsobit způsobům v paralelním vesmíru. Snaží se navázat spojení s Klingony, aby tak získala informace, jak s nimi komunikovat...."
+    },
+    {
+     "c": 12,
+     "nazev": "Přehnané ambice",
+     "original": "Vaulting Ambition",
+     "datum": "2018-01-21",
+     "popis": "Michael předvádí Gabirela Lorcu před Imperátora, ve kterém poznává starou známou. Aby ale zachránila život svého kapitána, musí říct pravdu o tom, odkud pochází. Mezitím se Saru zoufale snaží zachránit život Ashe Tylera. Paul se konečně probouzí z kómatu."
+    },
+    {
+     "c": 13,
+     "nazev": "Co bylo, je jen předehrou",
+     "original": "What's Past is Prologue",
+     "datum": "2018-01-28",
+     "popis": "Michael Burnhamová se dozvídá šokující zprávu o člověku, kterého měla za přítele. Vymýšlí okamžitě plán, jak vše napravit. Nejprve se ale bude muset rozhodnout, na čí straně stojí. Saru přebírá velení Discovery a pomáhá zotavenému Stametsovi obnovit spórový pohon."
+    },
+    {
+     "c": 14,
+     "nazev": "Válka přede mnou, válka za mnou",
+     "original": "The War Without, The War Within",
+     "datum": "2018-02-04",
+     "popis": "USS Discovery se vrací do svého vesmíru, aby zjistila, že Klingoni už téměř vyhráli válku. Burnhamová s admirálkou Cornwellovou vymyslí plán, jak se dostat do nitra jejich mateřské lodi a přenést frontu k nepříteli. Netuší však, že ve hře je i jiný plán."
+    },
+    {
+     "c": 15,
+     "nazev": "Usmíření",
+     "original": "Will You Take My Hand?",
+     "datum": "2018-02-11",
+     "popis": "Georgiou stojí v čele plánu, jak ukončit válku s Klingony jednou pro vždy, ale posádka Discovery se nechce ztotožnit s její násilnou taktikou. Michael sužují vzpomínky na strasti z minulosti..."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "2019",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Bratr",
+     "original": "Brother",
+     "datum": "2019-01-17",
+     "popis": "Po odpovědi na tísňový signál z U.S.S. Enterprise, přebírá kapitán Christopher Pike velení U.S.S. Discovery a zahajuje novou misi, která zkoumá význam sedmi záhadných červených signálů. Michael Burnhamová se potýká se svou minulostí, kdy vyrůstala na Vulkánu u pěstounů s bratrem Spockem."
+    },
+    {
+     "c": 2,
+     "nazev": "Nový ráj",
+     "original": "New Eden",
+     "datum": "2019-01-24",
+     "popis": "Objevuje se nový signál, který vyvolává emoční návrat Stametse do myceliální sítě a zavádí Burnhamovou, Pika a Owosekunovou na předwarpovou planetu, kde musí čelit složitému etickému dilematu. Nadměrnost Tylliové ji přivádí do problémů, ale když jsou planeta a výsadek Discovery ohroženy, její zvědavost může být jediná věc, která je může zachránit."
+    },
+    {
+     "c": 3,
+     "nazev": "Světelný bod",
+     "original": "Point of Light",
+     "datum": "2019-01-31",
+     "popis": "Překvapivý návštěvník U.S.S. Discovery přináší šokující zprávy o Spockovi. Po incidentu s asteroidy se Tilly snaží udržet svou realitu. Autorita L'Relly na Qo'noSu je ohrožena."
+    },
+    {
+     "c": 4,
+     "nazev": "Obolus pro Chárona",
+     "original": "An Obol for Charon",
+     "datum": "2019-02-07",
+     "popis": "Tajemná koule ohrožuje U.S.S. Discovery. Dokonce i May, ve své původní podobě, realizuje plán, který ohrožuje život Tillyové. Vzájemné pouto mezi Saru a Burnhamovou vzroste, když je Saru nucen uznat hluboce znepokojující kelpijskou pravdu. Pike obdrží nové informace o Spockovi od věrného přítele."
+    },
+    {
+     "c": 5,
+     "nazev": "Nedokonalí světci",
+     "original": "Saints of Imperfection",
+     "datum": "2019-02-14",
+     "popis": "V závodě s časem se Burnhamová a posádka pohybují v nebezpečném mimozemském prostoru, aby zachránili život Tillyové. Ale Stamets není vůbec připraven na to, co najdou. Oddíl 31 je k velkému Pikeově zděšení určen k vystopování Spocka."
+    },
+    {
+     "c": 6,
+     "nazev": "Zvuk hromu",
+     "original": "The Sound of Thunder",
+     "datum": "2019-02-21",
+     "popis": "Když se objeví nový signál nad domovskou planetou Sarua, Burnhamová, Saru a posádka vyrazí na nebezpečnou misi, která ohrožuje Sarua a vyvolává otázky o záměrech Červeného anděla. Hugh se snaží dosáhnout své nové reality."
+    },
+    {
+     "c": 7,
+     "nazev": "Světlo a stíny",
+     "original": "Light and Shadows",
+     "datum": "2019-02-28",
+     "popis": "Při hledání Spocka dorazí Burnhamová na Vulkán, kde odkryje překvapivé rodinné tajemství. Při zkoumání toho, co nad Kaminarem zbylo ze signálu Rudého anděla, skončí Pike a Tyler v boji s vlastním časem. Georgiou má v rukávu několik triků pro Leland a Sekci 31."
+    },
+    {
+     "c": 8,
+     "nazev": "Jestli paměť stále slouží",
+     "original": "If Memory Serves",
+     "datum": "2019-03-07",
+     "popis": "Spock a Burnhamová směřují k Talosu IV, kde Spockův uzdravovací proces přinutí jeho sourozence ke konfrontaci s jejich pohnutou minulostí. Stamets se zoufale pokusí opět spojit s Hughem, zatímco Tyler se snaží vyvrátit podezření posádky ohledně jeho minulosti Voqa."
+    },
+    {
+     "c": 9,
+     "nazev": "Projekt Daidalos",
+     "original": "Project Daedalus",
+     "datum": "2019-03-14",
+     "popis": "Když posádka Discovery pronikne na velitelství Sekce 31, objeví se podezření, že posádka může mít ve svém středu zrádce. Burnhamová se snaží pomáhat Spockovi, ale její snaha nejde podle plánu."
+    },
+    {
+     "c": 10,
+     "nazev": "Rudý anděl",
+     "original": "The Red Angel",
+     "datum": "2019-03-21",
+     "popis": "Burnhamová je ohromena, když se dozví, že její vazby k Sekci 31 jsou hlubší, než si kdy myslela. Vyzbrojena identitou Rudého anděla, se U.S.S. Discovery vydává na svoji dosud nejkritičtější misi."
+    },
+    {
+     "c": 11,
+     "nazev": "Nekonečná věčnost",
+     "original": "Perpetual Infinity",
+     "datum": "2019-03-28",
+     "popis": "Burnhamové se dostává setkání, po kterém touží, ale není takové, jak si ho představovala. Georgiou a Tyler cítí znepokojující změnu u Lelanda."
+    },
+    {
+     "c": 12,
+     "nazev": "Údolím stínů",
+     "original": "Through the Valley of Shadows",
+     "datum": "2019-04-04",
+     "popis": "Čtvrtý signál vede U.S.S. Discovery na ostrovní svět, kde je Pike nucen učinit život měnící rozhodnutí. Burnhamová a Spock zkoumají Oddíl 31 tulácké lodi, což vede k objevu s katastrofálními následky."
+    },
+    {
+     "c": 13,
+     "nazev": "Sladkobolný smutek, 1. část",
+     "original": "Such Sweet Sorrow (1)",
+     "datum": "2019-04-11",
+     "popis": "Když zásadní mise Discovery nejde podle plánu, uvědomí si Burnhamová, co se nakonec musí udělat. Posádka se připravuje na bitvu svého života, protože Lelandovy lodě Centrály se blíží."
+    },
+    {
+     "c": 14,
+     "nazev": "Sladkobolný smutek, 2. část",
+     "original": "Such Sweet Sorrow (2)",
+     "datum": "2019-04-18",
+     "popis": "U.S.S. Discovery, s malou pomocí některých nečekaných přátel, bojuje v bitvě proti Centrále nejen za své životy, ale také za budoucnost. Spock a Burnhamová odhalují nová zásadní spojení mezi rudými signály. Burnhamová čelí jedné z nejdrsnějších pravd v životě: správná rozhodnutí jsou často nejtěžší."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "2020",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Naděje nebyla zbytečná, 1. část",
+     "original": "That Hope Is You (1)",
+     "datum": "2020-10-15",
+     "popis": "Michael Burnhamová se po průchodu červí dírou vynořuje v 930 let vzdálené budoucnosti v galaxii, kterou již nepoznává. Při hledání zbytku posádky Discovery se setkává s Bookem, tajemným kurýrem, který jí odhalí osud Federace v minulosti."
+    },
+    {
+     "c": 2,
+     "nazev": "Daleko od domova",
+     "original": "Far from Home",
+     "datum": "2020-10-22",
+     "popis": "Po průletu červí dírou dorazila Discovery do budoucnosti rok po Michael a havaruje na podivné planetě. Posádka zjišťuje, že nemá dostatek času na opravu lodi. Mezitím se Saru a Tillyová vydávají na nebezpečnou misi prvního kontaktu v naději, že najdou Burnhamovou."
+    },
+    {
+     "c": 3,
+     "nazev": "Pozemšťané",
+     "original": "People of Earth",
+     "datum": "2020-10-29",
+     "popis": "Michael a posádka lodi Discovery jsou opět spolu a letí za zprávou na planetu Zemi, kde Saru vyjedná příměří. Stamets se setká s Adirou, která má neobyčejnou minulost."
+    },
+    {
+     "c": 4,
+     "nazev": "Nezapomeň",
+     "original": "Forget Me Not",
+     "datum": "2020-11-05",
+     "popis": "Burnhamová a Adira navštíví Trillin domovský svět v naději, že odhalí tajemství ukrytá v Adirině mysli. Návrat na Discovery nabírá překvapivé obrátky snahou Saru o pomoc při opětovném sjednocení posádky."
+    },
+    {
+     "c": 5,
+     "nazev": "Snaha za každou cenu",
+     "original": "Die Trying",
+     "datum": "2020-11-12",
+     "popis": "Po znovusjednocení a s tím, co zbylo z Hvězdné flotily a Federace,  musí Discovery a jeho posádka dokázat, že 930 let stará posádka a hvězdná loď jsou přesně to, co tato nová budoucnost potřebuje."
+    },
+    {
+     "c": 6,
+     "nazev": "Mrchožrouti",
+     "original": "Scavengers",
+     "datum": "2020-11-19",
+     "popis": "Objeví se Bookova loď, ale on na palubě není. Michael proto navzdory rozkazům zahájí záchrannou akci ve světě, který ovládá zločinný Smaragdový řetěz."
+    },
+    {
+     "c": 7,
+     "nazev": "Sjednocení 3",
+     "original": "Unification III",
+     "datum": "2020-11-26",
+     "popis": "Kvůli datům spojeným s Požárem se Michael vydává na misi, na které se znova potká s rodinou a odhalí osud Vulkánců, Romulanů i svého bratra Spocka."
+    },
+    {
+     "c": 8,
+     "nazev": "Rezervace",
+     "original": "The Sanctuary",
+     "datum": "2020-12-03",
+     "popis": "Book dostane osobní zprávu a musí se vrátit na svoji planetu. Tam ale mezitím došlo k přírodní katastrofě a nadvlády se chopil Smaragdový řetěz."
+    },
+    {
+     "c": 9,
+     "nazev": "Terra Firma, 1. část",
+     "original": "Terra Firma (1)",
+     "datum": "2020-12-10",
+     "popis": "Stav Georgiouové se zhoršuje, ale lék na její nemoc se dá získat jenom v nebezpečném zrcadlovém vesmíru. Adira a Stamets se snaží rozluštit sto let starý nouzový signál."
+    },
+    {
+     "c": 10,
+     "nazev": "Terra firma, 2. část",
+     "original": "Terra Firma (2)",
+     "datum": "2020-12-17",
+     "popis": "Císařovna Georgiouová je uvězněná v zrcadlovém vesmíru a pokouší se dát jeho dějinám nový směr. Jenže při tom narazí na nepřekonatelnou překážku jménem Michael."
+    },
+    {
+     "c": 11,
+     "nazev": "Su'Kal",
+     "datum": "2020-12-24",
+     "popis": "Posádka lodi Discovery vyrazí za záhadným signálem do nebezpečné mlhoviny. Zachrání tam jediného Kelpieňana, který přežil – a zjistí, co způsobilo Požár."
+    },
+    {
+     "c": 12,
+     "nazev": "Čas přílivu",
+     "original": "There is a Tide…",
+     "datum": "2020-12-31",
+     "popis": "Osyraa se zmocni Discovery a najde ústředí Federace, ale tvrdí, že přichází v míru. Michael se snaží dostat loď zpátky pod kontrolu posádky."
+    },
+    {
+     "c": 13,
+     "nazev": "Naděje nebyla zbytečná, 2. část",
+     "original": "That Hope Is You (2)",
+     "datum": "2021-01-07",
+     "popis": "Saru přesvědčuje Su’Kala, aby opustil svůj prokletý holoprogram. Michael a Book se v rozhodujícím střetu postaví Osyraae a Smaragdovému řetězu."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "2021",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Kobayashi Maru",
+     "datum": "2021-11-18",
+     "popis": "Po měsících strávených obnovováním spojenectví Federace se vzdálenými světy jsou kapitán Michael Burnhamová a posádka U.S.S. Discovery vysláni na pomoc poškozené vesmírné stanici - zdánlivě rutinní mise, která odhalí existenci nové děsivé hrozby."
+    },
+    {
+     "c": 2,
+     "nazev": "Anomálie",
+     "original": "Anomaly",
+     "datum": "2021-11-25",
+     "popis": "Saru se vrací, aby pomohl U.S.S. Discovery odhalit záhadu neobvyklé nové ničivé síly. Zatímco Burnhamová velí posádce, musí také najít způsob, jak pomoci Bookovi vyrovnat se s nepředstavitelnou ztrátou."
+    },
+    {
+     "c": 3,
+     "nazev": "Zvol si život",
+     "original": "Choose to Live",
+     "datum": "2021-12-02",
+     "popis": "Burnhamová a Tilly pátrají po vrahovi důstojníka Hvězdné flotily, zatímco Stamets a vědecký tým závodí s časem, aby anomálie nezabila nikoho dalšího."
+    },
+    {
+     "c": 4,
+     "nazev": "Všechno je možné",
+     "original": "All Is Possible",
+     "datum": "2021-12-09",
+     "popis": "Tilly a Adira vedou tým kadetů akademie Hvězdné flotily na výcvikové misi, která se zvrtne v nebezpečný problém. Burnhamová je mezitím vtažena do napjatých jednání na Ni'Varu."
+    },
+    {
+     "c": 5,
+     "nazev": "Příklady",
+     "original": "The Examples",
+     "datum": "2021-12-16",
+     "popis": "Burnhamová a Book se snaží evakuovat skupinu kolonistů, kteří uvízli v cestě anomálie, zatímco na palubu U.S.S. Discovery přichází jeden z nejchytřejších vědců Federace, aby se Saruem a Stametsem provedli důležitý výzkum."
+    },
+    {
+     "c": 6,
+     "nazev": "Bouřlivé počasí",
+     "original": "Stormy Weather",
+     "datum": "2021-12-23",
+     "popis": "Při hledání odpovědí se U.S.S. Discovery vydává do subprostorové trhliny vytvořené anomálií temné hmoty. Book mezitím čelí podivnému návštěvníkovi ze své minulosti."
+    },
+    {
+     "c": 7,
+     "nazev": "... ale připojit se",
+     "original": "...But to Connect",
+     "datum": "2021-12-30",
+     "popis": "Napětí stoupá, když se zástupci z celé galaxie sejdou, aby čelili hrozbě anomálie temné hmoty. Zořina nová schopnost cítění vyvolává vážné otázky."
+    },
+    {
+     "c": 8,
+     "nazev": "Vabank",
+     "original": "All In",
+     "datum": "2022-02-10",
+     "popis": "Kapitán Burnhamová se na základě předtuchy vydává po stopách Booka na staré známé místo z dob jejich kurýrní služby a nechá se vtáhnout do soutěže o mocnou zbraň, v níž jde o hodně."
+    },
+    {
+     "c": 9,
+     "nazev": "Rubikon",
+     "original": "Rubicon",
+     "datum": "2022-02-17",
+     "popis": "Kapitán Burnhamová a U.S.S. Discovery závodí, aby zabránili Bookovi a Ruonu Tarkovi v uskutečnění nekalého plánu, který by mohl nechtěně ohrozit galaxii."
+    },
+    {
+     "c": 10,
+     "nazev": "Galaktická bariéra",
+     "original": "The Galactic Barrier",
+     "datum": "2022-02-24",
+     "popis": "Kapitánka Burnhamová a její posádka se musí vydat tam, kam se dosud vydalo jen málo lidí: za Galaktickou bariéru. Mezitím se Book dozvídá pravdu o tom, co pohání Ruona Tarku."
+    },
+    {
+     "c": 11,
+     "nazev": "Rosettská deska",
+     "original": "Rosetta",
+     "datum": "2022-03-03",
+     "popis": "Zatímco kapitán Burnhamová vede výsadek na planetu, která byla kdysi domovem mimozemšťanů zodpovědných za DMA, Book a Tarka tajně infiltrují U.S.S. Discovery."
+    },
+    {
+     "c": 12,
+     "nazev": "Druh 10-C",
+     "original": "Species Ten-C",
+     "datum": "2022-03-10",
+     "popis": "Když se DMA přiblíží k Zemi a Ni'Var, kapitán Burnhamová a posádka U.S.S. Discovery se pokusí navázat první kontakt s mocným druhem, který je za to zodpovědný, než bude příliš pozdě."
+    },
+    {
+     "c": 13,
+     "nazev": "Návrat domů",
+     "original": "Coming Home",
+     "datum": "2022-03-17",
+     "popis": "V závěrečné epizodě 4. řady se Anomálie přiblíží k Zemi a Ni'Varu. Zatímco jsou planety evakuovány, Burnhamová a tým na palubě Discovery musí najít způsob, jak se přiblížit k velmi odlišnému druhu a komunikovat s ním."
+    }
+   ]
+  },
+  {
+   "cislo": 5,
+   "rok": "2024",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Rudá směrnice",
+     "original": "Red Directive",
+     "datum": "2024-04-04",
+     "popis": "Kapitánka Burnhamová a posádka se vydávají na misi, aby získali tajemný Romulanský artefakt."
+    },
+    {
+     "c": 2,
+     "nazev": "Pod dvojměsícem",
+     "original": "Under the Twin Moons",
+     "datum": "2024-04-04",
+     "popis": "Na poslední misi Saru jako číslo jedna kapitána Burnhamové se tým vydává na zdánlivě opuštěnou planetu, aby pátral po něčem, co by mohlo být největším pokladem v galaxii."
+    },
+    {
+     "c": 3,
+     "nazev": "Jinaal",
+     "datum": "2024-04-11",
+     "popis": "Na Trillu musí kapitán Burnhamová, Book a Culber projít nebezpečnou zkouškou, aby dokázali, že jsou hodni dalšího vodítka. Adira se znovu sbližuje s Grayem a Saruův první den ve funkci velvyslance komplikuje jeho zasnoubení s T'Rinou."
+    },
+    {
+     "c": 4,
+     "nazev": "Vzdoruj tajemnu",
+     "original": "Face the Strange",
+     "datum": "2024-04-18",
+     "popis": "Na cestě za další stopou je U.S.S. Discovery sabotována záhadnou zbraní a kapitán Burnham, Rayner a Stamets jsou jedinými členy posádky, kteří mohou loď včas zachránit."
+    },
+    {
+     "c": 5,
+     "nazev": "Zrcadla",
+     "original": "Mirrors",
+     "datum": "2024-04-25",
+     "popis": "Kapitán Burnhamová a Book se vydávají do mimodimenzionálního prostoru, aby našli další stopu k místu, kde se nachází síla Progenitorů. Rayner mezitím plní svou první misi ve velení U.S.S. Discovery a Culber se otevírá Tilly."
+    },
+    {
+     "c": 6,
+     "nazev": "Hvízdání",
+     "original": "Whistlespeak",
+     "datum": "2024-05-02",
+     "popis": "Kapitán Burnhamová je v utajení v předwarpové společnosti nucena zvážit porušení Základní směrnice, když místní tradice ohrožuje Tillyin život. Mezitím se Culber pokouší navázat spojení se Stametsem a Adira zakročí, když jim Rayner přidělí pozici na můstku."
+    },
+    {
+     "c": 7,
+     "nazev": "Eriga",
+     "original": "Erigah",
+     "datum": "2024-05-09",
+     "popis": "Když jsou Moll a L'ak konečně ve vazbě, je Federace vtažena do diplomatické a etické bouře, když dorazí Breeni a požadují jejich vydání. Frustrovaný Book mezitím hledá způsob, jak pomoci, zatímco Tilly, Adira a Reno se snaží rozluštit poslední stopu."
+    },
+    {
+     "c": 8,
+     "nazev": "Labyrinty",
+     "original": "Labyrinths",
+     "datum": "2024-05-16",
+     "popis": "Když je kapitán Burnhamová uvězněna v \"myšlenkové krajině\", která má prověřit její způsobilost získat mocnou technologii Progenitora, musí Book, Rayner a posádka U.S.S. Discovery zadržet Breeny na tak dlouho, aby mohla uniknout."
+    },
+    {
+     "c": 9,
+     "nazev": "Librační centrum",
+     "original": "Lagrange Point",
+     "datum": "2024-05-23",
+     "popis": "Poté, co se Moll a Breeni zmocní záhadné stavby, která obsahuje sílu Progenitorů, musí kapitán Burnhamová vést tajnou misi, aby ji získala zpět dříve, než Breeni zjistí, jak ji použít."
+    },
+    {
+     "c": 10,
+     "nazev": "Život jako takový",
+     "original": "Life, Itself",
+     "datum": "2024-05-30",
+     "popis": "Kapitán Burnhamová je uvězněna v záhadném mimozemském portálu, který se vymyká známým pravidlům času, prostoru a gravitace, a musí bojovat s Mollem - a se samotným prostředím - aby našla technologii Progenitorů a zajistila ji pro Federaci. Book se mezitím vystavuje nebezpečí, aby pomohl Burnhamové přežít, a Rayner vede U.S.S. Discovery do epické bitvy proti breenským silám, v níž rozhoduje vítěz."
+    }
+   ]
+  }
+ ]
+}

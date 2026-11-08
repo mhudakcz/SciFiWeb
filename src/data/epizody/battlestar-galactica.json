@@ -1,0 +1,538 @@
+{
+ "tmdb": 1972,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "2004",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Třicet tři",
+     "original": "33",
+     "datum": "2004-10-18",
+     "popis": "Laura a Adama čelí možnosti, že jedna z jejich lodí může být kompromitována nepřítelem."
+    },
+    {
+     "c": 2,
+     "nazev": "Voda",
+     "original": "Water",
+     "datum": "2004-10-25",
+     "popis": "Boomer má starosti, že je odpovědná za explozi, která způsobila, že Galactica přišla o vodu."
+    },
+    {
+     "c": 3,
+     "nazev": "Dobytí Bastily",
+     "original": "Bastille Day",
+     "datum": "2004-11-01",
+     "popis": "Skupina vězňů drží na vězeňské lodi Apolla jako rukojmí."
+    },
+    {
+     "c": 4,
+     "nazev": "Akt lítosti",
+     "original": "Act of Contrition",
+     "datum": "2004-11-08",
+     "popis": "Po smrtelné nehodě si Starbuck připouští svůj podíl na smrti Zaka Adama."
+    },
+    {
+     "c": 5,
+     "nazev": "Domů už nemůžeš",
+     "original": "You Can't Go Home Again",
+     "datum": "2004-11-15",
+     "popis": "Adama a Lee vystavují flotilu nebezpečí při hledání Kary."
+    },
+    {
+     "c": 6,
+     "nazev": "Lakmus",
+     "original": "Litmus",
+     "datum": "2004-11-22",
+     "popis": "Po sebevražedném útoku cylonského atentátníka musí Adama odhalit veřejnosti, že Cyloni vypadí jako lidé."
+    },
+    {
+     "c": 7,
+     "nazev": "Šest stupňů odloučení",
+     "original": "Six Degrees of Separation",
+     "datum": "2004-11-29",
+     "popis": "Baltar čelí smrti a potupě, když ho přestrojená Šestka obviní z velezrady."
+    },
+    {
+     "c": 8,
+     "nazev": "Z masa a kostí",
+     "original": "Flesh and Bone",
+     "datum": "2004-12-06",
+     "popis": "Když na palubě lodi odhalí Cylona, posílá Adama Karu, aby stroj vyslechla."
+    },
+    {
+     "c": 9,
+     "nazev": "Překvapení pro Tigha",
+     "original": "Tigh Me Up, Tigh Me Down",
+     "datum": "2004-12-13",
+     "popis": "Po nečekaném objevu má Roslinová podezření, že Adama je Cylon."
+    },
+    {
+     "c": 10,
+     "nazev": "Ruka boží",
+     "original": "The Hand of God",
+     "datum": "2005-01-03",
+     "popis": "S docházejícími zásoby paliva je flotila nucena zaútočit na tyliový důl pod kontrolou Cylonů."
+    },
+    {
+     "c": 11,
+     "nazev": "Koloniální den",
+     "original": "Colonial Day",
+     "datum": "2005-01-10",
+     "popis": "Demokracie ve flotile je obnovena. Helo má na Caprice zjevení."
+    },
+    {
+     "c": 12,
+     "nazev": "Poslední záblesk Kobolu, část 1.",
+     "original": "Kobol's Last Gleaming (1)",
+     "datum": "2005-01-17",
+     "popis": "Objev obyvatelné planety způsobil na Galactice povstání."
+    },
+    {
+     "c": 13,
+     "nazev": "Poslední záblesk Kobolu, část 2.",
+     "original": "Kobol's Last Gleaming (2)",
+     "datum": "2005-01-24",
+     "popis": "Napětí mezi Adamou a Laurou vyeskaluje, když se flotila připravuje na bitvu o Kobol."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "2005",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Ztraceni",
+     "original": "Scattered",
+     "datum": "2005-07-15",
+     "popis": "Kvůli nezpůsobilosti Adamy a Laury čelí Tigh své první zkoušce velení."
+    },
+    {
+     "c": 2,
+     "nazev": "Údolí temnoty",
+     "original": "Valley of Darkness",
+     "datum": "2005-07-22",
+     "popis": "Tigh a Lee se musí spojit pod hrozbou nastupující strany Cylonů."
+    },
+    {
+     "c": 3,
+     "nazev": "Postřelen",
+     "original": "Fragged",
+     "datum": "2005-07-29",
+     "popis": "Do flotily se vrací demokracie - ale neobejde se to bez politických spiknutí a smrtelných úkladů."
+    },
+    {
+     "c": 4,
+     "nazev": "Hnutí odporu",
+     "original": "Resistance",
+     "datum": "2005-08-05",
+     "popis": "Tighovo vyhlášení stanného práva hrozí rozdělením flotily."
+    },
+    {
+     "c": 5,
+     "nazev": "Farma",
+     "original": "The Farm",
+     "datum": "2005-08-12",
+     "popis": "Adama se vrací do služby. Roslinová apeluje na víru ostatních. Starbuck učiní hrůzný objev."
+    },
+    {
+     "c": 6,
+     "nazev": "Domov, část 1.",
+     "original": "Home (1)",
+     "datum": "2005-08-19",
+     "popis": "Adama se potýká se synovou zradou. Roslinová uvěří Cylonovi."
+    },
+    {
+     "c": 7,
+     "nazev": "Domov, část 2.",
+     "original": "Home (2)",
+     "datum": "2005-08-26",
+     "popis": "Adama zahájí pátrací misi na Kobol v naději, že sjednotí flotilu a znovu se spojí se Zakem."
+    },
+    {
+     "c": 8,
+     "nazev": "Konečný sestřih",
+     "original": "Final Cut",
+     "datum": "2005-09-09",
+     "popis": "Na Galacticu vstoupí reportérka, aby zdokumentovala stresující realitu vojenského života během války."
+    },
+    {
+     "c": 9,
+     "nazev": "Let Fénixe",
+     "original": "Flight of the Phoenix",
+     "datum": "2005-09-16",
+     "popis": "Sharonina loajalita je zpochybněna, když počítačový systém Galacticy napadne virus."
+    },
+    {
+     "c": 10,
+     "nazev": "Pegasus",
+     "datum": "2005-09-23",
+     "popis": "Galactica oslavuje příjezd nadřazené bitevní lodi kolonie."
+    },
+    {
+     "c": 11,
+     "nazev": "Loď Znovuzrození, část 1.",
+     "original": "Resurrection Ship (1)",
+     "datum": "2006-01-06",
+     "popis": "Galactica a Pegasus spojují síly, aby zničili cylonský cíl."
+    },
+    {
+     "c": 12,
+     "nazev": "Loď Znovuzrození, část 2.",
+     "original": "Resurrection Ship (2)",
+     "datum": "2006-01-13",
+     "popis": "Galactica a Pegasus bojují, aby zničili cylonskou loď znovuzrození."
+    },
+    {
+     "c": 13,
+     "nazev": "Zjevení",
+     "original": "Epiphanies",
+     "datum": "2006-01-20",
+     "popis": "Roslinová si vybavuje svůj život na Caprice; sympatizanti Cylonů ničí rafinérii tylia."
+    },
+    {
+     "c": 14,
+     "nazev": "Černý trh",
+     "original": "Black Market",
+     "datum": "2006-01-27",
+     "popis": "Roslinin pokus ukončit obchodování na černém trhu podnítí násilí a rozsáhlé vyšetřování."
+    },
+    {
+     "c": 15,
+     "nazev": "Jizva",
+     "original": "Scar",
+     "datum": "2006-02-03",
+     "popis": "Piloti Viperů na Galactice jsou povoláni, aby chránili těžební provoz kolonistů."
+    },
+    {
+     "c": 16,
+     "nazev": "Oběť",
+     "original": "Sacrifice",
+     "datum": "2006-02-10",
+     "popis": "Pomatený civilista vezme jako rukojmí vojenské a vládní úředníky."
+    },
+    {
+     "c": 17,
+     "nazev": "Kapitánova ruka",
+     "original": "The Captain's Hand",
+     "datum": "2006-02-17",
+     "popis": "Bitevní loď Pegasus čelí jak vnitřní krizi, tak i vnější hrozbě."
+    },
+    {
+     "c": 18,
+     "nazev": "Staženy",
+     "original": "Downloaded",
+     "datum": "2006-02-24",
+     "popis": "Číslo šest a Sharon se stanou hrdinkami Cylonů. Na Galactice se rodí nový druh."
+    },
+    {
+     "c": 19,
+     "nazev": "Odložte svá břemena, část 1.",
+     "original": "Lay Down Your Burdens (1)",
+     "datum": "2006-03-03",
+     "popis": "Nový objev posune volby ve prospěch Baltara. Záchranná mise Starbucks se dostává do problémů."
+    },
+    {
+     "c": 20,
+     "nazev": "Odložte svá břemena, část 2.",
+     "original": "Lay Down Your Burdens (2)",
+     "datum": "2006-03-10",
+     "popis": "Laura si musí vybrat, jestli zfalšuje výsledek voleb nebo nechá Baltara zvítězit."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "2006",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Okupace",
+     "original": "Occupation",
+     "datum": "2006-10-06",
+     "popis": "Lidé našli způsob, jak přežít na Cylony okupované Nové Caprice. Adama plánuje záchrannou misi."
+    },
+    {
+     "c": 2,
+     "nazev": "Propast",
+     "original": "Precipice",
+     "datum": "2006-10-06",
+     "popis": "Po smrtícím útoku Cyloni rázně zasahují proti povstání lidí."
+    },
+    {
+     "c": 3,
+     "nazev": "Exodus, část 1.",
+     "original": "Exodus (1)",
+     "datum": "2006-10-13",
+     "popis": "Adama se chystá na záchranu lidské populace uvězněné na Nové Caprice."
+    },
+    {
+     "c": 4,
+     "nazev": "Exodus, část 2.",
+     "original": "Exodus (2)",
+     "datum": "2006-10-20",
+     "popis": "Galactica se pouští do zuřivé bitvy, aby dokončila záchrannou misi."
+    },
+    {
+     "c": 5,
+     "nazev": "Kolaboranti",
+     "original": "Collaborators",
+     "datum": "2006-10-27",
+     "popis": "Na palubě Galacticy vzniká tajná porota, která vynáší rozsudky nad bývalými kolaboranty s Cylony."
+    },
+    {
+     "c": 6,
+     "nazev": "Rozervaní",
+     "original": "Torn",
+     "datum": "2006-11-03",
+     "popis": "Smrtící virus nutí Cylony k hrozivým rozhodnutím, jak ochránit svou rasu."
+    },
+    {
+     "c": 7,
+     "nazev": "Cesta ke spáse",
+     "original": "A Measure of Salvation",
+     "datum": "2006-11-10",
+     "popis": "D'Anna mučí Baltara, aby zjistila, kdo je za virus zodpovědný."
+    },
+    {
+     "c": 8,
+     "nazev": "Hrdina",
+     "original": "Hero",
+     "datum": "2006-11-17",
+     "popis": "Lidský pilot unikne z vazby Cylonů a vrátí se na Galacticu."
+    },
+    {
+     "c": 9,
+     "nazev": "Nevyřízené účty",
+     "original": "Unfinished Business",
+     "datum": "2006-12-01",
+     "popis": "Během improvizovaného turnaje v boxu pronásledují posádku vzpomínky na události na Nové Caprice."
+    },
+    {
+     "c": 10,
+     "nazev": "Cesta na druhou stranu",
+     "original": "The Passage",
+     "datum": "2006-12-08",
+     "popis": "Flotila čelí hladomoru. Baltar učiní překvapivý objev."
+    },
+    {
+     "c": 11,
+     "nazev": "Oko Jupitera",
+     "original": "The Eye of Jupiter",
+     "datum": "2006-12-15",
+     "popis": "Možný objev na planetě řas vyvolává spor mezi Cylony a lidmi."
+    },
+    {
+     "c": 12,
+     "nazev": "Osvícení",
+     "original": "Rapture",
+     "datum": "2007-01-21",
+     "popis": "Nadcházející výbuch supernovy nutí tým Galacticy urychleně nalézt indicie k poloze Země."
+    },
+    {
+     "c": 13,
+     "nazev": "Zapomeň na starosti",
+     "original": "Taking a Break from All Your Worries",
+     "datum": "2007-01-28",
+     "popis": "Únosci vyslýchají uvězněného Gaie Baltara na palubě Galakticy."
+    },
+    {
+     "c": 14,
+     "nazev": "Paní Kingová",
+     "original": "The Woman King",
+     "datum": "2007-02-11",
+     "popis": "Zdravotnický tým na Galactice bojuje s epidemií, kterou spustili uprchlíci z planety Sagitarron."
+    },
+    {
+     "c": 15,
+     "nazev": "Obyčejný den",
+     "original": "A Day in the Life",
+     "datum": "2007-02-18",
+     "popis": "Několik členů posádky je uvězněno ve vzduchové kapse na vnější straně lodi."
+    },
+    {
+     "c": 16,
+     "nazev": "Špinavé ruce",
+     "original": "Dirty Hands",
+     "datum": "2007-02-25",
+     "popis": "Šéf Tyrol je přesvědčen, aby svolal dělnickou stávku, navzdory Adamovi."
+    },
+    {
+     "c": 17,
+     "nazev": "Vír",
+     "original": "Maelstrom",
+     "datum": "2007-03-04",
+     "popis": "Kara se potýká s emocionálním dopadem, jaký na ni mělo zajetí na planetě Nová Caprica."
+    },
+    {
+     "c": 18,
+     "nazev": "Syn, který se postavil otci",
+     "original": "The Son Also Rises",
+     "datum": "2007-03-11",
+     "popis": "Sabotáž, rozkol a nepravděpodobná spojenectví zkomplikují očekávaný soudní proces."
+    },
+    {
+     "c": 19,
+     "nazev": "Na rozcestí, část 1.",
+     "original": "Crossroads (1)",
+     "datum": "2007-03-18",
+     "popis": "Když proces s Gaiem Baltarem začíná, svědectví přitahuje pozornost flotily."
+    },
+    {
+     "c": 20,
+     "nazev": "Na rozcestí, část 2.",
+     "original": "Crossroads (2)",
+     "datum": "2007-03-25",
+     "popis": "Řada překvapivých náhod vede k vytvoření nových spojenectví na palubě lodi Galactica."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "2008",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Ten, kdož ve mě věří",
+     "original": "He That Believeth in Me",
+     "datum": "2008-04-04",
+     "popis": "Starbuck se záhadně vrací. Anders má překvapivou konfrontaci s cylonským nájezdníkem."
+    },
+    {
+     "c": 2,
+     "nazev": "Šest za jednoho",
+     "original": "Six of One",
+     "datum": "2008-04-11",
+     "popis": "Cyloni čelí tajemství Finální pětky. Kara je zatlačena příliš daleko."
+    },
+    {
+     "c": 3,
+     "nazev": "Pevná pouta",
+     "original": "The Ties That Bind",
+     "datum": "2008-04-18",
+     "popis": "Kara hledá Zemi. Politická spiknutí a manželské konflikty začínají nahlodávat solidaritu Cylonů."
+    },
+    {
+     "c": 4,
+     "nazev": "Úniková rychlost",
+     "original": "Escape Velocity",
+     "datum": "2008-04-25",
+     "popis": "Baltarovy názory vyvolávají kontroverze. Kolonisté truchlí nad smrtí člena posádky."
+    },
+    {
+     "c": 5,
+     "nazev": "Cesta ne tak prošlapaná",
+     "original": "The Road Less Traveled",
+     "datum": "2008-05-02",
+     "popis": "Příměří mezi lidmi a Cylony podnítí Starbuck, aby důvěřovala svému starému nepříteli Leobenovi."
+    },
+    {
+     "c": 6,
+     "nazev": "Víra",
+     "original": "Faith",
+     "datum": "2008-05-09",
+     "popis": "Helo odmítá plnit rozkazy od Starbuck. Roslinová spoléhá na svého pobočníka."
+    },
+    {
+     "c": 7,
+     "nazev": "Hádej, co přijde na večeři",
+     "original": "Guess What's Coming to Dinner?",
+     "datum": "2008-05-16",
+     "popis": "Galactica pomáhá zničit klíčový nepřátelský cíl, aby otestovala nové spojenectví."
+    },
+    {
+     "c": 8,
+     "nazev": "Sine Qua Non",
+     "datum": "2008-05-30",
+     "popis": "Flotilu pohltí krutý boj o moc poté, co cylonský hybrid unese Roslinovou."
+    },
+    {
+     "c": 9,
+     "nazev": "Uzel",
+     "original": "The Hub",
+     "datum": "2008-06-06",
+     "popis": "Piloti Viperů a cylonští rebelové se spojují, aby vytvořili bitevní plán."
+    },
+    {
+     "c": 10,
+     "nazev": "Odhalení",
+     "original": "Revelations",
+     "datum": "2008-06-13",
+     "popis": "Situace kolem rukojmí se eskaluje. Flotila zoufale hledá řešení, jak nalézt Zemi."
+    },
+    {
+     "c": 11,
+     "nazev": "Tak mě někdy napadá",
+     "original": "Sometimes a Great Notion",
+     "datum": "2009-01-16",
+     "popis": "Flotila a její cylonští nepřátelé se spojují, aby pátrali po planetě Zemi."
+    },
+    {
+     "c": 12,
+     "nazev": "Neklid zmítá mou duší",
+     "original": "A Disquiet Follows My Soul",
+     "datum": "2009-01-23",
+     "popis": "Adamův návrh spojenectví vyvolává zuřivý odpor a spory."
+    },
+    {
+     "c": 13,
+     "nazev": "Přísaha",
+     "original": "The Oath",
+     "datum": "2009-01-30",
+     "popis": "Zarek a Gaeta organizují vzpouru, která ohrožuje autoritu Adama a Tigha."
+    },
+    {
+     "c": 14,
+     "nazev": "Krev na vahách",
+     "original": "Blood on the Scales",
+     "datum": "2009-02-06",
+     "popis": "Rebelové přebírají Galacticu a podnikají kroky k odstranění Roslinové a Adamy."
+    },
+    {
+     "c": 15,
+     "nazev": "Není úniku",
+     "original": "No Exit",
+     "datum": "2009-02-13",
+     "popis": "Ellen Tighová opět přichází. Anders říká Kaře, že si vše pamatuje."
+    },
+    {
+     "c": 16,
+     "nazev": "Na mrtvém bodě",
+     "original": "Deadlock",
+     "datum": "2009-02-20",
+     "popis": "Přeživší zoufale pátrají po legendární 13. kolonii, Zemi."
+    },
+    {
+     "c": 17,
+     "nazev": "Ten, kdo mě hlídá",
+     "original": "Someone to Watch Over Me",
+     "datum": "2009-02-27",
+     "popis": "Kara vzpomíná u piana. Boomer čelí vydání. Tyrol zjišťuje zničující pravdu."
+    },
+    {
+     "c": 18,
+     "nazev": "Uvězněni v proudu hvězd",
+     "original": "Islanded in a Stream of Stars",
+     "datum": "2009-03-06",
+     "popis": "S pokračujícími opravami se loď dále rozpadá.  Hera je předána Cavilovi."
+    },
+    {
+     "c": 19,
+     "nazev": "Rozbřesk, část 1.",
+     "original": "Daybreak (1)",
+     "datum": "2009-03-13",
+     "popis": "Zatímco je Galactica rozebírána na části, skupina dobrovolníků se vydává na poslední misi."
+    },
+    {
+     "c": 20,
+     "nazev": "Rozbřesk, část 2.",
+     "original": "Daybreak (2)",
+     "datum": "2009-03-20",
+     "popis": "Adama vede skupinu dobrovolníků na nebezpečnou misi, aby zachránili Heru."
+    }
+   ]
+  }
+ ]
+}

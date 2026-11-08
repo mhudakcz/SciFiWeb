@@ -1,0 +1,1252 @@
+{
+ "tmdb": 580,
+ "rady": [
+  {
+   "cislo": 1,
+   "rok": "1993",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Poslání",
+     "original": "Emissary",
+     "datum": "1993-01-03",
+     "popis": "Epizoda začíná bitvou u Wolf 359, při které po útoku Borgů umírá manželka komandéra Benjamina Siska. O tři roky později se Sisko se svým synem Jakem stěhují na stanici Deep Space Nine (Terok Nor), původem Cardassianskou. Cardassiané se vzdali svého nároku na planetu Bajor a její prozatímní vláda teď žádá Federaci o podporu. Sisko doufá, že bude moci ze stanice brzy odejít, a prosí kapitána Jeana-Luca Picarda o přeložení..."
+    },
+    {
+     "c": 2,
+     "nazev": "Poslední prolog",
+     "original": "Past Prologue",
+     "datum": "1993-01-10",
+     "popis": "Tahna Los, bývalý vůdce krvavého bajorského hnutí Kohn Ma a přítel majora Kiry přilétá na DS9 a žádá o azyl. Tvrdí, že s Kohn Ma už nechce mít nic společného. Jenže Tahna Los se zapletl s klingonskými sestrami Durasovými, Lursou a B'Etor. Jejich návštěva na stanici na sebe nenechá dlouho čekat..."
+    },
+    {
+     "c": 3,
+     "nazev": "Osamělý muž",
+     "original": "A Man Alone",
+     "datum": "1993-01-17",
+     "popis": "Charakter šéfa bezpečnosti Oda je zpochybněn, když se zaplete do vraždy podezřelého Bajorana."
+    },
+    {
+     "c": 4,
+     "nazev": "Zmatek",
+     "original": "Babel",
+     "datum": "1993-01-24",
+     "popis": "Stanici zachvátila epidemie viru, který způsobuje afázii - poruchu komunikačních schopností. Brzy vyjde najevo, že virus, který se šíří replikátory, je uměle vytvořený. A zatímco na stanici přibývá blábolících pacientů, major Kira se snaží odhalit bajorské sabotéry, kteří virus před lety vyvinuli."
+    },
+    {
+     "c": 5,
+     "nazev": "Stíhání oběti",
+     "original": "Captive Pursuit",
+     "datum": "1993-01-31",
+     "popis": "Na DS9 přilétá první návštěvník z Gama kvadrantu. Je jím Tosk, šupinatý plazoidní humanoid, jehož loď se porouchala. O'Brien se s ním snaží spřátelit, ale brzy zjistí, že s Toskem není vše úplně v pořádku."
+    },
+    {
+     "c": 6,
+     "nazev": "Bez Q",
+     "original": "Q-Less",
+     "datum": "1993-02-07",
+     "popis": "V Gama kvadrantu je nalezena archeoložka Vash, která se před časem zapletla s kapitánem Picardem nejen milostně, ale také do honby za pokladem. Společně s Vash se ale na stanici objeví ještě někdo - nezvaný host, kterého ale O'Brien dobře zná. Je jím Q. Quark mezitím pořádá aukci věcí nalezených v kvadrantu Gama..."
+    },
+    {
+     "c": 7,
+     "nazev": "Daxová",
+     "original": "Dax",
+     "datum": "1993-02-14",
+     "popis": "Jadzii unese komando Klaestronců. Má být postavena před jejich soud a být potrestána za vraždu slavného generála Tandra, kterou před třiceti lety údajně spáchal Curzon Dax. Může být ale současný hostitel trestán za zločin, který se stal v době, kdy ještě ani nebyl na světě?"
+    },
+    {
+     "c": 8,
+     "nazev": "Pasažér",
+     "original": "The Passenger",
+     "datum": "1993-02-21",
+     "popis": "Vantika, kobliadský zločinec, zahyne při nehodě na vězeňské lodi. Agentka Ty Kajada, která se na Vantikův případ specializovala, je ovšem přesvědčená, že její protivník stále žije - ať už v jakémkoliv těle..."
+    },
+    {
+     "c": 9,
+     "nazev": "Postupujte k domovu",
+     "original": "Move Along Home",
+     "datum": "1993-03-14",
+     "popis": "Na DS9 přilétá první oficiální delegace z Gama kvadrantu. Nejen komandér Sisko, ale i ostatní velící důstojníci jsou velmi překvapeni, když zjistí skutečné důvody návštěvy Wadiů - přišli si zahrát do Quarkova vyhlášeného podniku. Sisko ovšem netuší, že jedna napínavá hra čeká za pár hodin i jeho."
+    },
+    {
+     "c": 10,
+     "nazev": "Nagus",
+     "original": "The Nagus",
+     "datum": "1993-03-21",
+     "popis": "Během své návštěvy na stanici zemře ferengský představený, Nagus Zek. Ještě předtím však Quarka k jeho obrovské hrůze stačí jmenovat svým nástupcem. Z obyčejného hospodského je teď Velký Nagus Quark a také potencionální oběť mnoha závistivých protivníků. Být Nagusem je holt životu nebezpečný podnik."
+    },
+    {
+     "c": 11,
+     "nazev": "Vortex",
+     "datum": "1993-04-18",
+     "popis": "Croden je zločinec z Gama kvadrantu a momentálně je na útěku. Aby si zachránil krk, dá Odovi neodolatelnou nabídku - může mu ukázat místo, odkud pochází jeho druh, Měňavci. Croden si však během svého pobytu na DS9 stačil udělat početnou řadu nepřátel, na které možná ani konstábl nestačí."
+    },
+    {
+     "c": 12,
+     "nazev": "Bojová linie",
+     "original": "Battle Lines",
+     "datum": "1993-04-25",
+     "popis": "Kai Opaka se v doprovodu Siska, Kiry a Bashira vydá na návštěvu červí díry. Jejich runabout je ale sestřelen a nouzově přistane na nehostinném planetoidu, kde zuří neutuchající válka mezi frakcemi Ennisů a Nol-Ennisů. Trosečníci se ocitají mezi těmito dvěma frontami."
+    },
+    {
+     "c": 13,
+     "nazev": "Vypravěč příběhů",
+     "original": "The Storyteller",
+     "datum": "1993-05-02",
+     "popis": "Zatímco Sisko na stanici řeší spor mezi dvěma bajorskými kmeny, O'Brien se proti své vůli stává duchovním vůdcem zapadlé vesnice na Bajoru, na jejíž obyvatele pravidelně útočí mýtický tvor Dal'Rok. Inženýr si novou funkci zprvu užívá, ale brzy zjistí, že na i na pouhé legendě může být zrnko pravdy."
+    },
+    {
+     "c": 14,
+     "nazev": "Ve jménu pokroku",
+     "original": "Progress",
+     "datum": "1993-05-09",
+     "popis": "Zatímco Jake Sisko a Nog dostávají svou první lekci tvrdého byznysu, komandér Sisko a major Kira musí vyřešit, jak dostat tvrdohlavé osadníky z bajorského měsíce Jeradoo, který byl Prozatímní vládou určen k průmyslovému využití."
+    },
+    {
+     "c": 15,
+     "nazev": "Klamné představy",
+     "original": "If Wishes Were Horses",
+     "datum": "1993-05-16",
+     "popis": "Na stanici vypukne chaos, když se na ní začnou zjevovat přání a představy jejích obyvatel. Začalo to malou Molly O'Brienovou a Rumplcimprcamprem a od té doby hmatatelné halucinace všech tvarů a velikostí zamoří celý DS9. Navíc se objeví další nebezpečí, nestabilní časoprostorová trhlina."
+    },
+    {
+     "c": 16,
+     "nazev": "Opuštěný",
+     "original": "The Forsaken",
+     "datum": "1993-05-23",
+     "popis": "Stanici navštívila skupina bajorských velvyslanců, kteří kritizují vše, co mohou. Na stanici je přítomná i velvyslankyně Lwaxana Troi, která se zamiluje do konstábla Oda a snaží se ho za každou cenu získat. O'Brien se zatím snaží vyřešit nevysvětlitelné potíže se staničním počítačem."
+    },
+    {
+     "c": 17,
+     "nazev": "Nebezpečný stav",
+     "original": "Dramatis Personae",
+     "datum": "1993-05-30",
+     "popis": "Neshody mezi Siskem a Kirou vrcholí a spor o kompetence brzy přeroste v boj o moc. Stanici zachvátí paranoia, pikle a zrada. Která strana si získá loajalitu konstábla Oda?"
+    },
+    {
+     "c": 18,
+     "nazev": "Duet",
+     "datum": "1993-06-13",
+     "popis": "Na stanici byl zadržen cardassijský válečný zločinec gul Darhe'el, někdejší velitel koncentračního tábora Gallitep. Darhe'el je známý tako jako řezník z Gallitepu. Major Kira je pověřena vyšetřováním případu, ale narazí na celou řadu nesrovnalostí, které na celou záležitost vrhají úplně jiné světlo."
+    },
+    {
+     "c": 19,
+     "nazev": "V rukou Proroků",
+     "original": "In the Hands of the Prophets",
+     "datum": "1993-06-20",
+     "popis": "Škola Keiko O'Brienové se stane středem nevítaného zájmu bajorských náboženských radikálů. To je ale pouze začátek všech potíží, které brzy všem přerostou přes hlavu."
+    }
+   ]
+  },
+  {
+   "cislo": 2,
+   "rok": "1993",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Návrat domů",
+     "original": "The Homecoming (1)",
+     "datum": "1993-09-26",
+     "popis": "Na Bajoru sílí separatistické hnutí a vše nasvědčuje tomu, že Siskovi lidé budou muset už brzy opustit stanici. Major Kira se vydává na Cardasii IV, aby osvobodila Li Navase, bajorského hrdinu vězněného v zajateckém táboře Hutet. Pouze on může Bajorany sjednotit a zajistit jim lepší budoucnost..."
+    },
+    {
+     "c": 2,
+     "nazev": "Kruh",
+     "original": "The Circle (2)",
+     "datum": "1993-10-03",
+     "popis": "Major Kira přijde o místo a přijímá nabídku vedeka Bareila na pohostinství v bajorském klášteře. Na místo styčného důstojníka stanice je místo ní dosazen Li Nalas. Sisko a Odo zatím vyšetřují, kdo stojí v pozadí bajorské extremistické frakce známé jako Kruh..."
+    },
+    {
+     "c": 3,
+     "nazev": "Útok",
+     "original": "The Siege (3)",
+     "datum": "1993-10-10",
+     "popis": "Rozhodující střetnutí se přiblížilo - Kruh dává cizincům sedm hodin na to, aby opustili oblast Bajoru. Pak se rozpoutá krveprolití. Kira a Jadzia musí včas oslovit bajorské vůdce a odhalit jim pravdu o Kruhu a o těch, kdo stojí v jeho pozadí. Nebude to ale vůbec jednoduchý úkol."
+    },
+    {
+     "c": 4,
+     "nazev": "Neplánovaná operace",
+     "original": "Invasive Procedures",
+     "datum": "1993-10-17",
+     "popis": "Blíží se plazmová bouře a stanice je evakuována. Zůstávají na ní pouze vyšší důstojníci, aby během bouře dohlédli na vše potřebné. Brzy poté na DS9 přistane malá loď, jejíž posádka rozhodně není přátelská. Až příliš je zajímá Jadzia Dax a její symbiont."
+    },
+    {
+     "c": 5,
+     "nazev": "Cardassiané",
+     "original": "Cardassians",
+     "datum": "1993-10-24",
+     "popis": "Cardassianský válečný sirotek Rugal byl celý život vychováván Bajorany. Při návštěvě na DS9 na sebe strhne veškerou pozornost, když zaútočí na krejčího Garaka. Vypadá to, že Rugal byl vychován k nenávisti k vlastní rase. Když se do incidentu vloží gul Dukat, celý problém se sirotky začíná přerůstat v meziplanetární konflikt."
+    },
+    {
+     "c": 6,
+     "nazev": "Melora",
+     "datum": "1993-10-31",
+     "popis": "Na stanici je přidělena praporčík Melora Pazlar, která pochází z Elaysie, planety s velmi nízkou gravitací. Pazlar se neumí přizpůsobit té pozemské a můsí být neustále napojena na podpůrné přístroje. Doktor Bashir se do ní zamiluje a je ochoten udělat vše pro její trvalý přechod do pozemských podmínek. Neuvědomí si však, co taková změna znamená pro Meloru."
+    },
+    {
+     "c": 7,
+     "nazev": "Pravidla zisku",
+     "original": "Rules of Acquisition",
+     "datum": "1993-11-07",
+     "popis": "Quark má nového zaměstnance, Ferenga jménem Pel. Je to velmi nadaný obchodník a jeho schopnosti udělají dojem i na velkého naguse Zeka. Pel má ale se svými schopnostmi vlastní plány - hodlá je využívat pouze pro prospěch Quarka. Toto chování je u Ferenga více než zvláštní. Jak je to s Pelem doopravdy nakonec odhalí Rom..."
+    },
+    {
+     "c": 8,
+     "nazev": "Nutné zlo",
+     "original": "Necessary Evil",
+     "datum": "1993-11-14",
+     "popis": "Quark je postřelen při jedné ze svých pokoutních aktivit a konstábl Odo se při vyšetřování dostává na stopu vraždy bajorského obchodníka, která byla na stanici spáchána před pěti lety, ještě za vlády Cardassianů. V té vraždě byla hlavní podezřelou Kira Nerys."
+    },
+    {
+     "c": 9,
+     "nazev": "Druhý pohled",
+     "original": "Second Sight",
+     "datum": "1993-11-21",
+     "popis": "Ben Sisko během noční procházky na Promenádě potkává ženu jménem Fenna a uvědomí si, že se právě zamiloval. Fenna je ale velmi tajemná a Sisko se o ní téměř nic nedozví. Druhý den je mu představena Nidell - významného vědce, který je právě na návštěvě stanice a okamžitě v ní potká onu tajemnou ženu, která se ovšem chová, jako by ho nikdy neviděla."
+    },
+    {
+     "c": 10,
+     "nazev": "Útočiště",
+     "original": "Sanctuary",
+     "datum": "1993-11-28",
+     "popis": "Na DS9 přilétá pětičlenná skupina uprchlíků z Gama kvadrantu. Je to rasa Skreeů, kteří hledají svůj legendární zaslíbený svět. A nejsou sami - za nimi míří flotila, skládající se ze tří milionů členů. Vůdkyně Skreeů, kteří na stanici dělají jen samé problémy, Siskovi prozradí, že jejich zaslíbeným světem je Bajor. Bajoranům se ale vůbec nelíbí, že by na jejich planetě zničehonic přibylo tolik spoluobčanů."
+    },
+    {
+     "c": 11,
+     "nazev": "Soupeři",
+     "original": "Rivals",
+     "datum": "1994-01-02",
+     "popis": "Quarkův bar najednou dostane velmi silnou konkurenci. El-Aurian Martus Mazur si na Promenádě otevřel nový podnik, Quarkova bratra Roma přibral jako společníka a aby toho nebylo málo, brzy mu přetáhne i zákazníky. Má totiž ve svém podniku neznámou, zato velmi zábavnou hru..."
+    },
+    {
+     "c": 12,
+     "nazev": "Rub a líc",
+     "original": "The Alternate",
+     "datum": "1994-01-09",
+     "popis": "Bajorský doktor Mora Pol, který před lety ve své laboratoři zkoumal konstábla Oda, objevil možné stopy původu Měňavců. Žádá proto Oda, aby se zúčastnil jeho vědecké výpravy do Gama Kvadrantu, na planetu LS VI. Odo nakonec souhlasí, když se ale z mise vrátí, začne stanici ohrožovat podivný netvor."
+    },
+    {
+     "c": 13,
+     "nazev": "Hra s ohněm",
+     "original": "Armageddon Game",
+     "datum": "1994-01-30",
+     "popis": "Doktor Bashir a O'Brien pomáhají Kellerunům a T'Laniům neutralizovat zásoby harvesteru, zbraně kterou se obě rasy navzájem téměř vyhladily. Ani jeden z nich ale netuší, že až bude proces ukončen, budou zlikvidováni i oni dva. Jistota je jistota, Co kdyby náhodou chtěli zneužít znalosti té nanobiotické zbraně? To se nemůže riskovat."
+    },
+    {
+     "c": 14,
+     "nazev": "Šepot",
+     "original": "Whispers",
+     "datum": "1994-02-06",
+     "popis": "O'Brien se vrací ze soustavy Parada a je nemile překvapen tím, co se na stanici děje. Jeho žena Keiko se chová, jako by z něj měla strach, kolegové o něm mluví za jeho zády, blokují mu vstup do počítačových záznamů... Skoro to vypadá, jako by během jeho nepřítomnosti stanici někdo vyměnil za nezdařilou kopii."
+    },
+    {
+     "c": 15,
+     "nazev": "Ideální společnost",
+     "original": "Paradise",
+     "datum": "1994-02-13",
+     "popis": "Sisko a O'Brien pátrají v okolních soustavách po planetách vhodných k osídlení. Na planetě Orellius však najdou nečekané - kolonii lidí, bývalých důstojníků Federace, kteří odvrhli veškerou techniku a rozhodli se žít pouze v souladu s přírodou. Jejich vůdkyne, Alixus je posedlá představou, že tu za jakoukoliv cenu vybuduje ideál netechnologické společnosti."
+    },
+    {
+     "c": 16,
+     "nazev": "Stínohra",
+     "original": "Shadowplay",
+     "datum": "1994-02-20",
+     "popis": "Při průzkumu Gama kvadrantu zachytí Jadzia a Odo podivné emise částic na povrchu dosud nezmapované planety. Na ní naleznou malou osadu mírumilovných Yaderanů, kteří ale mají velké starosti. Čas od času z osady někdo beze stopy zmizí a už se nikdy nevrátí. Odo a Jadzia jsou pevně rozhodnutí, že odhalí, co za tím stojí."
+    },
+    {
+     "c": 17,
+     "nazev": "Hra na boha",
+     "original": "Playing God",
+     "datum": "1994-02-27",
+     "popis": "Jadzia má jako instruktor na starosti Arjina, budoucího kandidáta na Daxův symbiont. Při výletu do Gama kvadrantu je jejich loď kontaminována malým množstvím neznámé protoplazmy. Když se látka dostane na DS9, začne nekontrolovatelně růst."
+    },
+    {
+     "c": 18,
+     "nazev": "Zisk a ztráta",
+     "original": "Profit and Loss",
+     "datum": "1994-03-20",
+     "popis": "Stanice zachytí těžce poškozenou loď, na jejíž palubě je profesorka Natima Lang, původem z Cardassie, a její dva studenti. Natima tvrdí, že její loď poškodily meteority, O'Brien ovšem zjistí, že za to ve skutečnosti můžou cardassijské zbraně. A navíc se zdá, že profesorka měla v minulosti jeden velmi vřelý milostný vztah - s Quarkem."
+    },
+    {
+     "c": 19,
+     "nazev": "Krvavá přísaha",
+     "original": "Blood Oath",
+     "datum": "1994-03-27",
+     "popis": "Když se na DS9 objeví Klingon Kor, bývalý Curzonův přítel, Jadzia správně tuší, že jeho kumpáni Kang a Koloth nebudou daleko. Trojice Klingonů kdysi složila krvavou přísahu - že dostihnou a zahubí krutého klingonského zločince známého jako Albín. Nyní jej konečně vystopovali a chystají se na výpravu. Jadzia je pevně rozhodnutá, že půjde s nimi a vypadá to, že jí nikdo nepřemluví. Pomstu Albínovi totiž tenkrát přísahal i Curzon Dax."
+    },
+    {
+     "c": 20,
+     "nazev": "Makisté, část první",
+     "original": "The Maquis (1)",
+     "datum": "1994-04-24",
+     "popis": "Cardassijská nákladní loď Bak'Nor je při odletu z DS9 zničena sabotérem. Proslýchá se, že loď převážela zbraně do Demilitarizované zóny, která leží na pomezí Federace a Cardassie. Gul Dukat tajně požádá Siska o spolupráci a oba letí situaci přezkoumat přímo na místo. Sisko je velmi překvapen, když zjistí, že zóna není demilitarizovaná tolik, jak by se možná mohlo zdát."
+    },
+    {
+     "c": 21,
+     "nazev": "Makisté, část druhá",
+     "original": "The Maquis (2)",
+     "datum": "1994-05-01",
+     "popis": "Problém v demilitarizované zóně nabírá obludných rozměrů. Operuje zde separatická skupina Makistů, která chce po Federaci i Cardasii, aby se z oblasti stáhly a nezasahovaly do života osídlenců. Pokud se nepodaří útoky teroristů zastavit, hrozí další válka mezi Federací a Cardasií. I v řadách Hvězdné flotily se však ukrývají zrádci, jak zjistí Sisko..."
+    },
+    {
+     "c": 22,
+     "nazev": "Drát",
+     "original": "The Wire",
+     "datum": "1994-05-08",
+     "popis": "Bashir a Garak společně obědvají, když krejčího náhle ochromí prudký záchvat bolesti. Bashir chce Garaka vyšetřit, ten to ale odmítá. Nakonec ho ale na ošetřovnu přeci jen dostane a s hrůzou zjistí, že Cardassian má v mozku jakýsi implantát, který se podle všeho porouchal a teď ho pomalu zabíjí."
+    },
+    {
+     "c": 23,
+     "nazev": "Průnik",
+     "original": "Crossover",
+     "datum": "1994-05-15",
+     "popis": "Kira a Bashir zrovna prolétají červí dírou, když je podivná anomálie vrhne do jakéhosi paralelního vesmíru. Brzy oba zjistí, že je to tentýž zrcadlový vesmír, který před sto lety objevil kapitán James T. Kirk. Mnohé se tu ale změnilo - Terranské impérium padlo a lidé, kteří jsou považováni za nejhorší spodinu galaxie, trpí pod krutovládou Cardassie..."
+    },
+    {
+     "c": 24,
+     "nazev": "Kolaborant",
+     "original": "The Collaborator",
+     "datum": "1994-05-22",
+     "popis": "Na Bajoru se chystají volby nového Kai. Největším favoritem je Vedek Bareil, milenec majora Kiry. Objeví se však informace, která ho donutí z voleb odstoupit. Během okupace prý Cardassianům vyzradil umístění povstaleckého tábora a zavinil tím smrt třiačtyřiceti lidí. Vše nasvědčuje tomu, že obvinění nelže..."
+    },
+    {
+     "c": 25,
+     "nazev": "Tribunál",
+     "original": "Tribunal",
+     "datum": "1994-06-05",
+     "popis": "O'Brien s manželkou míří na dovolenou, jenže na jejich runabout vtrhnou Cardassiané a zatknou ho. Po mnoha hodinách ve vězení konečně vyjde najevo obvinění - byl shledán vinným za dodávaní zbraní makistům. Nyní bude postaven před soud a odsouzen. A za zločin takového rázu je pouze jediný možný trest."
+    },
+    {
+     "c": 26,
+     "nazev": "Jem'Hadarové",
+     "original": "The Jem'Hadar",
+     "datum": "1994-06-12",
+     "popis": "Sisko a Jake se chystají na výlet do Gama kvadrantu. Jake s sebou vezme i Noga, což dá Quarkovi záminku, aby se k nim přidal také. Sisko se zprvu brání, ale nakonec ho vezme na milost. Všichni čtyři se pak při táboření na pusté planetě střetnou s Jem'Hadary, vojáky tajemného Dominionu, který v Gama kvadrantu tahá za nitky. Zdá se, že trpělivost s návštěvníky z červí díry přetekla."
+    }
+   ]
+  },
+  {
+   "cislo": 3,
+   "rok": "1994",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Pátrání (1. část)",
+     "original": "The Search (1)",
+     "datum": "1994-09-26",
+     "popis": "Sisko se vrací ze Země zpátky na stanici a má s sebou překvapení - nový typ experimentální bitevní lodě Defiant, která původně měla sloužit k boji proti Borgům. Sisko má úkol - vydat se s ním do Gama kvadrantu a navázat kontakt s Dominionem dřív, než dojde k invazi..."
+    },
+    {
+     "c": 2,
+     "nazev": "Pátrání (2. část)",
+     "original": "The Search (2)",
+     "datum": "1994-10-03",
+     "popis": "Odo se konečně potkal se svým druhem, s Měňavci. Netuší, že ho společně s majorem Kirou čeká jedno nepříjemné překvapení... Defiant je napaden Jem'Hadary, posádce se ale úspěšně podaří uniknout a všichni se vrací zpátky na stanici. O'Brien a Dax chtějí Dominion přimět k mírovému jednání."
+    },
+    {
+     "c": 3,
+     "nazev": "Quarkův dům",
+     "original": "The House of Quark",
+     "datum": "1994-10-10",
+     "popis": "V Quarkově baru umírá opilý Klingon Kozak. A protože se v podniku teď kšefty moc nehýbou, Quark si historku trochu upraví a udělá ze sebe hrdinu, který Klingona zabil v sebeobraně. To mu ale přinese nejen zákazníky, ale také spoustu nečekaných starostí - hlavně s Kozakovou manželkou Grillkou."
+    },
+    {
+     "c": 4,
+     "nazev": "Rovnováha",
+     "original": "Equilibrium",
+     "datum": "1994-10-17",
+     "popis": "Jadzia stále dokola slýchá záhadnou melodii a stále jí pronásledují podivné vidiny, které nejspíš souvisí s jejím trillským původem. Doktor Bashir zjišťuje, že spojení mezi Daxem a Jadzií přestává fungovat a pomoci můžou jen Trillové. Jenže nikdo netuší, že jedna událost z Daxovy minulosti měla radši navždy zůstat skryta."
+    },
+    {
+     "c": 5,
+     "nazev": "Druhá kůže",
+     "original": "Second Skin",
+     "datum": "1994-10-24",
+     "popis": "Major Kira zjišťuje, že její záznamy uvádějí, že byla před deseti lety vězněna v cardassijském zajateckém táboře Elemspur - jenže ona si na to vůbec nepamatuje. Brzy poté je unesena a probudí se na Cardasii, kde zjišťuje, že má do Bajoranky hodně daleko a že se ve skutečnosti jmenuje Iliana Ghemor."
+    },
+    {
+     "c": 6,
+     "nazev": "Opuštěný",
+     "original": "The Abandoned",
+     "datum": "1994-10-31",
+     "popis": "Quark koupí od boslického kapitána vrak lodi, v něm však narazí na nečekané - na nemluvně, které na sebe právem strhává veškerou pozornost. Nikdo neví, jakého je dítě druhu, rozhodně to ale není člověk - ve věku dvou týdnů už vypadá na osm let a umí plynule komunikovat."
+    },
+    {
+     "c": 7,
+     "nazev": "Civilní obrana",
+     "original": "Civil Defense",
+     "datum": "1994-11-07",
+     "popis": "Jake Sisko a O'Brien nešťastnou náhodou spustí cardassijský bezpečnostní program, připravený pro případ vzpoury bajorských dělníků. Spustí se obranné systémy a autodestrukce stanice je čím dál blíž - nikdo neví, jak program vypnout a vypadá to, že jedinou nadějí by mohl být Garak."
+    },
+    {
+     "c": 8,
+     "nazev": "Meridian",
+     "datum": "1994-11-14",
+     "popis": "Sisko, Dax, Bashir a O'Brien jsou na průzkumné misi v Gama kvadrantu, když vtom se před nimi zničehonic zjeví planeta - její obyvatelé planetu nazývají Meridian a důstojníkům Federace prozradí, že jejich planeta se pohybuje sem a tam mezi dvěma dimenzemi. Meridianci své hosty přivítají s otevřenou náručí - Jadzia Dax se do jednoho z nich zamiluje a rozhodne se s nimi zůstat."
+    },
+    {
+     "c": 9,
+     "nazev": "Defiant",
+     "datum": "1994-11-21",
+     "popis": "Stanici Deep Space Nine poctí svou návštěvou komandér William Riker z Enterprise, který se vydává na zaslouženou dovolenou. Když ho major Kira provází po Defiantu, komandér jí omráčí a loď unese. Vyjde najevo, že muž je ve skutečnosti Thomas Riker, Williamovo identické dvojče, které vzniklo z důvodu nehody transportéru. Přidal se k Makkistům a společně chtějí Defiant použít k útokům proti Cardasii."
+    },
+    {
+     "c": 10,
+     "nazev": "Okouzlení",
+     "original": "Fascination",
+     "datum": "1994-11-28",
+     "popis": "Na stanici probíhají tradiční bajorské oslavy, na které se dostaví i Lwaxana Troi. Nic ale neprobíhá tak, jak by mělo - O'Brienovi procházejí krizi, Lwaxana je zklamaná nezájmem komandéra Oda a milostné chvilky majora Kiry a Vedeka Bareila se poněkud zvrtnou. Navíc se zdá, že se každý do někoho zamilovává."
+    },
+    {
+     "c": 11,
+     "nazev": "Minulý čas, část první",
+     "original": "Past Tense (1)",
+     "datum": "1995-01-02",
+     "popis": "Sisko, Dax a Bashir se účastní vědeckého sympózia v San Franciscu, ale když se transportují na Zemi jsou vrženi zpět v čase... ocitnou se v bouřlivém roce 2024. Než se Sisko stačí rozkoukat stane se klíčovou osobností budoucích událostí."
+    },
+    {
+     "c": 12,
+     "nazev": "Minulý čas, část druhá",
+     "original": "Past Tense (2)",
+     "datum": "1995-01-09",
+     "popis": "V první čtvrtině 21. století se společnost vyrovnávala s rostoucí kriminalitou tím, že zavírala bezdomovce, nemocné a nezaměstnané do městských rezervací, kde byli ponecháni svému osudu. V roce 2024 v San Franciscu proběhlo povstání vedené Gabrielem Bellem. Ten však shodou nešťastných okolností zahyne a komandér Sisko nastoupí na jeho místo, aby nedošlo ke změně historie. Toto povstání totiž zapříčinilo mnoho společenských a politických reforem."
+    },
+    {
+     "c": 13,
+     "nazev": "Boj o život",
+     "original": "Life Support",
+     "datum": "1995-01-30",
+     "popis": "Vedek Bareil utrpěl při nehodě dopravní lodi smrtelná zranění. Doktor Bashir teď bojuje o jeho život - v sázce je mnohé, především pak mír mezi Bajorem a Cardasií, který v mnohém spočívá právě na Bareilovi."
+    },
+    {
+     "c": 14,
+     "nazev": "Srdce z kamene",
+     "original": "Heart of Stone",
+     "datum": "1995-02-06",
+     "popis": "Quarkův synovec, Nog, se rozhodne, že se stane prvním Ferengem ve Hvězdné Flotile. Nikdo mu to ovšem příliš nevěří a Nog se bude muset hodně snažit, aby dokázal především komandéru Siskovi, že své rozhodnutí bere vážně.   Odo a Kira zareagují na nouzové volání napadené lissepianské lodi - to je zavede až do jeskyní jednoho neobydleného měsíce, kde se major Kira chytí do smrtící pasti..."
+    },
+    {
+     "c": 15,
+     "nazev": "Osud",
+     "original": "Destiny",
+     "datum": "1995-02-13",
+     "popis": "Komandér Sisko v Gama kvadrantu pomáhá třem cardassijským vědkyním s budováním retranslační komunikační stanice. Bajorané mu ale řeknou o existenci starého proroctví, podle kterého závisí Siskovo rozhodnutí na zachování či zničení červí díry."
+    },
+    {
+     "c": 16,
+     "nazev": "Dar od proroků",
+     "original": "Prophet Motive",
+     "datum": "1995-02-20",
+     "popis": "Nagus Zek konečně završil své celoživotní dílo - úplně nová pravidla zisku. A Quark a jeho bratr Rom mají tu čest seznámit se s nimi jako první. Jenže už první pravidlo naznačuje, že s velkým Nagusem nebude něco úplně v pořádku - Fereng přece své peníze nerozdává."
+    },
+    {
+     "c": 17,
+     "nazev": "Věštecké schopnosti",
+     "original": "Visionary",
+     "datum": "1995-02-27",
+     "popis": "Miles O'Brien začne pod vlivem lehkého ozáření trpět zvláštními vidinami. Brzy si uvědomí několik důležitých faktů - jeho vidiny se stávají skutečností a tím pádem vidí několik hodin do budoucnosti. Navíc jsou jeho prorocké vize klíčové pro existenci stanice."
+    },
+    {
+     "c": 18,
+     "nazev": "Hlasy v hlavě",
+     "original": "Distant Voices",
+     "datum": "1995-04-10",
+     "popis": "Lethean Altovar se na ošetřovně pokusí ukrást trochu biometického gelu, jehož šíření je nezákonné. Doktor Bashir ho ale přistihne a je jím napaden. Po Altovarově telepatickém útoku upadne do bezvědomí a když se probere, zjistí, že se na stanici muselo odehrát něco strašného. A aby nebylo špatných zpráv málo, zjistí, že se musí vyrovnat se svým rychlým stárnutím. A to se mu zrovna blíží třicáté narozeniny!"
+    },
+    {
+     "c": 19,
+     "nazev": "V říši za zrcadlem",
+     "original": "Through the Looking Glass",
+     "datum": "1995-04-17",
+     "popis": "Podivně se chovající, civilně oblečený O'Brien unese komandéra Siska do zrcadlového vesmíru. Tamní Sisko byl vůdcem povstalců, kteří bojovali proti krutovládě Aliance Bajoranů, Klingonů a Cardassianů. Jenže teď je po smrti a zrcadlový Miles žádá komandéra, aby zaujal jeho místo."
+    },
+    {
+     "c": 20,
+     "nazev": "Z neznámých důvodů",
+     "original": "Improbable Cause (1)",
+     "datum": "1995-04-24",
+     "popis": "Na cardassijského krejčího Garaka na stanici kdosi spáchal atentát. Odo se ujímá vyšetřování, ale brzy zjišťuje, že je možná nad jeho síly - stopy vedou až do středu tajného řádu Obsidiánů, obávané a všemocné cardassijské tajné služby."
+    },
+    {
+     "c": 21,
+     "nazev": "Kostky jsou vrženy",
+     "original": "The Die Is Cast (2)",
+     "datum": "1995-05-01",
+     "popis": "Garak a jeho někdejší mentor, Anabran Tain, hlava obsidiánského řádu vedou spojenou flotilu Tal'Shiaru a Obsidiánů do Gama kvadrantu. Jejich cílem je zničení Zakladatelů a tím pádem i Dominionu. Kostky jsou vrženy."
+    },
+    {
+     "c": 22,
+     "nazev": "Průzkumníci",
+     "original": "Explorers",
+     "datum": "1995-05-08",
+     "popis": "Siskovi se podaří sestrojit funkční exemplář osm set let staré bajorské solární plachetnice. Chce dokázat, že staré legendy o návštěvě Bajoranů na Cardasii jsou pravdivé. Gul Dukat se mu cestu snaží rozmluvit, protože by se Cardassianům vůbec nehodilo, kdyby legendy náhodou byly pravdivé. Sisko však i přesto vezme svého syna Jakea a vydají se na cestu."
+    },
+    {
+     "c": 23,
+     "nazev": "Rodinná záležitost",
+     "original": "Family Business",
+     "datum": "1995-05-15",
+     "popis": "Jake Sisko seznámí svého otce s Kasidy Yatesovou, pilotkou nákladní lodi. A Sisko zjišťuje, že je mu ta žena velmi sympatická. Quark mezitím zjišťuje, že jeho matka Ishka se dopustila strašného zločinu - dovolila si mít zisk, což je ferengijským ženám přísně zapovězeno. Jako hlava rodiny se musí vydat na Ferenginar, protože jinak mu hrozí, že mu obchodní úřad zavře bar."
+    },
+    {
+     "c": 24,
+     "nazev": "Dny Shakara",
+     "original": "Shakaar",
+     "datum": "1995-05-22",
+     "popis": "Zemědělec Shakaar, starý přítel Kiry Nerys a bývalý velitel hnutí odporu odmítá vrátit půdní rekultivátory, dokud nedokončí svou práci. Major Kira je vyslána, aby ho přesvědčila, ale zjišťuje, že s ním vlastně souhlasí. Shakaar je ovšem tvrdohlavý revolucionář a nehodlá se vzdát."
+    },
+    {
+     "c": 25,
+     "nazev": "Aspekty osobnosti",
+     "original": "Facets",
+     "datum": "1995-06-12",
+     "popis": "Jadzia má podstoupit trillský obřad zhian'tara, při kterém má možnost setkat se s předešlými hostiteli symbionta Daxe. Proces funguje tak, že vzpomínky hostitelů budou přeneseny do těl Jadziiných přátel. Když dojde řada na Curzona Daxe, nastává problém: Curzon nechce opustit tělo konstábla Oda."
+    },
+    {
+     "c": 26,
+     "nazev": "Vnitřní nepřítel",
+     "original": "The Adversary",
+     "datum": "1995-06-19",
+     "popis": "Sisko byl povýšen na kapitána, ale nemá čas na oslavování - s Defiantem je vyslán na území Tzenkethiů, na jejichž domovském světě došlo k převratu. Jejich vyslanec Krajensky se obává, že by mohly být ohroženy životy kolonistů z Federace, kteří na postiženém území žijí. Kapitán Sisko ale ještě netuší, že se právě chytil do velmi rafinované pasti, která má jediný cíl - rozpoutat válku v Alfa kvadrantu..."
+    }
+   ]
+  },
+  {
+   "cislo": 4,
+   "rok": "1995",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Cesta válečníka",
+     "original": "The Way of the Warrior",
+     "datum": "1995-10-02",
+     "popis": "Na stanici přilétá obří flotila klingonských lodí pod velením generála Martoka. Ti chtějí provést tajnou invazi do Cardassie. Klingoni ukončili mírovou dohodu s Federací a vypadá to, že mezi nimi propukne válka. Sisko si na DS9 jako poradce zavolá nadporučíka Worfa, který je po zničení Enterprise D rozhodnut odejít z Flotily."
+    },
+    {
+     "c": 2,
+     "nazev": "Vzácná návštěva",
+     "original": "The Visitor",
+     "datum": "1995-10-09",
+     "popis": "Když bylo Jakeu Siskovi osmnáct, jeho otec zahynul po zásahu energetickým výbojem. Jake žil dál svůj život, přesídlil na Zemi, oženil se, stárnul, napsal dvě velmi úspěšné knížky a celou dobu přemýšlel, jak svého otce dostat zpět. Je totiž přesvědčen, že stále žije."
+    },
+    {
+     "c": 3,
+     "nazev": "Hippokratova přísaha",
+     "original": "Hippocratic Oath",
+     "datum": "1995-10-16",
+     "popis": "O'Brien a Bashir ztroskotají na odlehlé planetě v Gama kvadrantu, kde je zajme jednotka Jem'Hadarů. Brzy vyjde najevo, že uprchli z Dominionu a chtějí pro sebe získat svobodu. Nejdřív se ale musí zbavit závislosti na droze jménem ketracel bílý, který jim podávali jejich vládci. Jejich jedinou nadějí je právě teď doktor Bashir - a to se O'Brienovi ani trochu nelíbí."
+    },
+    {
+     "c": 4,
+     "nazev": "Nerozvážnost",
+     "original": "Indiscretion",
+     "datum": "1995-10-23",
+     "popis": "Kira se vydává hledat ztracenou cardassijskou loď Ravinok, která zmizela před šesti lety. Na palubě tehdy s posádkou a zajatými Bajorany byly také dva civilisté. Právě o ně se zajímá Gul Dukat, který se na výpravu vydal společně s majorem - k její obrovské nelibosti."
+    },
+    {
+     "c": 5,
+     "nazev": "Břímě času",
+     "original": "Rejoined",
+     "datum": "1995-10-30",
+     "popis": "Na stanici přichází skupina bajorských vědců aby prokázali novou teorii, že lze vytvořit stabilní umělou červí díru. Členkou týmu je také doktorka Lenara Kahn, která byla manželkou jednoho z Daxových hostitelů. Obě ženy s překvapením zjišťují, že jejich vztah za ta léta ani trochu neochladl. Trillské zákony však zakazují opětovné navazování vztahů po změně hostitele."
+    },
+    {
+     "c": 6,
+     "nazev": "Zelení mužíčci",
+     "original": "Little Green Men",
+     "datum": "1995-11-06",
+     "popis": "Nog se chystá k odchodu na Zemi, kde má začít studovat Akademii a protože Quark zrovna dostal svou vysněnou loď, kterou mu bratranec Galia už deset let dlužil, v záchvatu šlechetnosti vezme jak Noga i Roma a sklad plný kontrabandu na výlet na Zemi. Něco se ale nepovede a Ferengové přistanou v roce 1947 v Roswellu v Novém Mexiku, ve městě jménem Rosswell."
+    },
+    {
+     "c": 7,
+     "nazev": "Loď v ohrožení",
+     "original": "Starship Down",
+     "datum": "1995-11-13",
+     "popis": "Sisko vede v Gama kvadrantu tajné jednání s Karremany. Dvě jem'hadarské lodi ale tu karremanskou zaženou do atmosféry poblíž plynného obra. Sisko se s Defiantem vydává Karremanům na pomoc. V husté atmosféře není viditelnost zrovna nejlepší a právě tady by se hodila - venku čekají nelítostní nepřátelé."
+    },
+    {
+     "c": 8,
+     "nazev": "Meč Kahlessův",
+     "original": "The Sword of Kahless",
+     "datum": "1995-11-20",
+     "popis": "Na stanici se vrací klingon Kor, který tentokrát pátrá po legendárním Kahlessově bat'lethu, který byl před mnoha staletími ukraden cizinci z červí díry. Worf a Jadzia mají slavného hrdinu na výpravě doprovodit. Sisko doufá, že její úspěch napraví vypjaté vztahy mezi Federací a Klingonskou říší."
+    },
+    {
+     "c": 9,
+     "nazev": "Tajný agent Bashir",
+     "original": "Our Man Bashir",
+     "datum": "1995-11-27",
+     "popis": "Bashir si užívá každou volnou chvilku v simulátorovém programu zasazeném do světa Jamese Bonda. Zrovna v momentě, kdy se mu do programu vetře Garak, přibude do simulátorového světa skupina několika dalších nezvaných návštěvníků a v příběhu začne jít o život."
+    },
+    {
+     "c": 10,
+     "nazev": "Na domácí frontě",
+     "original": "Homefront (1)",
+     "datum": "1996-01-01",
+     "popis": "Na diplomatické konferenci v Antverpách dojde k bombovému útoku a dvacet sedm delegátů při něm přijde o život. Velmi brzy se ukáže, že za celou akcí stojí Měňavci, což znamená, že Dominion pronikl už i do srdce Federace. Sisko a Odo se na žádost admirála Leytona vydávají na Zemi, aby využili všechny své schopnosti a zkušenosti v odhalování nepřátel."
+    },
+    {
+     "c": 11,
+     "nazev": "Ztracený Ráj",
+     "original": "Paradise Lost (2)",
+     "datum": "1996-01-08",
+     "popis": "Sabotáž Měňavců ochromí energetickou síť celé Země a tak se Sisko a admirál Layton musí pokusit pacifistického prezidenta Jaresh-Inyo donutit k vyhlášení výjimečného stavu. Životy obyvatel Země zasáhne všeobecná paranoia, občanská svoboda je omezena - a Sisko začíná pochybovat o správnosti užitých postupů."
+    },
+    {
+     "c": 12,
+     "nazev": "Objekt zájmu",
+     "original": "Crossfire",
+     "datum": "1996-01-29",
+     "popis": "Dávný Kiřin přítel Shakaar, někdejší farmář a bojovník za svobodu, který je nyní bajorským premiérem, přichází na DS9 aby jednal o přistoupení Bajoru k Federaci. Odo, který se má postarat o jeho bezpečnost, si ale začne všímat, že mezi Kirou a Shakaarem stále víc rostou milostné city."
+    },
+    {
+     "c": 13,
+     "nazev": "Návrat na výsluní",
+     "original": "Return to Grace",
+     "datum": "1996-02-05",
+     "popis": "Kira dostane od Shakaara důležitý úkol - má navštívit cardassijskou základnu a předat jim tam materiály o Klingonech, které získala bajorská tajná služba. Kira cestuje nákladní lodí, které velí degradovaný Gul Dukat. Na místě se ukáže, že základna byla zničena Klingony a Dukat v tom vidí příležitost, jak si získat zpět své vysoké postavení a nějaké ty zásluhy."
+    },
+    {
+     "c": 14,
+     "nazev": "Synové Moghovi",
+     "original": "Sons of Mogh",
+     "datum": "1996-02-12",
+     "popis": "Na stanici přiletí Worfův bratr Kurn. Má mizernou náladu a není se čemu divit - poté, co se nedávno Worf vzepřel kancléři Gowronovi a postavil se na stranu Federace, byl jejich rod zbaven cti a Kurn byl vyloučen z Vysoké rady. Přišel tedy svého bratra požádat, aby na něm provedl Mauk-to'Vor, rituální usmrcení válečníka, který už nemá pro co žít."
+    },
+    {
+     "c": 15,
+     "nazev": "Kolektivní vyjednávání",
+     "original": "Bar Association",
+     "datum": "1996-02-19",
+     "popis": "Quark je vzorný ferengský zaměstnavatel, který se svými zaměstnanci zachází přesně podle ferengského obchodního práva, které říká: žádné nemocenské, žádné placené volno, žádné prémie. Rom kvůli tomu málem přijde o život a když pak jeho bratr všem sníží plat, rozhořčený Rom za vydatné pomoci Bashira a O'Briena založí odbory a vyrazí do boje proti vlastní krvi."
+    },
+    {
+     "c": 16,
+     "nazev": "Vyslancův návrat",
+     "original": "Accession",
+     "datum": "1996-02-26",
+     "popis": "Z červí díry se vynoří tři sta let stará bajorská solární plachetnice, na jejíž palubě se nachází muž jménem Akorem Laan, který tvrdí, že je Vyslancem. Sisko mu tuze rád svou náboženskou úlohu přenechá. Laan však začne na Bajoru zavádět dávno překonané staré zvyklosti, které se ukážou jako překážka v přistoupení k Federaci. Sisko začíná pochybovat, jestli udělal dobře..."
+    },
+    {
+     "c": 17,
+     "nazev": "Unáhlené rozhodnutí",
+     "original": "Rules of Engagement",
+     "datum": "1996-04-08",
+     "popis": "Worf doprovázel s Defiantem konvoj cardassijských nákladních lodí, která na jednu z jejich kolonií vezla humanitární pomoc. Konvoj byl však přepaden Klingony a Worf zničil klingonskou maskovanou dopravní loď, které měla na palubě 441 civilistů. Worf má teď být souzen..."
+    },
+    {
+     "c": 18,
+     "nazev": "Těžké časy",
+     "original": "Hard Time",
+     "datum": "1996-04-15",
+     "popis": "O'Brien byl na planetě Argrartha obviněn ze špionáže a dvacet virtuálních let strávil v neexistujícím vězení. Pro jeho rodinu a přátele uplynulo jen pár dní, ale Miles už prakticky zapomněl, že kdy vedl normální život."
+    },
+    {
+     "c": 19,
+     "nazev": "Roztříštěné zrcadlo",
+     "original": "Shattered Mirror",
+     "datum": "1996-04-22",
+     "popis": "Siska navštíví zrcadlová Jennifer. Oznamuje mu, že vzbouřenci obsadili Terok Nor. Když se s ní setká Jake, ochotně se se svou \"matkou\" vydá na návštěvu zrcadlového vesmíru - a přesně o to Jennifer šlo. Prostřednictvím Jakea chce Siska přilákat do svého světa a donutit ho, aby vzbouřencům pomohl se zprovozněním jejich Defiantu."
+    },
+    {
+     "c": 20,
+     "nazev": "Dotek múzy",
+     "original": "The Muse",
+     "datum": "1996-04-29",
+     "popis": "Odo se musí postarat o těhotnou Lwaxanu Troi. Její tavnianský manžel, který se řídí heslem \"ženy mají vyvolávat ženy, muže muži\", jí chce zabavit ještě nenarozeného syna. A tak od něj utíká. Jake se mezitím seznámí s cizinkou jménem Onaya, která se až nezdravě začne zajímat o jeho literární tvorbu."
+    },
+    {
+     "c": 21,
+     "nazev": "Z přesvědčení",
+     "original": "For the Cause",
+     "datum": "1996-05-06",
+     "popis": "Federace se chystá k doručení průmyslových replikátorů Cardassianům, kteří s jejich pomocí chtějí obnovit Klingony zničené kolonie. Existuje ale možnost, že se zásilky zmocní Makisté a použijí ji proti Cardassianům. Sisko se dozvídá, že jeho přítelkyně, Kasidy Yatesová, možná s makisty spolupracuje."
+    },
+    {
+     "c": 22,
+     "nazev": "Až do smrti",
+     "original": "To the Death",
+     "datum": "1996-05-13",
+     "popis": "Defiant zasahoval proti Breenům a teď se vrací zpátky na stanici. Sisko s hrůzou zjišťuje, že DS9 byl mezitím obsazen komandem jem'hadarských odpadlíků, kteří zničili jeden přistávací pylon a ukradli mnoho přístrojů a vybavení. Defiant se je vydává hledat a cestou narazí na poškozenou jem'hadarskou loď, která má stejný cíl jako posádka stanice."
+    },
+    {
+     "c": 23,
+     "nazev": "Zanícení",
+     "original": "The Quickening",
+     "datum": "1996-05-20",
+     "popis": "Runabout z DS9 zachytí na misi v Gama kvadrantu nouzové volání. Na místě se ukáže, že je dvě stě let starý - a že tam, kde kdysi žila rozvinutá civilizace, je dnes jen několik tisíc jedinců, kteří trpí uměle vytvořenou chorobou a jsou už smíření se smrtí. Neuposlechli Dominion a tohle je jejich trest. Doktor Bashir však něco takového odmítá."
+    },
+    {
+     "c": 24,
+     "nazev": "Tělo na prodej",
+     "original": "Body Parts",
+     "datum": "1996-06-10",
+     "popis": "Quark se dozví, že trpí Dorekovým syndromem a do týdne zemře. Když ale své ostatky za neuvěřitelnou částku prodá neznámému zájemci, jeho nálada se hned o mnoho zlepší. Brzy však vyjde najevo, že diagnóza doktora Orphaxe byla chybná a Quark je v naprostém pořádku. Smlouva o prodeji ostatků ale zůstává v platnosti a kupující už se nemůže dočkat, až mu jeho zboží dorazí."
+    },
+    {
+     "c": 25,
+     "nazev": "Přerušený článek",
+     "original": "Broken Link",
+     "datum": "1996-06-17",
+     "popis": "Odo onemocní děsivou chorobou a jedinou nadějí na jeho vyléčení jsou Měňavci. Defiant s Odem na palubě se tak vydává do Gama kvadrantu a nezbývá než doufat, že Zakladatelé konstáblovi pomohou. Může však Odo s jejich pomocí počítat? Poté, co porušil nejsvatější zákon své rasy a zabil jiného Měňavce?"
+    }
+   ]
+  },
+  {
+   "cislo": 5,
+   "rok": "1996",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Přichází apokalypsa",
+     "original": "Apocalypse Rising",
+     "datum": "1996-09-30",
+     "popis": "Sisko, O'Brien a Odo se v přestrojení pokoušejí s Worfem dostat na klingonskou základnu Ty'Gokor, aby před jejich zraky odhalili skutečnost, že kancléř Gowron je ve skutečnosti měňavec. Naděje, že uspějí, je malá, šance, že přežijí, ještě menší."
+    },
+    {
+     "c": 2,
+     "nazev": "Loď",
+     "original": "The Ship",
+     "datum": "1996-10-07",
+     "popis": "Během průzkumu Gama kvadrantu se Siskova výprava stane svědkem ztroskotání lodi jem'hadarů na planetě Torga IV. Sisko chce vrak získat pro Flotilu, brzy však na planetu dorazí jem'hadarské komando pod vedením Vorty Kilany. Ve vraku je zřejmě něco, o co má Dominion enormní zájem."
+    },
+    {
+     "c": 3,
+     "nazev": "Kdyby lásku nikdo nehledal",
+     "original": "Looking for par'Mach in All the Wrong Places",
+     "datum": "1996-10-14",
+     "popis": "Na DS9 znovu přilétá Quarkova bývalá žena, klingonka Grilka, která chce pomoct s rodinným účetnictvím. Grilky si ale všimne Worf a začne se jí dvořit, ta jej však jako zrádce říše odmítne. Grilku chce získat i Quark a Worf mu slíbí, že mu s tím pomůže. Začne tedy ferengského barmana učit klingonským milostným rituálům - a netuší, že štěstí se brzy usměje i na něj."
+    },
+    {
+     "c": 4,
+     "nazev": "...ani boj na udatných",
+     "original": "Nor the Battle to the Strong",
+     "datum": "1996-10-21",
+     "popis": "Doktor Bashir a Jake Sisko vyrazí na pomoc kolonii Ajilon Prime, která se právě zmítá v bojích s Klingony. Jake vítá příležitost nasbírat nějaké zajímavé náměty na psaní. Je připraven hrát si na hrdinu, ale netuší, že už brzy okusí válku z první ruky."
+    },
+    {
+     "c": 5,
+     "nazev": "Úkol",
+     "original": "The Assignment",
+     "datum": "1996-10-28",
+     "popis": "Keiko O'Brienová se vrací na stanici z Bajoru, kde se účastnila botanické expedice do ohňových jeskyní. Miles se na ní už těší, ale čeká ho nepříjemné překvapení - na jeho pozdrav mu jen odsekne a pak mu oznámí, že není jeho žena. A pokud O'Brien nesplní každý její příkaz, Keiko zemře."
+    },
+    {
+     "c": 6,
+     "nazev": "Další trable s Tribbly",
+     "original": "Trials and Tribble-ations",
+     "datum": "1996-11-04",
+     "popis": "Epizoda, která vznikla ke 40. výročí Star Treku. Siskovi lidé mají za úkol dopravit Orb času zpátky na Bajor. Klingon Darvin však legendární artefakt Proroků využije k vlastním účelům - s posádkou Defiantu se vrátí sto let do minulosti, kde chce napravit svou chybu a konečně zabít kapitána Enterprise, Jamese T. Kirka. Jeho posádka se zrovna vypořádává s tribbly, kteří jsou roztomilí, přítulní a zcela a naprosto neškodní."
+    },
+    {
+     "c": 7,
+     "nazev": "Kdo z vás je bez hříchu...",
+     "original": "Let He Who Is Without Sin...",
+     "datum": "1996-11-11",
+     "popis": "Worf, Jadzia, Leeta, Bashir a Quark se vydávají na rekreační planetu Risa. Worf má však o dovolené poněkud jiné představy než jeho kolegové a společnost Risy mu příliš nesedí. Pak se ale seznámí s mužem jménem Pascal Fullerton. Ten je vůdcem radikálního hnutí Nové esencialisté, které hlásá návrat k tradičním společenským hodnotám."
+    },
+    {
+     "c": 8,
+     "nazev": "Ozvěny minulosti",
+     "original": "Things Past",
+     "datum": "1996-11-18",
+     "popis": "Sisko, Dax, Odo a Garak se vracejí z bajorské konference pojednávající o cardassijské okupaci. Po zásahu výbojem plazmové bouře, ale všichni upadnou do bezvědomí a když se proberou, jsou sice zpátky na stanici, ale v době okupace. Jediná cesta ven vede přes vzpomínky konstábla Oda."
+    },
+    {
+     "c": 9,
+     "nazev": "Kompromisy",
+     "original": "The Ascent",
+     "datum": "1996-11-25",
+     "popis": "Quark má svědčit u soudu na planetě Inferna Prime a Odo ho tam doprovází. V runaboutu je však nastražená bomba, která plavidlo vážně poškodí a oba s ním nouzově přistanou na nehostinné planetě třídy L. Napjaté vztahy mezi Odem a Quarkem vyplouvají na povrch víc než kdy dřív a navíc nemají jídlo, vybavení ani spojení s civilizací. Vypadá to, že budou muset spolupracovat..."
+    },
+    {
+     "c": 10,
+     "nazev": "Blouznění",
+     "original": "Rapture",
+     "datum": "1996-12-30",
+     "popis": "Bajor se oficiálně stal součastí Spojené federace planet, Sisko ale na oslavy nemá čas. Je zaneprázdněn pátráním po mystickém bajorském městě B'hala, které údajně zmizelo před dvaceti tisíci lety. K úžasu všech i sebe samého město přeci jenom najde - a pak kapitán začne být přesvědčen, že má schopnost vidět do budoucnosti."
+    },
+    {
+     "c": 11,
+     "nazev": "Světlo a temnota",
+     "original": "The Darkness and the Light",
+     "datum": "1997-01-06",
+     "popis": "Bývalé odbojáře ze Shakaarova hnutí, přátele majora Kiry, začne někdo promyšleně vraždit. Pokaždé, když někdo z nich zemře, Kira obdrží od vraha zprávu. Je očividné, že jde o pomstu. A zejména mezi Cardassiany se může skrývat mnoho potenciálních mstitelů..."
+    },
+    {
+     "c": 12,
+     "nazev": "Nový život",
+     "original": "The Begotten",
+     "datum": "1997-01-27",
+     "popis": "Zatímco Kira se chystá porodit dítě Keiko a Milese O'Brienových, které se nabídla donosit, Odo se přes Quarka dostane k láhvi, ve které je uzavřen malý měňavec. Konstábl se rozhodne, že se malého příslušníka své rasy, kterého potkal podobný osud jako kdysi i jeho, ujme. Netuší však, že mu to přinese spoustu problémů."
+    },
+    {
+     "c": 13,
+     "nazev": "Kvůli uniformě",
+     "original": "For the Uniform",
+     "datum": "1997-02-03",
+     "popis": "Sisko konečně vypátral Michaela Eddingtona, bývalého velitele ostrahy na DS9, který se přidal k Makistům. Chce ho polapit, ale to nejdůležitější mu k takovému kroku chybí - schopnost použít proti nepříteli jeho vlastní zbraně."
+    },
+    {
+     "c": 14,
+     "nazev": "Před branami očistce (1)",
+     "original": "In Purgatory's Shadow (1)",
+     "datum": "1997-02-10",
+     "popis": "Bývalý vůdce Obsidiánského řádu, Enabran Tain, byl dva roky považován za mrtvého, teď se však ukázalo, že šifrovanou zprávu z Gama kvadrantu, která dorazila na stanici, vyslal právě on. Tam, kde přežil jeden, mohli ale přežít i další, a tak se Garak a Worf pouštějí po stopách signálu."
+    },
+    {
+     "c": 15,
+     "nazev": "Pekelným žárem (2)",
+     "original": "By Inferno's Light (2)",
+     "datum": "1997-02-17",
+     "popis": "Worfa a Garaka zajali Jem'Hadarové a skončili v internačním táboře 371, kde je čekají nenadálá setkání. Zatímco se vězni v táboře snaží realizovat svůj plán útěku, k červí díře se blíží obří flotila válečných lodí Dominionu. Invaze do Alfa kvadrantu začala."
+    },
+    {
+     "c": 16,
+     "nazev": "Doktor Bashir, předpokládám",
+     "original": "Doctor Bashir, I Presume?",
+     "datum": "1997-02-24",
+     "popis": "Na DS9 se objeví doktor Lewis Zimmerman, vynálezce PZH (zdravotního pohotovostního holoprogramu) a vedoucí vědeckého centra na základně Jupiter. Přišel za Bashirem, byl by totiž rád, kdyby se právě on stal předlohou pro dlouhodobě aktivní zdravotnický hologram. Náhodou se mu však podaří odkrýt dlouho skrývané, temné tajemství z Bashirova dětství."
+    },
+    {
+     "c": 17,
+     "nazev": "Prosté vyšetřování",
+     "original": "A Simple Investigation",
+     "datum": "1997-03-31",
+     "popis": "Odo se ujme bývalé síťařky Arrisy, které usilují o život dva zabijáci z Orionského syndikátu. Najal je její bývalý šéf Draim, který nemá rád, když mu utíkají zaměstnanci. Pokud má Arrisu zachránit, musí si Odo získat její důvěru, což nebude tak snadné, protože i ta žena má svá tajemství."
+    },
+    {
+     "c": 18,
+     "nazev": "Obchod jako obvykle",
+     "original": "Business As Usual",
+     "datum": "1997-04-07",
+     "popis": "Quark je téměř na mizině. Naštěstí ho navštíví bratranec Gaila a nabídne mu, aby se stal zprostředkovatelem obchodu se zbraněmi. Quark zprvu váhá, ale nakonec přijme - vždyť bude jen prodávat holografické makety, takže zůstane čistý. Jeho přátelé ale na to mají jiný názor..."
+    },
+    {
+     "c": 19,
+     "nazev": "Pouta z nejpevnějších",
+     "original": "Ties of Blood and Water",
+     "datum": "1997-04-14",
+     "popis": "Kira Nerys pozvala na DS9 cardassijského disidenta Tekeny Ghemora a on její nabídku přijal. Kira ho chce přesvědčit, aby na stanici založil exilovou vládu a vytvořil konkurenci pro Dukata. On ale její nabídku přijmout nemůže - je totiž smrtelně nemocen a zbývá mu už jen několik dnů života."
+    },
+    {
+     "c": 20,
+     "nazev": "Milostné vábení Ferengů",
+     "original": "Ferengi Love Songs",
+     "datum": "1997-04-21",
+     "popis": "Quark propadá malomyslnosti a Rom mu navrhne, aby odjel na Ferenginar a navštívil jejich matku. Ani tam se mu ale nálada nezlepší, čeká ho tam totiž více nepříjemných překvapení - jeho matka stále nosí šaty a vydělává peníze a navíc začala chodit s nagusem Zekem. Je jen otázkou času, kdy vztahu zneužijí Zekovi nepřátelé."
+    },
+    {
+     "c": 21,
+     "nazev": "Vojáci říše",
+     "original": "Soldiers of the Empire",
+     "datum": "1997-04-28",
+     "popis": "Generál Martok se vydává na první výpravu od doby, kdy utekl z tábora 731. Má se ujmout velení lodi IKS Rotarran a pátrat po ztracené IKS B'Moth, která uvízla hluboko v cardassijském prostoru. Martokův dočasný první důstojník, Worf, si brzy uvědomí, že morálka posádky je žalostná a kapitánův přístup jí nijak neprospívá."
+    },
+    {
+     "c": 22,
+     "nazev": "Potomci času",
+     "original": "Children of Time",
+     "datum": "1997-05-05",
+     "popis": "Defiant zkoumá podivný jev, který obklopuje jednu z planet v Gama kvadrantu. Na té k velkému překvapení všech existuje život - a ještě větší překvapení je, že jde o potomky posádky Defiantu, který zde před sto lety ztroskotal. A obyvatel je celkem osm tisíc. Když teď Siskovi lidé znají svou budoucnost, vše záleží pouze na jejich volbě a svědomí."
+    },
+    {
+     "c": 23,
+     "nazev": "Záblesk slávy",
+     "original": "Blaze of Glory",
+     "datum": "1997-05-12",
+     "popis": "Dominion Makisty sice téměř vyhladil, ale jim to na akceschopnosti ani trochu neubralo. Právě proti Cardassii vypustili rakety s trikobaltovými hlavicemi a protože Cardassie je teď Dominionským protektorátem, dá se čekat protiútok proti Federaci. Sisko doufá, že se mu rakety podaří zastavit včas. Jeho šance stoupne, když ke spolupráci přesvědčí Michaela Eddingtona."
+    },
+    {
+     "c": 24,
+     "nazev": "Stanice Empok Nor",
+     "original": "Empok Nor",
+     "datum": "1997-05-19",
+     "popis": "Na stanici se porouchá součástka, která se nedá ani opravit, ani replikovat, a tak dostane posádka svolení k výpravě na Empok Nor, sesterskou stanici DS9. Ukáže se, že bývalá cardassijská stanice není tak opuštěná, jak by být měla. A když je runabout zničen a posádka uvízne na stanici, začne jít o přežití."
+    },
+    {
+     "c": 25,
+     "nazev": "Vysoká hra",
+     "original": "In the Cards",
+     "datum": "1997-06-09",
+     "popis": "Sisko má špatnou náladu a tak se Jake rozhodne, že mu jí zlepší dárkem. Chce mu pořídit sběratelskou starožitnou kartu s hráči baseballu. Problém je, že mu jí v dražbě vyfoukl neznámý muž. Jake se ale nevzdává a hodlá jí získat, nebude to však mít jednoduché. Bajor se chystá uzavřít s Dominionem pakt o neútočení..."
+    },
+    {
+     "c": 26,
+     "nazev": "Volání do zbraně",
+     "original": "Call to Arms",
+     "datum": "1997-06-16",
+     "popis": "Vojenské konvoje z Gama kvadrantu prolétávají okolo DS9 čím dál více. Hvězdná flotila dojde k názoru, že je zapotřebí odříznout vstup do Alfa kvadrantu a pásmo v okolí červí díry má být tím pádem zaminováno. Všem je ale také jasné to, že Dominion si to nenechá líbit. Po dlouhých měsících se začíná schylovat k otevřené válce..."
+    }
+   ]
+  },
+  {
+   "cislo": 6,
+   "rok": "1997",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Změna strategie",
+     "original": "A Time to Stand",
+     "datum": "1997-09-29",
+     "popis": "Před třemi měsíci se Siskova posádka evakuovala z DS9, který teď ovládli Cardassiané pod vedením gula Dukata. Válka je v plném proudu a major Kira se na stanici snaží vyjednat pro Bajorany rovná práva. Siskovi je odebráno vedení Defiantu, protože se na palubě ukořistěné lodi Jem'Hadarů má dostat na území Dominionu a zničit hlavní sklad ketracelu."
+    },
+    {
+     "c": 2,
+     "nazev": "Úskalí a mělčiny",
+     "original": "Rocks and Shoals",
+     "datum": "1997-10-06",
+     "popis": "Siskova loď úspěšně splnila svůj úkol, ale uvízla na území Dominionu více než sedmnáct let od nejbližší základny Flotily. Právě prchají před jem'hadarskou hlídkou a Sisko se chce ukrýt v nedaleké mlhovině. Ztroskotají ale na planetě, na které už před časem havarovala jiná loď a na které teď žije její posádka - Jem'Hadarové, kterým pomalu ale jistě dochází ketracel."
+    },
+    {
+     "c": 3,
+     "nazev": "Synové a dcery",
+     "original": "Sons and Daughters",
+     "datum": "1997-10-13",
+     "popis": "Martok přijme na Rotarran nové rekruty, protože potřebuje doplnit posádku. Worf však ke svému velkému překvapení na lodi spatří i svého syna Alexandera, který by měl být na Zemi u svých prarodičů. Alexander však nemá v plánu svému otci cokoliv vysvětlovat - vlastně se k jeho rodu nechce vůbec znát."
+    },
+    {
+     "c": 4,
+     "nazev": "Překročit hranice",
+     "original": "Behind the Lines",
+     "datum": "1997-10-20",
+     "popis": "Kira, Odo, Rom a Jake na stanici zakládají odbojovou skupinu. Kira je však nespokojená, když pozoruje, že se Odo stále více přiklání na stranu Dominionu, obzvláště pak Zakladatelky. Na zakládně 375 je mezitím Sisko převelen do štábu a Jadzia získává velení Defiantu. Jejím prvním úkolem je zničit špionážní senzorovou stanici Dominionu."
+    },
+    {
+     "c": 5,
+     "nazev": "Odvážnému štěstí přeje",
+     "original": "Favor the Bold (1)",
+     "datum": "1997-10-27",
+     "popis": "Ve válce vede strana dominionsko - cardassijské aliance a vše nasvědčuje tomu, že zvítězí. Kiřin odboj selhal a minové pole okolo červí díry se trhá. Je nejvyšší čas, aby Flotila podnikla rozhodující útok a pokusila se znovu obsadit DS9..."
+    },
+    {
+     "c": 6,
+     "nazev": "Oběť andělů",
+     "original": "Sacrifice of Angels (2)",
+     "datum": "1997-11-03",
+     "popis": "Bitva o DS9 začala. Federace a Klingonská říše se probíjí liniemi Dominionu a na stanici probíhají přípravy ke zničení minového pole. Sisko se s Defiantem skrz nepřátelské linie snaží dostat ke stanici, ale jedna malá loď má proti velké flotile pramálo šancí."
+    },
+    {
+     "c": 7,
+     "nazev": "Jste srdečně zváni...",
+     "original": "You Are Cordially Invited",
+     "datum": "1997-11-10",
+     "popis": "Válka stále zuří, ale Flotila vybojovala zpět DS9 a tak se může vesele oslavovat. Kapitán Sisko znovu zaujal své staré místo a chystají se hned dva obřady - oslavy osvobození a svatba Worfa a Dax. Jenže ti dva se nedokážou dohodnout, kdy, kde a jak se vlastně vezmou."
+    },
+    {
+     "c": 8,
+     "nazev": "Vzkříšení",
+     "original": "Resurrection",
+     "datum": "1997-11-17",
+     "popis": "Na stanici se dostane nečekaný host - Vedek Bareil, bývalý milenec majora Kiry, který je už několik let po smrti. Tenhle Bareil ale pochází ze zrcadlového vesmíru, ve kterém je zlodějem a psancem. Je sice úplně jiný, než původní Bareil, ale majora Kiru okouzlí úplně stejně."
+    },
+    {
+     "c": 9,
+     "nazev": "Statistická pravděpodobnost",
+     "original": "Statistical Probabilities",
+     "datum": "1997-11-24",
+     "popis": "Doktor Bashir začal na žádost Flotily pracovat se skupinou mimořádně nadaných, ale také mimořádně zvláštních geneticky upravených lidí, kteří nejsou schopni normálního života. Bashir se pro ně snaží najít uplatnění a nový smysl existence, geniální mozky ale bývají nevyzpytatelné."
+    },
+    {
+     "c": 10,
+     "nazev": "Bratrstvo neohrožených Ferengů",
+     "original": "The Magnificent Ferengi",
+     "datum": "1998-01-01",
+     "popis": "Quarkova matka Ishka byla na jedné své obchodní cestě unesena Dominionem a její milenec, nagus Zek, žádá Quarka, aby se jí vydal zachránit. Ve hře je pořádně kulatá sumička padesáti (dvaceti) prutů zlatem raženého latinia. Quark musí mezi Ferengy najít komando, které nejen že se postaví Jem'Hadarům, ale také zůstane naživu. Je však něco takového vůbec možné?"
+    },
+    {
+     "c": 11,
+     "nazev": "Valčík",
+     "original": "Waltz",
+     "datum": "1998-01-08",
+     "popis": "Sisko doprovází nervově zhrouceného Dukata na základnu 621, kde se má bývalý Gul zodpovídat z válečných zločinů. Jejich loď ale zničí Cardassiané a oba zarytí nepřátelé skončí v jeskyni na nehostinné planetě. Sisko se ocitne v péči pološíleného Cardassiana, kterému se nedalo důvěřovat ani v době, kdy byl zcela při smyslech. Holt to s ním bude muset přežit."
+    },
+    {
+     "c": 12,
+     "nazev": "Kdo truchlí pro Morna?",
+     "original": "Who Mourns for Morn?",
+     "datum": "1998-02-04",
+     "popis": "Morn nečekaně zemře a jeho skon všechny pořádně zasáhne, nejvíc ale Quarka. Ten zjistí, že mu jeho nejvěrnější štamgast odkázal veškerý svůj majetek - zásilku nahnilé livanijské řepy, bahnu na bahenní koupele, exmanželku a partičku velice netrpělivých věřitelů."
+    },
+    {
+     "c": 13,
+     "nazev": "Tam za těmi hvězdami",
+     "original": "Far Beyond the Stars",
+     "datum": "1998-02-11",
+     "popis": "Je rok 1953 a černošský autor sci-fi Benny Russel si vysní fantastický příběh Bena Siska, velitele vzdálené vesmírné stanice. Povídka si získá u jeho kolegů senzační úspěch, Benny však nemůže počítat s jejím vydáním. Kapitán Sisko má totiž jednu zásadní chybu - je to černoch."
+    },
+    {
+     "c": 14,
+     "nazev": "Jedna malá loď",
+     "original": "One Little Ship",
+     "datum": "1998-02-18",
+     "popis": "Defiant zkoumá zvláštní subprostorovou anomálii, která smršťuje vše, co do ní vstoupí. Když do ní vletí O'Brien, Bashir a Dax, aby zmenšovací efekt vyzkoušeli na sobě, jsou překvapeni Jem'Hadary. Ti jsou v přesile a proto, když se zmocní lodi, jedinou nadějí na vítězství je šest a půl centimetru dlouhý runabout."
+    },
+    {
+     "c": 15,
+     "nazev": "Čest mezi zloději",
+     "original": "Honor Among Thieves",
+     "datum": "1998-02-25",
+     "popis": "O'Brien na žádost tajné služby Flotily pronikl do jedné z buňek Orionského syndikátu. Díky svým schopnostem a povaze si brzy záská přátelství samotného Liama Bilbyho, šéfa místní buňky, kterí se za něj zaručí a naverbuje ho. Miles zjišťuje, že gangster Bilby je vlastně velmi příjemný a zásadový muž a proto ho začíná velmi mrzet, že ho bude muset zradit."
+    },
+    {
+     "c": 16,
+     "nazev": "Pohnutky srdce",
+     "original": "Change of Heart",
+     "datum": "1998-03-04",
+     "popis": "Cardassijskému dvojitému agentovi Lasaranovi hrozí prozrazení, žádá proto okamžitou evakuaci a výměnou nabízí informace o Podvržencích rozmístěných v Alfa kvadrantu. Worf a Jadzia musí projít džunglí na planetě Soukara, vyzvednout ho a pak džungli projít ještě jednou. A při tom všem se musí mít na pozoru, aby je nespatřili Jem'Hadarové - obzvlášť, když řeší vlastní neshody."
+    },
+    {
+     "c": 17,
+     "nazev": "Křivdy temnější než noc nebo smrt",
+     "original": "Wrongs Darker Than Death or Night",
+     "datum": "1998-04-01",
+     "popis": "Kira Nerys si připomíná nedožité šedesáté narozeniny své matky, když jí zavolá Gul Dukat. Tvrdí jí, že za časů okupace měl s její matkou vztah. Kira využije Orb času, aby si ověřila pravdu přímo na místě. A naskytne se jí lákavá možnost změnit historii."
+    },
+    {
+     "c": 18,
+     "nazev": "Inkvizice",
+     "original": "Inquisition",
+     "datum": "1998-04-08",
+     "popis": "Na DS9 přichází důstojník Sloan z oddělení vnitřních záležitostí. Má zdá pátrat po dominionských kolaborantech. Tvrdí, že někdo z důstojníků je zrádce a podává informace nepříteli. Pátrání se rozbíhá a všechny důkazy začnou pomalu ukazovat na doktora Bashira."
+    },
+    {
+     "c": 19,
+     "nazev": "Za svitu luny",
+     "original": "In the Pale Moonlight",
+     "datum": "1998-04-15",
+     "popis": "Válka s Dominionem si každý den žádá další a další oběti. Síly jsou vyrovnané a kapitán Sisko si uvědomuje, že je jen jediný způsob, jak zajistit Federaci vítězství - zapojit do války Romulanské impérium... Jak daleko bude muset zajít, aby se jeho plán naplnil?"
+    },
+    {
+     "c": 20,
+     "nazev": "Jeho způsob",
+     "original": "His Way",
+     "datum": "1998-04-22",
+     "popis": "Odo se trápí svým vztahem k majoru Kiře - miluje jí, ale nedokáže se vyjádřit a tak jen tiše stojí stranou. Pomůže mu až Vic Fontaine - barový zpěvák, ale také skvělý psycholog, učitel etikety a neobyčejně schopný dohazovač. Na tom by nebylo nic divného, ale Vic Fontaine je jenom hologram ze série programů doktora Bashira."
+    },
+    {
+     "c": 21,
+     "nazev": "Zúčtování",
+     "original": "The Reckoning",
+     "datum": "1998-04-29",
+     "popis": "V ruinách B'Haly je nalezena třicet tisíc let stará kamenná deska na které se nachází série nápisů ve staré bajorštině. Deska je adresovaná samotnému Vyslanci. Ze značně hrubého překladu vyjde najevo, že se chystá Zúčtování - událost spojená s Proroky, která rozhodne o osudu Bajoru na dalších tisíc let."
+    },
+    {
+     "c": 22,
+     "nazev": "Valiant",
+     "datum": "1998-05-06",
+     "popis": "Nog a Jake cestují na Ferenginar ale připletou se do cesty Jem'Hadarů. Před jistou smrtí je zachrání Valiant, sesterská loď Defiantu. Ukáže se však, že si jen tak neodpočinou - důstojníci z lodi jsou mrtví a řízení se ujali bojově naladění kadeti."
+    },
+    {
+     "c": 23,
+     "nazev": "Zisk v krajkách",
+     "original": "Profit and Lace",
+     "datum": "1998-05-13",
+     "popis": "Nagus Zek podporoval práva žen na oblečení a tak není divu, že byl ze své funkce sesazen. Teď se ale snaží získat členy Obchodní komory na svou stranu a s pomocí Ishky jim dokázat, že tato myšlenka skýtá pro Ferenginar spoustu výhod. Ishka však Quarkovou vinou dostane infarkt a tak jí ten nebohý barman bude muset nahradit a vydávat se za ženu."
+    },
+    {
+     "c": 24,
+     "nazev": "Sirotek času",
+     "original": "Time's Orphan",
+     "datum": "1998-05-20",
+     "popis": "Molly O'Brienová je s rodiči a bratříčkem na výletě na planetě Golana. Tam se zatoulá do jeskyně ve které spadne do časového víru, který jí vrhne tři sta let do minulosti. Podaří se ji sice lokalizovat a transportovat zpět, vinou nevyhnutelné odchylky je ale teď Molly o deset let starší. Celou tu dobu strávila sama na neobydlené planetě..."
+    },
+    {
+     "c": 25,
+     "nazev": "Její vlídný hlas",
+     "original": "The Sound of Her Voice",
+     "datum": "1998-06-10",
+     "popis": "DS9 zachytí nouzový signál od kapitána Lisy Cusackové ze zničené lodi USS Olympia. Defiant se okamžitě vydává na záchrannou výpravu a když se cestou podaří O'Brienovi navázat se ženou obousměrné spojení, začíná závod s časem... a o život."
+    },
+    {
+     "c": 26,
+     "nazev": "Slzy proroků",
+     "original": "Tears of the Prophets",
+     "datum": "1998-06-17",
+     "popis": "Na stanici se slaví každoroční bajorský Festival vděčnosti. A společně s oslavami se chystá i ofenziva proti Dominionu. Obsazení cardassijské soustavy Chin'Toka má být jen pouhým začátkem. Sisko přijímá velení útočné flotily - a to i přesto, že ho Prorokové varují, aby neopouštěl Bajor."
+    }
+   ]
+  },
+  {
+   "cislo": 7,
+   "rok": "1998",
+   "epizody": [
+    {
+     "c": 1,
+     "nazev": "Tvář v písku",
+     "original": "Image in the Sand",
+     "datum": "1998-09-30",
+     "popis": "Červí díra je pryč a Bajorané jsou přesvědčeni, že Proroci svůj lid zavrhli. Sisko se stáhl do ústraní a doufá, že se mu Proroky podaří kontaktovat. A tak zatímco pracuje v restauraci svého otce v San Franciscu a trápí se, čerstvě povýšená Kira, ze které je teď plukovník, se vyrovnává s velením stanice. Sisko se nakonec znamení od Proroků přece jen dočká - klíčem ke všemu je tajemná žena z otcovy minulosti..."
+    },
+    {
+     "c": 2,
+     "nazev": "Stíny a symboly",
+     "original": "Shadows and Symbols",
+     "datum": "1998-10-07",
+     "popis": "Sisko se v doprovodu Jakea a nové hostitelky symbionta Daxe a zároveň nové důstojnice na DS9, Ezri Dax, vydává po stopách, kterému mu zanechala Sarah. Ztracený Vyslancův orb, který má být ukrytý na pouštní planetě Tyree, je jedinou možností na opětovné otevření červí díry a obnovení kontaktu s Proroky. Všechno ale zavísí pouze na tom, co udělá spisovatel Benny Russel."
+    },
+    {
+     "c": 3,
+     "nazev": "Život po životě",
+     "original": "Afterimage",
+     "datum": "1998-10-14",
+     "popis": "Ezri Dax má hned několik problémů - marně hledá něco, čím by se uchytila na stanici a navíc nebyla připravená na přijetí symbionta a tak se jen těžko vyrovnává hned s osmi životy navíc. Začíná proto uvažovat, že odejde z Flotily, to ale Sisko nemůže nechat jen tak. Garak navíc začal trpět nevysvětlitelnými klaustrofobickými záchvaty a potřebuje poradce..."
+    },
+    {
+     "c": 4,
+     "nazev": "Vezmi mě do simulátoru",
+     "original": "Take Me Out to the Holosuite",
+     "datum": "1998-10-21",
+     "popis": "Vulkánský kapitán Solok, Siskův dávný rival z Akademie, přijde s ohromnou a neočekávanou výzvou: navrhuje mu souboj týmové spolupráce, odvahy a sebeobětování, zápas v baseballu. Vulkánci proti Siskovu týmu. Výsledek je sice předem jasný, ale Sisko nemůže dopustit, aby ho Vulkánci porazili v jeho milované a navíc zcela pozemské hře."
+    },
+    {
+     "c": 5,
+     "nazev": "Kukla",
+     "original": "Chrysalis",
+     "datum": "1998-10-28",
+     "popis": "Bashir se dočká nečekané návštěvy - na DS9 přiletají jeho geneticky upravení přátelé, se kterými nedávno pracoval na tajném vědeckém projektu. Utekli z ústavy a Bashira vyhledali protože jsou přesvědčeni, že jen on dokáže vyléčit Sarinu z jejího katatonického stavu. Ale něco takového může být příliš složité i na geneticky upraveného doktora."
+    },
+    {
+     "c": 6,
+     "nazev": "Zrada, víra a velká řeka",
+     "original": "Treachery, Faith, and the Great River",
+     "datum": "1998-11-04",
+     "popis": "Oda požádá o setkání jeden z jeho nejspolehlivějších cardassijských informátorů. Ovšem když dorazí na smluvené místo, zjistí, že zpráva byla zfalšovaná a ve skutečnosti na něj čeká Vorta Weyoun. Ten konstábla šokuje oznámením že hodlá dezertovat a za ochranu nabízí Federaci ta nejvíce střežená dominionská tajemství."
+    },
+    {
+     "c": 7,
+     "nazev": "A znovu do té průrvy",
+     "original": "Once More Unto the Breach",
+     "datum": "1998-11-11",
+     "popis": "Stanici opět navštíví hrdinný klingonský válečník Kor, který přišel Worfa požádat o malou službičku. Je už opravdu velice starý a ještě naposledy by se rád zúčastnil nějaké té bitvy, jenže generál Martok odmítá přijmout ho do své flotily. Worf je rozhodnutý že Korovi pomůže - a přitom všem je ochotný riskovat i přátelství s Martokem."
+    },
+    {
+     "c": 8,
+     "nazev": "V obležení na AR-558",
+     "original": "The Siege of AR-558",
+     "datum": "1998-11-18",
+     "popis": "Na planetě AR-558 v soustavě Chin'Toka sídlí posádka hvězdné Flotily, které dochází zásoby. Defiant se na AR-558 vydává, aby je doplnil. Flotila zde pět měsíců s vypětím všech sil střeží strategicky výhodné zařízení - komunikační stanici Dominionu. Členů bylo původně sto padesát. Teď jich ale zbývá už jen čtyřicet tři..."
+    },
+    {
+     "c": 9,
+     "nazev": "Úmluva",
+     "original": "Covenant",
+     "datum": "1998-11-25",
+     "popis": "Vedek Fala unese Kiru na Empok Nor, kde se plukovník s hrůzou dozvídá, že její dávný přítel jí přivedl do sekty, která uctívá staré bajorské démony Pah, protivníky Proroků. Tito uctívači si na Empok Nor zřídili skryté útočiště. A všechny je vede někdo, koho Kira moc dobře zná."
+    },
+    {
+     "c": 10,
+     "nazev": "Je to jen papírový měsíc",
+     "original": "It's Only a Paper Moon",
+     "datum": "1998-12-30",
+     "popis": "Nog se stále nemůže vyrovnat s následky zranění, které utrpěl na AR-558. Nikdo, ani on sám se nedokáže přimět k návratu do normálního života. Když se ale seznámí s Vicem Fontainem, nalezne útočiště v jeho klubu a zjistí, že ve virtuálním světě je mnohem šťastnější než v tom skutečném."
+    },
+    {
+     "c": 11,
+     "nazev": "Marnotratná dcera",
+     "original": "Prodigal Daughter",
+     "datum": "1999-01-06",
+     "popis": "O'Brien se na vlástní pěst vypravil na kolonii Nové Sydney, aby našel vdovu po svém příteli, Liamu Bilbym. Teď ale zmizel... Po jeho stopách se vydává Ezri Dax, jejíž rodina na Novém Sydney vlastní pergiové doly. Během pobytu v rodném domě ale odhalí mnohem víc, než čekala."
+    },
+    {
+     "c": 12,
+     "nazev": "Císařovo nové maskování",
+     "original": "The Emperor's New Cloak",
+     "datum": "1999-02-03",
+     "popis": "Velký Nagus Zek se vydává tam, kam se dosud Fereng nevydal - na místo netušených obchodních příležitostí, do zrcadlového vesmíru. Tam ale padne do rukou Aliance... Krátce po této události navštíví zrcadlová Ezri na DS9 Quarka, a navrhne mu obchod - život velkého Naguse výměnou za funkční maskovací zařízení."
+    },
+    {
+     "c": 13,
+     "nazev": "Pohled skrz hledí",
+     "original": "Field of Fire",
+     "datum": "1999-02-10",
+     "popis": "Na stanici dojde k vraždě mladého poručíka, Hectora Ilaria. Během vyšetřování vyjde najevo, že byl zavražděn experimentálním prototypem pušky TR-116, která dokáže střílet přes jakékoliv překážky. To ale znamená také to, že vrahem může být každý a mohlo se střílet naprosto odkudkoliv. Prvním krokem k dopadení vraha je zjištění toho, jaký měl motiv - a toho se ujímá Ezri."
+    },
+    {
+     "c": 14,
+     "nazev": "Chiméra",
+     "original": "Chimera",
+     "datum": "1999-02-17",
+     "popis": "Odo a O'Brien se runaboutem vracejí na stanici, ale na palubu se jim dostane nezvaný host - měňavec jménem Laas. Má podobný osud jako Odo, i on patří ke stovce podvržených dětí. Odo je ze setkání nadšen, neví ale, že jeho radost je zcela předčasná."
+    },
+    {
+     "c": 15,
+     "nazev": "Ratatabum",
+     "original": "Badda-Bing, Badda-Bang",
+     "datum": "1999-02-24",
+     "popis": "Ve Vicově klubu se objeví gangster Frankie \"Vočko\" Chalmers a oznámí mu, že společně se svými hochy podnik přebírá. O'Brien zjistí, že tahle partička je součástí podprogramu, který do simulace zakomponoval přímo její tvůrce. Existuje jen jediný způsob, jak gangstery dostat ven - vyštvat je v souladu s dobovými reáliemi programu. A tak celá posádka DS9 vyráží do boje a připraví rafinovaný a velkolepý plán..."
+    },
+    {
+     "c": 16,
+     "nazev": "Za války neplatí zákony",
+     "original": "Inter Arma Enim Silent Leges",
+     "datum": "1999-03-03",
+     "popis": "Doktor Bashir byl pozván na konferenci na Romulu a tak se chystá k odjezdu. Ještě na stanici ho ale navštíví agent Sloan a žádá ho, aby během pobytu mezi Romulany pracoval pro Oddíl 31. Bashir se poradí se Siskem a nakonec nabídku přijme, zaplete se ale do pořádně špinavých záležitostí..."
+    },
+    {
+     "c": 17,
+     "nazev": "Polostín",
+     "original": "Penumbra",
+     "datum": "1999-04-07",
+     "popis": "Worfova loď byla poblíž Badlands zničena dominionskou hlídkou a Worf je už tři dny nezvěstný. Defiant nakonec musí pátrání po něm vzdát, ale Ezri je odhodlána nalézt ho za každou cenu a pouští se do pátrání na vlastní pěst."
+    },
+    {
+     "c": 18,
+     "nazev": "Dokud nás smrt nerozdělí",
+     "original": "'Til Death Do Us Part",
+     "datum": "1999-04-14",
+     "popis": "Sisko a Kasidy chystají svatbu - i přes to, že Prorokové jsou výrazně proti. Přípravy jsou v plném proudu a na stanici dorazí i Kai Winn, která zatím nemá ani ponětí o tom, že je předurčena k velkému úkolu. Worf a Ezri při návratu na DS9 uvízli na neobydlené planetě a padli do zajetí rasy Breenů."
+    },
+    {
+     "c": 19,
+     "nazev": "Podivní spojenci",
+     "original": "Strange Bedfellows",
+     "datum": "1999-04-21",
+     "popis": "Ezri a Worf přišli na to, že Breenové, kteří byli až doposud neutrální, se spojili s Dominionem. Zajatci ale právě byli předáni do rukou Dominionu, takže se tuto novinu asi nikdo nedozví. Na DS9 kuje Kai Winn tajný plán na obnovu Bajoru. Naneštěstí pro ni netuší, kdo je ve skutečnosti rolník Anjohl Tennan, do kterého se zamilovala."
+    },
+    {
+     "c": 20,
+     "nazev": "Proměnlivá tvář zla",
+     "original": "The Changing Face of Evil",
+     "datum": "1999-04-28",
+     "popis": "Worf a Ezri se živí a zdraví vrátili na DS9, radostné vítání je ale nečeká. Breenové napadli velitelství Hvězdné flotily i přilehlou oblast San Francisca. Federace má nového nepřítele... Damar si konečně uvědomí, že Cardassiané pro Dominion nikdy nebyli váženými spojenci a jeho národ upadl do otroctví. Je načase to změnit...."
+    },
+    {
+     "c": 21,
+     "nazev": "Mračna se stahují",
+     "original": "When It Rains...",
+     "datum": "1999-05-05",
+     "popis": "Kai Winn studuje zakázanou knihu Koasst Amojan a stále více se zaplétá do temných tajemství... Na stanici dorazí kancléř Gowron, aby Martokovi udělil vyznamenaní a uvedl jej do Kahlessova řádu. Vzápětí mu však vezme velení klingonské flotily a Gowron se ho ujme sám... Sisko vysílá Kiru tajně na Cardassii, aby tam učila odbojářské bojové metody."
+    },
+    {
+     "c": 22,
+     "nazev": "Proti větru",
+     "original": "Tacking Into the Wind",
+     "datum": "1999-05-12",
+     "popis": "Kira, Odo a Garak se chystají na infiltraci servisních doků v soustavě Kelvas, kde mají ukořistit dominionskou loď s breenskými zbraněmi. Tím chtějí Flotile poskytnout možnost na nalezení obrany proti nim. Ne všichni cardassijští povstalci však chtějí poslouchat rozkazy bývalé bajorské teroristky a pomáhat jí s jejími plány."
+    },
+    {
+     "c": 23,
+     "nazev": "Extrémní opatření",
+     "original": "Extreme Measures",
+     "datum": "1999-05-19",
+     "popis": "Odo, i přes veškerou snahu doktora Bashira, umírá na chorobu, kterou se za záhadných okolností nakazil na Zemi. Bashir a O'Brien pojmou podezření, že za vším stojí Oddíl 31 a jsou mu ochotni pomoci za jakoukoliv cenu... a jistým extrémním opatřením se skutečně nevyhnou."
+    },
+    {
+     "c": 24,
+     "nazev": "Váleční psi",
+     "original": "The Dogs of War",
+     "datum": "1999-05-26",
+     "popis": "Povstání Cardassianů přerostlo v ozbrojený odpor. Dominion teď bojuje na dvou frontách. Zakladatelka, sužována chorobou, nařizuje, aby se Dominion stáhl zpět na cardassijské území. Quark se mezitím snaží smířit s faktem, že velký Nagus Zek po boku jeho matky Ishky, nelítostné reformátorky, zřejmě definitivně zešílel."
+    },
+    {
+     "c": 25,
+     "nazev": "Co po sobě zanecháš",
+     "original": "What You Leave Behind",
+     "datum": "1999-06-02",
+     "popis": "Na Bajoru se probouzí prastaré zlo, daleko mocnější, než celý Dominion. A zatímco válka mezi Dominionem a Federací vrcholí a situace se začíná stávat v Alfa kvadrantu beznadějnou, kapitán Ben Sisko musí vyřešit ještě jednu záležitost. Záležitost, ke které směřoval celý jeho dosavadní život. Nic už nebude jako dřív..."
+    }
+   ]
+  }
+ ]
+}

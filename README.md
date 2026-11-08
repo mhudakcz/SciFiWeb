@@ -16,4 +16,6 @@ Push do `main` se na https://scifiwebcz.netlify.app nasadí automaticky (GitHub 
 - `src/data/fransizy.ts`, `subzanry.ts`: franšízy a subžánry
 - `src/data/index.ts`: éry, nálady a pomocné funkce
 
+Průvodce epizodami stahuje `npm run epizody` (TMDB, seznam seriálů v `scripts/stahni-epizody.ts`) do `src/data/epizody/`.
+
 Plakáty stahuje `npm run plakaty` (Wikipedie, s tokenem v `.env` i TMDB) do `public/plakaty/`. Opravy shod jsou v `src/data/plakaty-opravy.json`. Kde plakát chybí, zobrazí se generované SVG (`src/components/Poster.astro`).

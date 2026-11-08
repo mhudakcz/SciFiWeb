@@ -1,0 +1,346 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Poster from '../../../components/Poster.astro';
+import { rokyTitulu, subzanrBySlug, titulBySlug } from '../../../data';
+import type { Titul } from '../../../data';
+import { pocetEpizod, pruvodci } from '../../../data/epizody';
+import type { Pruvodce } from '../../../data/epizody';
+
+export function getStaticPaths() {
+  return Object.entries(pruvodci)
+    .filter(([slug]) => titulBySlug[slug])
+    .map(([slug, pruvodce]) => ({ params: { slug }, props: { titul: titulBySlug[slug], pruvodce } }));
+}
+
+interface Props {
+  titul: Titul;
+  pruvodce: Pruvodce;
+}
+
+const { titul, pruvodce } = Astro.props;
+const hue = subzanrBySlug[titul.subzanry[0]].hue;
+const celkem = pocetEpizod(pruvodce);
+const anglicky = pruvodce.rady.flatMap((r) => r.epizody).filter((e) => e.jazyk === 'en').length;
+const datum = (d?: string) => (d ? new Date(d).toLocaleDateString('cs-CZ', { day: 'numeric', month: 'numeric', year: 'numeric' }) : '');
+const tmdbUrl = `https://www.themoviedb.org/tv/${pruvodce.tmdb}`;
+---
+
+<Layout title={`${titul.nazev}: průvodce epizodami`} description={`Seznam všech ${celkem} epizod seriálu ${titul.nazev} s českými názvy a popisy.`}>
+  <div class="wrap page-head" style={`--h:${hue}`}>
+    <nav class="crumbs">
+      <a href="/tituly/">Tituly</a> / <a href={`/tituly/${titul.slug}/`}>{titul.nazev}</a> / <span>Epizody</span>
+    </nav>
+    <div class="head">
+      <a href={`/tituly/${titul.slug}/`} class="mini-poster"><Poster titul={titul} /></a>
+      <div>
+        <p class="hud">📺 Průvodce epizodami</p>
+        <h1>{titul.nazev}</h1>
+        <p class="stats">
+          <b>{pruvodce.rady.length}</b>{' '}{pruvodce.rady.length === 1 ? 'řada' : pruvodce.rady.length < 5 ? 'řady' : 'řad'}
+          {' · '}<b>{celkem}</b> epizod{' · '}{rokyTitulu(titul)}
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="tools panel">
+      <nav class="chips" aria-label="Řady">
+        {pruvodce.rady.map((r) => <a class="chip" href={`#rada-${r.cislo}`}>{r.cislo}. řada {r.rok && <span class="n">{r.rok}</span>}</a>)}
+      </nav>
+      <input id="ep-q" type="search" placeholder="🔍 Hledat v názvech a popisech epizod…" aria-label="Hledat epizodu" />
+      <p id="ep-count" class="muted" hidden></p>
+    </div>
+
+    {
+      pruvodce.rady.map((r, i) => (
+        <details class="rada" id={`rada-${r.cislo}`} open={i === 0}>
+          <summary>
+            <span class="hud">{r.rok}</span>
+            <h2>{r.cislo}. řada</h2>
+            <span class="muted">{r.epizody.length} epizod</span>
+          </summary>
+          <ol class="eps">
+            {r.epizody.map((e) => (
+              <li class="ep" data-text={`${e.nazev} ${e.original ?? ''} ${e.popis ?? ''}`.toLowerCase()}>
+                <span class="num">
+                  {r.cislo}×{String(e.c).padStart(2, '0')}
+                </span>
+                <div>
+                  <h3>
+                    {e.nazev}
+                    {e.original && <span class="orig">{e.original}</span>}
+                  </h3>
+                  {e.datum && <time datetime={e.datum}>{datum(e.datum)}</time>}
+                  {e.popis && (
+                    <p>
+                      {e.jazyk === 'en' && <span class="lang" title="Český popis zatím v TMDB chybí">EN</span>}
+                      {e.popis.replace(/\s+/g, ' ')}
+                    </p>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ol>
+        </details>
+      ))
+    }
+
+    <aside class="zdroj panel">
+      <span class="hud">ℹ Zdroj</span>
+      <p>
+        Názvy, data premiér a popisy epizod pocházejí z komunitní databáze <a href={tmdbUrl} rel="noopener">The Movie Database (TMDB)</a>.
+        {anglicky > 0 && ` Popisy označené EN (${anglicky}) zatím v TMDB nemají českou verzi.`} Tento web používá TMDB API, ale není TMDB podporován ani certifikován.
+      </p>
+      <a href={tmdbUrl} rel="noopener" class="tmdb-badge">Data: TMDB ↗</a>
+    </aside>
+  </div>
+</Layout>
+
+<script>
+  const q = document.getElementById('ep-q') as HTMLInputElement;
+  const count = document.getElementById('ep-count')!;
+  const rady = [...document.querySelectorAll<HTMLDetailsElement>('details.rada')];
+  const eps = [...document.querySelectorAll<HTMLElement>('.ep')];
+  const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const texty = new Map(eps.map((e) => [e, norm(e.dataset.text!)]));
+
+  // Odkaz na řadu (#rada-3) ji rovnou rozbalí
+  const otevriZHashe = () => {
+    const cil = document.getElementById(location.hash.slice(1));
+    if (cil instanceof HTMLDetailsElement) {
+      cil.open = true;
+      // Posun až po načtení stránky, jinak ho prohlížeč přebije obnovením pozice
+      const posun = () => cil.scrollIntoView({ block: 'start', behavior: 'instant' });
+      if (document.readyState === 'complete') posun();
+      else addEventListener('load', () => setTimeout(posun, 0), { once: true });
+    }
+  };
+  addEventListener('hashchange', otevriZHashe);
+  otevriZHashe();
+
+  q.addEventListener('input', () => {
+    const v = norm(q.value.trim());
+    let n = 0;
+    for (const e of eps) {
+      const ok = !v || texty.get(e)!.includes(v);
+      e.hidden = !ok;
+      if (ok) n++;
+    }
+    for (const r of rady) {
+      const viditelne = r.querySelectorAll('.ep:not([hidden])').length;
+      r.hidden = Boolean(v) && viditelne === 0;
+      if (v) r.open = viditelne > 0;
+    }
+    count.hidden = !v;
+    count.textContent = `Nalezeno ${n} epizod`;
+  });
+</script>
+
+<style>
+  .head {
+    display: flex;
+    gap: 24px;
+    align-items: end;
+    margin-top: 18px;
+  }
+
+  .mini-poster {
+    width: 120px;
+    flex: none;
+  }
+
+  .mini-poster :global(.cap) {
+    display: none;
+  }
+
+  .stats {
+    font-size: 16px;
+  }
+
+  .stats b {
+    font-family: var(--font-hud);
+    color: hsl(var(--h) 100% 72%);
+  }
+
+  .tools {
+    padding: 16px;
+    display: grid;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  .tools input {
+    width: 100%;
+    padding: 11px 14px;
+    border-radius: 10px;
+    border: 1px solid var(--line-strong);
+    background: rgba(0, 0, 0, 0.35);
+    color: var(--text);
+    font: inherit;
+    font-size: 14px;
+  }
+
+  .tools input:focus {
+    outline: none;
+    border-color: var(--cyan);
+  }
+
+  .rada {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    margin-bottom: 12px;
+    background: var(--panel);
+    scroll-margin-top: 84px;
+  }
+
+  .rada[hidden] {
+    display: none;
+  }
+
+  summary {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    padding: 16px 20px;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary::after {
+    content: '▸';
+    margin-left: auto;
+    color: var(--cyan);
+    transition: transform 0.2s;
+  }
+
+  .rada[open] summary::after {
+    transform: rotate(90deg);
+  }
+
+  summary h2 {
+    font-size: 22px;
+  }
+
+  .eps {
+    list-style: none;
+    margin: 0;
+    padding: 0 20px 12px;
+  }
+
+  .ep {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 14px;
+    padding: 14px 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .ep[hidden] {
+    display: none;
+  }
+
+  .num {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--cyan);
+    padding-top: 2px;
+  }
+
+  .ep h3 {
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+    align-items: baseline;
+  }
+
+  .orig {
+    font-size: 13px;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--dim);
+  }
+
+  time {
+    display: block;
+    font-size: 12px;
+    color: var(--dim);
+    margin-top: 2px;
+  }
+
+  .ep p {
+    margin-top: 6px;
+    color: #cfd4f2;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .lang {
+    font-family: var(--font-hud);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    padding: 2px 5px;
+    border-radius: 4px;
+    border: 1px solid var(--line-strong);
+    color: var(--muted);
+    margin-right: 6px;
+    vertical-align: 2px;
+  }
+
+  .zdroj {
+    margin-top: 28px;
+    padding: 18px 22px;
+    display: grid;
+    gap: 8px;
+  }
+
+  .zdroj p {
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .zdroj a {
+    color: var(--cyan);
+  }
+
+  .tmdb-badge {
+    justify-self: start;
+    font-family: var(--font-hud);
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    padding: 5px 10px;
+    border-radius: 6px;
+    color: #0d253f !important;
+    background: linear-gradient(90deg, #90cea1, #01b4e4);
+  }
+
+  @media (max-width: 640px) {
+    .head {
+      gap: 16px;
+    }
+
+    .mini-poster {
+      width: 84px;
+    }
+
+    .tools {
+      position: static;
+    }
+
+    .ep {
+      grid-template-columns: 48px 1fr;
+      gap: 10px;
+    }
+
+    .eps {
+      padding: 0 14px 10px;
+    }
+  }
+</style>
