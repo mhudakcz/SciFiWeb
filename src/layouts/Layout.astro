@@ -78,6 +78,7 @@ const nav = [
         <div>
           <a href="/" class="logo small">SciFi<b class="grad">Web</b></a>
           <p class="muted">Fan průvodce světem sci-fi filmů a seriálů. Neoficiální projekt z lásky k žánru.</p>
+          <p class="muted tmdb">Plakáty: <a href="https://www.themoviedb.org/" rel="noopener">TMDB</a>. Tento web používá TMDB API, ale není TMDB podporován ani certifikován.</p>
         </div>
         <div class="foot-links">
           {nav.map((n) => <a href={n.href}>{n.label}</a>)}
@@ -373,6 +374,14 @@ const nav = [
         margin-top: 10px;
         max-width: 380px;
         font-size: 14px;
+      }
+
+      .foot-in .tmdb {
+        font-size: 12px;
+      }
+
+      .tmdb a {
+        color: var(--cyan);
       }
 
       .foot-links {

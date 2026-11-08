@@ -6,9 +6,13 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "plakaty": "tsx --env-file-if-exists=.env scripts/stahni-plakaty.ts"
   },
   "dependencies": {
     "astro": "^7.4.7"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
   }
 }

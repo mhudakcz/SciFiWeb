@@ -1,6 +1,7 @@
 ---
 import { hashSlug, subzanrBySlug, typy } from '../data';
 import type { Titul } from '../data';
+import plakaty from '../data/plakaty.json';
 
 interface Props {
   titul: Titul;
@@ -15,6 +16,8 @@ const hue2 = (hue + 40 + ((h >> 8) % 40)) % 360;
 // Motiv střídáme mezi subžánry titulu, ať plakáty stejného žánru nevypadají jako klony
 const motiv = subzanrBySlug[titul.subzanry[h % titul.subzanry.length]].motiv;
 const id = `p-${titul.slug}`;
+// Skutečný plakát z TMDB (scripts/stahni-plakaty.ts); generovaná grafika zůstává jako podklad a záloha
+const foto = titul.slug in plakaty ? `/plakaty/${titul.slug}.jpg` : null;
 
 // Hvězdy rozházené deterministicky podle slugu
 let seed = h;
@@ -32,7 +35,7 @@ const svetla = `hsl(${hue} 100% 66%)`;
 const svetla2 = `hsl(${hue2} 100% 70%)`;
 ---
 
-<div class:list={['poster', { velky }]} style={`--h:${hue};--h2:${hue2}`}>
+<div class:list={['poster', { velky, foto: !!foto }]} style={`--h:${hue};--h2:${hue2}`}>
   <svg viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
     <defs>
       <linearGradient id={`${id}-bg`} x1="0" y1="0" x2="0.3" y2="1">
@@ -199,6 +202,7 @@ const svetla2 = `hsl(${hue2} 100% 70%)`;
       )
     }
   </svg>
+  {foto && <img src={foto} alt={`Plakát: ${titul.nazev}`} loading="lazy" decoding="async" width="500" height="750" />}
   <span class="badge">{typy[titul.typ].zkratka}</span>
   <div class="cap">
     <span class="nazev">{titul.nazev}</span>
@@ -235,6 +239,24 @@ const svetla2 = `hsl(${hue2} 100% 70%)`;
       linear-gradient(transparent 48%, rgba(0, 0, 0, 0.82)),
       repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025) 0 1px, transparent 1px 3px);
     pointer-events: none;
+  }
+
+  .poster > img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+  }
+
+  .foto::after {
+    background: linear-gradient(rgba(0, 0, 0, 0.35), transparent 22%);
+    z-index: 1;
+  }
+
+  .foto .cap {
+    display: none;
   }
 
   .badge {
