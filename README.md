@@ -14,4 +14,4 @@ npm run build    # výstup do dist/ (Netlify: netlify.toml)
 - `src/data/fransizy.ts`, `subzanry.ts`: franšízy a subžánry
 - `src/data/index.ts`: éry, nálady a pomocné funkce
 
-Plakáty jsou generované SVG (`src/components/Poster.astro`), takže nejsou potřeba žádné obrázky.
+Plakáty stahuje `npm run plakaty` (Wikipedie, s tokenem v `.env` i TMDB) do `public/plakaty/`. Opravy shod jsou v `src/data/plakaty-opravy.json`. Kde plakát chybí, zobrazí se generované SVG (`src/components/Poster.astro`).

@@ -1,1 +1,484 @@
-{}
+{
+  "metropolis": {
+    "soubor": "/plakaty/metropolis.jpg",
+    "zdroj": "wiki:en:Metropolis (1927 film)",
+    "nazev": "Metropolis (1927 film)"
+  },
+  "den-kdy-se-zastavila-zeme": {
+    "soubor": "/plakaty/den-kdy-se-zastavila-zeme.jpg",
+    "zdroj": "wiki:en:The Day the Earth Stood Still",
+    "nazev": "The Day the Earth Stood Still"
+  },
+  "zakazana-planeta": {
+    "soubor": "/plakaty/zakazana-planeta.jpg",
+    "zdroj": "wiki:en:Forbidden Planet",
+    "nazev": "Forbidden Planet"
+  },
+  "vynalez-zkazy": {
+    "soubor": "/plakaty/vynalez-zkazy.jpg",
+    "zdroj": "wiki:cs:Vynález zkázy",
+    "nazev": "Vynález zkázy"
+  },
+  "doctor-who": {
+    "soubor": "/plakaty/doctor-who.jpg",
+    "zdroj": "wiki:en:Doctor Who series 15",
+    "nazev": "Doctor Who series 15"
+  },
+  "ikarie-xb-1": {
+    "soubor": "/plakaty/ikarie-xb-1.jpg",
+    "zdroj": "wiki:en:Ikarie XB-1",
+    "nazev": "Ikarie XB-1"
+  },
+  "star-trek": {
+    "soubor": "/plakaty/star-trek.png",
+    "zdroj": "wiki:en:Star Trek: The Original Series season 1",
+    "nazev": "Star Trek: The Original Series season 1"
+  },
+  "2001-vesmirna-odysea": {
+    "soubor": "/plakaty/2001-vesmirna-odysea.png",
+    "zdroj": "wiki:en:2001: A Space Odyssey",
+    "nazev": "2001: A Space Odyssey"
+  },
+  "planeta-opic": {
+    "soubor": "/plakaty/planeta-opic.jpg",
+    "zdroj": "wiki:en:Planet of the Apes (1968 film)",
+    "nazev": "Planet of the Apes (1968 film)"
+  },
+  "solaris": {
+    "soubor": "/plakaty/solaris.jpg",
+    "zdroj": "wiki:en:Solaris (1972 film)",
+    "nazev": "Solaris (1972 film)"
+  },
+  "blizka-setkani-tretiho-druhu": {
+    "soubor": "/plakaty/blizka-setkani-tretiho-druhu.jpg",
+    "zdroj": "wiki:en:Close Encounters of the Third Kind",
+    "nazev": "Close Encounters of the Third Kind"
+  },
+  "star-wars-nova-nadeje": {
+    "soubor": "/plakaty/star-wars-nova-nadeje.jpg",
+    "zdroj": "wiki:en:Star Wars (film)",
+    "nazev": "Star Wars (film)"
+  },
+  "vetrelec": {
+    "soubor": "/plakaty/vetrelec.jpg",
+    "zdroj": "wiki:en:Alien (film)",
+    "nazev": "Alien (film)"
+  },
+  "imperium-vraci-uder": {
+    "soubor": "/plakaty/imperium-vraci-uder.jpg",
+    "zdroj": "wiki:en:The Empire Strikes Back",
+    "nazev": "The Empire Strikes Back"
+  },
+  "blade-runner": {
+    "soubor": "/plakaty/blade-runner.png",
+    "zdroj": "wiki:en:Blade Runner",
+    "nazev": "Blade Runner"
+  },
+  "et-mimozemstan": {
+    "soubor": "/plakaty/et-mimozemstan.jpg",
+    "zdroj": "wiki:en:E.T. the Extra-Terrestrial",
+    "nazev": "E.T. the Extra-Terrestrial"
+  },
+  "star-trek-khanuv-hnev": {
+    "soubor": "/plakaty/star-trek-khanuv-hnev.png",
+    "zdroj": "wiki:en:Star Trek II: The Wrath of Khan",
+    "nazev": "Star Trek II: The Wrath of Khan"
+  },
+  "vec": {
+    "soubor": "/plakaty/vec.png",
+    "zdroj": "wiki:en:The Thing (1982 film)",
+    "nazev": "The Thing (1982 film)"
+  },
+  "letajici-cestmir": {
+    "soubor": "/plakaty/letajici-cestmir.jpg",
+    "zdroj": "wiki:en:Létající Čestmír",
+    "nazev": "Létající Čestmír"
+  },
+  "navrat-jediho": {
+    "soubor": "/plakaty/navrat-jediho.jpg",
+    "zdroj": "wiki:en:Return of the Jedi",
+    "nazev": "Return of the Jedi"
+  },
+  "v-navstevnici": {
+    "soubor": "/plakaty/v-navstevnici.jpg",
+    "zdroj": "wiki:en:V (1983 miniseries)",
+    "nazev": "V (1983 miniseries)"
+  },
+  "terminator": {
+    "soubor": "/plakaty/terminator.png",
+    "zdroj": "wiki:en:The Terminator",
+    "nazev": "The Terminator"
+  },
+  "navrat-do-budoucnosti": {
+    "soubor": "/plakaty/navrat-do-budoucnosti.jpg",
+    "zdroj": "wiki:en:Back to the Future",
+    "nazev": "Back to the Future"
+  },
+  "vetrelci": {
+    "soubor": "/plakaty/vetrelci.jpg",
+    "zdroj": "wiki:en:Aliens (film)",
+    "nazev": "Aliens (film)"
+  },
+  "predator": {
+    "soubor": "/plakaty/predator.jpg",
+    "zdroj": "wiki:en:Predator (film)",
+    "nazev": "Predator (film)"
+  },
+  "robocop": {
+    "soubor": "/plakaty/robocop.jpg",
+    "zdroj": "wiki:en:RoboCop",
+    "nazev": "RoboCop"
+  },
+  "akira": {
+    "soubor": "/plakaty/akira.jpg",
+    "zdroj": "wiki:en:Akira (1988 film)",
+    "nazev": "Akira (1988 film)"
+  },
+  "cerveny-trpaslik": {
+    "soubor": "/plakaty/cerveny-trpaslik.png",
+    "zdroj": "wiki:en:Red Dwarf",
+    "nazev": "Red Dwarf",
+    "naSirku": true
+  },
+  "total-recall": {
+    "soubor": "/plakaty/total-recall.jpg",
+    "zdroj": "wiki:en:Total Recall (1990 film)",
+    "nazev": "Total Recall (1990 film)"
+  },
+  "terminator-2": {
+    "soubor": "/plakaty/terminator-2.png",
+    "zdroj": "wiki:en:Terminator 2: Judgment Day",
+    "nazev": "Terminator 2: Judgment Day"
+  },
+  "jursky-park": {
+    "soubor": "/plakaty/jursky-park.jpg",
+    "zdroj": "wiki:en:Jurassic Park",
+    "nazev": "Jurassic Park"
+  },
+  "ghost-in-the-shell": {
+    "soubor": "/plakaty/ghost-in-the-shell.jpg",
+    "zdroj": "wiki:en:Ghost in the Shell (1995 film)",
+    "nazev": "Ghost in the Shell (1995 film)"
+  },
+  "neon-genesis-evangelion": {
+    "soubor": "/plakaty/neon-genesis-evangelion.png",
+    "zdroj": "wiki:en:Neon Genesis Evangelion",
+    "nazev": "Neon Genesis Evangelion",
+    "naSirku": true
+  },
+  "den-nezavislosti": {
+    "soubor": "/plakaty/den-nezavislosti.jpg",
+    "zdroj": "wiki:en:Independence Day (1996 film)",
+    "nazev": "Independence Day (1996 film)"
+  },
+  "gattaca": {
+    "soubor": "/plakaty/gattaca.jpg",
+    "zdroj": "wiki:en:Gattaca",
+    "nazev": "Gattaca"
+  },
+  "hvezdna-brana": {
+    "soubor": "/plakaty/hvezdna-brana.jpg",
+    "zdroj": "wiki:en:Stargate SG-1 season 1",
+    "nazev": "Stargate SG-1 season 1"
+  },
+  "hvezdna-pechota": {
+    "soubor": "/plakaty/hvezdna-pechota.jpg",
+    "zdroj": "wiki:en:Starship Troopers (film)",
+    "nazev": "Starship Troopers (film)"
+  },
+  "muzi-v-cernem": {
+    "soubor": "/plakaty/muzi-v-cernem.jpg",
+    "zdroj": "wiki:en:Men in Black (1997 film)",
+    "nazev": "Men in Black (1997 film)"
+  },
+  "cowboy-bebop": {
+    "soubor": "/plakaty/cowboy-bebop.jpg",
+    "zdroj": "wiki:en:Cowboy Bebop",
+    "nazev": "Cowboy Bebop"
+  },
+  "futurama": {
+    "soubor": "/plakaty/futurama.png",
+    "zdroj": "wiki:en:Futurama season 4",
+    "nazev": "Futurama season 4"
+  },
+  "matrix": {
+    "soubor": "/plakaty/matrix.png",
+    "zdroj": "wiki:en:The Matrix",
+    "nazev": "The Matrix"
+  },
+  "zelezny-obr": {
+    "soubor": "/plakaty/zelezny-obr.jpg",
+    "zdroj": "wiki:en:The Iron Giant",
+    "nazev": "The Iron Giant"
+  },
+  "lilo-a-stitch": {
+    "soubor": "/plakaty/lilo-a-stitch.jpg",
+    "zdroj": "wiki:en:Lilo & Stitch",
+    "nazev": "Lilo & Stitch"
+  },
+  "minority-report": {
+    "soubor": "/plakaty/minority-report.jpg",
+    "zdroj": "wiki:en:Minority Report",
+    "nazev": "Minority Report"
+  },
+  "planeta-pokladu": {
+    "soubor": "/plakaty/planeta-pokladu.jpg",
+    "zdroj": "wiki:en:Treasure Planet",
+    "nazev": "Treasure Planet"
+  },
+  "battlestar-galactica": {
+    "soubor": "/plakaty/battlestar-galactica.jpg",
+    "zdroj": "wiki:en:Battlestar Galactica (2004 TV series)",
+    "nazev": "Battlestar Galactica (2004 TV series)",
+    "naSirku": true
+  },
+  "wall-e": {
+    "soubor": "/plakaty/wall-e.jpg",
+    "zdroj": "wiki:en:WALL-E",
+    "nazev": "WALL-E"
+  },
+  "avatar": {
+    "soubor": "/plakaty/avatar.jpg",
+    "zdroj": "wiki:en:Avatar (2009 film)",
+    "nazev": "Avatar (2009 film)"
+  },
+  "district-9": {
+    "soubor": "/plakaty/district-9.jpg",
+    "zdroj": "wiki:en:District 9",
+    "nazev": "District 9"
+  },
+  "moon": {
+    "soubor": "/plakaty/moon.jpg",
+    "zdroj": "wiki:en:Moon (2009 film)",
+    "nazev": "Moon (2009 film)"
+  },
+  "gravitace": {
+    "soubor": "/plakaty/gravitace.jpg",
+    "zdroj": "wiki:en:Gravity (2013 film)",
+    "nazev": "Gravity (2013 film)"
+  },
+  "ona": {
+    "soubor": "/plakaty/ona.jpg",
+    "zdroj": "wiki:en:Her (2013 film)",
+    "nazev": "Her (2013 film)"
+  },
+  "rick-a-morty": {
+    "soubor": "/plakaty/rick-a-morty.png",
+    "zdroj": "wiki:en:Rick and Morty season 1",
+    "nazev": "Rick and Morty season 1"
+  },
+  "ex-machina": {
+    "soubor": "/plakaty/ex-machina.jpg",
+    "zdroj": "wiki:en:Ex Machina (film)",
+    "nazev": "Ex Machina (film)",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Ex Machina (film)\"}"
+  },
+  "interstellar": {
+    "soubor": "/plakaty/interstellar.jpg",
+    "zdroj": "wiki:en:Interstellar (film)",
+    "nazev": "Interstellar (film)"
+  },
+  "na-hrane-zitrka": {
+    "soubor": "/plakaty/na-hrane-zitrka.jpg",
+    "zdroj": "wiki:en:Edge of Tomorrow",
+    "nazev": "Edge of Tomorrow"
+  },
+  "strazci-galaxie": {
+    "soubor": "/plakaty/strazci-galaxie.jpg",
+    "zdroj": "wiki:en:Guardians of the Galaxy (film)",
+    "nazev": "Guardians of the Galaxy (film)"
+  },
+  "velka-sestka": {
+    "soubor": "/plakaty/velka-sestka.jpg",
+    "zdroj": "wiki:en:Big Hero 6 (film)",
+    "nazev": "Big Hero 6 (film)"
+  },
+  "martan": {
+    "soubor": "/plakaty/martan.jpg",
+    "zdroj": "wiki:en:The Martian (film)",
+    "nazev": "The Martian (film)"
+  },
+  "mad-max-zbesila-cesta": {
+    "soubor": "/plakaty/mad-max-zbesila-cesta.jpg",
+    "zdroj": "wiki:en:Mad Max: Fury Road",
+    "nazev": "Mad Max: Fury Road"
+  },
+  "prichozi": {
+    "soubor": "/plakaty/prichozi.jpg",
+    "zdroj": "wiki:en:Arrival (film)",
+    "nazev": "Arrival (film)"
+  },
+  "stranger-things": {
+    "soubor": "/plakaty/stranger-things.png",
+    "zdroj": "wiki:en:Stranger Things",
+    "nazev": "Stranger Things",
+    "naSirku": true
+  },
+  "westworld": {
+    "soubor": "/plakaty/westworld.png",
+    "zdroj": "wiki:en:Westworld season 1",
+    "nazev": "Westworld season 1",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Westworld season 1\"}"
+  },
+  "blade-runner-2049": {
+    "soubor": "/plakaty/blade-runner-2049.png",
+    "zdroj": "wiki:en:Blade Runner 2049",
+    "nazev": "Blade Runner 2049"
+  },
+  "the-orville": {
+    "soubor": "/plakaty/the-orville.jpg",
+    "zdroj": "wiki:en:The Orville season 2",
+    "nazev": "The Orville season 2"
+  },
+  "anihilace": {
+    "soubor": "/plakaty/anihilace.png",
+    "zdroj": "wiki:en:Annihilation (film)",
+    "nazev": "Annihilation (film)"
+  },
+  "mandalorian": {
+    "soubor": "/plakaty/mandalorian.jpg",
+    "zdroj": "wiki:en:The Mandalorian season 1",
+    "nazev": "The Mandalorian season 1",
+    "podle": "{\"wiki\":\"en:The Mandalorian season 1\"}"
+  },
+  "duna": {
+    "soubor": "/plakaty/duna.jpg",
+    "zdroj": "wiki:en:Dune (2021 film)",
+    "nazev": "Dune (2021 film)"
+  },
+  "star-trek-strange-new-worlds": {
+    "soubor": "/plakaty/star-trek-strange-new-worlds.jpg",
+    "zdroj": "wiki:en:Star Trek: Strange New Worlds season 1",
+    "nazev": "Star Trek: Strange New Worlds season 1"
+  },
+  "vsechno-vsude-najednou": {
+    "soubor": "/plakaty/vsechno-vsude-najednou.jpg",
+    "zdroj": "wiki:en:Everything Everywhere All at Once",
+    "nazev": "Everything Everywhere All at Once"
+  },
+  "the-last-of-us": {
+    "soubor": "/plakaty/the-last-of-us.png",
+    "zdroj": "wiki:en:The Last of Us season 1",
+    "nazev": "The Last of Us season 1"
+  },
+  "divoky-robot": {
+    "soubor": "/plakaty/divoky-robot.jpg",
+    "zdroj": "wiki:en:The Wild Robot",
+    "nazev": "The Wild Robot"
+  },
+  "duna-cast-druha": {
+    "soubor": "/plakaty/duna-cast-druha.jpg",
+    "zdroj": "wiki:en:Dune: Part Two",
+    "nazev": "Dune: Part Two"
+  },
+  "fallout": {
+    "soubor": "/plakaty/fallout.jpg",
+    "zdroj": "wiki:en:Fallout season 1",
+    "nazev": "Fallout season 1"
+  },
+  "cesta-do-praveku": {
+    "soubor": "/plakaty/cesta-do-praveku.jpg",
+    "zdroj": "wiki:en:Journey to the Beginning of Time",
+    "nazev": "Journey to the Beginning of Time",
+    "podle": "{\"wiki\":\"en:Journey to the Beginning of Time\"}"
+  },
+  "muz-z-prvniho-stoleti": {
+    "soubor": "/plakaty/muz-z-prvniho-stoleti.jpg",
+    "zdroj": "wiki:en:The Man from the First Century",
+    "nazev": "The Man from the First Century",
+    "podle": "{\"wiki\":\"en:Man in Outer Space\"}"
+  },
+  "kdo-chce-zabit-jessii": {
+    "soubor": "/plakaty/kdo-chce-zabit-jessii.jpg",
+    "zdroj": "wiki:en:Who Wants to Kill Jessie?",
+    "nazev": "Who Wants to Kill Jessie?",
+    "podle": "{\"wiki\":\"en:Who Wants to Kill Jessie?\"}"
+  },
+  "zitra-vstanu-a-oparim-se-cajem": {
+    "soubor": "/plakaty/zitra-vstanu-a-oparim-se-cajem.jpg",
+    "zdroj": "wiki:en:Tomorrow I'll Wake Up and Scald Myself with Tea",
+    "nazev": "Tomorrow I'll Wake Up and Scald Myself with Tea",
+    "podle": "{\"wiki\":\"en:Tomorrow I'll Wake Up and Scald Myself with Tea\"}"
+  },
+  "nausicaa": {
+    "soubor": "/plakaty/nausicaa.jpg",
+    "zdroj": "wiki:en:Nausicaä of the Valley of the Wind (film)",
+    "nazev": "Nausicaä of the Valley of the Wind (film)",
+    "podle": "{\"wiki\":\"en:Nausicaä of the Valley of the Wind (film)\"}"
+  },
+  "laputa": {
+    "soubor": "/plakaty/laputa.png",
+    "zdroj": "wiki:en:Castle in the Sky",
+    "nazev": "Castle in the Sky",
+    "podle": "{\"wiki\":\"en:Castle in the Sky\"}"
+  },
+  "akta-x": {
+    "soubor": "/plakaty/akta-x.jpg",
+    "zdroj": "wiki:en:The X-Files season 1",
+    "nazev": "The X-Files season 1",
+    "podle": "{\"wiki\":\"en:The X-Files season 1\"}"
+  },
+  "akumulator-1": {
+    "soubor": "/plakaty/akumulator-1.jpg",
+    "zdroj": "wiki:en:Accumulator 1",
+    "nazev": "Accumulator 1",
+    "podle": "{\"wiki\":\"en:Accumulator 1\"}"
+  },
+  "paty-element": {
+    "soubor": "/plakaty/paty-element.jpg",
+    "zdroj": "wiki:en:The Fifth Element",
+    "nazev": "The Fifth Element",
+    "podle": "{\"wiki\":\"en:The Fifth Element\"}"
+  },
+  "brazil": {
+    "soubor": "/plakaty/brazil.jpg",
+    "zdroj": "wiki:en:Brazil (1985 film)",
+    "nazev": "Brazil (1985 film)",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Brazil (1985 film)\"}"
+  },
+  "star-trek-nova-generace": {
+    "soubor": "/plakaty/star-trek-nova-generace.jpg",
+    "zdroj": "wiki:en:Star Trek: The Next Generation season 1",
+    "nazev": "Star Trek: The Next Generation season 1",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Star Trek: The Next Generation season 1\"}"
+  },
+  "firefly": {
+    "soubor": "/plakaty/firefly.jpg",
+    "zdroj": "wiki:en:Firefly (TV series)",
+    "nazev": "Firefly (TV series)",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Firefly (TV series)\"}"
+  },
+  "potomci-lidi": {
+    "soubor": "/plakaty/potomci-lidi.jpg",
+    "zdroj": "wiki:en:Children of Men",
+    "nazev": "Children of Men",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Children of Men\"}"
+  },
+  "for-all-mankind": {
+    "soubor": "/plakaty/for-all-mankind.png",
+    "zdroj": "wiki:en:For All Mankind (TV series)",
+    "nazev": "For All Mankind (TV series)",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:For All Mankind season 1\"}"
+  },
+  "station-eleven": {
+    "soubor": "/plakaty/station-eleven.png",
+    "zdroj": "wiki:en:Station Eleven (miniseries)",
+    "nazev": "Station Eleven (miniseries)",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:Station Eleven (miniseries)\"}"
+  },
+  "problem-tri-teles": {
+    "soubor": "/plakaty/problem-tri-teles.png",
+    "zdroj": "wiki:en:3 Body Problem (TV series)",
+    "nazev": "3 Body Problem (TV series)",
+    "naSirku": true,
+    "podle": "{\"wiki\":\"en:3 Body Problem (TV series)\"}"
+  }
+}
