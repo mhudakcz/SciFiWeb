@@ -2,9 +2,11 @@
 import Layout from '../../layouts/Layout.astro';
 import Poster from '../../components/Poster.astro';
 import TitleCard from '../../components/TitleCard.astro';
+import Galerie from '../../components/Galerie.astro';
 import { eraTitulu, fransizaBySlug, jeCeskoslovensky, nalady, podobne, rokyTitulu, subzanrBySlug, tituly, typy } from '../../data';
 import type { Titul } from '../../data';
 import { pocetEpizod, pruvodci } from '../../data/epizody';
+import fotky from '../../data/fotky.json';
 
 export function getStaticPaths() {
   return tituly.map((titul, i) => ({
@@ -26,10 +28,12 @@ const podobneTituly = podobne(titul, 6).filter((t) => !zFransizy.includes(t));
 const era = eraTitulu(titul);
 const sub = subzanrBySlug[titul.subzanry[0]];
 const pruvodce = pruvodci[titul.slug];
+const zabery: string[] = (fotky as Record<string, string[]>)[titul.slug] ?? [];
 ---
 
 <Layout title={titul.nazev} description={titul.perex}>
   <article class="wrap detail" style={`--h:${sub.hue}`}>
+    {zabery[0] && <div class="pozadi" style={`background-image:url(https://image.tmdb.org/t/p/w1280${zabery[0]})`} aria-hidden="true" />}
     <nav class="crumbs top-crumbs">
       <a href="/tituly/">Tituly</a> / <a href={`/tituly/?era=${era.slug}`}>{era.nazev}</a> / <span>{titul.nazev}</span>
     </nav>
@@ -87,6 +91,8 @@ const pruvodce = pruvodci[titul.slug];
       </aside>
     </div>
 
+    {zabery.length > 0 && <Galerie nazev={titul.nazev} zabery={zabery} serial={titul.typ !== 'film' && titul.rokDo !== undefined} />}
+
     {
       fr && zFransizy.length > 0 && (
         <section class="section">
@@ -123,6 +129,23 @@ const pruvodce = pruvodci[titul.slug];
 <style>
   .detail {
     padding-top: 28px;
+    position: relative;
+  }
+
+  /* První záběr jako tlumené pozadí hlavičky */
+  .pozadi {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 100vw;
+    height: 620px;
+    translate: -50% 0;
+    z-index: -1;
+    background-size: cover;
+    background-position: center 25%;
+    opacity: 0.32;
+    mask-image: linear-gradient(rgba(0, 0, 0, 0.9), transparent 92%);
+    filter: saturate(0.8);
   }
 
   .pager {

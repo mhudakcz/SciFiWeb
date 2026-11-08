@@ -1,0 +1,213 @@
+---
+/** Záběry z filmu/seriálu z TMDB (src/data/fotky.json) s prohlížečem na celou obrazovku. */
+interface Props {
+  nazev: string;
+  zabery: string[];
+  serial?: boolean;
+}
+
+const { nazev, zabery, serial = false } = Astro.props;
+const img = (cesta: string, sirka: 'w780' | 'w1280') => `https://image.tmdb.org/t/p/${sirka}${cesta}`;
+---
+
+<section class="section galerie">
+  <div class="section-head">
+    <div>
+      <p class="hud">🎞 Záběry</p>
+      <h2>{serial ? 'Ze seriálu' : 'Z filmu'}</h2>
+    </div>
+  </div>
+  <div class="mrizka">
+    {
+      zabery.map((z, i) => (
+        <button class="nahled" data-i={i} data-velky={img(z, 'w1280')} aria-label={`Zvětšit záběr ${i + 1}`}>
+          <img src={img(z, 'w780')} alt={`${nazev}: záběr ${i + 1}`} loading="lazy" decoding="async" width="780" height="439" />
+        </button>
+      ))
+    }
+  </div>
+  <p class="zdroj">Záběry: <a href="https://www.themoviedb.org/" rel="noopener">TMDB</a></p>
+
+  <dialog class="prohlizec" aria-label={`Záběry: ${nazev}`}>
+    <img alt="" />
+    <button class="zavrit" aria-label="Zavřít">✕</button>
+    {
+      zabery.length > 1 && (
+        <>
+          <button class="sipka predchozi" aria-label="Předchozí záběr">‹</button>
+          <button class="sipka dalsi" aria-label="Další záběr">›</button>
+        </>
+      )
+    }
+    <span class="pocitadlo"></span>
+  </dialog>
+</section>
+
+<script>
+  for (const galerie of document.querySelectorAll<HTMLElement>('.galerie')) {
+    const nahledy = [...galerie.querySelectorAll<HTMLButtonElement>('.nahled')];
+    const dialog = galerie.querySelector('dialog')!;
+    const obr = dialog.querySelector('img')!;
+    const pocitadlo = dialog.querySelector('.pocitadlo')!;
+    let aktualni = 0;
+
+    const ukaz = (i: number) => {
+      aktualni = (i + nahledy.length) % nahledy.length;
+      obr.src = nahledy[aktualni].dataset.velky!;
+      obr.alt = nahledy[aktualni].querySelector('img')!.alt;
+      pocitadlo.textContent = `${aktualni + 1} / ${nahledy.length}`;
+    };
+
+    nahledy.forEach((n, i) =>
+      n.addEventListener('click', () => {
+        ukaz(i);
+        dialog.showModal();
+      }),
+    );
+    dialog.querySelector('.zavrit')!.addEventListener('click', () => dialog.close());
+    dialog.querySelector('.predchozi')?.addEventListener('click', () => ukaz(aktualni - 1));
+    dialog.querySelector('.dalsi')?.addEventListener('click', () => ukaz(aktualni + 1));
+    // Klik mimo obrázek zavře, šipky listují
+    dialog.addEventListener('click', (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+    dialog.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') ukaz(aktualni - 1);
+      if (e.key === 'ArrowRight') ukaz(aktualni + 1);
+    });
+  }
+</script>
+
+<style>
+  .mrizka {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+
+  .nahled {
+    padding: 0;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    background: #000;
+    cursor: zoom-in;
+    aspect-ratio: 16 / 9;
+  }
+
+  .nahled img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition:
+      transform 0.35s,
+      filter 0.35s;
+    filter: saturate(0.9);
+  }
+
+  .nahled:hover img,
+  .nahled:focus-visible img {
+    transform: scale(1.05);
+    filter: saturate(1.1);
+  }
+
+  .nahled:hover {
+    border-color: var(--cyan);
+  }
+
+  .zdroj {
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--dim);
+  }
+
+  .zdroj a {
+    color: var(--cyan);
+  }
+
+  .prohlizec {
+    width: min(1280px, 100vw - 32px);
+    max-width: none;
+    padding: 0;
+    border: 1px solid var(--line-strong);
+    border-radius: 12px;
+    background: #000;
+    color: var(--text);
+    overflow: visible;
+  }
+
+  .prohlizec::backdrop {
+    background: rgba(3, 4, 10, 0.88);
+    backdrop-filter: blur(6px);
+  }
+
+  .prohlizec img {
+    width: 100%;
+    max-height: calc(100vh - 80px);
+    object-fit: contain;
+    border-radius: 12px;
+  }
+
+  .prohlizec button {
+    position: absolute;
+    border: 1px solid var(--line-strong);
+    background: rgba(6, 7, 13, 0.75);
+    color: var(--text);
+    cursor: pointer;
+    border-radius: 999px;
+    font: inherit;
+  }
+
+  .prohlizec button:hover {
+    border-color: var(--cyan);
+    color: var(--cyan);
+  }
+
+  .zavrit {
+    top: -14px;
+    right: -14px;
+    width: 36px;
+    height: 36px;
+  }
+
+  .sipka {
+    top: 50%;
+    translate: 0 -50%;
+    width: 44px;
+    height: 44px;
+    font-size: 26px !important;
+    line-height: 1;
+  }
+
+  .predchozi {
+    left: 10px;
+  }
+
+  .dalsi {
+    right: 10px;
+  }
+
+  .pocitadlo {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    translate: -50% 0;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    padding: 3px 10px;
+    border-radius: 999px;
+    background: rgba(6, 7, 13, 0.75);
+  }
+
+  @media (max-width: 640px) {
+    .mrizka {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+    }
+
+    .zavrit {
+      top: 8px;
+      right: 8px;
+    }
+  }
+</style>
