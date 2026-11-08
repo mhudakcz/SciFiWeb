@@ -5,8 +5,10 @@ Fun průvodce světem sci-fi filmů a seriálů (sesterský projekt RetroWebu). 
 ```bash
 npm install
 npm run dev      # http://localhost:4321
-npm run build    # výstup do dist/ (Netlify: netlify.toml)
+npm run build    # výstup do dist/
 ```
+
+Push do `main` se na https://scifiwebcz.netlify.app nasadí automaticky (GitHub webhook → Netlify build hook).
 
 ## Kde jsou data
 
