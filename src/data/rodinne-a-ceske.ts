@@ -155,7 +155,7 @@ export const rodinneACeske: Titul[] = [
   },
   {
     slug: 'divoky-robot',
-    nazev: 'Divoký robot',
+    nazev: 'Rozzum v divočině',
     original: 'The Wild Robot',
     typ: 'animace',
     rok: 2024,

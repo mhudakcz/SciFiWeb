@@ -1,5 +1,6 @@
 {
   "babylon-5": {
+    "tmdb": "tv/3137",
     "wiki": "en:Babylon 5 season 1"
   },
   "ex-machina": {
@@ -103,11 +104,5 @@
   },
   "problem-tri-teles": {
     "wiki": "en:3 Body Problem (TV series)"
-  },
-  "pan-tau": {
-    "vynechat": true
-  },
-  "alf": {
-    "vynechat": true
   }
 }

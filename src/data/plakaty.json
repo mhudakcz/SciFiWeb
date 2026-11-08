@@ -1,93 +1,93 @@
 {
   "metropolis": {
     "soubor": "/plakaty/metropolis.jpg",
-    "zdroj": "wiki:en:Metropolis (1927 film)",
-    "nazev": "Metropolis (1927 film)"
+    "zdroj": "tmdb:movie/19",
+    "nazev": "Metropolis"
   },
   "den-kdy-se-zastavila-zeme": {
     "soubor": "/plakaty/den-kdy-se-zastavila-zeme.jpg",
-    "zdroj": "wiki:en:The Day the Earth Stood Still",
-    "nazev": "The Day the Earth Stood Still"
+    "zdroj": "tmdb:movie/828",
+    "nazev": "Den, kdy se zastavila Země"
   },
   "zakazana-planeta": {
     "soubor": "/plakaty/zakazana-planeta.jpg",
-    "zdroj": "wiki:en:Forbidden Planet",
-    "nazev": "Forbidden Planet"
+    "zdroj": "tmdb:movie/830",
+    "nazev": "Zakázaná planeta"
   },
   "vynalez-zkazy": {
     "soubor": "/plakaty/vynalez-zkazy.jpg",
-    "zdroj": "wiki:cs:Vynález zkázy",
+    "zdroj": "tmdb:movie/19759",
     "nazev": "Vynález zkázy"
   },
   "doctor-who": {
     "soubor": "/plakaty/doctor-who.jpg",
-    "zdroj": "wiki:en:Doctor Who series 15",
-    "nazev": "Doctor Who series 15"
+    "zdroj": "tmdb:tv/121",
+    "nazev": "Pán času"
   },
   "ikarie-xb-1": {
     "soubor": "/plakaty/ikarie-xb-1.jpg",
-    "zdroj": "wiki:en:Ikarie XB-1",
-    "nazev": "Ikarie XB-1"
+    "zdroj": "tmdb:movie/19757",
+    "nazev": "Ikarie XB 1"
   },
   "star-trek": {
-    "soubor": "/plakaty/star-trek.png",
-    "zdroj": "wiki:en:Star Trek: The Original Series season 1",
-    "nazev": "Star Trek: The Original Series season 1"
+    "soubor": "/plakaty/star-trek.jpg",
+    "zdroj": "tmdb:tv/253",
+    "nazev": "Star Trek"
   },
   "2001-vesmirna-odysea": {
-    "soubor": "/plakaty/2001-vesmirna-odysea.png",
-    "zdroj": "wiki:en:2001: A Space Odyssey",
-    "nazev": "2001: A Space Odyssey"
+    "soubor": "/plakaty/2001-vesmirna-odysea.jpg",
+    "zdroj": "tmdb:movie/62",
+    "nazev": "2001: Vesmírná Odysea"
   },
   "planeta-opic": {
     "soubor": "/plakaty/planeta-opic.jpg",
-    "zdroj": "wiki:en:Planet of the Apes (1968 film)",
-    "nazev": "Planet of the Apes (1968 film)"
+    "zdroj": "tmdb:movie/871",
+    "nazev": "Planeta opic"
   },
   "solaris": {
     "soubor": "/plakaty/solaris.jpg",
-    "zdroj": "wiki:en:Solaris (1972 film)",
-    "nazev": "Solaris (1972 film)"
+    "zdroj": "tmdb:movie/593",
+    "nazev": "Solaris"
   },
   "blizka-setkani-tretiho-druhu": {
     "soubor": "/plakaty/blizka-setkani-tretiho-druhu.jpg",
-    "zdroj": "wiki:en:Close Encounters of the Third Kind",
-    "nazev": "Close Encounters of the Third Kind"
+    "zdroj": "tmdb:movie/840",
+    "nazev": "Blízká setkání třetího druhu"
   },
   "star-wars-nova-nadeje": {
     "soubor": "/plakaty/star-wars-nova-nadeje.jpg",
-    "zdroj": "wiki:en:Star Wars (film)",
-    "nazev": "Star Wars (film)"
+    "zdroj": "tmdb:movie/11",
+    "nazev": "Hvězdné války"
   },
   "vetrelec": {
     "soubor": "/plakaty/vetrelec.jpg",
-    "zdroj": "wiki:en:Alien (film)",
-    "nazev": "Alien (film)"
+    "zdroj": "tmdb:movie/348",
+    "nazev": "Vetřelec"
   },
   "imperium-vraci-uder": {
     "soubor": "/plakaty/imperium-vraci-uder.jpg",
-    "zdroj": "wiki:en:The Empire Strikes Back",
-    "nazev": "The Empire Strikes Back"
+    "zdroj": "tmdb:movie/1891",
+    "nazev": "Impérium vrací úder"
   },
   "blade-runner": {
-    "soubor": "/plakaty/blade-runner.png",
-    "zdroj": "wiki:en:Blade Runner",
+    "soubor": "/plakaty/blade-runner.jpg",
+    "zdroj": "tmdb:movie/78",
     "nazev": "Blade Runner"
   },
   "et-mimozemstan": {
     "soubor": "/plakaty/et-mimozemstan.jpg",
-    "zdroj": "wiki:en:E.T. the Extra-Terrestrial",
-    "nazev": "E.T. the Extra-Terrestrial"
+    "zdroj": "tmdb:movie/601",
+    "nazev": "E.T. – Mimozemšťan"
   },
   "star-trek-khanuv-hnev": {
-    "soubor": "/plakaty/star-trek-khanuv-hnev.png",
-    "zdroj": "wiki:en:Star Trek II: The Wrath of Khan",
-    "nazev": "Star Trek II: The Wrath of Khan"
+    "soubor": "/plakaty/star-trek-khanuv-hnev.jpg",
+    "zdroj": "tmdb:movie/154",
+    "nazev": "Star Trek II: Khanův hněv"
   },
   "vec": {
-    "soubor": "/plakaty/vec.png",
-    "zdroj": "wiki:en:The Thing (1982 film)",
-    "nazev": "The Thing (1982 film)"
+    "soubor": "/plakaty/vec.jpg",
+    "zdroj": "tmdb:movie/1091",
+    "nazev": "Věc"
   },
   "letajici-cestmir": {
     "soubor": "/plakaty/letajici-cestmir.jpg",
@@ -96,292 +96,286 @@
   },
   "navrat-jediho": {
     "soubor": "/plakaty/navrat-jediho.jpg",
-    "zdroj": "wiki:en:Return of the Jedi",
-    "nazev": "Return of the Jedi"
+    "zdroj": "tmdb:movie/1892",
+    "nazev": "Návrat Jediho"
   },
   "v-navstevnici": {
     "soubor": "/plakaty/v-navstevnici.jpg",
-    "zdroj": "wiki:en:V (1983 miniseries)",
-    "nazev": "V (1983 miniseries)"
+    "zdroj": "tmdb:tv/14141",
+    "nazev": "V"
   },
   "terminator": {
-    "soubor": "/plakaty/terminator.png",
-    "zdroj": "wiki:en:The Terminator",
-    "nazev": "The Terminator"
+    "soubor": "/plakaty/terminator.jpg",
+    "zdroj": "tmdb:movie/218",
+    "nazev": "Terminátor"
   },
   "navrat-do-budoucnosti": {
     "soubor": "/plakaty/navrat-do-budoucnosti.jpg",
-    "zdroj": "wiki:en:Back to the Future",
-    "nazev": "Back to the Future"
+    "zdroj": "tmdb:movie/105",
+    "nazev": "Návrat do budoucnosti"
   },
   "vetrelci": {
     "soubor": "/plakaty/vetrelci.jpg",
-    "zdroj": "wiki:en:Aliens (film)",
-    "nazev": "Aliens (film)"
+    "zdroj": "tmdb:movie/679",
+    "nazev": "Vetřelci"
   },
   "predator": {
     "soubor": "/plakaty/predator.jpg",
-    "zdroj": "wiki:en:Predator (film)",
-    "nazev": "Predator (film)"
+    "zdroj": "tmdb:movie/106",
+    "nazev": "Predátor"
   },
   "robocop": {
     "soubor": "/plakaty/robocop.jpg",
-    "zdroj": "wiki:en:RoboCop",
+    "zdroj": "tmdb:movie/5548",
     "nazev": "RoboCop"
   },
   "akira": {
     "soubor": "/plakaty/akira.jpg",
-    "zdroj": "wiki:en:Akira (1988 film)",
-    "nazev": "Akira (1988 film)"
+    "zdroj": "tmdb:movie/149",
+    "nazev": "Akira"
   },
   "cerveny-trpaslik": {
-    "soubor": "/plakaty/cerveny-trpaslik.png",
-    "zdroj": "wiki:en:Red Dwarf",
-    "nazev": "Red Dwarf",
-    "naSirku": true
+    "soubor": "/plakaty/cerveny-trpaslik.jpg",
+    "zdroj": "tmdb:tv/326",
+    "nazev": "Červený trpaslík"
   },
   "total-recall": {
     "soubor": "/plakaty/total-recall.jpg",
-    "zdroj": "wiki:en:Total Recall (1990 film)",
-    "nazev": "Total Recall (1990 film)"
+    "zdroj": "tmdb:movie/861",
+    "nazev": "Total Recall"
   },
   "terminator-2": {
-    "soubor": "/plakaty/terminator-2.png",
-    "zdroj": "wiki:en:Terminator 2: Judgment Day",
-    "nazev": "Terminator 2: Judgment Day"
+    "soubor": "/plakaty/terminator-2.jpg",
+    "zdroj": "tmdb:movie/280",
+    "nazev": "Terminátor 2: Den zúčtování"
   },
   "jursky-park": {
     "soubor": "/plakaty/jursky-park.jpg",
-    "zdroj": "wiki:en:Jurassic Park",
-    "nazev": "Jurassic Park"
+    "zdroj": "tmdb:movie/329",
+    "nazev": "Jurský park"
   },
   "ghost-in-the-shell": {
     "soubor": "/plakaty/ghost-in-the-shell.jpg",
-    "zdroj": "wiki:en:Ghost in the Shell (1995 film)",
-    "nazev": "Ghost in the Shell (1995 film)"
+    "zdroj": "tmdb:movie/9323",
+    "nazev": "Ghost in the Shell"
   },
   "neon-genesis-evangelion": {
-    "soubor": "/plakaty/neon-genesis-evangelion.png",
-    "zdroj": "wiki:en:Neon Genesis Evangelion",
-    "nazev": "Neon Genesis Evangelion",
-    "naSirku": true
+    "soubor": "/plakaty/neon-genesis-evangelion.jpg",
+    "zdroj": "tmdb:tv/890",
+    "nazev": "Šinseiki Evangelion"
   },
   "den-nezavislosti": {
     "soubor": "/plakaty/den-nezavislosti.jpg",
-    "zdroj": "wiki:en:Independence Day (1996 film)",
-    "nazev": "Independence Day (1996 film)"
+    "zdroj": "tmdb:movie/602",
+    "nazev": "Den nezávislosti"
   },
   "gattaca": {
     "soubor": "/plakaty/gattaca.jpg",
-    "zdroj": "wiki:en:Gattaca",
+    "zdroj": "tmdb:movie/782",
     "nazev": "Gattaca"
   },
   "hvezdna-brana": {
     "soubor": "/plakaty/hvezdna-brana.jpg",
-    "zdroj": "wiki:en:Stargate SG-1 season 1",
-    "nazev": "Stargate SG-1 season 1"
+    "zdroj": "tmdb:tv/4629",
+    "nazev": "Hvězdná brána: SG-1"
   },
   "hvezdna-pechota": {
     "soubor": "/plakaty/hvezdna-pechota.jpg",
-    "zdroj": "wiki:en:Starship Troopers (film)",
-    "nazev": "Starship Troopers (film)"
+    "zdroj": "tmdb:movie/563",
+    "nazev": "Hvězdná pěchota"
   },
   "muzi-v-cernem": {
     "soubor": "/plakaty/muzi-v-cernem.jpg",
-    "zdroj": "wiki:en:Men in Black (1997 film)",
-    "nazev": "Men in Black (1997 film)"
+    "zdroj": "tmdb:movie/607",
+    "nazev": "Muži v černém"
   },
   "cowboy-bebop": {
     "soubor": "/plakaty/cowboy-bebop.jpg",
-    "zdroj": "wiki:en:Cowboy Bebop",
-    "nazev": "Cowboy Bebop"
+    "zdroj": "tmdb:tv/30991",
+    "nazev": "Kovboj Bebop"
   },
   "futurama": {
-    "soubor": "/plakaty/futurama.png",
-    "zdroj": "wiki:en:Futurama season 4",
-    "nazev": "Futurama season 4"
+    "soubor": "/plakaty/futurama.jpg",
+    "zdroj": "tmdb:tv/615",
+    "nazev": "Futurama"
   },
   "matrix": {
-    "soubor": "/plakaty/matrix.png",
-    "zdroj": "wiki:en:The Matrix",
-    "nazev": "The Matrix"
+    "soubor": "/plakaty/matrix.jpg",
+    "zdroj": "tmdb:movie/603",
+    "nazev": "Matrix"
   },
   "zelezny-obr": {
     "soubor": "/plakaty/zelezny-obr.jpg",
-    "zdroj": "wiki:en:The Iron Giant",
-    "nazev": "The Iron Giant"
+    "zdroj": "tmdb:movie/10386",
+    "nazev": "Železný obr"
   },
   "lilo-a-stitch": {
     "soubor": "/plakaty/lilo-a-stitch.jpg",
-    "zdroj": "wiki:en:Lilo & Stitch",
+    "zdroj": "tmdb:movie/11544",
     "nazev": "Lilo & Stitch"
   },
   "minority-report": {
     "soubor": "/plakaty/minority-report.jpg",
-    "zdroj": "wiki:en:Minority Report",
+    "zdroj": "tmdb:movie/180",
     "nazev": "Minority Report"
   },
   "planeta-pokladu": {
     "soubor": "/plakaty/planeta-pokladu.jpg",
-    "zdroj": "wiki:en:Treasure Planet",
-    "nazev": "Treasure Planet"
+    "zdroj": "tmdb:movie/9016",
+    "nazev": "Planeta pokladů"
   },
   "battlestar-galactica": {
     "soubor": "/plakaty/battlestar-galactica.jpg",
-    "zdroj": "wiki:en:Battlestar Galactica (2004 TV series)",
-    "nazev": "Battlestar Galactica (2004 TV series)",
-    "naSirku": true
+    "zdroj": "tmdb:tv/1972",
+    "nazev": "Battlestar Galactica"
   },
   "wall-e": {
     "soubor": "/plakaty/wall-e.jpg",
-    "zdroj": "wiki:en:WALL-E",
-    "nazev": "WALL-E"
+    "zdroj": "tmdb:movie/10681",
+    "nazev": "VALL-I"
   },
   "avatar": {
     "soubor": "/plakaty/avatar.jpg",
-    "zdroj": "wiki:en:Avatar (2009 film)",
-    "nazev": "Avatar (2009 film)"
+    "zdroj": "tmdb:movie/19995",
+    "nazev": "Avatar"
   },
   "district-9": {
     "soubor": "/plakaty/district-9.jpg",
-    "zdroj": "wiki:en:District 9",
+    "zdroj": "tmdb:movie/17654",
     "nazev": "District 9"
   },
   "moon": {
     "soubor": "/plakaty/moon.jpg",
-    "zdroj": "wiki:en:Moon (2009 film)",
-    "nazev": "Moon (2009 film)"
+    "zdroj": "tmdb:movie/17431",
+    "nazev": "Moon"
   },
   "gravitace": {
     "soubor": "/plakaty/gravitace.jpg",
-    "zdroj": "wiki:en:Gravity (2013 film)",
-    "nazev": "Gravity (2013 film)"
+    "zdroj": "tmdb:movie/49047",
+    "nazev": "Gravitace"
   },
   "ona": {
     "soubor": "/plakaty/ona.jpg",
-    "zdroj": "wiki:en:Her (2013 film)",
-    "nazev": "Her (2013 film)"
+    "zdroj": "tmdb:movie/152601",
+    "nazev": "Ona"
   },
   "rick-a-morty": {
-    "soubor": "/plakaty/rick-a-morty.png",
-    "zdroj": "wiki:en:Rick and Morty season 1",
-    "nazev": "Rick and Morty season 1"
+    "soubor": "/plakaty/rick-a-morty.jpg",
+    "zdroj": "tmdb:tv/60625",
+    "nazev": "Rick a Morty"
   },
   "ex-machina": {
     "soubor": "/plakaty/ex-machina.jpg",
-    "zdroj": "wiki:en:Ex Machina (film)",
-    "nazev": "Ex Machina (film)",
-    "naSirku": true,
+    "zdroj": "tmdb:movie/264660",
+    "nazev": "Ex Machina",
     "podle": "{\"wiki\":\"en:Ex Machina (film)\"}"
   },
   "interstellar": {
     "soubor": "/plakaty/interstellar.jpg",
-    "zdroj": "wiki:en:Interstellar (film)",
-    "nazev": "Interstellar (film)"
+    "zdroj": "tmdb:movie/157336",
+    "nazev": "Interstellar"
   },
   "na-hrane-zitrka": {
     "soubor": "/plakaty/na-hrane-zitrka.jpg",
-    "zdroj": "wiki:en:Edge of Tomorrow",
-    "nazev": "Edge of Tomorrow"
+    "zdroj": "tmdb:movie/137113",
+    "nazev": "Na hraně zítřka"
   },
   "strazci-galaxie": {
     "soubor": "/plakaty/strazci-galaxie.jpg",
-    "zdroj": "wiki:en:Guardians of the Galaxy (film)",
-    "nazev": "Guardians of the Galaxy (film)"
+    "zdroj": "tmdb:movie/118340",
+    "nazev": "Strážci Galaxie"
   },
   "velka-sestka": {
     "soubor": "/plakaty/velka-sestka.jpg",
-    "zdroj": "wiki:en:Big Hero 6 (film)",
-    "nazev": "Big Hero 6 (film)"
+    "zdroj": "tmdb:movie/177572",
+    "nazev": "Velká šestka"
   },
   "martan": {
     "soubor": "/plakaty/martan.jpg",
-    "zdroj": "wiki:en:The Martian (film)",
-    "nazev": "The Martian (film)"
+    "zdroj": "tmdb:movie/286217",
+    "nazev": "Marťan"
   },
   "mad-max-zbesila-cesta": {
     "soubor": "/plakaty/mad-max-zbesila-cesta.jpg",
-    "zdroj": "wiki:en:Mad Max: Fury Road",
-    "nazev": "Mad Max: Fury Road"
+    "zdroj": "tmdb:movie/76341",
+    "nazev": "Šílený Max: Zběsilá cesta"
   },
   "prichozi": {
     "soubor": "/plakaty/prichozi.jpg",
-    "zdroj": "wiki:en:Arrival (film)",
-    "nazev": "Arrival (film)"
+    "zdroj": "tmdb:movie/329865",
+    "nazev": "Příchozí"
   },
   "stranger-things": {
-    "soubor": "/plakaty/stranger-things.png",
-    "zdroj": "wiki:en:Stranger Things",
-    "nazev": "Stranger Things",
-    "naSirku": true
+    "soubor": "/plakaty/stranger-things.jpg",
+    "zdroj": "tmdb:tv/66732",
+    "nazev": "Stranger Things"
   },
   "westworld": {
-    "soubor": "/plakaty/westworld.png",
-    "zdroj": "wiki:en:Westworld season 1",
-    "nazev": "Westworld season 1",
-    "naSirku": true,
+    "soubor": "/plakaty/westworld.jpg",
+    "zdroj": "tmdb:tv/63247",
+    "nazev": "Westworld",
     "podle": "{\"wiki\":\"en:Westworld season 1\"}"
   },
   "blade-runner-2049": {
-    "soubor": "/plakaty/blade-runner-2049.png",
-    "zdroj": "wiki:en:Blade Runner 2049",
+    "soubor": "/plakaty/blade-runner-2049.jpg",
+    "zdroj": "tmdb:movie/335984",
     "nazev": "Blade Runner 2049"
   },
   "the-orville": {
     "soubor": "/plakaty/the-orville.jpg",
-    "zdroj": "wiki:en:The Orville season 2",
-    "nazev": "The Orville season 2"
+    "zdroj": "tmdb:tv/71738",
+    "nazev": "The Orville"
   },
   "anihilace": {
-    "soubor": "/plakaty/anihilace.png",
-    "zdroj": "wiki:en:Annihilation (film)",
-    "nazev": "Annihilation (film)"
+    "soubor": "/plakaty/anihilace.jpg",
+    "zdroj": "tmdb:movie/300668",
+    "nazev": "Anihilace"
   },
   "mandalorian": {
     "soubor": "/plakaty/mandalorian.jpg",
-    "zdroj": "wiki:en:The Mandalorian season 1",
-    "nazev": "The Mandalorian season 1",
+    "zdroj": "tmdb:tv/82856",
+    "nazev": "Mandalorian",
     "podle": "{\"wiki\":\"en:The Mandalorian season 1\"}"
   },
   "duna": {
     "soubor": "/plakaty/duna.jpg",
-    "zdroj": "wiki:en:Dune (2021 film)",
-    "nazev": "Dune (2021 film)"
+    "zdroj": "tmdb:movie/438631",
+    "nazev": "Duna"
   },
   "star-trek-strange-new-worlds": {
     "soubor": "/plakaty/star-trek-strange-new-worlds.jpg",
-    "zdroj": "wiki:en:Star Trek: Strange New Worlds season 1",
-    "nazev": "Star Trek: Strange New Worlds season 1"
+    "zdroj": "tmdb:tv/103516",
+    "nazev": "Star Trek: Podivné nové světy"
   },
   "vsechno-vsude-najednou": {
     "soubor": "/plakaty/vsechno-vsude-najednou.jpg",
-    "zdroj": "wiki:en:Everything Everywhere All at Once",
-    "nazev": "Everything Everywhere All at Once"
+    "zdroj": "tmdb:movie/545611",
+    "nazev": "Všechno, všude, najednou"
   },
   "the-last-of-us": {
-    "soubor": "/plakaty/the-last-of-us.png",
-    "zdroj": "wiki:en:The Last of Us season 1",
-    "nazev": "The Last of Us season 1"
+    "soubor": "/plakaty/the-last-of-us.jpg",
+    "zdroj": "tmdb:tv/100088",
+    "nazev": "The Last of Us"
   },
   "divoky-robot": {
     "soubor": "/plakaty/divoky-robot.jpg",
-    "zdroj": "wiki:en:The Wild Robot",
-    "nazev": "The Wild Robot"
+    "zdroj": "tmdb:movie/1184918",
+    "nazev": "Rozzum v divočině"
   },
   "duna-cast-druha": {
     "soubor": "/plakaty/duna-cast-druha.jpg",
-    "zdroj": "wiki:en:Dune: Part Two",
-    "nazev": "Dune: Part Two"
+    "zdroj": "tmdb:movie/693134",
+    "nazev": "Duna: Část druhá"
   },
   "fallout": {
     "soubor": "/plakaty/fallout.jpg",
-    "zdroj": "wiki:en:Fallout season 1",
-    "nazev": "Fallout season 1"
+    "zdroj": "tmdb:tv/106379",
+    "nazev": "Fallout"
   },
   "cesta-do-praveku": {
     "soubor": "/plakaty/cesta-do-praveku.jpg",
-    "zdroj": "wiki:en:Journey to the Beginning of Time",
-    "nazev": "Journey to the Beginning of Time",
+    "zdroj": "tmdb:movie/8779",
+    "nazev": "Cesta do pravěku",
     "podle": "{\"wiki\":\"en:Journey to the Beginning of Time\"}"
   },
   "muz-z-prvniho-stoleti": {
@@ -392,93 +386,192 @@
   },
   "kdo-chce-zabit-jessii": {
     "soubor": "/plakaty/kdo-chce-zabit-jessii.jpg",
-    "zdroj": "wiki:en:Who Wants to Kill Jessie?",
-    "nazev": "Who Wants to Kill Jessie?",
+    "zdroj": "tmdb:movie/65904",
+    "nazev": "Kdo chce zabít Jessii?",
     "podle": "{\"wiki\":\"en:Who Wants to Kill Jessie?\"}"
   },
   "zitra-vstanu-a-oparim-se-cajem": {
     "soubor": "/plakaty/zitra-vstanu-a-oparim-se-cajem.jpg",
-    "zdroj": "wiki:en:Tomorrow I'll Wake Up and Scald Myself with Tea",
-    "nazev": "Tomorrow I'll Wake Up and Scald Myself with Tea",
+    "zdroj": "tmdb:movie/51424",
+    "nazev": "Zítra vstanu a opařím se čajem",
     "podle": "{\"wiki\":\"en:Tomorrow I'll Wake Up and Scald Myself with Tea\"}"
   },
   "nausicaa": {
     "soubor": "/plakaty/nausicaa.jpg",
-    "zdroj": "wiki:en:Nausicaä of the Valley of the Wind (film)",
-    "nazev": "Nausicaä of the Valley of the Wind (film)",
+    "zdroj": "tmdb:movie/81",
+    "nazev": "Naušika z Větrného údolí",
     "podle": "{\"wiki\":\"en:Nausicaä of the Valley of the Wind (film)\"}"
   },
   "laputa": {
-    "soubor": "/plakaty/laputa.png",
-    "zdroj": "wiki:en:Castle in the Sky",
-    "nazev": "Castle in the Sky",
+    "soubor": "/plakaty/laputa.jpg",
+    "zdroj": "tmdb:movie/10515",
+    "nazev": "Laputa: Nebeský zámek",
     "podle": "{\"wiki\":\"en:Castle in the Sky\"}"
   },
   "akta-x": {
     "soubor": "/plakaty/akta-x.jpg",
-    "zdroj": "wiki:en:The X-Files season 1",
-    "nazev": "The X-Files season 1",
+    "zdroj": "tmdb:tv/4087",
+    "nazev": "Akta X",
     "podle": "{\"wiki\":\"en:The X-Files season 1\"}"
   },
   "akumulator-1": {
     "soubor": "/plakaty/akumulator-1.jpg",
-    "zdroj": "wiki:en:Accumulator 1",
-    "nazev": "Accumulator 1",
+    "zdroj": "tmdb:movie/16977",
+    "nazev": "Akumulátor 1",
     "podle": "{\"wiki\":\"en:Accumulator 1\"}"
   },
   "paty-element": {
     "soubor": "/plakaty/paty-element.jpg",
-    "zdroj": "wiki:en:The Fifth Element",
-    "nazev": "The Fifth Element",
+    "zdroj": "tmdb:movie/18",
+    "nazev": "Pátý element",
     "podle": "{\"wiki\":\"en:The Fifth Element\"}"
   },
   "brazil": {
     "soubor": "/plakaty/brazil.jpg",
-    "zdroj": "wiki:en:Brazil (1985 film)",
-    "nazev": "Brazil (1985 film)",
-    "naSirku": true,
+    "zdroj": "tmdb:movie/68",
+    "nazev": "Brazil",
     "podle": "{\"wiki\":\"en:Brazil (1985 film)\"}"
   },
   "star-trek-nova-generace": {
     "soubor": "/plakaty/star-trek-nova-generace.jpg",
-    "zdroj": "wiki:en:Star Trek: The Next Generation season 1",
-    "nazev": "Star Trek: The Next Generation season 1",
-    "naSirku": true,
+    "zdroj": "tmdb:tv/655",
+    "nazev": "Star Trek: Nová generace",
     "podle": "{\"wiki\":\"en:Star Trek: The Next Generation season 1\"}"
   },
   "firefly": {
     "soubor": "/plakaty/firefly.jpg",
-    "zdroj": "wiki:en:Firefly (TV series)",
-    "nazev": "Firefly (TV series)",
-    "naSirku": true,
+    "zdroj": "tmdb:tv/1437",
+    "nazev": "Firefly",
     "podle": "{\"wiki\":\"en:Firefly (TV series)\"}"
   },
   "potomci-lidi": {
     "soubor": "/plakaty/potomci-lidi.jpg",
-    "zdroj": "wiki:en:Children of Men",
-    "nazev": "Children of Men",
-    "naSirku": true,
+    "zdroj": "tmdb:movie/9693",
+    "nazev": "Potomci lidí",
     "podle": "{\"wiki\":\"en:Children of Men\"}"
   },
   "for-all-mankind": {
-    "soubor": "/plakaty/for-all-mankind.png",
-    "zdroj": "wiki:en:For All Mankind (TV series)",
-    "nazev": "For All Mankind (TV series)",
-    "naSirku": true,
+    "soubor": "/plakaty/for-all-mankind.jpg",
+    "zdroj": "tmdb:tv/87917",
+    "nazev": "For All Mankind",
     "podle": "{\"wiki\":\"en:For All Mankind season 1\"}"
   },
   "station-eleven": {
-    "soubor": "/plakaty/station-eleven.png",
-    "zdroj": "wiki:en:Station Eleven (miniseries)",
-    "nazev": "Station Eleven (miniseries)",
-    "naSirku": true,
+    "soubor": "/plakaty/station-eleven.jpg",
+    "zdroj": "tmdb:tv/90972",
+    "nazev": "Stanice 11",
     "podle": "{\"wiki\":\"en:Station Eleven (miniseries)\"}"
   },
   "problem-tri-teles": {
-    "soubor": "/plakaty/problem-tri-teles.png",
-    "zdroj": "wiki:en:3 Body Problem (TV series)",
-    "nazev": "3 Body Problem (TV series)",
-    "naSirku": true,
+    "soubor": "/plakaty/problem-tri-teles.jpg",
+    "zdroj": "tmdb:tv/108545",
+    "nazev": "Problém tří těles",
     "podle": "{\"wiki\":\"en:3 Body Problem (TV series)\"}"
+  },
+  "zona-soumraku": {
+    "soubor": "/plakaty/zona-soumraku.jpg",
+    "zdroj": "tmdb:tv/6357",
+    "nazev": "The Twilight Zone",
+    "podle": "{\"wiki\":\"en:The Twilight Zone (1959 TV series, season 1)\"}"
+  },
+  "jetsonovi": {
+    "soubor": "/plakaty/jetsonovi.jpg",
+    "zdroj": "tmdb:tv/2362",
+    "nazev": "The Jetsons",
+    "podle": "{\"wiki\":\"en:The Jetsons\"}"
+  },
+  "konec-srpna-v-hotelu-ozon": {
+    "soubor": "/plakaty/konec-srpna-v-hotelu-ozon.jpg",
+    "zdroj": "tmdb:movie/86451",
+    "nazev": "Konec srpna v Hotelu Ozon",
+    "podle": "{\"wiki\":\"en:The End of August at the Hotel Ozone\"}"
+  },
+  "pan-tau": {
+    "soubor": "/plakaty/pan-tau.jpg",
+    "zdroj": "tmdb:tv/54309",
+    "nazev": "Pan Tau"
+  },
+  "navstevnici": {
+    "soubor": "/plakaty/navstevnici.jpg",
+    "zdroj": "tmdb:tv/5464",
+    "nazev": "Návštěvníci",
+    "podle": "{\"wiki\":\"en:The Visitors (1983 TV series)\"}"
+  },
+  "alf": {
+    "soubor": "/plakaty/alf.jpg",
+    "zdroj": "tmdb:tv/4658",
+    "nazev": "ALF"
+  },
+  "star-trek-deep-space-nine": {
+    "soubor": "/plakaty/star-trek-deep-space-nine.jpg",
+    "zdroj": "tmdb:tv/580",
+    "nazev": "Star Trek: Hluboký Vesmír Devět",
+    "podle": "{\"wiki\":\"en:Star Trek: Deep Space Nine season 1\"}"
+  },
+  "star-trek-voyager": {
+    "soubor": "/plakaty/star-trek-voyager.jpg",
+    "zdroj": "tmdb:tv/1855",
+    "nazev": "Star Trek: Voyager",
+    "podle": "{\"wiki\":\"en:Star Trek: Voyager season 1\"}"
+  },
+  "cerne-zrcadlo": {
+    "soubor": "/plakaty/cerne-zrcadlo.jpg",
+    "zdroj": "tmdb:tv/42009",
+    "nazev": "Černé zrcadlo",
+    "podle": "{\"wiki\":\"en:Black Mirror series 1\"}"
+  },
+  "expanze": {
+    "soubor": "/plakaty/expanze.jpg",
+    "zdroj": "tmdb:tv/63639",
+    "nazev": "Expanze",
+    "podle": "{\"wiki\":\"en:The Expanse season 1\"}"
+  },
+  "dark": {
+    "soubor": "/plakaty/dark.jpg",
+    "zdroj": "tmdb:tv/70523",
+    "nazev": "Dark",
+    "podle": "{\"wiki\":\"en:Dark (TV series)\"}"
+  },
+  "laska-smrt-roboti": {
+    "soubor": "/plakaty/laska-smrt-roboti.jpg",
+    "zdroj": "tmdb:tv/86831",
+    "nazev": "Love, Death & Robots",
+    "podle": "{\"wiki\":\"en:Love, Death & Robots volume 1\"}"
+  },
+  "devs": {
+    "soubor": "/plakaty/devs.jpg",
+    "zdroj": "tmdb:tv/81349",
+    "nazev": "Devs",
+    "podle": "{\"wiki\":\"en:Devs\"}"
+  },
+  "nadace": {
+    "soubor": "/plakaty/nadace.jpg",
+    "zdroj": "tmdb:tv/93740",
+    "nazev": "Nadace",
+    "podle": "{\"wiki\":\"en:Foundation season 1\"}"
+  },
+  "andor": {
+    "soubor": "/plakaty/andor.jpg",
+    "zdroj": "tmdb:tv/83867",
+    "nazev": "Andor",
+    "podle": "{\"wiki\":\"en:Andor season 1\"}"
+  },
+  "odlouceni": {
+    "soubor": "/plakaty/odlouceni.jpg",
+    "zdroj": "tmdb:tv/95396",
+    "nazev": "Odloučení",
+    "podle": "{\"wiki\":\"en:Severance season 1\"}"
+  },
+  "silo": {
+    "soubor": "/plakaty/silo.jpg",
+    "zdroj": "tmdb:tv/125988",
+    "nazev": "Silo",
+    "podle": "{\"wiki\":\"en:Silo season 1\"}"
+  },
+  "babylon-5": {
+    "soubor": "/plakaty/babylon-5.jpg",
+    "zdroj": "tmdb:tv/3137",
+    "nazev": "Babylon 5",
+    "podle": "{\"tmdb\":\"tv/3137\",\"wiki\":\"en:Babylon 5 season 1\"}"
   }
 }

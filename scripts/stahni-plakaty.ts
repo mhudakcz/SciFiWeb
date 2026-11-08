@@ -180,7 +180,8 @@ async function stahni(t: Titul): Promise<string> {
   if (!force && stary && stary.podle === podle && existsSync(join(root, 'public', stary.soubor))) return 'přeskočeno';
 
   let plakat: Plakat | null = null;
-  if (maTmdb && !oprava?.wiki) plakat = await zTmdb(t, oprava);
+  // TMDB má přednost; opravy pro Wikipedii platí jen pro záložní hledání tam
+  if (maTmdb) plakat = await zTmdb(t, oprava);
   if (!plakat) plakat = await zWikipedie(t, oprava);
   if (!plakat) {
     // Oprava nic nenašla – zahodíme i dřívější (špatný) plakát
