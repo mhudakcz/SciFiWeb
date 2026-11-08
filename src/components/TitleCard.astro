@@ -1,0 +1,83 @@
+---
+import Poster from './Poster.astro';
+import { dekada, eraTitulu, jeCeskoslovensky, rokyTitulu, subzanrBySlug, typy } from '../data';
+import type { Titul } from '../data';
+
+interface Props {
+  titul: Titul;
+}
+
+const { titul } = Astro.props;
+---
+
+<a
+  class="card"
+  href={`/tituly/${titul.slug}/`}
+  data-nazev={`${titul.nazev} ${titul.original ?? ''} ${titul.tvurce}`.toLowerCase()}
+  data-typ={titul.typ}
+  data-sub={titul.subzanry.join(' ')}
+  data-dekada={dekada(titul)}
+  data-era={eraTitulu(titul).slug}
+  data-pismeno={titul.nazev.charAt(0).toUpperCase()}
+  data-must={titul.mustSee ? '1' : ''}
+  data-deti={titul.deti ? '1' : ''}
+  data-cz={jeCeskoslovensky(titul) ? '1' : ''}
+>
+  <Poster titul={titul} />
+  <div class="meta">
+    <h3>{titul.nazev}</h3>
+    <p>
+      {rokyTitulu(titul)} · {typy[titul.typ].nazev}
+      {titul.mustSee && <span class="must" title="Musíte vidět">★</span>}
+    </p>
+    <p class="sub">{subzanrBySlug[titul.subzanry[0]].nazev}</p>
+  </div>
+</a>
+
+<style>
+  .card {
+    display: grid;
+    gap: 10px;
+    transition: transform 0.2s;
+  }
+
+  .card :global(.poster) {
+    transition:
+      transform 0.25s,
+      box-shadow 0.25s;
+  }
+
+  .card:hover :global(.poster) {
+    transform: translateY(-4px) rotate(-0.6deg);
+    box-shadow:
+      0 0 0 1px hsl(var(--h) 100% 70% / 0.6) inset,
+      0 18px 40px -12px hsl(var(--h) 100% 50% / 0.8);
+  }
+
+  h3 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.25;
+  }
+
+  .card:hover h3 {
+    color: var(--cyan);
+  }
+
+  p {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 3px;
+  }
+
+  .sub {
+    font-size: 12px;
+    color: var(--dim);
+    margin-top: 0;
+  }
+
+  .must {
+    color: var(--amber);
+    margin-left: 4px;
+  }
+</style>

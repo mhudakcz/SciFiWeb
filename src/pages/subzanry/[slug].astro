@@ -1,0 +1,32 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { subzanry, tituly } from '../../data';
+import type { Subzanr } from '../../data';
+
+export function getStaticPaths() {
+  return subzanry.map((s) => ({ params: { slug: s.slug }, props: { s } }));
+}
+
+const { s } = Astro.props as { s: Subzanr };
+const list = tituly.filter((t) => t.subzanry.includes(s.slug));
+const ostatni = subzanry.filter((o) => o.slug !== s.slug);
+---
+
+<Layout title={s.nazev} description={s.kratce}>
+  <div class="wrap page-head">
+    <nav class="crumbs"><a href="/subzanry/">Subžánry</a> / <span>{s.nazev}</span></nav>
+    <p class="hud" style={`margin-top:18px;color:hsl(${s.hue} 100% 72%)`}>⌬ Subžánr · {list.length} titulů</p>
+    <h1>{s.nazev}</h1>
+    <p>{s.popis}</p>
+  </div>
+  <div class="wrap">
+    <div class="grid">{list.map((t) => <TitleCard titul={t} />)}</div>
+    <section class="section">
+      <p class="hud">Další subžánry</p>
+      <div class="chips" style="margin-top:12px">
+        {ostatni.map((o) => <a class="chip" href={`/subzanry/${o.slug}/`}>{o.nazev}</a>)}
+      </div>
+    </section>
+  </div>
+</Layout>

@@ -1,0 +1,98 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { titulBySlug, tituly } from '../../data';
+
+const list = tituly.filter((t) => t.deti);
+
+// Orientační věkové skupiny (rodiče znají své děti nejlépe)
+const skupiny = [
+  { vek: 'od 6 let', ikona: '🧸', popis: 'Laskavé příběhy, žádné velké strašení.', slugy: ['wall-e', 'divoky-robot', 'lilo-a-stitch', 'pan-tau', 'letajici-cestmir'] },
+  { vek: 'od 8 let', ikona: '🚲', popis: 'Dobrodružství s trochou napětí a hodně srdce.', slugy: ['et-mimozemstan', 'zelezny-obr', 'navstevnici', 'vynalez-zkazy'] },
+  { vek: 'od 10 let', ikona: '🚀', popis: 'Akčnější jízdy, které si užijete společně.', slugy: ['navrat-do-budoucnosti', 'doctor-who', 'mandalorian'] },
+];
+---
+
+<Layout title="Sci-fi pro děti" description="Nejlepší sci-fi filmy a seriály pro děti a rodinné sledování: E.T., VALL-I, Železný obr, Pan Tau a další.">
+  <div class="wrap page-head">
+    <p class="hud magenta">🧸 Rodinný večer</p>
+    <h1>Sci-fi <span class="grad">pro děti</span></h1>
+    <p>Roboti s velkým srdcem, mimozemšťané, kteří chtějí domů, a cestování časem bez nočních můr. Tipy na společné sledování s dětmi.</p>
+  </div>
+
+  <div class="wrap">
+    {
+      skupiny.map((s) => (
+        <section class="age panel">
+          <div class="age-head">
+            <span class="ikona">{s.ikona}</span>
+            <div>
+              <h2>{s.vek}</h2>
+              <p>{s.popis}</p>
+            </div>
+          </div>
+          <div class="rail">
+            {s.slugy.map((slug) => (
+              <TitleCard titul={titulBySlug[slug]} />
+            ))}
+          </div>
+        </section>
+      ))
+    }
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <p class="hud">Všechny rodinné tituly</p>
+          <h2>{list.length} tipů na rodinný večer</h2>
+        </div>
+        <a class="more" href="/co-dnes/?deti=1">🎲 Vylosovat film pro děti →</a>
+      </div>
+      <div class="grid">{list.map((t) => <TitleCard titul={t} />)}</div>
+    </section>
+
+    <aside class="note panel">
+      <span class="hud">ℹ Poznámka pro rodiče</span>
+      <p>Věkové skupiny jsou orientační. Každé dítě snáší napětí jinak. Pokud si nejste jistí, podívejte se na první minuty společně, nebo si film pusťte předem.</p>
+    </aside>
+  </div>
+</Layout>
+
+<style>
+  .age {
+    padding: 22px 22px 8px;
+    margin-bottom: 18px;
+    background:
+      linear-gradient(120deg, rgba(255, 79, 216, 0.12), transparent 50%),
+      var(--panel);
+  }
+
+  .age-head {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 18px;
+  }
+
+  .ikona {
+    font-size: 36px;
+  }
+
+  .age h2 {
+    font-size: 26px;
+  }
+
+  .age p {
+    color: var(--muted);
+  }
+
+  .note {
+    padding: 18px 22px;
+    display: grid;
+    gap: 6px;
+  }
+
+  .note p {
+    color: var(--muted);
+  }
+</style>

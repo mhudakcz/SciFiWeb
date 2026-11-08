@@ -1,0 +1,294 @@
+---
+import { hashSlug, subzanrBySlug, typy } from '../data';
+import type { Titul } from '../data';
+
+interface Props {
+  titul: Titul;
+  velky?: boolean;
+}
+
+const { titul, velky = false } = Astro.props;
+const sub = subzanrBySlug[titul.subzanry[0]];
+const h = hashSlug(titul.slug);
+const hue = (sub.hue + (h % 50) - 25 + 360) % 360;
+const hue2 = (hue + 40 + ((h >> 8) % 40)) % 360;
+// Motiv střídáme mezi subžánry titulu, ať plakáty stejného žánru nevypadají jako klony
+const motiv = subzanrBySlug[titul.subzanry[h % titul.subzanry.length]].motiv;
+const id = `p-${titul.slug}`;
+
+// Hvězdy rozházené deterministicky podle slugu
+let seed = h;
+const rnd = () => {
+  seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0;
+  return seed / 4294967296;
+};
+const hvezdy = Array.from({ length: 34 }, () => ({
+  x: rnd() * 200,
+  y: rnd() * 210,
+  r: rnd() * 1.1 + 0.25,
+  o: rnd() * 0.7 + 0.3,
+}));
+const svetla = `hsl(${hue} 100% 66%)`;
+const svetla2 = `hsl(${hue2} 100% 70%)`;
+---
+
+<div class:list={['poster', { velky }]} style={`--h:${hue};--h2:${hue2}`}>
+  <svg viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <defs>
+      <linearGradient id={`${id}-bg`} x1="0" y1="0" x2="0.3" y2="1">
+        <stop offset="0" stop-color={`hsl(${hue} 70% 9%)`}></stop>
+        <stop offset="0.6" stop-color={`hsl(${hue2} 65% 16%)`}></stop>
+        <stop offset="1" stop-color={`hsl(${hue2} 80% 26%)`}></stop>
+      </linearGradient>
+      <radialGradient id={`${id}-glow`} cx="0.5" cy="0.4" r="0.6">
+        <stop offset="0" stop-color={svetla} stop-opacity="0.55"></stop>
+        <stop offset="1" stop-color={svetla} stop-opacity="0"></stop>
+      </radialGradient>
+      <linearGradient id={`${id}-obj`} x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color={svetla2}></stop>
+        <stop offset="1" stop-color={`hsl(${hue} 80% 35%)`}></stop>
+      </linearGradient>
+    </defs>
+    <rect width="200" height="300" fill={`url(#${id}-bg)`}></rect>
+    <rect width="200" height="300" fill={`url(#${id}-glow)`}></rect>
+    {hvezdy.map((s) => <circle cx={s.x} cy={s.y} r={s.r} fill="#fff" opacity={s.o} />)}
+
+    {
+      motiv === 'planeta' && (
+        <g>
+          <circle cx="104" cy="118" r="52" fill={`url(#${id}-obj)`} />
+          <circle cx="90" cy="102" r="52" fill="#000" opacity="0.28" transform="translate(30 26)" />
+          <ellipse cx="104" cy="118" rx="88" ry="16" fill="none" stroke={svetla} stroke-width="3" opacity="0.85" transform="rotate(-14 104 118)" />
+          <circle cx="40" cy="58" r="8" fill={svetla2} opacity="0.8" />
+        </g>
+      )
+    }
+    {
+      motiv === 'mrizka' && (
+        <g>
+          <circle cx="100" cy="150" r="58" fill={`url(#${id}-obj)`} />
+          {[0, 1, 2, 3, 4].map((i) => (
+            <rect x="30" y={150 + i * 11} width="140" height={2 + i} fill={`hsl(${hue} 70% 9%)`} />
+          ))}
+          <g stroke={svetla} stroke-width="1" opacity="0.8">
+            {[-6, -4, -2, 0, 2, 4, 6].map((i) => (
+              <line x1={100 + i * 6} y1="210" x2={100 + i * 40} y2="300" />
+            ))}
+            {[0, 1, 2, 3, 4].map((i) => (
+              <line x1="0" x2="200" y1={210 + i * i * 4.5} y2={210 + i * i * 4.5} />
+            ))}
+          </g>
+        </g>
+      )
+    }
+    {
+      motiv === 'slunce' && (
+        <g>
+          <circle cx="100" cy="170" r="70" fill={`url(#${id}-obj)`} opacity="0.95" />
+          <path d="M0 190 Q50 160 100 185 T200 175 V300 H0 Z" fill={`hsl(${hue} 60% 12%)`} />
+          <path d="M0 215 Q60 195 120 212 T200 205 V300 H0 Z" fill={`hsl(${hue} 50% 7%)`} />
+        </g>
+      )
+    }
+    {
+      motiv === 'spirala' && (
+        <g fill="none" stroke={svetla} stroke-linecap="round">
+          {[70, 56, 43, 31, 20, 10].map((r, i) => (
+            <circle
+              cx="100"
+              cy="120"
+              r={r}
+              stroke-width={1.2 + i * 0.5}
+              stroke-dasharray={`${r * 3.5} ${r * 2.8}`}
+              transform={`rotate(${i * 47} 100 120)`}
+              opacity={0.4 + i * 0.1}
+            />
+          ))}
+          <circle cx="100" cy="120" r="4" fill={svetla2} stroke="none" />
+        </g>
+      )
+    }
+    {
+      motiv === 'oko' && (
+        <g>
+          <circle cx="100" cy="120" r="54" fill="#0b0b10" stroke={`hsl(${hue} 30% 40%)`} stroke-width="4" />
+          <circle cx="100" cy="120" r="34" fill={`url(#${id}-obj)`} />
+          <circle cx="100" cy="120" r="14" fill={`hsl(${hue2} 100% 85%)`} />
+          <circle cx="92" cy="110" r="5" fill="#fff" opacity="0.8" />
+        </g>
+      )
+    }
+    {
+      motiv === 'talir' && (
+        <g>
+          <path d="M70 128 L130 128 L170 300 L30 300 Z" fill={svetla} opacity="0.18" />
+          <ellipse cx="100" cy="124" rx="62" ry="15" fill={`url(#${id}-obj)`} />
+          <path d="M72 120 Q100 74 128 120 Z" fill={svetla2} opacity="0.85" />
+          {[-36, -18, 0, 18, 36].map((dx) => (
+            <circle cx={100 + dx} cy="128" r="2.6" fill="#fff" />
+          ))}
+        </g>
+      )
+    }
+    {
+      motiv === 'vez' && (
+        <g fill={`hsl(${hue} 50% 7%)`}>
+          <circle cx="100" cy="92" r="34" fill={`url(#${id}-obj)`} opacity="0.7" />
+          <rect x="88" y="70" width="24" height="230" />
+          <rect x="94" y="52" width="12" height="20" />
+          <rect x="40" y="150" width="30" height="150" />
+          <rect x="130" y="130" width="28" height="170" />
+          <rect x="10" y="190" width="28" height="110" />
+          <rect x="164" y="176" width="30" height="124" />
+          <rect x="70" y="200" width="18" height="100" />
+          <g fill={svetla} opacity="0.75">
+            {[0, 1, 2, 3, 4, 5, 6].map((i) => (
+              <rect x="97" y={90 + i * 22} width="6" height="3" />
+            ))}
+          </g>
+        </g>
+      )
+    }
+    {
+      motiv === 'orbita' && (
+        <g>
+          <ellipse cx="100" cy="125" rx="80" ry="34" fill="none" stroke={svetla} stroke-width="1" opacity="0.5" transform="rotate(-20 100 125)" />
+          <ellipse cx="100" cy="125" rx="56" ry="56" fill="none" stroke={svetla} stroke-width="0.8" opacity="0.35" stroke-dasharray="3 5" />
+          <circle cx="100" cy="125" r="24" fill={`url(#${id}-obj)`} />
+          <circle cx="166" cy="98" r="5" fill="#fff" />
+          <circle cx="58" cy="170" r="3" fill={svetla2} />
+        </g>
+      )
+    }
+    {
+      motiv === 'prazdno' && (
+        <g>
+          <ellipse cx="100" cy="130" rx="44" ry="60" fill="#020204" />
+          <path d="M60 110 Q70 70 100 70" fill="none" stroke={svetla} stroke-width="2.5" opacity="0.9" />
+          <path d="M100 190 Q132 186 142 140" fill="none" stroke={svetla2} stroke-width="1.5" opacity="0.6" />
+          <path d="M100 90 L100 170" stroke={svetla} stroke-width="1" opacity="0.4" />
+        </g>
+      )
+    }
+    {
+      motiv === 'dna' && (
+        <g stroke-width="3" stroke-linecap="round">
+          {Array.from({ length: 13 }, (_, i) => {
+            const y = 40 + i * 14;
+            const x = Math.sin(i * 0.62) * 34;
+            return (
+              <g>
+                <line x1={100 - x} y1={y} x2={100 + x} y2={y} stroke={svetla} opacity="0.45" stroke-width="2" />
+                <circle cx={100 - x} cy={y} r="5" fill={svetla2} stroke="none" />
+                <circle cx={100 + x} cy={y} r="5" fill={`hsl(${hue} 90% 55%)`} stroke="none" />
+              </g>
+            );
+          })}
+        </g>
+      )
+    }
+    {
+      motiv === 'raketa' && (
+        <g transform="rotate(28 100 130)">
+          <path d="M92 180 L100 228 L108 180 Z" fill={svetla2} opacity="0.9" />
+          <path d="M100 60 Q124 96 120 176 L80 176 Q76 96 100 60 Z" fill="#f2f2ff" />
+          <path d="M100 60 Q114 80 118 102 L82 102 Q86 80 100 60 Z" fill={svetla} />
+          <circle cx="100" cy="128" r="10" fill={`hsl(${hue} 70% 20%)`} stroke={svetla} stroke-width="3" />
+          <path d="M80 150 L64 186 L82 176 Z M120 150 L136 186 L118 176 Z" fill={svetla} />
+        </g>
+      )
+    }
+  </svg>
+  <span class="badge">{typy[titul.typ].zkratka}</span>
+  <div class="cap">
+    <span class="nazev">{titul.nazev}</span>
+    <span class="rok">{titul.rok}</span>
+  </div>
+</div>
+
+<style>
+  .poster {
+    position: relative;
+    aspect-ratio: 2 / 3;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #000;
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.06) inset,
+      0 12px 30px -12px hsl(var(--h) 90% 40% / 0.6);
+    isolation: isolate;
+    container-type: inline-size;
+  }
+
+  .poster svg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .poster::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(transparent 48%, rgba(0, 0, 0, 0.82)),
+      repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025) 0 1px, transparent 1px 3px);
+    pointer-events: none;
+  }
+
+  .badge {
+    position: absolute;
+    top: 9px;
+    left: 9px;
+    z-index: 2;
+    font-family: var(--font-hud);
+    font-size: 9px;
+    letter-spacing: 0.16em;
+    padding: 3px 7px;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.55);
+    border: 1px solid hsl(var(--h) 100% 70% / 0.5);
+    color: hsl(var(--h) 100% 80%);
+  }
+
+  .cap {
+    position: absolute;
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    z-index: 2;
+    display: grid;
+    gap: 3px;
+  }
+
+  .nazev {
+    font-family: var(--font-hud);
+    font-weight: 800;
+    font-size: clamp(8px, 8cqw, 22px);
+    line-height: 1.15;
+    overflow-wrap: anywhere;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #fff;
+    text-shadow: 0 0 14px hsl(var(--h) 100% 60% / 0.8);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .rok {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: hsl(var(--h2) 100% 82%);
+  }
+
+  .velky .rok {
+    font-size: 13px;
+  }
+
+  .velky .badge {
+    font-size: 11px;
+  }
+</style>

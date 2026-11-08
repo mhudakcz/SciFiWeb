@@ -1,0 +1,163 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { jeCeskoslovensky, tituly } from '../../data';
+
+const list = tituly.filter(jeCeskoslovensky);
+
+// Tipy na další domácí tituly, které zatím nemají vlastní stránku
+const tipy = [
+  { nazev: 'Na kometě', rok: 1970, popis: 'Verneovská fantazie Karla Zemana: kometa odnese kus Afriky i s lidmi do vesmíru.' },
+  { nazev: 'Pane, vy jste vdova!', rok: 1970, popis: 'Vorlíčkova groteska o královně, robotech a vyměněných mozcích.' },
+  { nazev: 'Spadla z oblakov', rok: 1978, popis: 'Slovenská dětská klasika o dívce z jiné planety, která se ocitne mezi pozemskými dětmi.' },
+  { nazev: 'Tajemství hradu v Karpatech', rok: 1981, popis: 'Lipského parodie na Verna o šíleném vynálezci, tajemném hradu a záhadném hlasu.' },
+];
+---
+
+<Layout title="Česko & Slovensko" description="Československé a české sci-fi filmy a seriály: Ikarie XB 1, Návštěvníci, Vynález zkázy, Pan Tau a další.">
+  <div class="wrap page-head">
+    <p class="hud">Domácí scéna</p>
+    <h1>Česko & <span class="grad">Slovensko</span></h1>
+    <p>
+      Československo bylo v 60. až 80. letech nečekanou sci-fi velmocí. Triková kouzla Karla Zemana, vizionářská Ikarie XB 1 a celé generace dětí vychované na Návštěvnících a Panu Tau.
+    </p>
+  </div>
+
+  <div class="wrap">
+    <div class="intro panel">
+      <div>
+        <h2>Proč je domácí sci-fi tak výjimečné?</h2>
+        <p>
+          Za železnou oponou se nedalo soupeřit s hollywoodskými rozpočty, a tak čeští tvůrci sázeli na nápad, humor a ruční řemeslo. Vznikly filmy, které obdivoval celý svět: Zemanovy rytinové triky inspirovaly Tima Burtona, Ikarie XB 1 předběhla 2001: Vesmírnou odyseu a Pan Tau se stal hvězdou i v Německu.
+        </p>
+      </div>
+      <div class="facts">
+        <div><b>{list.length}</b><span>titulů v katalogu</span></div>
+        <div><b>1958</b><span>Vynález zkázy dobývá svět</span></div>
+        <div><b>1963</b><span>Ikarie XB 1 letí ke hvězdám</span></div>
+      </div>
+    </div>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <p class="hud">Chronologicky</p>
+          <h2>Domácí tituly</h2>
+        </div>
+      </div>
+      <div class="grid">{list.map((t) => <TitleCard titul={t} />)}</div>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <p class="hud magenta">📡 Na radaru</p>
+          <h2>Další tipy z domácí tvorby</h2>
+          <p>Tituly, které chystáme do katalogu.</p>
+        </div>
+      </div>
+      <ul class="tipy">
+        {
+          tipy.map((t) => (
+            <li class="panel">
+              <span class="rok">{t.rok}</span>
+              <div>
+                <h3>{t.nazev}</h3>
+                <p>{t.popis}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  </div>
+</Layout>
+
+<style>
+  .intro {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    gap: 32px;
+    padding: 28px;
+    background:
+      linear-gradient(120deg, rgba(62, 120, 255, 0.16), transparent 50%),
+      linear-gradient(300deg, rgba(255, 70, 70, 0.12), transparent 50%),
+      var(--panel);
+  }
+
+  .intro h2 {
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+
+  .intro p {
+    color: #cfd4f2;
+    line-height: 1.75;
+  }
+
+  .facts {
+    display: grid;
+    gap: 14px;
+    align-content: center;
+  }
+
+  .facts div {
+    display: grid;
+    border-left: 2px solid var(--cyan);
+    padding-left: 14px;
+  }
+
+  .facts b {
+    font-family: var(--font-hud);
+    font-size: 26px;
+    color: var(--cyan);
+  }
+
+  .facts span {
+    color: var(--muted);
+    font-size: 13px;
+  }
+
+  .tipy {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 12px;
+  }
+
+  .tipy li {
+    display: flex;
+    gap: 16px;
+    padding: 16px 18px;
+  }
+
+  .rok {
+    font-family: var(--font-hud);
+    color: var(--magenta);
+    font-size: 14px;
+    padding-top: 2px;
+  }
+
+  .tipy h3 {
+    font-size: 17px;
+  }
+
+  .tipy p {
+    color: var(--muted);
+    font-size: 14px;
+    margin-top: 4px;
+  }
+
+  @media (max-width: 760px) {
+    .intro {
+      grid-template-columns: 1fr;
+      padding: 20px;
+    }
+
+    .tipy {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

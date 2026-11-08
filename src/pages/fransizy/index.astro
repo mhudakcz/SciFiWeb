@@ -1,0 +1,93 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Poster from '../../components/Poster.astro';
+import { fransizy, tituly } from '../../data';
+---
+
+<Layout title="Franšízy" description="Velké sci-fi ságy: Star Wars, Star Trek, Vetřelec, Terminátor, Blade Runner a Duna.">
+  <div class="wrap page-head">
+    <p class="hud">◈ Velké ságy</p>
+    <h1>Franšízy</h1>
+    <p>Světy, které přerostly jeden film a žijí desítky let.</p>
+  </div>
+  <div class="wrap list">
+    {
+      fransizy.map((f) => {
+        const list = tituly.filter((t) => t.fransiza === f.slug);
+        return (
+          <a class="fr panel" href={`/fransizy/${f.slug}/`} style={`--h:${f.hue}`}>
+            <div class="txt">
+              <span class="hud">od {f.od} · {list.length} titulů</span>
+              <h2>{f.nazev}</h2>
+              <p>{f.kratce}</p>
+            </div>
+            <div class="stack">
+              {list.slice(0, 4).map((t) => (
+                <Poster titul={t} />
+              ))}
+            </div>
+          </a>
+        );
+      })
+    }
+  </div>
+</Layout>
+
+<style>
+  .list {
+    display: grid;
+    gap: 16px;
+  }
+
+  .fr {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 24px;
+    align-items: center;
+    padding: 24px 28px;
+    background:
+      radial-gradient(90% 160% at 0% 0%, hsl(var(--h) 90% 50% / 0.2), transparent 55%),
+      var(--panel);
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .fr:hover {
+    border-color: hsl(var(--h) 100% 65%);
+    transform: translateY(-2px);
+  }
+
+  .fr .hud {
+    color: hsl(var(--h) 100% 72%);
+  }
+
+  h2 {
+    font-size: 34px;
+    margin: 6px 0;
+  }
+
+  .txt p {
+    color: var(--muted);
+  }
+
+  .stack {
+    display: flex;
+  }
+
+  .stack :global(.poster) {
+    width: 92px;
+    margin-left: -26px;
+    transform: rotate(calc(var(--r, 0) * 1deg));
+  }
+
+  .stack :global(.poster:nth-child(1)) { --r: -6; margin-left: 0; }
+  .stack :global(.poster:nth-child(2)) { --r: -2; }
+  .stack :global(.poster:nth-child(3)) { --r: 3; }
+  .stack :global(.poster:nth-child(4)) { --r: 7; }
+  .stack :global(.cap) { display: none; }
+
+  @media (max-width: 640px) {
+    .fr {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,34 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { fransizy, subzanry, tituly } from '../../data';
+---
+
+<Layout title="O projektu">
+  <div class="wrap page-head">
+    <p class="hud">ℹ Lodní deník</p>
+    <h1>O projektu</h1>
+    <p>SciFiWeb je neoficiální fanouškovský průvodce světem sci-fi filmů a seriálů. Sesterský projekt webu RetroWeb.</p>
+  </div>
+  <div class="wrap text">
+    <p>
+      Chceme na jednom místě ukázat to nejlepší, co žánr nabízí: od němé Metropolis po dnešní streamingové hity, od Hollywoodu po domácí Ikarii XB 1. Každý titul má vlastní stránku s příběhem, zajímavostmi a tím nejdůležitějším, totiž proč ho vidět.
+    </p>
+    <p>
+      Aktuálně v katalogu najdete <b>{tituly.length} titulů</b>, <b>{fransizy.length} franšíz</b> a <b>{subzanry.length} subžánrů</b>. Katalog průběžně roste.
+    </p>
+    <p class="muted">
+      Plakáty na webu jsou generované ilustrace, nikoli oficiální materiály. Všechny názvy a ochranné známky patří jejich vlastníkům.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  .text {
+    max-width: 760px;
+    display: grid;
+    gap: 16px;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #cfd4f2;
+  }
+</style>

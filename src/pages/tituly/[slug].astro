@@ -1,0 +1,264 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Poster from '../../components/Poster.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { eraTitulu, fransizaBySlug, jeCeskoslovensky, nalady, podobne, rokyTitulu, subzanrBySlug, tituly, typy } from '../../data';
+import type { Titul } from '../../data';
+
+export function getStaticPaths() {
+  return tituly.map((titul, i) => ({
+    params: { slug: titul.slug },
+    props: { titul, prev: tituly[i - 1], next: tituly[i + 1] },
+  }));
+}
+
+interface Props {
+  titul: Titul;
+  prev?: Titul;
+  next?: Titul;
+}
+
+const { titul, prev, next } = Astro.props;
+const fr = titul.fransiza ? fransizaBySlug[titul.fransiza] : undefined;
+const zFransizy = fr ? tituly.filter((t) => t.fransiza === fr.slug && t.slug !== titul.slug) : [];
+const podobneTituly = podobne(titul, 6).filter((t) => !zFransizy.includes(t));
+const era = eraTitulu(titul);
+const sub = subzanrBySlug[titul.subzanry[0]];
+---
+
+<Layout title={titul.nazev} description={titul.perex}>
+  <article class="wrap detail" style={`--h:${sub.hue}`}>
+    <nav class="crumbs top-crumbs">
+      <a href="/tituly/">Tituly</a> / <a href={`/tituly/?era=${era.slug}`}>{era.nazev}</a> / <span>{titul.nazev}</span>
+    </nav>
+
+    <div class="pager">
+      {prev ? <a href={`/tituly/${prev.slug}/`}>← {prev.nazev}</a> : <span />}
+      {next && <a href={`/tituly/${next.slug}/`}>{next.nazev} →</a>}
+    </div>
+
+    <header class="head">
+      <div class="poster-wrap">
+        <Poster titul={titul} velky />
+      </div>
+      <div class="info">
+        <p class="hud">{typy[titul.typ].nazev} · {titul.zeme}</p>
+        <h1>{titul.nazev}</h1>
+        {titul.original && <p class="orig">{titul.original}</p>}
+        <div class="chips facts">
+          <span class="tag">📅 {rokyTitulu(titul)}</span>
+          <span class="tag">🎬 {titul.tvurce}</span>
+          <span class="tag">⏱ {titul.delka}</span>
+          {fr && <a class="tag" href={`/fransizy/${fr.slug}/`}>◈ {fr.nazev}</a>}
+        </div>
+        <div class="chips">
+          {titul.subzanry.map((s) => <a class="tag accent" href={`/subzanry/${s}/`}>{subzanrBySlug[s].nazev}</a>)}
+        </div>
+        <div class="chips badges">
+          {titul.mustSee && <span class="badge must">★ Musíte vidět</span>}
+          {titul.deti && <a class="badge kids" href="/pro-deti/">🧸 Vhodné pro děti</a>}
+          {jeCeskoslovensky(titul) && <a class="badge cz" href="/cesko-slovensko/">Domácí tvorba</a>}
+        </div>
+        <p class="nalady">
+          {titul.nalady.map((n) => (
+            <a href={`/co-dnes/?nalada=${n}`} title={nalady[n].popis}>
+              {nalady[n].ikona} {nalady[n].nazev}
+            </a>
+          ))}
+        </p>
+      </div>
+    </header>
+
+    <div class="body">
+      <p class="perex">{titul.perex}</p>
+      {titul.text.map((p) => <p>{p}</p>)}
+      <aside class="proc panel">
+        <span class="hud magenta">▶ Proč vidět</span>
+        <p>{titul.proc}</p>
+      </aside>
+    </div>
+
+    {
+      fr && zFransizy.length > 0 && (
+        <section class="section">
+          <div class="section-head">
+            <div>
+              <p class="hud">◈ Ze stejné franšízy</p>
+              <h2>{fr.nazev}</h2>
+            </div>
+            <a class="more" href={`/fransizy/${fr.slug}/`}>
+              Celá franšíza →
+            </a>
+          </div>
+          <div class="rail">
+            {zFransizy.map((t) => (
+              <TitleCard titul={t} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <p class="hud">⌬ Na stejné vlně</p>
+          <h2>Mohlo by se vám líbit</h2>
+        </div>
+      </div>
+      <div class="rail">{podobneTituly.map((t) => <TitleCard titul={t} />)}</div>
+    </section>
+  </article>
+</Layout>
+
+<style>
+  .detail {
+    padding-top: 28px;
+  }
+
+  .pager {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin: 14px 0 28px;
+    font-size: 13px;
+  }
+
+  .pager a {
+    padding: 6px 14px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--muted);
+    max-width: 48%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .pager a:hover {
+    color: var(--cyan);
+    border-color: var(--cyan);
+  }
+
+  .head {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 40px;
+    align-items: end;
+  }
+
+  .poster-wrap {
+    filter: drop-shadow(0 30px 50px hsl(var(--h) 100% 40% / 0.45));
+  }
+
+  .info {
+    display: grid;
+    gap: 14px;
+  }
+
+  h1 {
+    font-size: clamp(34px, 5.4vw, 64px);
+  }
+
+  .orig {
+    color: var(--dim);
+    font-style: italic;
+    margin-top: -6px;
+  }
+
+  .tag.accent {
+    border-color: hsl(var(--h) 100% 65% / 0.5);
+    color: hsl(var(--h) 100% 80%);
+  }
+
+  .badge {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 5px 12px;
+    border-radius: 6px;
+  }
+
+  .badge.must {
+    background: rgba(255, 194, 74, 0.14);
+    color: var(--amber);
+    border: 1px solid rgba(255, 194, 74, 0.4);
+  }
+
+  .badge.kids {
+    background: rgba(255, 79, 216, 0.12);
+    color: var(--magenta);
+    border: 1px solid rgba(255, 79, 216, 0.4);
+  }
+
+  .badge.cz {
+    background: rgba(62, 120, 255, 0.14);
+    color: #9db8ff;
+    border: 1px solid rgba(62, 120, 255, 0.4);
+  }
+
+  .badges:empty {
+    display: none;
+  }
+
+  .nalady {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    font-size: 14px;
+    color: var(--muted);
+  }
+
+  .nalady a:hover {
+    color: var(--cyan);
+  }
+
+  .body {
+    max-width: 760px;
+    margin: 48px 0 0;
+    display: grid;
+    gap: 18px;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #cfd4f2;
+  }
+
+  .perex {
+    font-size: 22px;
+    line-height: 1.5;
+    color: var(--text);
+    font-weight: 500;
+    border-left: 3px solid hsl(var(--h) 100% 62%);
+    padding-left: 18px;
+  }
+
+  .proc {
+    margin-top: 12px;
+    padding: 20px 22px;
+    display: grid;
+    gap: 6px;
+    background:
+      linear-gradient(90deg, rgba(255, 79, 216, 0.12), transparent 70%),
+      var(--panel);
+    border-color: rgba(255, 79, 216, 0.35);
+  }
+
+  .proc p {
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  @media (max-width: 760px) {
+    .head {
+      grid-template-columns: 1fr;
+      gap: 24px;
+    }
+
+    .poster-wrap {
+      width: min(220px, 60%);
+    }
+
+    .perex {
+      font-size: 19px;
+    }
+  }
+</style>

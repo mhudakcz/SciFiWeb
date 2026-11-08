@@ -1,0 +1,80 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Poster from '../../components/Poster.astro';
+import { subzanry, tituly } from '../../data';
+---
+
+<Layout title="Subžánry" description="Mapa sci-fi: space opera, kyberpunk, postapo, cestování časem, umělá inteligence a další.">
+  <div class="wrap page-head">
+    <p class="hud">⌬ Mapa žánru</p>
+    <h1>Subžánry</h1>
+    <p>Sci-fi má mnoho tváří. Od rytířů ve vesmíru po hackery v dešti.</p>
+  </div>
+  <div class="wrap grid-sz">
+    {
+      subzanry.map((s) => {
+        const list = tituly.filter((t) => t.subzanry.includes(s.slug));
+        return (
+          <a class="sz panel" href={`/subzanry/${s.slug}/`} style={`--h:${s.hue}`}>
+            <div class="art">
+              {list.slice(0, 3).map((t) => (
+                <Poster titul={t} />
+              ))}
+            </div>
+            <span class="hud">{list.length} titulů</span>
+            <h2>{s.nazev}</h2>
+            <p>{s.kratce}</p>
+          </a>
+        );
+      })
+    }
+  </div>
+</Layout>
+
+<style>
+  .grid-sz {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 18px;
+  }
+
+  .sz {
+    padding: 20px;
+    display: grid;
+    gap: 6px;
+    background:
+      radial-gradient(120% 90% at 50% 0%, hsl(var(--h) 90% 50% / 0.22), transparent 60%),
+      var(--panel);
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .sz:hover {
+    border-color: hsl(var(--h) 100% 65%);
+    transform: translateY(-3px);
+  }
+
+  .art {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+
+  .art :global(.cap),
+  .art :global(.badge) {
+    display: none;
+  }
+
+  .sz .hud {
+    color: hsl(var(--h) 100% 72%);
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  p {
+    color: var(--muted);
+    font-size: 14px;
+  }
+</style>

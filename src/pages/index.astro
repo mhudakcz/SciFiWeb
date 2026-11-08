@@ -1,0 +1,475 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Poster from '../components/Poster.astro';
+import TitleCard from '../components/TitleCard.astro';
+import { eraTitulu, ery, fransizy, jeCeskoslovensky, subzanry, tituly } from '../data';
+
+const mustSee = tituly.filter((t) => t.mustSee);
+const ceske = tituly.filter(jeCeskoslovensky);
+const detske = tituly.filter((t) => t.deti);
+const kolaz = ['star-wars-nova-nadeje', 'blade-runner', 'ikarie-xb-1', 'vetrelec', 'matrix', 'duna', 'akira', 'navstevnici', 'interstellar', 'cerveny-trpaslik', 'wall-e', 'prichozi'].map(
+  (s) => tituly.find((t) => t.slug === s)!,
+);
+const pocetFilmu = tituly.filter((t) => t.typ === 'film').length;
+const pocetSerialu = tituly.length - pocetFilmu;
+---
+
+<Layout>
+  <section class="hero">
+    <div class="wrap hero-in">
+      <div class="hero-text">
+        <p class="hud blink">◉ Incoming transmission · Signál zachycen</p>
+        <h1>
+          Celý vesmír <span class="grad nowrap">sci-fi</span><br />na jednom místě
+        </h1>
+        <p class="lead">
+          Od Metropolis a Ikarie XB 1 přes Vetřelce a Matrix až po Dunu a Andora. Nejlepší sci-fi filmy a seriály, jejich příběhy, zajímavosti a tipy, co si pustit dnes večer.
+        </p>
+        <div class="cta">
+          <a class="btn primary" href="/tituly/">Prozkoumat tituly →</a>
+          <a class="btn" href="/co-dnes/">🎲 Co dnes pustit?</a>
+        </div>
+        <dl class="stats">
+          <div><dt>{tituly.length}</dt><dd>Titulů</dd></div>
+          <div><dt>{pocetFilmu}</dt><dd>Filmů</dd></div>
+          <div><dt>{pocetSerialu}</dt><dd>Seriálů a animace</dd></div>
+          <div><dt>{subzanry.length}</dt><dd>Subžánrů</dd></div>
+        </dl>
+      </div>
+      <div class="collage" aria-hidden="true">
+        {
+          kolaz.map((t, i) => (
+            <div class="c-item" style={`--i:${i}`}>
+              <Poster titul={t} />
+            </div>
+          ))
+        }
+      </div>
+    </div>
+    <div class="wrap">
+      <nav class="chips era-chips" aria-label="Éry">
+        {
+          ery.map((e) => (
+            <a class="chip" href={`#era-${e.slug}`}>
+              {e.nazev} <span class="n">{e.roky}</span>
+            </a>
+          ))
+        }
+        <a class="chip" href="/cesko-slovensko/">CZ / SK <span class="n">{ceske.length}</span></a>
+        <a class="chip" href="/pro-deti/">🧸 Pro děti <span class="n">{detske.length}</span></a>
+      </nav>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="section-head">
+      <div>
+        <p class="hud magenta">★ Povinná výbava</p>
+        <h2>Musíte vidět</h2>
+        <p>Základní kánon. Kdo chce sci-fi rozumět, začne tady.</p>
+      </div>
+      <a class="more" href="/tituly/?must=1">Všech {mustSee.length} →</a>
+    </div>
+    <div class="rail">{mustSee.map((t) => <TitleCard titul={t} />)}</div>
+  </section>
+
+  <section class="section wrap duo">
+    <a href="/cesko-slovensko/" class="promo panel cz">
+      <p class="hud">Domácí scéna</p>
+      <h2>Česko & Slovensko</h2>
+      <p>Ikarie XB 1, Návštěvníci, Vynález zkázy nebo Muž z prvního století. Domácí sci-fi, které se nemusí stydět ani ve světě.</p>
+      <div class="mini-posters">{ceske.slice(0, 5).map((t) => <Poster titul={t} />)}</div>
+      <span class="more">Prozkoumat {ceske.length} titulů →</span>
+    </a>
+    <a href="/pro-deti/" class="promo panel kids">
+      <p class="hud magenta">🧸 Rodinný večer</p>
+      <h2>Sci-fi pro děti</h2>
+      <p>E.T., VALL-I, Železný obr, Pan Tau i Doctor Who. Laskavé vesmírné příběhy, u kterých se nudit nebudou ani rodiče.</p>
+      <div class="mini-posters">{detske.slice(0, 5).map((t) => <Poster titul={t} />)}</div>
+      <span class="more">Vybrat z {detske.length} titulů →</span>
+    </a>
+  </section>
+
+  {
+    ery.map((e) => {
+      const list = tituly.filter((t) => eraTitulu(t).slug === e.slug);
+      return (
+        <section class="section wrap" id={`era-${e.slug}`}>
+          <div class="section-head">
+            <div>
+              <p class="hud">{e.roky}</p>
+              <h2>{e.nazev}</h2>
+              <p>{e.popis}</p>
+            </div>
+            <a class="more" href={`/tituly/?era=${e.slug}`}>
+              {list.length} titulů →
+            </a>
+          </div>
+          <div class="rail">
+            {list.map((t) => (
+              <TitleCard titul={t} />
+            ))}
+          </div>
+        </section>
+      );
+    })
+  }
+
+  <section class="section wrap">
+    <div class="section-head">
+      <div>
+        <p class="hud">◈ Velké ságy</p>
+        <h2>Franšízy</h2>
+        <p>Světy, které přerostly jeden film.</p>
+      </div>
+      <a class="more" href="/fransizy/">Všechny franšízy →</a>
+    </div>
+    <div class="fr-grid">
+      {
+        fransizy.map((f) => {
+          const n = tituly.filter((t) => t.fransiza === f.slug).length;
+          return (
+            <a class="fr panel" href={`/fransizy/${f.slug}/`} style={`--h:${f.hue}`}>
+              <span class="hud">od {f.od}</span>
+              <h3>{f.nazev}</h3>
+              <p>{f.kratce}</p>
+              <span class="n">{n} titulů →</span>
+            </a>
+          );
+        })
+      }
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="section-head">
+      <div>
+        <p class="hud">⌬ Mapa žánru</p>
+        <h2>Subžánry</h2>
+        <p>Kyberpunk, nebo space opera? Najděte svou parketu.</p>
+      </div>
+      <a class="more" href="/subzanry/">Všechny subžánry →</a>
+    </div>
+    <div class="sz-grid">
+      {
+        subzanry.map((s) => (
+          <a class="sz" href={`/subzanry/${s.slug}/`} style={`--h:${s.hue}`}>
+            <h3>{s.nazev}</h3>
+            <p>{s.kratce}</p>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <a href="/co-dnes/" class="warp panel">
+      <div>
+        <p class="hud magenta">🎲 Hyperprostorový generátor</p>
+        <h2>Nevíte, co si dnes pustit?</h2>
+        <p>Vyberte náladu a nechte vesmír rozhodnout.</p>
+      </div>
+      <span class="btn primary">Spustit warp →</span>
+    </a>
+  </section>
+</Layout>
+
+<style>
+  .hero {
+    padding: 56px 0 20px;
+    overflow: hidden;
+  }
+
+  .hero-in {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+
+  h1 {
+    font-size: clamp(42px, 6.4vw, 78px);
+    margin: 16px 0 20px;
+  }
+
+  .nowrap {
+    white-space: nowrap;
+  }
+
+  .lead {
+    font-size: 18px;
+    color: var(--muted);
+    max-width: 560px;
+  }
+
+  .cta {
+    display: flex;
+    gap: 12px;
+    margin-top: 28px;
+    flex-wrap: wrap;
+  }
+
+  .blink::before {
+    content: '';
+  }
+
+  .blink {
+    animation: blink 2.4s steps(2, start) infinite;
+  }
+
+  @keyframes blink {
+    50% {
+      opacity: 0.55;
+    }
+  }
+
+  .stats {
+    display: flex;
+    gap: 34px;
+    margin: 36px 0 0;
+    flex-wrap: wrap;
+  }
+
+  .stats dt {
+    font-family: var(--font-hud);
+    font-size: 30px;
+    font-weight: 800;
+    color: var(--cyan);
+    text-shadow: var(--glow-cyan);
+  }
+
+  .stats div:nth-child(even) dt {
+    color: var(--magenta);
+    text-shadow: var(--glow-magenta);
+  }
+
+  .stats dd {
+    margin: 2px 0 0;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--dim);
+  }
+
+  .collage {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    transform: perspective(1200px) rotateY(-14deg) rotateX(6deg) rotateZ(4deg);
+    mask-image: radial-gradient(ellipse at 50% 50%, #000 55%, transparent 85%);
+  }
+
+  .c-item {
+    animation: drift 9s ease-in-out infinite alternate;
+    animation-delay: calc(var(--i) * -0.7s);
+  }
+
+  .c-item:nth-child(4n + 2),
+  .c-item:nth-child(4n + 4) {
+    transform: translateY(30px);
+  }
+
+  @keyframes drift {
+    to {
+      translate: 0 -14px;
+    }
+  }
+
+  .era-chips {
+    margin-top: 40px;
+  }
+
+  .duo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .promo {
+    display: grid;
+    gap: 12px;
+    padding: 28px;
+    position: relative;
+    overflow: hidden;
+    transition:
+      border-color 0.2s,
+      transform 0.2s;
+  }
+
+  .promo:hover {
+    border-color: var(--cyan);
+    transform: translateY(-3px);
+  }
+
+  .promo h2 {
+    font-size: 32px;
+  }
+
+  .promo > p:not(.hud) {
+    color: var(--muted);
+  }
+
+  .promo.cz {
+    background:
+      linear-gradient(135deg, rgba(62, 120, 255, 0.18), transparent 60%),
+      linear-gradient(315deg, rgba(255, 70, 70, 0.14), transparent 50%),
+      var(--panel);
+  }
+
+  .promo.kids {
+    background:
+      linear-gradient(135deg, rgba(255, 79, 216, 0.18), transparent 60%),
+      linear-gradient(315deg, rgba(184, 255, 74, 0.12), transparent 50%),
+      var(--panel);
+  }
+
+  .mini-posters {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 8px;
+    margin: 6px 0;
+  }
+
+  .mini-posters :global(.cap .nazev) {
+    font-size: 9px;
+  }
+
+  .mini-posters :global(.badge) {
+    display: none;
+  }
+
+  .fr-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 16px;
+  }
+
+  .fr {
+    padding: 22px;
+    display: grid;
+    gap: 8px;
+    background:
+      radial-gradient(120% 120% at 100% 0%, hsl(var(--h) 90% 50% / 0.22), transparent 55%),
+      var(--panel);
+    transition:
+      border-color 0.2s,
+      transform 0.2s;
+  }
+
+  .fr:hover {
+    border-color: hsl(var(--h) 100% 65%);
+    transform: translateY(-3px);
+  }
+
+  .fr .hud {
+    color: hsl(var(--h) 100% 72%);
+  }
+
+  .fr h3 {
+    font-size: 24px;
+  }
+
+  .fr p {
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .fr .n {
+    font-size: 13px;
+    color: hsl(var(--h) 100% 75%);
+    font-weight: 600;
+  }
+
+  .sz-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+  }
+
+  .sz {
+    padding: 18px;
+    border-radius: var(--radius);
+    border: 1px solid var(--line);
+    border-left: 3px solid hsl(var(--h) 100% 62%);
+    background: linear-gradient(90deg, hsl(var(--h) 90% 50% / 0.1), transparent 70%);
+    transition: background 0.2s;
+  }
+
+  .sz:hover {
+    background: linear-gradient(90deg, hsl(var(--h) 90% 50% / 0.22), transparent 80%);
+  }
+
+  .sz h3 {
+    font-size: 17px;
+  }
+
+  .sz p {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  .warp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    padding: 36px;
+    flex-wrap: wrap;
+    background:
+      radial-gradient(80% 140% at 0% 50%, rgba(255, 79, 216, 0.2), transparent 60%),
+      radial-gradient(80% 140% at 100% 50%, rgba(62, 240, 255, 0.16), transparent 60%),
+      var(--panel);
+  }
+
+  .warp h2 {
+    font-size: clamp(26px, 3.6vw, 38px);
+    margin-top: 6px;
+  }
+
+  .warp p:not(.hud) {
+    color: var(--muted);
+    margin-top: 6px;
+  }
+
+  @media (max-width: 900px) {
+    .hero-in {
+      grid-template-columns: 1fr;
+    }
+
+    .collage {
+      grid-template-columns: repeat(6, 1fr);
+      transform: none;
+      order: -1;
+      max-height: 220px;
+      overflow: hidden;
+    }
+
+    .c-item:nth-child(n + 7) {
+      display: none;
+    }
+
+    .duo {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 520px) {
+    .collage {
+      grid-template-columns: repeat(4, 1fr);
+      max-height: 160px;
+    }
+
+    .c-item:nth-child(n + 5) {
+      display: none;
+    }
+
+    .stats {
+      gap: 22px;
+    }
+
+    .promo {
+      padding: 20px;
+    }
+  }
+</style>

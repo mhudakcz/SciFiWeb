@@ -1,0 +1,45 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { fransizy, tituly } from '../../data';
+import type { Fransiza } from '../../data';
+
+export function getStaticPaths() {
+  return fransizy.map((f) => ({ params: { slug: f.slug }, props: { f } }));
+}
+
+const { f } = Astro.props as { f: Fransiza };
+const list = tituly.filter((t) => t.fransiza === f.slug);
+---
+
+<Layout title={f.nazev} description={f.kratce}>
+  <div class="wrap page-head" style={`--h:${f.hue}`}>
+    <nav class="crumbs"><a href="/fransizy/">Franšízy</a> / <span>{f.nazev}</span></nav>
+    <p class="hud" style="margin-top:18px">◈ Franšíza · od {f.od}</p>
+    <h1>{f.nazev}</h1>
+    <p>{f.kratce}</p>
+  </div>
+  <div class="wrap">
+    <div class="popis">{f.popis.map((p) => <p>{p}</p>)}</div>
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <p class="hud">Chronologicky</p>
+          <h2>Tituly v katalogu</h2>
+        </div>
+      </div>
+      <div class="grid">{list.map((t) => <TitleCard titul={t} />)}</div>
+    </section>
+  </div>
+</Layout>
+
+<style>
+  .popis {
+    max-width: 760px;
+    display: grid;
+    gap: 16px;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #cfd4f2;
+  }
+</style>

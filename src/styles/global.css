@@ -1,0 +1,335 @@
+:root {
+  --bg: #06070d;
+  --bg-2: #0b0e1c;
+  --panel: rgba(18, 22, 44, 0.72);
+  --panel-solid: #121630;
+  --line: rgba(150, 170, 255, 0.14);
+  --line-strong: rgba(150, 170, 255, 0.3);
+  --text: #e9ecff;
+  --muted: #98a1c8;
+  --dim: #626b94;
+  --cyan: #3ef0ff;
+  --magenta: #ff4fd8;
+  --lime: #b8ff4a;
+  --amber: #ffc24a;
+  --red: #ff5a5a;
+  --radius: 14px;
+  --radius-sm: 8px;
+  --font: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-hud: 'Orbitron', 'Space Grotesk', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --wrap: 1220px;
+  --glow-cyan: 0 0 24px rgba(62, 240, 255, 0.35);
+  --glow-magenta: 0 0 24px rgba(255, 79, 216, 0.35);
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+p {
+  margin: 0;
+}
+
+::selection {
+  background: var(--magenta);
+  color: #000;
+}
+
+:focus-visible {
+  outline: 2px solid var(--cyan);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.wrap {
+  width: min(var(--wrap), 100% - 32px);
+  margin-inline: auto;
+}
+
+/* ——— Hvězdné pozadí ——— */
+#stars {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.nebula {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background:
+    radial-gradient(60vw 50vh at 85% -10%, rgba(255, 79, 216, 0.16), transparent 70%),
+    radial-gradient(50vw 50vh at -10% 30%, rgba(62, 240, 255, 0.1), transparent 70%),
+    radial-gradient(70vw 60vh at 50% 120%, rgba(110, 70, 255, 0.16), transparent 70%),
+    var(--bg);
+}
+
+/* ——— Typografie a HUD prvky ——— */
+.hud {
+  font-family: var(--font-hud);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--cyan);
+}
+
+.hud.magenta {
+  color: var(--magenta);
+}
+
+.grad {
+  background: linear-gradient(92deg, var(--cyan), #8b7bff 45%, var(--magenta));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.page-head {
+  padding: 56px 0 28px;
+}
+
+.page-head h1 {
+  font-size: clamp(36px, 6vw, 64px);
+  margin-top: 10px;
+}
+
+.page-head p {
+  color: var(--muted);
+  margin-top: 12px;
+  max-width: 720px;
+  font-size: 18px;
+}
+
+.crumbs {
+  font-size: 13px;
+  color: var(--dim);
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.crumbs a:hover {
+  color: var(--cyan);
+}
+
+/* ——— Tlačítka a čipy ——— */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 15px;
+  border: 1px solid var(--line-strong);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  cursor: pointer;
+  font-family: inherit;
+  transition:
+    transform 0.15s,
+    box-shadow 0.2s,
+    background 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.btn.primary {
+  border: 0;
+  color: #050611;
+  background: linear-gradient(92deg, var(--cyan), #9d8bff 55%, var(--magenta));
+  box-shadow: var(--glow-magenta);
+}
+
+.btn.primary:hover {
+  box-shadow:
+    var(--glow-magenta),
+    var(--glow-cyan);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 500;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+  cursor: pointer;
+  font-family: inherit;
+  transition:
+    border-color 0.2s,
+    background 0.2s,
+    color 0.2s;
+  white-space: nowrap;
+}
+
+.chip:hover {
+  border-color: var(--cyan);
+}
+
+.chip[aria-pressed='true'],
+.chip.on {
+  background: var(--cyan);
+  color: #04121a;
+  border-color: var(--cyan);
+}
+
+.chip .n {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+a.tag:hover {
+  color: var(--cyan);
+  border-color: var(--cyan);
+}
+
+/* ——— Sekce ——— */
+.section {
+  padding: 48px 0;
+}
+
+.section-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+}
+
+.section-head h2 {
+  font-size: clamp(26px, 3.6vw, 38px);
+  margin-top: 6px;
+}
+
+.section-head p {
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+.more {
+  color: var(--cyan);
+  font-weight: 600;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.more:hover {
+  text-decoration: underline;
+}
+
+/* ——— Mřížky karet ——— */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(168px, 1fr));
+  gap: 22px 18px;
+}
+
+.rail {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(160px, 180px);
+  gap: 18px;
+  overflow-x: auto;
+  padding: 4px 4px 16px;
+  margin-inline: -4px;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line-strong) transparent;
+}
+
+.rail > * {
+  scroll-snap-align: start;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  backdrop-filter: blur(10px);
+}
+
+@media (max-width: 560px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

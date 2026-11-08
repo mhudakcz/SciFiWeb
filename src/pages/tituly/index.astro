@@ -1,0 +1,229 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { dekada, ery, subzanry, tituly, typy } from '../../data';
+import type { Typ } from '../../data';
+
+const abecedne = [...tituly].sort((a, b) => a.nazev.localeCompare(b.nazev, 'cs'));
+const pismena = [...new Set(abecedne.map((t) => t.nazev.charAt(0).toUpperCase()))];
+const dekady = [...new Set(tituly.map(dekada))].sort((a, b) => a - b);
+const pocet = (fn: (t: (typeof tituly)[number]) => boolean) => tituly.filter(fn).length;
+---
+
+<Layout title="Tituly" description="Katalog sci-fi filmů a seriálů. Filtrujte podle typu, subžánru, dekády nebo éry.">
+  <div class="wrap page-head">
+    <p class="hud">◉ Databáze lodního počítače</p>
+    <h1>Tituly</h1>
+    <p>{tituly.length} sci-fi filmů, seriálů a animací. Hledejte a filtrujte.</p>
+  </div>
+
+  <div class="wrap">
+    <div class="filters panel">
+      <div class="row">
+        <input id="f-q" type="search" placeholder="🔍 Hledat název nebo tvůrce…" aria-label="Hledat" />
+        <select id="f-typ" aria-label="Typ">
+          <option value="">Všechny typy</option>
+          {
+            (Object.keys(typy) as Typ[])
+              .filter((k) => pocet((t) => t.typ === k))
+              .map((k) => (
+                <option value={k}>
+                  {typy[k].mnozne} ({pocet((t) => t.typ === k)})
+                </option>
+              ))
+          }
+        </select>
+        <select id="f-sub" aria-label="Subžánr">
+          <option value="">Všechny subžánry</option>
+          {subzanry.map((s) => <option value={s.slug}>{s.nazev} ({pocet((t) => t.subzanry.includes(s.slug))})</option>)}
+        </select>
+        <select id="f-dekada" aria-label="Dekáda">
+          <option value="">Všechny dekády</option>
+          {dekady.map((d) => <option value={d}>{d}. léta</option>)}
+        </select>
+        <select id="f-razeni" aria-label="Řazení">
+          <option value="rok">Řadit: podle roku</option>
+          <option value="az">Řadit: A–Z</option>
+        </select>
+      </div>
+      <div class="chips toggles">
+        <button class="chip" data-flag="must" aria-pressed="false">⭐ Musíte vidět</button>
+        <button class="chip" data-flag="cz" aria-pressed="false">CZ / SK</button>
+        <button class="chip" data-flag="deti" aria-pressed="false">🧸 Pro děti</button>
+        <select id="f-era" class="chip era-sel" aria-label="Éra">
+          <option value="">🕰 Všechny éry</option>
+          {ery.map((e) => <option value={e.slug}>{e.nazev} ({e.roky})</option>)}
+        </select>
+      </div>
+      <div class="chips abc" role="group" aria-label="Počáteční písmeno">
+        <button class="chip on" data-pismeno="">Vše</button>
+        {pismena.map((p) => <button class="chip" data-pismeno={p}>{p}</button>)}
+      </div>
+    </div>
+
+    <p class="count"><span id="count">{tituly.length}</span> titulů</p>
+
+    <div class="grid" id="grid">
+      {abecedne.map((t) => <TitleCard titul={t} />)}
+    </div>
+    <p id="empty" class="empty" hidden>🛸 Na téhle frekvenci nic nevysílá. Zkuste uvolnit filtry.</p>
+  </div>
+</Layout>
+
+<script>
+  const grid = document.getElementById('grid')!;
+  const cards = [...grid.querySelectorAll<HTMLAnchorElement>('.card')];
+  const byYear = [...cards].sort((a, b) => {
+    const ya = Number(a.querySelector('.rok')?.textContent);
+    const yb = Number(b.querySelector('.rok')?.textContent);
+    return ya - yb;
+  });
+  const byAz = [...cards];
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+  const q = $<HTMLInputElement>('f-q');
+  const typ = $<HTMLSelectElement>('f-typ');
+  const sub = $<HTMLSelectElement>('f-sub');
+  const dek = $<HTMLSelectElement>('f-dekada');
+  const era = $<HTMLSelectElement>('f-era');
+  const razeni = $<HTMLSelectElement>('f-razeni');
+  const flags = [...document.querySelectorAll<HTMLButtonElement>('[data-flag]')];
+  const abc = [...document.querySelectorAll<HTMLButtonElement>('[data-pismeno]')];
+  let pismeno = '';
+
+  const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+  // Výchozí stav z URL (?must=1, ?era=vhs, ?sub=kyberpunk …)
+  const params = new URLSearchParams(location.search);
+  if (params.get('era')) era.value = params.get('era')!;
+  if (params.get('sub')) sub.value = params.get('sub')!;
+  if (params.get('typ')) typ.value = params.get('typ')!;
+  razeni.value = params.get('razeni') ?? 'rok';
+  flags.forEach((f) => f.setAttribute('aria-pressed', String(params.get(f.dataset.flag!) === '1')));
+
+  function apply() {
+    const v = norm(q.value.trim());
+    const on = flags.filter((f) => f.getAttribute('aria-pressed') === 'true').map((f) => f.dataset.flag!);
+    (razeni.value === 'az' ? byAz : byYear).forEach((c) => grid.appendChild(c));
+    let n = 0;
+    for (const c of cards) {
+      const d = c.dataset;
+      const ok =
+        (!v || norm(d.nazev!).includes(v)) &&
+        (!typ.value || d.typ === typ.value) &&
+        (!sub.value || d.sub!.split(' ').includes(sub.value)) &&
+        (!dek.value || d.dekada === dek.value) &&
+        (!era.value || d.era === era.value) &&
+        (!pismeno || d.pismeno === pismeno) &&
+        on.every((f) => d[f] === '1');
+      c.hidden = !ok;
+      if (ok) n++;
+    }
+    $('count').textContent = String(n);
+    $('empty').hidden = n > 0;
+
+    const u = new URLSearchParams();
+    if (era.value) u.set('era', era.value);
+    if (sub.value) u.set('sub', sub.value);
+    if (typ.value) u.set('typ', typ.value);
+    if (razeni.value !== 'rok') u.set('razeni', razeni.value);
+    on.forEach((f) => u.set(f, '1'));
+    history.replaceState(null, '', u.size ? `?${u}` : location.pathname);
+  }
+
+  [q, typ, sub, dek, era, razeni].forEach((el) => el.addEventListener('input', apply));
+  flags.forEach((f) =>
+    f.addEventListener('click', () => {
+      f.setAttribute('aria-pressed', String(f.getAttribute('aria-pressed') !== 'true'));
+      apply();
+    }),
+  );
+  abc.forEach((b) =>
+    b.addEventListener('click', () => {
+      pismeno = b.dataset.pismeno!;
+      abc.forEach((x) => x.classList.toggle('on', x === b));
+      apply();
+    }),
+  );
+  apply();
+</script>
+
+<style>
+  .filters {
+    padding: 16px;
+    display: grid;
+    gap: 14px;
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: 2fr repeat(4, 1fr);
+    gap: 10px;
+  }
+
+  input,
+  select {
+    width: 100%;
+    padding: 11px 14px;
+    border-radius: 10px;
+    border: 1px solid var(--line-strong);
+    background: rgba(0, 0, 0, 0.35);
+    color: var(--text);
+    font: inherit;
+    font-size: 14px;
+  }
+
+  select option {
+    background: var(--panel-solid);
+  }
+
+  input:focus,
+  select:focus {
+    outline: none;
+    border-color: var(--cyan);
+  }
+
+  .era-sel {
+    width: auto;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .abc .chip {
+    min-width: 34px;
+    justify-content: center;
+    padding: 5px 9px;
+  }
+
+  .count {
+    margin: 22px 0 16px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .count span {
+    font-family: var(--font-hud);
+    color: var(--cyan);
+  }
+
+  .empty {
+    padding: 60px 0;
+    text-align: center;
+    color: var(--muted);
+    font-size: 18px;
+  }
+
+  .grid :global(.card[hidden]) {
+    display: none;
+  }
+
+  @media (max-width: 900px) {
+    .row {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .row input {
+      grid-column: 1 / -1;
+    }
+  }
+</style>

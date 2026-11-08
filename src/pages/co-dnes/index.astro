@@ -1,0 +1,320 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TitleCard from '../../components/TitleCard.astro';
+import { nalady, tituly } from '../../data';
+import type { Nalada } from '../../data';
+
+const klice = Object.keys(nalady) as Nalada[];
+---
+
+<Layout title="Co dnes pustit?" description="Hyperprostorový generátor: vyberte náladu a nechte vesmír rozhodnout, jaké sci-fi si dnes pustíte.">
+  <div class="wrap page-head center">
+    <p class="hud magenta">🎲 Hyperprostorový generátor</p>
+    <h1>Co dnes <span class="grad">pustit?</span></h1>
+    <p>Vyberte náladu, nastavte souřadnice a skočte do hyperprostoru.</p>
+  </div>
+
+  <div class="wrap console panel">
+    <p class="hud">1 · Nálada</p>
+    <div class="moods">
+      {
+        klice.map((k) => (
+          <button class="mood" data-nalada={k} aria-pressed="false">
+            <span class="ik">{nalady[k].ikona}</span>
+            <b>{nalady[k].nazev}</b>
+            <small>{nalady[k].popis}</small>
+          </button>
+        ))
+      }
+    </div>
+
+    <p class="hud">2 · Souřadnice</p>
+    <div class="chips">
+      <button class="chip on" data-typ="">Cokoli</button>
+      <button class="chip" data-typ="film">Jen film</button>
+      <button class="chip" data-typ="serie">Seriál na víkend</button>
+      <button class="chip" data-flag="deti" aria-pressed="false">🧸 S dětmi</button>
+      <button class="chip" data-flag="must" aria-pressed="false">⭐ Jen klasiky</button>
+      <button class="chip" data-flag="cz" aria-pressed="false">Domácí</button>
+    </div>
+
+    <button id="go" class="btn primary go">🚀 Skočit do hyperprostoru</button>
+  </div>
+
+  <div class="wrap result" id="result" aria-live="polite"></div>
+
+  <div id="warp" class="warp" hidden aria-hidden="true">
+    {Array.from({ length: 60 }, (_, i) => <i style={`--a:${(i * 137.5) % 360}deg;--d:${(i % 7) * 0.08}s`} />)}
+  </div>
+
+  <div hidden id="pool">
+    {
+      tituly.map((t) => (
+        <div
+          class="pick"
+          data-nalady={t.nalady.join(' ')}
+          data-typ={t.typ === 'film' ? 'film' : t.typ === 'animace' && t.rokDo === undefined ? 'film' : 'serie'}
+          data-deti={t.deti ? '1' : ''}
+          data-must={t.mustSee ? '1' : ''}
+          data-cz={/Česk|Slovensk/.test(t.zeme) ? '1' : ''}
+        >
+          <div class="pick-card">
+            <TitleCard titul={t} />
+          </div>
+          <div class="pick-txt">
+            <p class="hud">◉ Cíl zaměřen</p>
+            <h2>{t.nazev}</h2>
+            <p class="perex">{t.perex}</p>
+            <p class="proc">▶ {t.proc}</p>
+            <div class="cta">
+              <a class="btn primary" href={`/tituly/${t.slug}/`}>
+                Detail titulu →
+              </a>
+              <button class="btn again">🎲 Další tip</button>
+            </div>
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</Layout>
+
+<script>
+  const moods = [...document.querySelectorAll<HTMLButtonElement>('.mood')];
+  const typBtns = [...document.querySelectorAll<HTMLButtonElement>('[data-typ]')].filter((b) => b.tagName === 'BUTTON');
+  const flags = [...document.querySelectorAll<HTMLButtonElement>('[data-flag]')];
+  const pool = [...document.querySelectorAll<HTMLElement>('#pool .pick')];
+  const result = document.getElementById('result')!;
+  const warp = document.getElementById('warp')!;
+  let typ = '';
+  let posledni: HTMLElement | null = null;
+
+  const params = new URLSearchParams(location.search);
+  moods.forEach((m) => m.setAttribute('aria-pressed', String(m.dataset.nalada === params.get('nalada'))));
+  flags.forEach((f) => f.setAttribute('aria-pressed', String(params.get(f.dataset.flag!) === '1')));
+
+  moods.forEach((m) =>
+    m.addEventListener('click', () => m.setAttribute('aria-pressed', String(m.getAttribute('aria-pressed') !== 'true'))),
+  );
+  flags.forEach((f) =>
+    f.addEventListener('click', () => f.setAttribute('aria-pressed', String(f.getAttribute('aria-pressed') !== 'true'))),
+  );
+  typBtns.forEach((b) =>
+    b.addEventListener('click', () => {
+      typ = b.dataset.typ!;
+      typBtns.forEach((x) => x.classList.toggle('on', x === b));
+    }),
+  );
+
+  function vyber() {
+    const chci = moods.filter((m) => m.getAttribute('aria-pressed') === 'true').map((m) => m.dataset.nalada!);
+    const on = flags.filter((f) => f.getAttribute('aria-pressed') === 'true').map((f) => f.dataset.flag!);
+    let kandidati = pool.filter(
+      (p) =>
+        (!typ || p.dataset.typ === typ) &&
+        on.every((f) => p.dataset[f] === '1') &&
+        (!chci.length || chci.some((n) => p.dataset.nalady!.split(' ').includes(n))),
+    );
+    if (kandidati.length > 1 && posledni) kandidati = kandidati.filter((k) => k !== posledni);
+    return kandidati[Math.floor(Math.random() * kandidati.length)];
+  }
+
+  function skok() {
+    const pick = vyber();
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    warp.hidden = reduce;
+    setTimeout(
+      () => {
+        warp.hidden = true;
+        if (!pick) {
+          result.innerHTML = '<p class="nic">🛸 V tomhle sektoru nic není. Zkuste ubrat filtry.</p>';
+          return;
+        }
+        posledni = pick;
+        result.replaceChildren(pick.cloneNode(true));
+        result.querySelector('.again')?.addEventListener('click', skok);
+        result.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      },
+      reduce ? 0 : 1100,
+    );
+  }
+
+  document.getElementById('go')!.addEventListener('click', skok);
+</script>
+
+<style>
+  .center {
+    text-align: center;
+  }
+
+  .center p {
+    margin-inline: auto;
+  }
+
+  .console {
+    padding: 28px;
+    display: grid;
+    gap: 16px;
+    max-width: 920px;
+  }
+
+  .moods {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+
+  .mood {
+    display: grid;
+    gap: 2px;
+    justify-items: start;
+    text-align: left;
+    padding: 14px 16px;
+    border-radius: 12px;
+    border: 1px solid var(--line);
+    background: rgba(255, 255, 255, 0.03);
+    color: var(--text);
+    font: inherit;
+    cursor: pointer;
+    transition:
+      border-color 0.2s,
+      background 0.2s,
+      transform 0.15s;
+  }
+
+  .mood:hover {
+    border-color: var(--cyan);
+    transform: translateY(-2px);
+  }
+
+  .mood[aria-pressed='true'] {
+    border-color: var(--magenta);
+    background: rgba(255, 79, 216, 0.14);
+    box-shadow: var(--glow-magenta);
+  }
+
+  .ik {
+    font-size: 26px;
+  }
+
+  .mood small {
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  .go {
+    justify-self: center;
+    margin-top: 14px;
+    font-size: 17px;
+    padding: 16px 30px;
+  }
+
+  .result {
+    max-width: 920px;
+    margin-top: 32px;
+  }
+
+  .result :global(.pick) {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 32px;
+    align-items: center;
+    animation: arrive 0.6s cubic-bezier(0.2, 1.4, 0.4, 1);
+  }
+
+  .result :global(.pick-card .meta) {
+    display: none;
+  }
+
+  .result :global(.pick-txt) {
+    display: grid;
+    gap: 12px;
+  }
+
+  .result :global(.pick-txt h2) {
+    font-size: clamp(28px, 4vw, 44px);
+  }
+
+  .result :global(.perex) {
+    font-size: 18px;
+    color: #cfd4f2;
+  }
+
+  .result :global(.proc) {
+    color: var(--magenta);
+    font-weight: 500;
+  }
+
+  .result :global(.cta) {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 6px;
+  }
+
+  .result :global(.nic) {
+    text-align: center;
+    color: var(--muted);
+    font-size: 18px;
+  }
+
+  @keyframes arrive {
+    from {
+      opacity: 0;
+      transform: scale(0.85) translateY(30px);
+      filter: blur(8px);
+    }
+  }
+
+  .warp {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    background: radial-gradient(circle, rgba(10, 6, 30, 0.6), rgba(0, 0, 0, 0.95));
+    overflow: hidden;
+  }
+
+  .warp i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 2px;
+    height: 0;
+    background: linear-gradient(transparent, #fff, var(--cyan));
+    transform-origin: top center;
+    transform: rotate(var(--a)) translateY(20px);
+    animation: streak 1.1s cubic-bezier(0.6, 0, 1, 1) var(--d) forwards;
+  }
+
+  .warp i:nth-child(3n) {
+    background: linear-gradient(transparent, #fff, var(--magenta));
+  }
+
+  @keyframes streak {
+    to {
+      height: 60vmax;
+      transform: rotate(var(--a)) translateY(40vmax);
+      opacity: 0.2;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .moods {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .console {
+      padding: 18px;
+    }
+
+    .result :global(.pick) {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    .result :global(.pick-card) {
+      width: 180px;
+    }
+  }
+</style>
