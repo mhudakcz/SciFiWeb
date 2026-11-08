@@ -57,6 +57,17 @@ export const fransizy: Fransiza[] = [
     hue: 320,
   },
   {
+    slug: 'mad-max',
+    nazev: 'Šílený Max',
+    od: 1979,
+    kratce: 'Pustina, benzín, válečné tahače a muž, který jen chce přežít.',
+    popis: [
+      'George Miller natočil první Šílený Max v Austrálii za pár set tisíc dolarů a odstartoval jednu z nejvlivnějších akčních sérií. Z policejního thrilleru v rozpadající se společnosti se ve dvojce stala definitivní podoba postapokalyptické pustiny, kterou dodnes kopírují filmy, hry i komiksy.',
+      'Po třiceti letech se Miller vrátil se Zběsilou cestou a znovu předefinoval akční kino. Prequel Furiosa pak rozvinul příběh imperátorky, která Maxovi ukradla show.',
+    ],
+    hue: 25,
+  },
+  {
     slug: 'duna',
     nazev: 'Duna',
     od: 1984,

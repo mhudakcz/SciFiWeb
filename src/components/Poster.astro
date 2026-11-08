@@ -38,7 +38,7 @@ const svetla2 = `hsl(${hue2} 100% 70%)`;
 ---
 
 <div class:list={['poster', { velky, foto: !!foto, 'na-sirku': naSirku }]} style={`--h:${hue};--h2:${hue2}`}>
-  <svg viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  {!foto && (<svg viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
     <defs>
       <linearGradient id={`${id}-bg`} x1="0" y1="0" x2="0.3" y2="1">
         <stop offset="0" stop-color={`hsl(${hue} 70% 9%)`}></stop>
@@ -203,7 +203,7 @@ const svetla2 = `hsl(${hue2} 100% 70%)`;
         </g>
       )
     }
-  </svg>
+  </svg>)}
   {naSirku && <img class="blur" src={foto} alt="" aria-hidden="true" loading="lazy" decoding="async" />}
   {foto && <img src={foto} alt={`Plakát: ${titul.nazev}`} loading="lazy" decoding="async" width="500" height="750" />}
   <span class="badge">{typy[titul.typ].zkratka}</span>

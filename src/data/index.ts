@@ -2,6 +2,10 @@ import { filmy } from './filmy';
 import { serialy } from './serialy';
 import { rodinneACeske } from './rodinne-a-ceske';
 import { dalsi } from './dalsi';
+import { vlna2Klasiky } from './vlna2-klasiky';
+import { vlna2Osmdesatky } from './vlna2-osmdesatky';
+import { vlna2Moderni } from './vlna2-moderni';
+import { vlna2Serialy } from './vlna2-serialy';
 import { subzanry, subzanrBySlug } from './subzanry';
 import { fransizy, fransizaBySlug } from './fransizy';
 import type { Nalada, Titul, Typ } from './types';
@@ -9,7 +13,16 @@ import type { Nalada, Titul, Typ } from './types';
 export { subzanry, subzanrBySlug, fransizy, fransizaBySlug };
 export type * from './types';
 
-export const tituly: Titul[] = [...filmy, ...serialy, ...rodinneACeske, ...dalsi].sort(
+export const tituly: Titul[] = [
+  ...filmy,
+  ...serialy,
+  ...rodinneACeske,
+  ...dalsi,
+  ...vlna2Klasiky,
+  ...vlna2Osmdesatky,
+  ...vlna2Moderni,
+  ...vlna2Serialy,
+].sort(
   (a, b) => a.rok - b.rok || a.nazev.localeCompare(b.nazev, 'cs'),
 );
 

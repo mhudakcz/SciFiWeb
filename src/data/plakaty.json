@@ -573,5 +573,557 @@
     "zdroj": "tmdb:tv/3137",
     "nazev": "Babylon 5",
     "podle": "{\"tmdb\":\"tv/3137\",\"wiki\":\"en:Babylon 5 season 1\"}"
+  },
+  "cesta-na-mesic": {
+    "soubor": "/plakaty/cesta-na-mesic.jpg",
+    "zdroj": "tmdb:movie/775",
+    "nazev": "Cesta na Měsíc"
+  },
+  "valka-svetu-1953": {
+    "soubor": "/plakaty/valka-svetu-1953.jpg",
+    "zdroj": "tmdb:movie/8974",
+    "nazev": "Válka světů"
+  },
+  "godzilla-1954": {
+    "soubor": "/plakaty/godzilla-1954.jpg",
+    "zdroj": "tmdb:movie/1678",
+    "nazev": "Godzilla"
+  },
+  "ono": {
+    "soubor": "/plakaty/ono.jpg",
+    "zdroj": "tmdb:movie/11071",
+    "nazev": "Them!"
+  },
+  "invaze-lupicu-tel": {
+    "soubor": "/plakaty/invaze-lupicu-tel.jpg",
+    "zdroj": "tmdb:movie/11549",
+    "nazev": "Invaze lupičů těl"
+  },
+  "neuveritelny-zmensujici-se-muz": {
+    "soubor": "/plakaty/neuveritelny-zmensujici-se-muz.jpg",
+    "zdroj": "tmdb:movie/31682",
+    "nazev": "Neuvěřitelný zmenšující se muž"
+  },
+  "ztraceni-ve-vesmiru": {
+    "soubor": "/plakaty/ztraceni-ve-vesmiru.jpg",
+    "zdroj": "tmdb:tv/3051",
+    "nazev": "Lost in Space"
+  },
+  "barbarella": {
+    "soubor": "/plakaty/barbarella.jpg",
+    "zdroj": "tmdb:movie/8069",
+    "nazev": "Barbarella"
+  },
+  "na-komete": {
+    "soubor": "/plakaty/na-komete.jpg",
+    "zdroj": "tmdb:movie/60948",
+    "nazev": "Na kometě"
+  },
+  "kmen-andromeda": {
+    "soubor": "/plakaty/kmen-andromeda.jpg",
+    "zdroj": "tmdb:movie/10514",
+    "nazev": "Kmen Andromeda"
+  },
+  "mechanicky-pomeranc": {
+    "soubor": "/plakaty/mechanicky-pomeranc.jpg",
+    "zdroj": "tmdb:movie/185",
+    "nazev": "Mechanický pomeranč"
+  },
+  "tichy-beh": {
+    "soubor": "/plakaty/tichy-beh.jpg",
+    "zdroj": "tmdb:movie/811",
+    "nazev": "Tichý běh"
+  },
+  "akce-bororo": {
+    "soubor": "/plakaty/akce-bororo.jpg",
+    "zdroj": "tmdb:movie/47323",
+    "nazev": "Akce Bororo"
+  },
+  "divoka-planeta": {
+    "soubor": "/plakaty/divoka-planeta.jpg",
+    "zdroj": "tmdb:movie/16306",
+    "nazev": "Divoká planeta"
+  },
+  "soylent-green": {
+    "soubor": "/plakaty/soylent-green.jpg",
+    "zdroj": "tmdb:movie/12101",
+    "nazev": "Soylent Green"
+  },
+  "westworld-1973": {
+    "soubor": "/plakaty/westworld-1973.jpg",
+    "zdroj": "tmdb:movie/2362",
+    "nazev": "Westworld"
+  },
+  "temna-hvezda": {
+    "soubor": "/plakaty/temna-hvezda.jpg",
+    "zdroj": "tmdb:movie/1410",
+    "nazev": "Temná Hvězda"
+  },
+  "space-1999": {
+    "soubor": "/plakaty/space-1999.jpg",
+    "zdroj": "tmdb:tv/134",
+    "nazev": "Space: 1999"
+  },
+  "muz-ktery-spadl-na-zemi": {
+    "soubor": "/plakaty/muz-ktery-spadl-na-zemi.jpg",
+    "zdroj": "tmdb:movie/991",
+    "nazev": "Muž, který spadl na Zemi"
+  },
+  "mobile-suit-gundam": {
+    "soubor": "/plakaty/mobile-suit-gundam.jpg",
+    "zdroj": "tmdb:tv/21731",
+    "nazev": "機動戦士ガンダム"
+  },
+  "stalker": {
+    "soubor": "/plakaty/stalker.jpg",
+    "zdroj": "tmdb:movie/1398",
+    "nazev": "Stalker"
+  },
+  "sileny-max": {
+    "soubor": "/plakaty/sileny-max.jpg",
+    "zdroj": "tmdb:movie/9659",
+    "nazev": "Šílený Max"
+  },
+  "flash-gordon": {
+    "soubor": "/plakaty/flash-gordon.jpg",
+    "zdroj": "tmdb:movie/3604",
+    "nazev": "Flash Gordon"
+  },
+  "sileny-max-2": {
+    "soubor": "/plakaty/sileny-max-2.jpg",
+    "zdroj": "tmdb:movie/8810",
+    "nazev": "Šílený Max 2: Bojovník silnic"
+  },
+  "tajemstvi-hradu-v-karpatech": {
+    "soubor": "/plakaty/tajemstvi-hradu-v-karpatech.jpg",
+    "zdroj": "tmdb:movie/54755",
+    "nazev": "Tajemství hradu v Karpatech"
+  },
+  "utek-z-new-yorku": {
+    "soubor": "/plakaty/utek-z-new-yorku.jpg",
+    "zdroj": "tmdb:movie/1103",
+    "nazev": "Útěk z New Yorku"
+  },
+  "knight-rider": {
+    "soubor": "/plakaty/knight-rider.jpg",
+    "zdroj": "tmdb:tv/2384",
+    "nazev": "Knight Rider"
+  },
+  "tron": {
+    "soubor": "/plakaty/tron.jpg",
+    "zdroj": "tmdb:movie/97",
+    "nazev": "Tron"
+  },
+  "videodrome": {
+    "soubor": "/plakaty/videodrome.jpg",
+    "zdroj": "tmdb:movie/837",
+    "nazev": "Videodrome"
+  },
+  "duna-1984": {
+    "soubor": "/plakaty/duna-1984.jpg",
+    "zdroj": "tmdb:movie/841",
+    "nazev": "Duna"
+  },
+  "explorers": {
+    "soubor": "/plakaty/explorers.jpg",
+    "zdroj": "tmdb:movie/9872",
+    "nazev": "Explorers"
+  },
+  "moucha": {
+    "soubor": "/plakaty/moucha.jpg",
+    "zdroj": "tmdb:movie/9426",
+    "nazev": "Moucha"
+  },
+  "milacku-zmensil-jsem-deti": {
+    "soubor": "/plakaty/milacku-zmensil-jsem-deti.jpg",
+    "zdroj": "tmdb:movie/9354",
+    "nazev": "Miláčku, zmenšil jsem děti"
+  },
+  "navrat-do-budoucnosti-ii": {
+    "soubor": "/plakaty/navrat-do-budoucnosti-ii.jpg",
+    "zdroj": "tmdb:movie/165",
+    "nazev": "Návrat do budoucnosti II"
+  },
+  "propast": {
+    "soubor": "/plakaty/propast.jpg",
+    "zdroj": "tmdb:movie/2756",
+    "nazev": "Propast"
+  },
+  "demolition-man": {
+    "soubor": "/plakaty/demolition-man.jpg",
+    "zdroj": "tmdb:movie/9739",
+    "nazev": "Demolition Man"
+  },
+  "hvezdna-brana-film": {
+    "soubor": "/plakaty/hvezdna-brana-film.jpg",
+    "zdroj": "tmdb:movie/2164",
+    "nazev": "Hvězdná brána"
+  },
+  "12-opic": {
+    "soubor": "/plakaty/12-opic.jpg",
+    "zdroj": "tmdb:movie/63",
+    "nazev": "12 opic"
+  },
+  "zvlastni-dny": {
+    "soubor": "/plakaty/zvlastni-dny.jpg",
+    "zdroj": "tmdb:movie/281",
+    "nazev": "Zvláštní dny"
+  },
+  "mars-utoci": {
+    "soubor": "/plakaty/mars-utoci.jpg",
+    "zdroj": "tmdb:movie/75",
+    "nazev": "Mars útočí!"
+  },
+  "star-trek-prvni-kontakt": {
+    "soubor": "/plakaty/star-trek-prvni-kontakt.jpg",
+    "zdroj": "tmdb:movie/199",
+    "nazev": "Star Trek: První kontakt"
+  },
+  "horizont-udalosti": {
+    "soubor": "/plakaty/horizont-udalosti.jpg",
+    "zdroj": "tmdb:movie/8413",
+    "nazev": "Horizont události"
+  },
+  "kontakt": {
+    "soubor": "/plakaty/kontakt.jpg",
+    "zdroj": "tmdb:movie/686",
+    "nazev": "Kontakt"
+  },
+  "existenz": {
+    "soubor": "/plakaty/existenz.jpg",
+    "zdroj": "tmdb:movie/1946",
+    "nazev": "eXistenZ"
+  },
+  "farscape": {
+    "soubor": "/plakaty/farscape.jpg",
+    "zdroj": "tmdb:tv/4271",
+    "nazev": "Farscape"
+  },
+  "galaxy-quest": {
+    "soubor": "/plakaty/galaxy-quest.jpg",
+    "zdroj": "tmdb:movie/926",
+    "nazev": "Galaxy Quest"
+  },
+  "a-i-umela-inteligence": {
+    "soubor": "/plakaty/a-i-umela-inteligence.jpg",
+    "zdroj": "tmdb:movie/644",
+    "nazev": "A.I.: Umělá inteligence"
+  },
+  "donnie-darko": {
+    "soubor": "/plakaty/donnie-darko.jpg",
+    "zdroj": "tmdb:movie/141",
+    "nazev": "Donnie Darko"
+  },
+  "equilibrium": {
+    "soubor": "/plakaty/equilibrium.jpg",
+    "zdroj": "tmdb:movie/7299",
+    "nazev": "Equilibrium"
+  },
+  "ghost-in-the-shell-stand-alone-complex": {
+    "soubor": "/plakaty/ghost-in-the-shell-stand-alone-complex.jpg",
+    "zdroj": "tmdb:tv/1095",
+    "nazev": "Ghost in the Shell: Stand Alone Complex"
+  },
+  "planetes": {
+    "soubor": "/plakaty/planetes.jpg",
+    "zdroj": "tmdb:tv/34102",
+    "nazev": "プラネテス"
+  },
+  "lost": {
+    "soubor": "/plakaty/lost.jpg",
+    "zdroj": "tmdb:tv/4607",
+    "nazev": "Ztraceni"
+  },
+  "serenity": {
+    "soubor": "/plakaty/serenity.jpg",
+    "zdroj": "tmdb:movie/16320",
+    "nazev": "Serenity"
+  },
+  "stoparuv-pruvodce-po-galaxii": {
+    "soubor": "/plakaty/stoparuv-pruvodce-po-galaxii.jpg",
+    "zdroj": "tmdb:movie/7453",
+    "nazev": "Stopařův průvodce po galaxii"
+  },
+  "v-jako-vendeta": {
+    "soubor": "/plakaty/v-jako-vendeta.jpg",
+    "zdroj": "tmdb:movie/752",
+    "nazev": "V jako Vendeta"
+  },
+  "valka-svetu-2005": {
+    "soubor": "/plakaty/valka-svetu-2005.jpg",
+    "zdroj": "tmdb:movie/74",
+    "nazev": "Válka světů"
+  },
+  "robinsonovi": {
+    "soubor": "/plakaty/robinsonovi.jpg",
+    "zdroj": "tmdb:movie/1267",
+    "nazev": "Robinsonovi"
+  },
+  "sunshine": {
+    "soubor": "/plakaty/sunshine.jpg",
+    "zdroj": "tmdb:movie/1272",
+    "nazev": "Sunshine"
+  },
+  "hranice-nemozneho": {
+    "soubor": "/plakaty/hranice-nemozneho.jpg",
+    "zdroj": "tmdb:tv/1705",
+    "nazev": "Hranice nemožného"
+  },
+  "monstra-vs-vetrelci": {
+    "soubor": "/plakaty/monstra-vs-vetrelci.jpg",
+    "zdroj": "tmdb:movie/15512",
+    "nazev": "Monstra vs. Vetřelci"
+  },
+  "star-trek-2009": {
+    "soubor": "/plakaty/star-trek-2009.jpg",
+    "zdroj": "tmdb:movie/13475",
+    "nazev": "Star Trek"
+  },
+  "zatazeno-obcas-trakare": {
+    "soubor": "/plakaty/zatazeno-obcas-trakare.jpg",
+    "zdroj": "tmdb:movie/22794",
+    "nazev": "Zataženo, občas trakaře"
+  },
+  "megamysl": {
+    "soubor": "/plakaty/megamysl.jpg",
+    "zdroj": "tmdb:movie/38055",
+    "nazev": "Megamysl"
+  },
+  "pocatek": {
+    "soubor": "/plakaty/pocatek.jpg",
+    "zdroj": "tmdb:movie/27205",
+    "nazev": "Počátek"
+  },
+  "steins-gate": {
+    "soubor": "/plakaty/steins-gate.jpg",
+    "zdroj": "tmdb:tv/42509",
+    "nazev": "Steins;Gate"
+  },
+  "dredd": {
+    "soubor": "/plakaty/dredd.jpg",
+    "zdroj": "tmdb:movie/49049",
+    "nazev": "Dredd"
+  },
+  "looper": {
+    "soubor": "/plakaty/looper.jpg",
+    "zdroj": "tmdb:movie/59967",
+    "nazev": "Looper: Nájemný zabiják"
+  },
+  "prometheus": {
+    "soubor": "/plakaty/prometheus.jpg",
+    "zdroj": "tmdb:movie/70981",
+    "nazev": "Prometheus"
+  },
+  "psycho-pass": {
+    "soubor": "/plakaty/psycho-pass.jpg",
+    "zdroj": "tmdb:tv/43865",
+    "nazev": "Psycho-Pass"
+  },
+  "orphan-black": {
+    "soubor": "/plakaty/orphan-black.jpg",
+    "zdroj": "tmdb:tv/56296",
+    "nazev": "Orphan Black"
+  },
+  "pod-kuzi": {
+    "soubor": "/plakaty/pod-kuzi.jpg",
+    "zdroj": "tmdb:movie/97370",
+    "nazev": "Pod kůží"
+  },
+  "humans": {
+    "soubor": "/plakaty/humans.jpg",
+    "zdroj": "tmdb:tv/62822",
+    "nazev": "Lidé"
+  },
+  "sense8": {
+    "soubor": "/plakaty/sense8.jpg",
+    "zdroj": "tmdb:tv/61664",
+    "nazev": "Sense8"
+  },
+  "star-wars-sila-se-probouzi": {
+    "soubor": "/plakaty/star-wars-sila-se-probouzi.jpg",
+    "zdroj": "tmdb:movie/140607",
+    "nazev": "Star Wars: Síla se probouzí"
+  },
+  "rogue-one-star-wars-story": {
+    "soubor": "/plakaty/rogue-one-star-wars-story.jpg",
+    "zdroj": "tmdb:movie/330459",
+    "nazev": "Rogue One: Star Wars Story"
+  },
+  "star-trek-discovery": {
+    "soubor": "/plakaty/star-trek-discovery.jpg",
+    "zdroj": "tmdb:tv/67198",
+    "nazev": "Star Trek: Discovery"
+  },
+  "valerian-a-mesto-tisice-planet": {
+    "soubor": "/plakaty/valerian-a-mesto-tisice-planet.jpg",
+    "zdroj": "tmdb:movie/339964",
+    "nazev": "Valerian a město tisíce planet"
+  },
+  "altered-carbon": {
+    "soubor": "/plakaty/altered-carbon.jpg",
+    "zdroj": "tmdb:tv/68421",
+    "nazev": "Půjčovna masa"
+  },
+  "ready-player-one-hra-zacina": {
+    "soubor": "/plakaty/ready-player-one-hra-zacina.jpg",
+    "zdroj": "tmdb:movie/333339",
+    "nazev": "Ready Player One: Hra začíná"
+  },
+  "ad-astra": {
+    "soubor": "/plakaty/ad-astra.jpg",
+    "zdroj": "tmdb:movie/419704",
+    "nazev": "Ad Astra"
+  },
+  "raised-by-wolves": {
+    "soubor": "/plakaty/raised-by-wolves.jpg",
+    "zdroj": "tmdb:tv/85723",
+    "nazev": "Vychováni vlky"
+  },
+  "star-trek-picard": {
+    "soubor": "/plakaty/star-trek-picard.jpg",
+    "zdroj": "tmdb:tv/85949",
+    "nazev": "Star Trek: Picard"
+  },
+  "tenet": {
+    "soubor": "/plakaty/tenet.jpg",
+    "zdroj": "tmdb:movie/577922",
+    "nazev": "Tenet"
+  },
+  "arcane": {
+    "soubor": "/plakaty/arcane.jpg",
+    "zdroj": "tmdb:tv/94605",
+    "nazev": "Arcane"
+  },
+  "cyberpunk-edgerunners": {
+    "soubor": "/plakaty/cyberpunk-edgerunners.jpg",
+    "zdroj": "tmdb:tv/105248",
+    "nazev": "Cyberpunk: Edgerunners"
+  },
+  "pantheon": {
+    "soubor": "/plakaty/pantheon.jpg",
+    "zdroj": "tmdb:tv/195339",
+    "nazev": "Pantheon"
+  },
+  "scavengers-reign": {
+    "soubor": "/plakaty/scavengers-reign.jpg",
+    "zdroj": "tmdb:tv/204154",
+    "nazev": "Scavengers Reign"
+  },
+  "temna-hmota": {
+    "soubor": "/plakaty/temna-hmota.jpg",
+    "zdroj": "tmdb:tv/196322",
+    "nazev": "Temná hmota"
+  },
+  "vetrelec-romulus": {
+    "soubor": "/plakaty/vetrelec-romulus.jpg",
+    "zdroj": "tmdb:movie/945961",
+    "nazev": "Vetřelec: Romulus"
+  },
+  "elio": {
+    "soubor": "/plakaty/elio.jpg",
+    "zdroj": "tmdb:movie/1022787",
+    "nazev": "Elio"
+  },
+  "mickey-17": {
+    "soubor": "/plakaty/mickey-17.jpg",
+    "zdroj": "tmdb:movie/696506",
+    "nazev": "Mickey 17"
+  },
+  "murderbot": {
+    "soubor": "/plakaty/murderbot.jpg",
+    "zdroj": "tmdb:tv/241554",
+    "nazev": "Z deníků Robokata"
+  },
+  "vetrelec-zeme": {
+    "soubor": "/plakaty/vetrelec-zeme.jpg",
+    "zdroj": "tmdb:tv/157239",
+    "nazev": "Vetřelec: Země"
+  },
+  "svet-za-sto-let": {
+    "soubor": "/plakaty/svet-za-sto-let.jpg",
+    "zdroj": "tmdb:movie/3596",
+    "nazev": "Svět za sto let"
+  },
+  "451-stupnu-fahrenheita": {
+    "soubor": "/plakaty/451-stupnu-fahrenheita.jpg",
+    "zdroj": "tmdb:movie/1714",
+    "nazev": "451 stupňů Fahrenheita"
+  },
+  "loganuv-utek": {
+    "soubor": "/plakaty/loganuv-utek.jpg",
+    "zdroj": "tmdb:movie/10803",
+    "nazev": "Loganův útěk"
+  },
+  "posledni-hvezdny-bojovnik": {
+    "soubor": "/plakaty/posledni-hvezdny-bojovnik.jpg",
+    "zdroj": "tmdb:movie/11884",
+    "nazev": "Poslední hvězdný bojovník"
+  },
+  "cislo-5-zije": {
+    "soubor": "/plakaty/cislo-5-zije.jpg",
+    "zdroj": "tmdb:movie/2605",
+    "nazev": "Číslo 5 žije"
+  },
+  "valky-hvezd-naruby": {
+    "soubor": "/plakaty/valky-hvezd-naruby.jpg",
+    "zdroj": "tmdb:movie/957",
+    "nazev": "Války hvězd naruby"
+  },
+  "jsou-mezi-nami": {
+    "soubor": "/plakaty/jsou-mezi-nami.jpg",
+    "zdroj": "tmdb:movie/8337",
+    "nazev": "Jsou mezi námi"
+  },
+  "smrtihlav": {
+    "soubor": "/plakaty/smrtihlav.jpg",
+    "zdroj": "tmdb:movie/2666",
+    "nazev": "Smrtihlav"
+  },
+  "monstrum": {
+    "soubor": "/plakaty/monstrum.jpg",
+    "zdroj": "tmdb:movie/7191",
+    "nazev": "Monstrum"
+  },
+  "ledova-archa": {
+    "soubor": "/plakaty/ledova-archa.jpg",
+    "zdroj": "tmdb:movie/110415",
+    "nazev": "Ledová archa"
+  },
+  "rodina-na-baterky": {
+    "soubor": "/plakaty/rodina-na-baterky.jpg",
+    "zdroj": "tmdb:movie/501929",
+    "nazev": "Rodina na baterky"
+  },
+  "nene": {
+    "soubor": "/plakaty/nene.jpg",
+    "zdroj": "tmdb:movie/762504",
+    "nazev": "Nene"
+  },
+  "stvoritel": {
+    "soubor": "/plakaty/stvoritel.jpg",
+    "zdroj": "tmdb:movie/670292",
+    "nazev": "Stvořitel"
+  },
+  "furiosa": {
+    "soubor": "/plakaty/furiosa.jpg",
+    "zdroj": "tmdb:movie/786892",
+    "nazev": "Furiosa: Sága Šíleného Maxe"
+  },
+  "cesta-do-neznama": {
+    "soubor": "/plakaty/cesta-do-neznama.jpg",
+    "zdroj": "tmdb:tv/1649",
+    "nazev": "Cesta do neznáma"
+  },
+  "pane-vy-jste-vdova": {
+    "soubor": "/plakaty/pane-vy-jste-vdova.jpg",
+    "zdroj": "tmdb:movie/160170",
+    "nazev": "„Pane, vy jste vdova!“",
+    "podle": "{\"tmdb\":\"movie/160170\"}"
+  },
+  "chobotnice-z-ii-patra": {
+    "soubor": "/plakaty/chobotnice-z-ii-patra.jpg",
+    "zdroj": "tmdb:movie/573076",
+    "nazev": "Chobotnice z II. patra",
+    "podle": "{\"tmdb\":\"movie/573076\"}"
   }
 }

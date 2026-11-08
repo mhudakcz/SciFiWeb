@@ -541,6 +541,7 @@ export const filmy: Titul[] = [
     zeme: 'Austrálie / USA',
     tvurce: 'George Miller',
     delka: '120 min',
+    fransiza: 'mad-max',
     subzanry: ['postapo'],
     nalady: ['akce'],
     mustSee: true,
